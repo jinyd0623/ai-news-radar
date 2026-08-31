@@ -4983,13 +4983,21 @@ def add_bilingual_fields(
             out["title_en"] = provided_en
             out["title_zh"] = zh_title or None
             out["title_bilingual"] = f"{zh_title} / {provided_en}" if zh_title else provided_en
-            return out
+            if zh_title:
+                return out
+            # Some public feeds provide only an explicit English title.  Do
+            # not stop here: reuse the normal cache/translation path so the
+            # Chinese reader view does not permanently fall back to English.
+            title = provided_en
 
         if has_cjk(title):
             out["title_zh"] = title
             return out
 
-        if not is_mostly_english(title):
+        # Product and repository names can be too short for
+        # `is_mostly_english()` (for example, "AI Hug"), but they still need
+        # the bilingual fields when a Chinese cache entry is available.
+        if not is_mostly_english(title) and not re.search(r"[A-Za-z]", title):
             return out
 
         out["title_en"] = title
@@ -5014,8 +5022,13 @@ def add_bilingual_fields(
             budget = max_new_translations if is_ai_pool else max_new_translations_all
             translated_now = translated_now_ai if is_ai_pool else translated_now_all
             if translated_now < budget:
+                # Explicit source-provided English may be a complete social
+                # post rather than a short headline.  Keep refusal/CJK guards,
+                # but do not reject an otherwise valid Chinese translation
+                # merely because it exceeds the normal headline length band.
+                strict_translation = not bool(provided_en)
                 tr = translate_to_zh_deepseek(title)
-                if tr and is_valid_zh_translation(title, tr):
+                if tr and is_valid_zh_translation(title, tr, strict=strict_translation):
                     zh_title = repair_zh_title_translation(title, tr)
                     cache[ZH_CACHE_DS_PREFIX + title] = zh_title
                     if is_ai_pool:
@@ -5024,7 +5037,7 @@ def add_bilingual_fields(
                         translated_now_all += 1
                 else:
                     tr = translate_to_zh_cn(session, title)
-                    if tr and is_valid_zh_translation(title, tr):
+                    if tr and is_valid_zh_translation(title, tr, strict=strict_translation):
                         zh_title = repair_zh_title_translation(title, tr)
                         cache[title] = zh_title
                         if is_ai_pool:

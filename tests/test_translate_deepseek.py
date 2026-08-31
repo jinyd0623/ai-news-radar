@@ -92,6 +92,45 @@ class TestDeepSeekPriority(unittest.TestCase):
         session.get.assert_called_once()
         self.assertEqual(items[0]["title_zh"], GOOGLE_ZH)
 
+    def test_provided_english_title_without_chinese_is_translated(self):
+        session = google_session()
+        item = make_item()
+        item["provided_title_en"] = EN_TITLE
+        with patch.dict("os.environ", {}, clear=True), patch(
+            "scripts.update_news.requests.post"
+        ) as mock_post:
+            items, _, cache = add_bilingual_fields(
+                [item], [], session, {}, max_new_translations=10
+            )
+        mock_post.assert_not_called()
+        session.get.assert_called_once()
+        self.assertEqual(items[0]["title_en"], EN_TITLE)
+        self.assertEqual(items[0]["title_zh"], GOOGLE_ZH)
+        self.assertEqual(cache.get(EN_TITLE), GOOGLE_ZH)
+
+    def test_provided_long_english_title_accepts_long_chinese_translation(self):
+        long_zh = "这是来源明确提供的完整英文人物动态翻译，虽然长度超过普通新闻标题，但仍应作为中文主标题展示"
+        session = google_session(long_zh)
+        item = make_item()
+        item["provided_title_en"] = EN_TITLE
+        with patch.dict("os.environ", {}, clear=True):
+            items, _, _ = add_bilingual_fields(
+                [item], [], session, {}, max_new_translations=10
+            )
+        self.assertEqual(items[0]["title_zh"], long_zh)
+
+    def test_short_english_product_name_uses_chinese_cache(self):
+        title = "AI Hug"
+        cached_zh = "AI 拥抱工具"
+        session = google_session()
+        with patch.dict("os.environ", {}, clear=True):
+            items, _, _ = add_bilingual_fields(
+                [make_item(title)], [], session, {title: cached_zh}, max_new_translations=0
+            )
+        session.get.assert_not_called()
+        self.assertEqual(items[0]["title_en"], title)
+        self.assertEqual(items[0]["title_zh"], cached_zh)
+
 
 class TestTranslateToZhDeepseek(unittest.TestCase):
     def test_returns_none_without_key(self):
@@ -202,7 +241,9 @@ class TestGlossaryParsing(unittest.TestCase):
             "法学硕士（LLM） => LLM\n"
             "克劳德 => Claude @Claude\n"
         )
-        with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False) as f:
+        with tempfile.NamedTemporaryFile(
+            "w", suffix=".txt", delete=False, encoding="utf-8"
+        ) as f:
             f.write(content)
             path = f.name
         try:

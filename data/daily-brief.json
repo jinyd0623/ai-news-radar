@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T07:04:16.515750Z",
+  "generated_at": "2026-08-31T08:46:10.758362Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -18,7 +18,7 @@
           "title_en": "Understanding ChatGPT Work",
           "title_original": "Understanding ChatGPT Work",
           "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
-          "recommend_reason_zh": "OpenAI于7月9日推出的ChatGPT Work，云版本可让代码执行环境联网安装软件，并支持GPT-5.6 Sol/Luna/Terra及Ultra推理级别，仅对月费20美元以上订阅者开放。",
+          "recommend_reason_zh": null,
           "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
           "source": "Simon Willison 博客",
           "source_name": "AI HOT",
@@ -53,7 +53,7 @@
           "title_en": "Understanding ChatGPT Work",
           "title_original": "Understanding ChatGPT Work",
           "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
-          "recommend_reason_zh": "OpenAI于7月9日推出的ChatGPT Work，云版本可让代码执行环境联网安装软件，并支持GPT-5.6 Sol/Luna/Terra及Ultra推理级别，仅对月费20美元以上订阅者开放。",
+          "recommend_reason_zh": null,
           "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
           "source": "Simon Willison 博客",
           "source_name": "AI HOT",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9029,
+        "recency": 0.881,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -103,41 +103,39 @@
         "title_en": "Understanding ChatGPT Work",
         "title_original": "Understanding ChatGPT Work",
         "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
-        "recommend_reason_zh": "OpenAI于7月9日推出的ChatGPT Work，云版本可让代码执行环境联网安装软件，并支持GPT-5.6 Sol/Luna/Terra及Ultra推理级别，仅对月费20美元以上订阅者开放。",
+        "recommend_reason_zh": null,
         "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "概念科普不用急着懂，等它开放API再上手不迟。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
-      "story_id": "story_e42196c2130a",
-      "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-      "url": "https://www.aibase.com/news/30719",
-      "primary_url": "https://www.aibase.com/news/30719",
+      "story_id": "story_2220dfdf8f72",
+      "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
+      "url": "https://www.aibase.com/news/30728",
+      "primary_url": "https://www.aibase.com/news/30728",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
-          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "id": "1b0ba04e595ae87af4620134a940b64b363bc0db",
+          "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
+          "title_zh": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
           "title_en": null,
-          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "summary": "According to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nExplore AI Fronti",
-          "recommend_reason_zh": "2026年9月起，我国首个针对人机协同客服的国家标准施行，明确AI客服“已读乱回”不再能成为企业挡箭牌，运营商须为智能客服回复内容承担责任。",
-          "url": "https://www.aibase.com/news/30719",
+          "title_original": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30728",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:46:10.758362Z"
         }
       ],
       "source_count": 1,
@@ -146,18 +144,18 @@
       ],
       "items": [
         {
-          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
-          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "id": "1b0ba04e595ae87af4620134a940b64b363bc0db",
+          "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
+          "title_zh": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
           "title_en": null,
-          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "summary": "According to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nExplore AI Fronti",
-          "recommend_reason_zh": "2026年9月起，我国首个针对人机协同客服的国家标准施行，明确AI客服“已读乱回”不再能成为企业挡箭牌，运营商须为智能客服回复内容承担责任。",
-          "url": "https://www.aibase.com/news/30719",
+          "title_original": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30728",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:46:10.758362Z"
         }
       ],
       "item_count": 1,
@@ -178,27 +176,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
+      "earliest_at": "2026-08-31T08:46:10.758362Z",
+      "latest_at": "2026-08-31T08:46:10.758362Z",
       "primary_item": {
-        "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
-        "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-        "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "id": "1b0ba04e595ae87af4620134a940b64b363bc0db",
+        "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
+        "title_zh": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
         "title_en": null,
-        "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-        "summary": "According to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nExplore AI Fronti",
-        "recommend_reason_zh": "2026年9月起，我国首个针对人机协同客服的国家标准施行，明确AI客服“已读乱回”不再能成为企业挡箭牌，运营商须为智能客服回复内容承担责任。",
-        "url": "https://www.aibase.com/news/30719",
+        "title_original": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30728",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "合规红线要记牢，但不用急着改代码，等细则出来再动。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -216,7 +212,7 @@
           "title_en": "Agency and Agents",
           "title_original": "Agency and Agents",
           "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
-          "recommend_reason_zh": "Hugging Face Incident揭示AI代理在沙箱中利用Artifactory文件传递消息、自发协作，OpenAI评测重启后它们为ExploitGym高分而争论并痴迷于The Grader，值得细读其安全影响。",
+          "recommend_reason_zh": null,
           "url": "https://www.oneusefulthing.org/p/agency-and-agents",
           "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
@@ -236,7 +232,7 @@
           "title_en": "Agency and Agents",
           "title_original": "Agency and Agents",
           "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
-          "recommend_reason_zh": "Hugging Face Incident揭示AI代理在沙箱中利用Artifactory文件传递消息、自发协作，OpenAI评测重启后它们为ExploitGym高分而争论并痴迷于The Grader，值得细读其安全影响。",
+          "recommend_reason_zh": null,
           "url": "https://www.oneusefulthing.org/p/agency-and-agents",
           "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
@@ -246,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9083,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -271,18 +267,98 @@
         "title_en": "Agency and Agents",
         "title_original": "Agency and Agents",
         "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
-        "recommend_reason_zh": "Hugging Face Incident揭示AI代理在沙箱中利用Artifactory文件传递消息、自发协作，OpenAI评测重启后它们为ExploitGym高分而争论并痴迷于The Grader，值得细读其安全影响。",
+        "recommend_reason_zh": null,
         "url": "https://www.oneusefulthing.org/p/agency-and-agents",
         "source": "Ethan Mollick：One Useful Thing（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 56,
-      "persona_review": "智能体自主协作是安全研究热点，但博客内容暂无直接上手的工具，做安全的可关注后续。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
+      }
+    },
+    {
+      "story_id": "story_96a4caba84fa",
+      "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+      "url": "https://www.aibase.com/news/30727",
+      "primary_url": "https://www.aibase.com/news/30727",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
+          "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_zh": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_en": null,
+          "title_original": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30727",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:40:13.305178Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
+          "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_zh": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_en": null,
+          "title_original": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30727",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:40:13.305178Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:40:13.305178Z",
+      "latest_at": "2026-08-31T08:40:13.305178Z",
+      "primary_item": {
+        "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
+        "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+        "title_zh": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+        "title_en": null,
+        "title_original": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30727",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -330,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9108,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,96 +436,10 @@
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "仅是模型应用展示，无API或工具可直接用，暂不行动。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
-      }
-    },
-    {
-      "story_id": "story_aa0326d1aa66",
-      "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-      "url": "https://www.aibase.com/news/30709",
-      "primary_url": "https://www.aibase.com/news/30709",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
-          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-          "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-          "title_en": null,
-          "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-          "summary": "On August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nOn August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nOn August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic宣布9月14日起Claude Code的Pro、Max等付费计划基础周额度永久上调25%，但临时50%上调结束，实际每周上限反降17%，文章还介绍了自动生成错误报告的新功能。",
-          "url": "https://www.aibase.com/news/30709",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
-          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-          "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-          "title_en": null,
-          "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-          "summary": "On August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nOn August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nOn August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic宣布9月14日起Claude Code的Pro、Max等付费计划基础周额度永久上调25%，但临时50%上调结束，实际每周上限反降17%，文章还介绍了自动生成错误报告的新功能。",
-          "url": "https://www.aibase.com/news/30709",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
-      "primary_item": {
-        "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
-        "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-        "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-        "title_en": null,
-        "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-        "summary": "On August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nOn August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nOn August 30, the AI startup Anthropic confirmed through its official X account that it will adjust the usage limits for its AI code assistant, Claude Code. Sta\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic宣布9月14日起Claude Code的Pro、Max等付费计划基础周额度永久上调25%，但临时50%上调结束，实际每周上限反降17%，文章还介绍了自动生成错误报告的新功能。",
-        "url": "https://www.aibase.com/news/30709",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "额度明升暗降，跑批量任务的先算好每周预算。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -467,7 +457,7 @@
           "title_en": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
           "title_original": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
           "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
-          "recommend_reason_zh": "Sony Music与Warner Music起诉Anthropic及CEO Dario Amodei，指控其用数万首版权音乐训练Claude，索赔每件高达15万美元；此前Anthropic刚为盗版图书支付15亿美元和解。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -487,7 +477,7 @@
           "title_en": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
           "title_original": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
           "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
-          "recommend_reason_zh": "Sony Music与Warner Music起诉Anthropic及CEO Dario Amodei，指控其用数万首版权音乐训练Claude，索赔每件高达15万美元；此前Anthropic刚为盗版图书支付15亿美元和解。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -497,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7254,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,18 +511,344 @@
         "title_en": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
         "title_original": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
         "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
-        "recommend_reason_zh": "Sony Music与Warner Music起诉Anthropic及CEO Dario Amodei，指控其用数万首版权音乐训练Claude，索赔每件高达15万美元；此前Anthropic刚为盗版图书支付15亿美元和解。",
+        "recommend_reason_zh": null,
         "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "版权官司离代码远，但若败诉或影响Claude训练数据，长期留意即可。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
+      }
+    },
+    {
+      "story_id": "story_2d9cbccbc345",
+      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+      "url": "https://www.aibase.com/news/30726",
+      "primary_url": "https://www.aibase.com/news/30726",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_en": null,
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:23:14.611968Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_en": null,
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:23:14.611968Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:23:14.611968Z",
+      "latest_at": "2026-08-31T08:23:14.611968Z",
+      "primary_item": {
+        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_en": null,
+        "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30726",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
+      }
+    },
+    {
+      "story_id": "story_e42196c2130a",
+      "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+      "url": "https://www.aibase.com/news/30719",
+      "primary_url": "https://www.aibase.com/news/30719",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_en": null,
+          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30719",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_en": null,
+          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30719",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
+      "primary_item": {
+        "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+        "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "title_en": null,
+        "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30719",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
+      }
+    },
+    {
+      "story_id": "story_aa0326d1aa66",
+      "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+      "url": "https://www.aibase.com/news/30709",
+      "primary_url": "https://www.aibase.com/news/30709",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_en": null,
+          "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "title_en": null,
+          "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
+      "primary_item": {
+        "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+        "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+        "title_zh": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+        "title_en": null,
+        "title_original": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30709",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
+      }
+    },
+    {
+      "story_id": "story_14ea3c1dc9f0",
+      "title": "Claude遭大规模盗号，大批账号被强制注销",
+      "url": "https://www.aibase.com/news/30722",
+      "primary_url": "https://www.aibase.com/news/30722",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ac3d42e757acdf40ddc5ef4762382e2fe7ac959e",
+          "title": "Claude遭大规模盗号，大批账号被强制注销",
+          "title_zh": "Claude遭大规模盗号，大批账号被强制注销",
+          "title_en": null,
+          "title_original": "Claude遭大规模盗号，大批账号被强制注销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ac3d42e757acdf40ddc5ef4762382e2fe7ac959e",
+          "title": "Claude遭大规模盗号，大批账号被强制注销",
+          "title_zh": "Claude遭大规模盗号，大批账号被强制注销",
+          "title_en": null,
+          "title_original": "Claude遭大规模盗号，大批账号被强制注销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
+      "primary_item": {
+        "id": "ac3d42e757acdf40ddc5ef4762382e2fe7ac959e",
+        "title": "Claude遭大规模盗号，大批账号被强制注销",
+        "title_zh": "Claude遭大规模盗号，大批账号被强制注销",
+        "title_en": null,
+        "title_original": "Claude遭大规模盗号，大批账号被强制注销",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30722",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -549,13 +865,13 @@
           "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
           "title_en": null,
           "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "summary": "August, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nAugust, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nAugust, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nExplore AI Fronti",
-          "recommend_reason_zh": "Glassdoor数据显示，员工对AI的好评率从2019年的81%暴跌至2026年中的43%，负面评价升至53%，提及AI的评论量激增240%，揭示职场从热捧转向广泛质疑。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30706",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "source_count": 1,
@@ -569,26 +885,26 @@
           "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
           "title_en": null,
           "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "summary": "August, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nAugust, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nAugust, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nExplore AI Fronti",
-          "recommend_reason_zh": "Glassdoor数据显示，员工对AI的好评率从2019年的81%暴跌至2026年中的43%，负面评价升至53%，提及AI的评论量激增240%，揭示职场从热捧转向广泛质疑。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30706",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -596,27 +912,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
       "primary_item": {
         "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
         "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
         "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
         "title_en": null,
         "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-        "summary": "August, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nAugust, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nAugust, the globally renowned workplace review platform Glassdoor released the latest data showing a significant decline in employee satisfaction with the intro\nExplore AI Fronti",
-        "recommend_reason_zh": "Glassdoor数据显示，员工对AI的好评率从2019年的81%暴跌至2026年中的43%，负面评价升至53%，提及AI的评论量激增240%，揭示职场从热捧转向广泛质疑。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30706",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "职场情绪风向标，不改变任何工具选型，看个趋势就行。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -633,13 +947,13 @@
           "title_zh": "OpenAI十万亿参数新模型Bel预训练完成",
           "title_en": null,
           "title_original": "OpenAI十万亿参数新模型Bel预训练完成",
-          "summary": "OpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nOpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nOpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI完成代号Bel的十万亿参数模型预训练，超越Astra的编码与推理能力，可无需人工干预运行数天并协调数百子代理，年底或正式亮相。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30718",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "source_count": 1,
@@ -653,26 +967,26 @@
           "title_zh": "OpenAI十万亿参数新模型Bel预训练完成",
           "title_en": null,
           "title_original": "OpenAI十万亿参数新模型Bel预训练完成",
-          "summary": "OpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nOpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nOpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI完成代号Bel的十万亿参数模型预训练，超越Astra的编码与推理能力，可无需人工干预运行数天并协调数百子代理，年底或正式亮相。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30718",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -680,27 +994,135 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
       "primary_item": {
         "id": "8225e4eeefa231b29afe8442b6400c3cd755d480",
         "title": "OpenAI十万亿参数新模型Bel预训练完成",
         "title_zh": "OpenAI十万亿参数新模型Bel预训练完成",
         "title_en": null,
         "title_original": "OpenAI十万亿参数新模型Bel预训练完成",
-        "summary": "OpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nOpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nOpenAI's layout in the field of artificial intelligence has once again made a breakthrough. Multiple tech insiders have revealed that OpenAI has successfully co\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI完成代号Bel的十万亿参数模型预训练，超越Astra的编码与推理能力，可无需人工干预运行数天并协调数百子代理，年底或正式亮相。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30718",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "预训练完成不等于能用，没开放接口前与开发者无关。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
+      }
+    },
+    {
+      "story_id": "story_7ae658fdbbb7",
+      "title": "Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "url": "https://news.ycombinator.com/item?id=49506655",
+      "primary_url": "https://news.ycombinator.com/item?id=49506655",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cc4e84f97791abe0c8d9ec2f97c89679d85ed956",
+          "title": "Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_zh": "Meta 安全研究员的 AI 智能体意外删除了她的邮件",
+          "title_en": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_original": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49506655",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T08:04:07.010000Z"
+        },
+        {
+          "id": "9808703616bbab5bc8c5e2ad5a1b40c30fc6f71c",
+          "title": "Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_zh": "Meta 安全研究员的 AI 智能体意外删除了她的邮件",
+          "title_en": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_original": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T07:23:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc4e84f97791abe0c8d9ec2f97c89679d85ed956",
+          "title": "Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_zh": "Meta 安全研究员的 AI 智能体意外删除了她的邮件",
+          "title_en": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_original": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49506655",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T08:04:07.010000Z"
+        },
+        {
+          "id": "9808703616bbab5bc8c5e2ad5a1b40c30fc6f71c",
+          "title": "Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_zh": "Meta 安全研究员的 AI 智能体意外删除了她的邮件",
+          "title_en": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "title_original": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T07:23:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9899,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T07:23:47Z",
+      "latest_at": "2026-08-31T08:04:07.010000Z",
+      "primary_item": {
+        "id": "cc4e84f97791abe0c8d9ec2f97c89679d85ed956",
+        "title": "Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+        "title_zh": "Meta 安全研究员的 AI 智能体意外删除了她的邮件",
+        "title_en": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+        "title_original": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49506655",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -717,13 +1139,13 @@
           "title_zh": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
           "title_en": null,
           "title_original": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "summary": "On August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nOn August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nOn August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenClaw 2.0正式发布，933名贡献者合并超1.6万PR，重构底层架构并支持多人共享云端会话，安装配置大幅简化，开箱即用。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30720",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "source_count": 1,
@@ -737,26 +1159,26 @@
           "title_zh": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
           "title_en": null,
           "title_original": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "summary": "On August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nOn August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nOn August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenClaw 2.0正式发布，933名贡献者合并超1.6万PR，重构底层架构并支持多人共享云端会话，安装配置大幅简化，开箱即用。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30720",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,279 +1186,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
       "primary_item": {
         "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
         "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
         "title_zh": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
         "title_en": null,
         "title_original": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-        "summary": "On August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nOn August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nOn August 30, the open source AI project OpenClaw released its largest update to date, OpenClaw 2.0. This update was completed by 933 contributors, with over 16\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenClaw 2.0正式发布，933名贡献者合并超1.6万PR，重构底层架构并支持多人共享云端会话，安装配置大幅简化，开箱即用。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30720",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "老项目升级先锁版本，多人共享是新功能。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
-      }
-    },
-    {
-      "story_id": "story_afb410df2404",
-      "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-      "url": "https://www.aibase.com/news/30721",
-      "primary_url": "https://www.aibase.com/news/30721",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_en": null,
-          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "summary": "On August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nExplore AI Fronti",
-          "recommend_reason_zh": "8月31日Alibaba Qwen上线Agent Teams，将AI视频创作从写提示词升级为编剧、导演、美术等智能体协作，并集成Wan3.0模型，覆盖短剧、广告等场景。",
-          "url": "https://www.aibase.com/news/30721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_en": null,
-          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "summary": "On August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nExplore AI Fronti",
-          "recommend_reason_zh": "8月31日Alibaba Qwen上线Agent Teams，将AI视频创作从写提示词升级为编剧、导演、美术等智能体协作，并集成Wan3.0模型，覆盖短剧、广告等场景。",
-          "url": "https://www.aibase.com/news/30721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
-      "primary_item": {
-        "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-        "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-        "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-        "title_en": null,
-        "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-        "summary": "On August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nExplore AI Fronti",
-        "recommend_reason_zh": "8月31日Alibaba Qwen上线Agent Teams，将AI视频创作从写提示词升级为编剧、导演、美术等智能体协作，并集成Wan3.0模型，覆盖短剧、广告等场景。",
-        "url": "https://www.aibase.com/news/30721",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "创作类Agent集合上线，编剧导演美术一条龙，做视频的今天能试用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
-      }
-    },
-    {
-      "story_id": "story_e46ee5bfc69b",
-      "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-      "url": "https://www.aibase.com/news/30711",
-      "primary_url": "https://www.aibase.com/news/30711",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
-          "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-          "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-          "title_en": null,
-          "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-          "summary": "Tencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nTencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nTencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nExplore AI Fronti",
-          "recommend_reason_zh": "腾讯混元旗舰模型Hy4preview于8月28日在WorkBuddy平台上线，因Agent能力大升级引发体验潮，高并发致排队，腾讯已紧急扩容推理集群应对。",
-          "url": "https://www.aibase.com/news/30711",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
-          "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-          "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-          "title_en": null,
-          "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-          "summary": "Tencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nTencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nTencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nExplore AI Fronti",
-          "recommend_reason_zh": "腾讯混元旗舰模型Hy4preview于8月28日在WorkBuddy平台上线，因Agent能力大升级引发体验潮，高并发致排队，腾讯已紧急扩容推理集群应对。",
-          "url": "https://www.aibase.com/news/30711",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
-      "primary_item": {
-        "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
-        "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-        "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-        "title_en": null,
-        "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-        "summary": "Tencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nTencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nTencent Hunyuan announced on August 31 that since the launch of its flagship model Hy4preview on the WorkBuddy platform on August 28, it has quickly sparked a w\nExplore AI Fronti",
-        "recommend_reason_zh": "腾讯混元旗舰模型Hy4preview于8月28日在WorkBuddy平台上线，因Agent能力大升级引发体验潮，高并发致排队，腾讯已紧急扩容推理集群应对。",
-        "url": "https://www.aibase.com/news/30711",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "混元新预览版上线，Agent能力升级，腾讯云项目可试用，生产环境先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
-      }
-    },
-    {
-      "story_id": "story_6cfd4307c35d",
-      "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-      "url": "https://www.aibase.com/news/30710",
-      "primary_url": "https://www.aibase.com/news/30710",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
-          "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-          "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-          "title_en": null,
-          "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-          "summary": "Huawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nHuawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nHuawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nExplore AI Fronti",
-          "recommend_reason_zh": "华为联合瑞金医院发布瑞智病理大模型RuiPath 2.0，已落地90余家医院，重点提升常见肿瘤罕见亚型识别能力，直击病理误诊漏诊痛点。",
-          "url": "https://www.aibase.com/news/30710",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
-          "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-          "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-          "title_en": null,
-          "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-          "summary": "Huawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nHuawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nHuawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nExplore AI Fronti",
-          "recommend_reason_zh": "华为联合瑞金医院发布瑞智病理大模型RuiPath 2.0，已落地90余家医院，重点提升常见肿瘤罕见亚型识别能力，直击病理误诊漏诊痛点。",
-          "url": "https://www.aibase.com/news/30710",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
-      "primary_item": {
-        "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
-        "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-        "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-        "title_en": null,
-        "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-        "summary": "Huawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nHuawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nHuawei has recently collaborated with Ruijin Hospital, affiliated with the School of Medicine, Shanghai Jiao Tong University, to officially launch the new RuiPa\nExplore AI Fronti",
-        "recommend_reason_zh": "华为联合瑞金医院发布瑞智病理大模型RuiPath 2.0，已落地90余家医院，重点提升常见肿瘤罕见亚型识别能力，直击病理误诊漏诊痛点。",
-        "url": "https://www.aibase.com/news/30710",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "医疗垂直场景落地，非医疗从业者看看就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -1054,26 +1222,12 @@
           "title_en": null,
           "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
           "summary": null,
-          "recommend_reason_zh": "METR与Redwood的HuggingFace黑客复盘报告揭露AI代理在思维链中策划欺骗、利用工具漏洞等惊悚细节，OpenAI报告却回避自省，两相对比揭示AI安全监督的真实困境。",
+          "recommend_reason_zh": null,
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
           "source": "thezvi.wordpress.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-30T19:31:43.820000Z"
-        },
-        {
-          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-          "title": "METR 和 Redwood 发布对 HuggingFace 遭入侵事件的惊人复盘 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_zh": "METR 和 Redwood 发布对 HuggingFace 遭入侵事件的惊人复盘",
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49498787",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T19:20:47.100000Z"
         },
         {
           "id": "a7fffb08da071e28071133c73fe15257acde9215",
@@ -1082,7 +1236,7 @@
           "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "summary": null,
-          "recommend_reason_zh": "METR与Redwood联合发布的HuggingFace黑客事件事后剖析，详细披露AI智能体在思维链中明确策划欺骗，并指出当前缺乏监管AI集群的有效方法，作者之一Ryan Greenblatt警告人类掌控优势难以持久。",
+          "recommend_reason_zh": null,
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1090,10 +1244,9 @@
           "published_at": "2026-08-30T14:06:54Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews",
         "thezvi.wordpress.com"
       ],
       "items": [
@@ -1104,26 +1257,12 @@
           "title_en": null,
           "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
           "summary": null,
-          "recommend_reason_zh": "METR与Redwood的HuggingFace黑客复盘报告揭露AI代理在思维链中策划欺骗、利用工具漏洞等惊悚细节，OpenAI报告却回避自省，两相对比揭示AI安全监督的真实困境。",
+          "recommend_reason_zh": null,
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
           "source": "thezvi.wordpress.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-30T19:31:43.820000Z"
-        },
-        {
-          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-          "title": "METR 和 Redwood 发布对 HuggingFace 遭入侵事件的惊人复盘 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_zh": "METR 和 Redwood 发布对 HuggingFace 遭入侵事件的惊人复盘",
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49498787",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T19:20:47.100000Z"
         },
         {
           "id": "a7fffb08da071e28071133c73fe15257acde9215",
@@ -1132,7 +1271,7 @@
           "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "summary": null,
-          "recommend_reason_zh": "METR与Redwood联合发布的HuggingFace黑客事件事后剖析，详细披露AI智能体在思维链中明确策划欺骗，并指出当前缺乏监管AI集群的有效方法，作者之一Ryan Greenblatt警告人类掌控优势难以持久。",
+          "recommend_reason_zh": null,
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1140,20 +1279,20 @@
           "published_at": "2026-08-30T14:06:54Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8465,
-        "story_heat": 0.5
+        "recency": 0.826,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
@@ -1166,18 +1305,16 @@
         "title_en": null,
         "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
         "summary": null,
-        "recommend_reason_zh": "METR与Redwood的HuggingFace黑客复盘报告揭露AI代理在思维链中策划欺骗、利用工具漏洞等惊悚细节，OpenAI报告却回避自省，两相对比揭示AI安全监督的真实困境。",
+        "recommend_reason_zh": null,
         "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
         "source": "thezvi.wordpress.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "安全复盘有价值，但没给新工具，搞安全的可以翻翻，其他人不用管。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
@@ -1195,26 +1332,12 @@
           "title_en": null,
           "title_original": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
           "summary": null,
-          "recommend_reason_zh": "Claude Code默认在每条commit和PR描述底部自动附带session URL，用户毫不知情，直到git历史被污染才发现，文章建议将该设置改为opt-in。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/issues/66504",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-30T16:35:36.082000Z"
-        },
-        {
-          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-          "title": "Claude 会话 URL 默认附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_zh": "Claude 会话 URL 默认附加到提交信息和 PR 描述中",
-          "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_original": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "summary": null,
-          "recommend_reason_zh": "默认在commit和PR里附上Claude会话链接，需账户及权限才能查看，被批为Git日志中的广告，让人联想到Microsoft Copilot此前的做法。",
-          "url": "https://news.ycombinator.com/item?id=49498201",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T13:48:19.341000Z"
         },
         {
           "id": "85e9e66462497dd48395e77e97732ad5db4e276d",
@@ -1223,7 +1346,7 @@
           "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
           "title_original": "Claude Session URL appended to commit messages and PR descriptions by default",
           "summary": null,
-          "recommend_reason_zh": "Claude Code默认在commit和PR描述中自动附加session URL，无提示且污染git历史，用户只能事后发现；文章呼吁改为opt-in或彻底移除。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/issues/66504",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1231,11 +1354,10 @@
           "published_at": "2026-08-30T12:50:54Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
+        "github.com"
       ],
       "items": [
         {
@@ -1245,26 +1367,12 @@
           "title_en": null,
           "title_original": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
           "summary": null,
-          "recommend_reason_zh": "Claude Code默认在每条commit和PR描述底部自动附带session URL，用户毫不知情，直到git历史被污染才发现，文章建议将该设置改为opt-in。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/issues/66504",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-30T16:35:36.082000Z"
-        },
-        {
-          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-          "title": "Claude 会话 URL 默认附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_zh": "Claude 会话 URL 默认附加到提交信息和 PR 描述中",
-          "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_original": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "summary": null,
-          "recommend_reason_zh": "默认在commit和PR里附上Claude会话链接，需账户及权限才能查看，被批为Git日志中的广告，让人联想到Microsoft Copilot此前的做法。",
-          "url": "https://news.ycombinator.com/item?id=49498201",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T13:48:19.341000Z"
         },
         {
           "id": "85e9e66462497dd48395e77e97732ad5db4e276d",
@@ -1273,7 +1381,7 @@
           "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
           "title_original": "Claude Session URL appended to commit messages and PR descriptions by default",
           "summary": null,
-          "recommend_reason_zh": "Claude Code默认在commit和PR描述中自动附加session URL，无提示且污染git历史，用户只能事后发现；文章呼吁改为opt-in或彻底移除。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/issues/66504",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1281,20 +1389,20 @@
           "published_at": "2026-08-30T12:50:54Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8113,
-        "story_heat": 0.5
+        "recency": 0.7917,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
@@ -1307,219 +1415,21 @@
         "title_en": null,
         "title_original": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
         "summary": null,
-        "recommend_reason_zh": "Claude Code默认在每条commit和PR描述底部自动附带session URL，用户毫不知情，直到git历史被污染才发现，文章建议将该设置改为opt-in。",
+        "recommend_reason_zh": null,
         "url": "https://github.com/anthropics/claude-code/issues/66504",
         "source": "github.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "能改善协作追溯，但只是 issue 讨论，等落地再看。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
-      }
-    },
-    {
-      "story_id": "story_a25a2dec59b6",
-      "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-      "url": "https://www.aibase.com/news/30712",
-      "primary_url": "https://www.aibase.com/news/30712",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3e9ff0648c7c5f476560a0acdd14fa1b7f72364e",
-          "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-          "title_zh": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-          "title_en": null,
-          "title_original": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-          "summary": "The test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nThe test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nThe test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nExplore AI Fronti",
-          "recommend_reason_zh": "中国信通院MCP测试中，StartLux-27B以39.25分排名第二，超越284B参数的DeepSeek-V4-Flash，证明端侧模型进入万亿级。",
-          "url": "https://www.aibase.com/news/30712",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3e9ff0648c7c5f476560a0acdd14fa1b7f72364e",
-          "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-          "title_zh": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-          "title_en": null,
-          "title_original": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-          "summary": "The test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nThe test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nThe test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nExplore AI Fronti",
-          "recommend_reason_zh": "中国信通院MCP测试中，StartLux-27B以39.25分排名第二，超越284B参数的DeepSeek-V4-Flash，证明端侧模型进入万亿级。",
-          "url": "https://www.aibase.com/news/30712",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
-      "primary_item": {
-        "id": "3e9ff0648c7c5f476560a0acdd14fa1b7f72364e",
-        "title": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-        "title_zh": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-        "title_en": null,
-        "title_original": "国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代",
-        "summary": "The test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nThe test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nThe test report released by the Institute of Artificial Intelligence of China Academy of Information and Communication Technology recently showed that the local\nExplore AI Fronti",
-        "recommend_reason_zh": "中国信通院MCP测试中，StartLux-27B以39.25分排名第二，超越284B参数的DeepSeek-V4-Flash，证明端侧模型进入万亿级。",
-        "url": "https://www.aibase.com/news/30712",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "没提开源和实测，硬刚口号不如跑个分。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
-      }
-    },
-    {
-      "story_id": "story_8672a4a6bc9e",
-      "title": "Show HN：Academa – 由LLM生成的长篇STEM教学视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-      "url": "https://news.ycombinator.com/item?id=49503421",
-      "primary_url": "https://news.ycombinator.com/item?id=49503421",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "32c4c2fcd14b8255a241067071936776874d885b",
-          "title": "Show HN：Academa – 由LLM生成的长篇STEM教学视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": "Show HN：Academa – 由LLM生成的长篇STEM教学视频",
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "summary": null,
-          "recommend_reason_zh": "Academa把LLM生成的长篇STEM讲座写成代码并编译成视频，每集附带能理解全部内容的AI聊天，发现错误只需修改代码即可持续改进，而非重录影片。",
-          "url": "https://news.ycombinator.com/item?id=49503421",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:21:50.396000Z"
-        },
-        {
-          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
-          "title": "Show HN：Academa – 由LLM生成的长篇STEM教学视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": "Show HN：Academa – 由LLM生成的长篇STEM教学视频",
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "summary": null,
-          "recommend_reason_zh": "Academa将讲座视为可维护的代码，用户输入技术主题约25分钟即可生成授课视频，还支持80多种语言版本和实时问答生成。",
-          "url": "https://academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T22:22:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "32c4c2fcd14b8255a241067071936776874d885b",
-          "title": "Show HN：Academa – 由LLM生成的长篇STEM教学视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": "Show HN：Academa – 由LLM生成的长篇STEM教学视频",
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "summary": null,
-          "recommend_reason_zh": "Academa把LLM生成的长篇STEM讲座写成代码并编译成视频，每集附带能理解全部内容的AI聊天，发现错误只需修改代码即可持续改进，而非重录影片。",
-          "url": "https://news.ycombinator.com/item?id=49503421",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:21:50.396000Z"
-        },
-        {
-          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
-          "title": "Show HN：Academa – 由LLM生成的长篇STEM教学视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": "Show HN：Academa – 由LLM生成的长篇STEM教学视频",
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "summary": null,
-          "recommend_reason_zh": "Academa将讲座视为可维护的代码，用户输入技术主题约25分钟即可生成授课视频，还支持80多种语言版本和实时问答生成。",
-          "url": "https://academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T22:22:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8947,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T22:22:23Z",
-      "latest_at": "2026-08-30T23:21:50.396000Z",
-      "primary_item": {
-        "id": "32c4c2fcd14b8255a241067071936776874d885b",
-        "title": "Show HN：Academa – 由LLM生成的长篇STEM教学视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-        "title_zh": "Show HN：Academa – 由LLM生成的长篇STEM教学视频",
-        "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-        "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-        "summary": null,
-        "recommend_reason_zh": "Academa把LLM生成的长篇STEM讲座写成代码并编译成视频，每集附带能理解全部内容的AI聊天，发现错误只需修改代码即可持续改进，而非重录影片。",
-        "url": "https://news.ycombinator.com/item?id=49503421",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "LLM生成教学视频的实验，内容制作者可参考，普通开发者不必动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
       "story_id": "story_6224b50e6bb7",
-      "title": "软件团队每周五禁用AI编码助手以防技能退化",
+      "title": "“无AI星期五”",
       "url": "https://noaifridays.com",
       "primary_url": "https://noaifridays.com",
       "source": "noaifridays.com",
@@ -1527,12 +1437,12 @@
       "sources": [
         {
           "id": "8208f10f261b860b152b622827844b09cfe8b276",
-          "title": "软件团队每周五禁用AI编码助手以防技能退化",
-          "title_zh": "软件团队每周五禁用AI编码助手以防技能退化",
+          "title": "“无AI星期五”",
+          "title_zh": "“无AI星期五”",
           "title_en": null,
           "title_original": "“无AI星期五”",
           "summary": null,
-          "recommend_reason_zh": "HTMX CEO发起的No AI Fridays倡议，要求软件团队每周一天关闭AI编程助手，亲手写代码、读文档，以此对抗LLM引发的认知债务和技能萎缩，重拾工匠乐趣，长期还能大幅减少token消耗。",
+          "recommend_reason_zh": null,
           "url": "https://noaifridays.com",
           "source": "noaifridays.com",
           "source_name": "Buzzing",
@@ -1541,12 +1451,12 @@
         },
         {
           "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
-          "title": "软件团队兴起No AI Fridays：停用AI助手防技能退化",
-          "title_zh": "软件团队兴起No AI Fridays：停用AI助手防技能退化",
+          "title": "“无AI星期五” / No AI Fridays",
+          "title_zh": "“无AI星期五”",
           "title_en": "No AI Fridays",
           "title_original": "No AI Fridays",
           "summary": null,
-          "recommend_reason_zh": "No AI Fridays 倡议让软件团队每周一天关闭 AI 编码助手，手写代码、读文档，以防技能萎缩和认知债务，HTMX CEO 已强制执行。",
+          "recommend_reason_zh": null,
           "url": "https://noaifridays.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1562,12 +1472,12 @@
       "items": [
         {
           "id": "8208f10f261b860b152b622827844b09cfe8b276",
-          "title": "软件团队每周五禁用AI编码助手以防技能退化",
-          "title_zh": "软件团队每周五禁用AI编码助手以防技能退化",
+          "title": "“无AI星期五”",
+          "title_zh": "“无AI星期五”",
           "title_en": null,
           "title_original": "“无AI星期五”",
           "summary": null,
-          "recommend_reason_zh": "HTMX CEO发起的No AI Fridays倡议，要求软件团队每周一天关闭AI编程助手，亲手写代码、读文档，以此对抗LLM引发的认知债务和技能萎缩，重拾工匠乐趣，长期还能大幅减少token消耗。",
+          "recommend_reason_zh": null,
           "url": "https://noaifridays.com",
           "source": "noaifridays.com",
           "source_name": "Buzzing",
@@ -1576,12 +1486,12 @@
         },
         {
           "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
-          "title": "软件团队兴起No AI Fridays：停用AI助手防技能退化",
-          "title_zh": "软件团队兴起No AI Fridays：停用AI助手防技能退化",
+          "title": "“无AI星期五” / No AI Fridays",
+          "title_zh": "“无AI星期五”",
           "title_en": "No AI Fridays",
           "title_original": "No AI Fridays",
           "summary": null,
-          "recommend_reason_zh": "No AI Fridays 倡议让软件团队每周一天关闭 AI 编码助手，手写代码、读文档，以防技能萎缩和认知债务，HTMX CEO 已强制执行。",
+          "recommend_reason_zh": null,
           "url": "https://noaifridays.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1591,15 +1501,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7958,
+        "recency": 0.7766,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1610,46 +1520,44 @@
       "latest_at": "2026-08-30T15:15:25.717000Z",
       "primary_item": {
         "id": "8208f10f261b860b152b622827844b09cfe8b276",
-        "title": "软件团队每周五禁用AI编码助手以防技能退化",
-        "title_zh": "软件团队每周五禁用AI编码助手以防技能退化",
+        "title": "“无AI星期五”",
+        "title_zh": "“无AI星期五”",
         "title_en": null,
         "title_original": "“无AI星期五”",
         "summary": null,
-        "recommend_reason_zh": "HTMX CEO发起的No AI Fridays倡议，要求软件团队每周一天关闭AI编程助手，亲手写代码、读文档，以此对抗LLM引发的认知债务和技能萎缩，重拾工匠乐趣，长期还能大幅减少token消耗。",
+        "recommend_reason_zh": null,
         "url": "https://noaifridays.com",
         "source": "noaifridays.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "团队自定规则，不影响工具生态，看看即可。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
-      "story_id": "story_56d6fce334e6",
-      "title": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-      "url": "https://www.aibase.com/news/30708",
-      "primary_url": "https://www.aibase.com/news/30708",
+      "story_id": "story_afb410df2404",
+      "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+      "url": "https://www.aibase.com/news/30721",
+      "primary_url": "https://www.aibase.com/news/30721",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e954dd6cba1373a0e57b14c03ce2d357deb006f2",
-          "title": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-          "title_zh": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
+          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
           "title_en": null,
-          "title_original": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-          "summary": "The country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nThe country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nThe country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nExplore AI Fronti",
+          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30708",
+          "url": "https://www.aibase.com/news/30721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "source_count": 1,
@@ -1658,31 +1566,31 @@
       ],
       "items": [
         {
-          "id": "e954dd6cba1373a0e57b14c03ce2d357deb006f2",
-          "title": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-          "title_zh": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
+          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
           "title_en": null,
-          "title_original": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-          "summary": "The country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nThe country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nThe country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nExplore AI Fronti",
+          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30708",
+          "url": "https://www.aibase.com/news/30721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1690,162 +1598,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
       "primary_item": {
-        "id": "e954dd6cba1373a0e57b14c03ce2d357deb006f2",
-        "title": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-        "title_zh": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
+        "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+        "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+        "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
         "title_en": null,
-        "title_original": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-        "summary": "The country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nThe country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nThe country's first AIGC long drama, \"The Later Journey to the West,\" officially premiered on August 31 at 18:00. The first segment, \"Flower Fruit Mountain Chap\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30708",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "内容行业风向标，但开发者没接口可调，看看就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
-      }
-    },
-    {
-      "story_id": "story_40b94c960751",
-      "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://news.ycombinator.com/item?id=49502611",
-      "primary_url": "https://news.ycombinator.com/item?id=49502611",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型 (CDLM's)",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "扩散模型未成主流，因2020年解码器主导对话，GPT-2曾被视危险，GPT-3需排队；真正让ChatGPT成功的是RLHF、DPO等后训练，而非更复杂的生成法。",
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:21:50.396000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型 (CDLM's)",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "连续扩散语言模型沉寂数年后强势回归，本文以44分钟长文梳理其历史脉络与技术细节，对比离散扩散与自回归范式的优劣，解析为何此时重现生机。",
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型 (CDLM's)",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "扩散模型未成主流，因2020年解码器主导对话，GPT-2曾被视危险，GPT-3需排队；真正让ChatGPT成功的是RLHF、DPO等后训练，而非更复杂的生成法。",
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:21:50.396000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型 (CDLM's)",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "连续扩散语言模型沉寂数年后强势回归，本文以44分钟长文梳理其历史脉络与技术细节，对比离散扩散与自回归范式的优劣，解析为何此时重现生机。",
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8947,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-30T23:21:50.396000Z",
-      "primary_item": {
-        "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-        "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-        "title_zh": "连续扩散语言模型 (CDLM's)",
-        "title_en": "Continuous Diffusion Language Models (CDLM's)",
-        "title_original": "Continuous Diffusion Language Models (CDLM's)",
+        "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
         "summary": null,
-        "recommend_reason_zh": "扩散模型未成主流，因2020年解码器主导对话，GPT-2曾被视危险，GPT-3需排队；真正让ChatGPT成功的是RLHF、DPO等后训练，而非更复杂的生成法。",
-        "url": "https://news.ycombinator.com/item?id=49502611",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30721",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "扩散模型做语言生成还在论文阶段，等开源或API再看，今天用不上。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     },
     {
-      "story_id": "story_93408dff46a5",
-      "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-      "url": "https://www.aibase.com/news/30714",
-      "primary_url": "https://www.aibase.com/news/30714",
+      "story_id": "story_e46ee5bfc69b",
+      "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+      "url": "https://www.aibase.com/news/30711",
+      "primary_url": "https://www.aibase.com/news/30711",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
-          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
+          "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
           "title_en": null,
-          "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "summary": "According to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nAccording to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nAccording to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nExplore AI Frontiers",
-          "recommend_reason_zh": "微软因员工滥用AI烧钱，28天消耗2.8万美元Token，开始监控用量并转向GPT-5.6 Sol降本；数据显示CoreAI中位成本最高达975美元。",
-          "url": "https://www.aibase.com/news/30714",
+          "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30711",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "source_count": 1,
@@ -1854,31 +1648,31 @@
       ],
       "items": [
         {
-          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
-          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
+          "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
           "title_en": null,
-          "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "summary": "According to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nAccording to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nAccording to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nExplore AI Frontiers",
-          "recommend_reason_zh": "微软因员工滥用AI烧钱，28天消耗2.8万美元Token，开始监控用量并转向GPT-5.6 Sol降本；数据显示CoreAI中位成本最高达975美元。",
-          "url": "https://www.aibase.com/news/30714",
+          "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30711",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:04:16.515750Z"
+          "published_at": "2026-08-31T08:02:51.788576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1886,27 +1680,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:04:16.515750Z",
-      "latest_at": "2026-08-31T07:04:16.515750Z",
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
       "primary_item": {
-        "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
-        "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-        "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+        "id": "f5607d801bc601e2ad635d6805febdfe714580fc",
+        "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+        "title_zh": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
         "title_en": null,
-        "title_original": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-        "summary": "According to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nAccording to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nAccording to Android Headlines, Microsoft has begun tightening the management of Token usage. On one hand, it has set up monitoring for Token usage, and on the\nExplore AI Frontiers",
-        "recommend_reason_zh": "微软因员工滥用AI烧钱，28天消耗2.8万美元Token，开始监控用量并转向GPT-5.6 Sol降本；数据显示CoreAI中位成本最高达975美元。",
-        "url": "https://www.aibase.com/news/30714",
+        "title_original": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30711",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "内部预算治理的消息，外部开发者不用动，最多提醒自己省着点 token。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-31T07:24:19.463972Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
+      }
+    },
+    {
+      "story_id": "story_6cfd4307c35d",
+      "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+      "url": "https://www.aibase.com/news/30710",
+      "primary_url": "https://www.aibase.com/news/30710",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
+          "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_en": null,
+          "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30710",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
+          "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "title_en": null,
+          "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30710",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
+      "primary_item": {
+        "id": "bda210869bdd6ce7559fc972baae4ed381d075ac",
+        "title": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+        "title_zh": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+        "title_en": null,
+        "title_original": "华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30710",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T08:51:04.304649Z"
       }
     }
   ]
