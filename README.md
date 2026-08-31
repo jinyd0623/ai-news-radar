@@ -20,7 +20,7 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 **在线站** → [jinyd0623.github.io/ai-news-radar](https://jinyd0623.github.io/ai-news-radar/)
 
-[English](README.en.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
+[English](README.en.md) · [阶段 0 执行记录](docs/STAGE0_PROGRESS.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
 
 **更新说明**：v0.9 把界面收敛成单层信息架构（栏目 tab × 精选/全量 × 时间轴），旧的三视图截图存档于 [`/legacy/`](legacy/)，保留至 2026 年 8 月中旬。
 
