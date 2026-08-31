@@ -599,6 +599,25 @@ function itemTagChip(label) {
   return tag;
 }
 
+// 主题标签由后端规则匹配产出（scripts/update_news.py 的 assign_topics），没命中就没有 topics 字段，
+// 这里也就不渲染 chip。只认识清单内的取值，后端新增主题但前端没跟上时宁可不显示，也不显示英文 slug。
+const TOPIC_LABELS = {
+  agents: "智能体",
+  "ai-coding": "AI 编程",
+  "open-source-models": "开源模型",
+  evaluation: "评测",
+  models: "模型",
+  research: "研究",
+};
+
+function itemTopicLabels(row) {
+  const item = row?.item || {};
+  const primary = row?.story?.primary_item || {};
+  const raw = Array.isArray(item.topics) && item.topics.length ? item.topics : primary.topics;
+  if (!Array.isArray(raw)) return [];
+  return raw.map((topic) => TOPIC_LABELS[topic]).filter(Boolean);
+}
+
 function setSourceBadge(el, label, tone = "default", title = "") {
   el.className = `source source-chip kind-${tone}`;
   el.innerHTML = "";
@@ -1402,7 +1421,13 @@ function renderItemNode(row) {
 
   const sourceEl = node.querySelector(".source");
   const sourceLabel = sourceSignal(item);
-  setSourceBadge(sourceEl, sourceLabel, sourceSignalTone(sourceLabel), item.source ? `分区: ${item.source}` : "");
+  // 来源等级放进 tooltip 而不是再加一个 chip：等级已经由来源 chip 的配色表达，
+  // meta-row 再多一个可见标签只会更挤。
+  const tierLabel = String(item.source_tier_label || row?.story?.primary_item?.source_tier_label || "").trim();
+  const sourceTitle = [tierLabel ? `来源等级: ${tierLabel}` : "", item.source ? `分区: ${item.source}` : ""]
+    .filter(Boolean)
+    .join(" · ");
+  setSourceBadge(sourceEl, sourceLabel, sourceSignalTone(sourceLabel), sourceTitle);
   if (rowSourceCount(row) > 1) {
     sourceEl.title = `${sourceEl.title || ""} · 共 ${fmtNumber(rowSourceCount(row))} 个来源`.replace(/^ · /, "");
   }
@@ -1465,6 +1490,11 @@ function renderItemNode(row) {
   // 在下面的"查看原文"链接（margin-left: auto 靠右）之前。
   const sectionChip = itemTagChip(sectionBadgeLabel(itemSection(item)));
   metaRow.appendChild(sectionChip);
+
+  // 主题标签紧跟栏目 chip，仍在"查看原文"之前
+  for (const topicLabel of itemTopicLabels(row)) {
+    metaRow.appendChild(itemTagChip(topicLabel));
+  }
 
   const titleEl = node.querySelector(".title");
   const displayTitle = row.story ? storyPrimaryTitleText(row.story) : itemTitleText(item);

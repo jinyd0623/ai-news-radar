@@ -94,8 +94,15 @@ baseline, then let the aggregator layer add breadth.
   AI relevance scoring as the rest of the radar. Research-heavy feeds are
   intentionally filtered and downweighted so they fill the research lane without
   dominating the default hot view.
-- **AI Breakfast**: reads the public Beehiiv archive through Jina Reader because
-  the original Beehiiv feed can be blocked from GitHub Actions.
+- **AI Breakfast**: tries the public Beehiiv feed first and falls back to the
+  Jina Reader view of the archive. Neither path is reliable on its own: the
+  Beehiiv feed can answer with a Cloudflare challenge, and the Jina Reader
+  endpoint began returning 403 to anonymous callers in 2026-08. The source is
+  only reported as failed once both paths return nothing.
+- **Info Flow (iris)**: retired in 2026-08. `iris.findtruman.io` pivoted to an
+  unrelated product and `/web/info_flow` answers 502, which cost roughly three
+  minutes per run in retries. Archived items keep their tier label, but nothing
+  is fetched anymore.
 - **AI HOT**: reads the public `https://aihot.virxact.com/api/public/items`
   API in selected mode and keeps only items whose AI HOT card score is at least
   60. The parser preserves AI HOT's Chinese title, valid English original title,
@@ -114,6 +121,41 @@ baseline, then let the aggregator layer add breadth.
   `data/waytoagi-7d.json`; the latest update day is also promoted into the
   community signal lane so it can appear under the Community tab without
   occupying a standalone homepage block.
+
+## Feed Summaries
+
+Feed `<description>` / `<summary>` / `<subtitle>` content is captured for the
+official, curated-media, and OPML lanes and travels as `meta["summary"]`, which
+`apply_public_raw_meta` promotes onto the record. `clean_feed_summary` strips
+markup, collapses whitespace, drops blobs that only repeat the title, and trims
+to one sentence within `FEED_SUMMARY_MAX_CHARS` (160 by default, env-overridable).
+
+This is deliberately key-free. Sources that publish no description simply carry
+no summary field — an empty string is not written, so records stay small.
+
+## Topic Tags
+
+`assign_topics` attaches up to `MAX_TOPICS_PER_ITEM` (3) interest tags from a
+keyword table: `agents`, `ai-coding`, `open-source-models`, `evaluation`,
+`models`, `research`. ASCII terms match on boundaries, so `ide` cannot fire on
+"video" or "guide"; CJK terms match as substrings. There is intentionally no
+catch-all "products" bucket, because a tag that lands on everything carries no
+information. Items matching nothing get no `topics` key at all.
+
+Measured against a real 143-item curated run, 51% of items received at least one
+tag. Tags are rule-based and explainable by the term that matched — no model call.
+
+## Discussion-Tier Caps
+
+`DISCUSSION_FETCH_CAP` (50 by default, env-overridable) applies to the wide
+aggregators: `buzzing`, `techurls`, and `newsnow`. Historically it was wired only
+into `fetch_buzzing`, so techurls (405 raw items in one observed run) and newsnow
+(129) went uncapped and together supplied 46% of the curated view despite
+sub-1% selection rates in `reports/source-quality/v0.8-audit.md`.
+
+`cap_discussion_items` trims by recency after parsing rather than breaking out
+mid-scrape. techurls groups its page by publisher, so an in-loop break would
+silently drop whole publishers instead of the oldest items.
 
 ## Disabled Default Sources
 

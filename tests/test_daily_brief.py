@@ -4,7 +4,9 @@ from datetime import datetime, timedelta, timezone
 
 from scripts.update_news import (
     add_source_tier_fields,
+    add_topic_fields,
     build_daily_brief_payload,
+    build_story_record,
     build_merge_log_payload,
     build_stories_payload,
     calculate_item_importance,
@@ -37,6 +39,29 @@ def make_item(
         "ai_score": ai_score,
     }
     return add_source_tier_fields(item)
+
+
+def test_brief_primary_item_exposes_source_tier_and_topics():
+    item = make_item(1, site_id="official_ai", title="OpenAI ships an agent benchmark")
+    item["summary"] = "A short editorial line about the release."
+    item = add_topic_fields(item)
+
+    story = build_story_record("story-1", [item], NOW, 24)
+    primary = story["primary_item"]
+
+    # Source tier used to be absent from the brief even though the item carried it.
+    assert primary["source_tier"] == "official"
+    assert primary["source_tier_label"] == "官方一手源"
+    assert primary["summary"] == "A short editorial line about the release."
+    assert "agents" in primary["topics"]
+
+
+def test_brief_primary_item_topics_default_to_a_list():
+    item = make_item(2, title="A quiet afternoon with no signal words")
+    story = build_story_record("story-2", [item], NOW, 24)
+
+    # Absent topics must still be a list so the UI can iterate without a guard.
+    assert story["primary_item"]["topics"] == []
 
 
 def test_importance_score_favors_official_relevant_recent_items():

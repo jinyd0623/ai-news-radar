@@ -2,14 +2,15 @@
 
 - 更新时间：2026-08-31（北京时间）
 - 状态：已完成
-- 对应计划：`E:\workspace\my\news\PROJECT_PLAN.md` 的“阶段 0：Fork 和工作流”
+- 对应计划：`PROJECT_PLAN.md` 的“阶段 0：Fork 和工作流”（该文件在仓库之外单独维护，当前位于
+  `C:\Users\jyd64\Desktop\PROJECT_PLAN.md`）
 
 ## 完成结果
 
 | 项目 | 结果 |
 | --- | --- |
 | GitHub Fork | 已创建：[jinyd0623/ai-news-radar](https://github.com/jinyd0623/ai-news-radar) |
-| 本地目录 | `E:\workspace\my\news\ai-news-radar`；父目录中原有的 `PROJECT_PLAN.md` 和 `README.md` 未被覆盖 |
+| 本地目录 | 当前为 `D:\workspace\ai-news-radar`（阶段 0 当时在 `E:\workspace\my\news\ai-news-radar`） |
 | 默认分支 | 按用户确认继续使用上游已有的 `master`，未另建 `main` |
 | `origin` | `https://github.com/jinyd0623/ai-news-radar.git` |
 | `upstream` | `https://github.com/LearnPrompt/ai-news-radar.git` |
@@ -54,9 +55,44 @@ Pages 对 `d6bbd32` 的发布任务 [#3](https://github.com/jinyd0623/ai-news-ra
 
 ## 已知情况
 
-- 最近一次自动抓取中，公开源 `aibreakfast` 和 `iris` 失败；聚合器已按设计安全降级，其余来源和页面发布不受影响。
-- Pages 的 GitHub 托管构建显示一条 Node.js 20 弃用警告，来源是 GitHub 管理的 `actions/upload-artifact@v4`；本次构建和部署均成功，不需要在本仓库写入密钥或立即处理。
-- 本地仓库因初次网络代理中断采用浅克隆恢复，当前 `master`、`origin` 和 `upstream` 均可正常使用；需要完整历史时可另行执行解除浅克隆。
+- Pages 的 GitHub 托管构建显示一条 Node.js 20 弃用警告，来源是 GitHub 管理的 `actions/upload-artifact@v4`；本仓库自己的 `update-news.yml` 只用 `actions/checkout@v6` 和 `actions/setup-python@v6`，无从处理也不需要处理。
+
+## 遗留项处置（2026-08-31）
+
+原「已知情况」里的三条已全部收口。
+
+### 两个失败源
+
+依据是 `data/source-status.json`（`generated_at` 为 `2026-08-31T09:12:15Z`，即失败那一轮）里的原始报错。
+
+| 源 | 报错 | 处置 |
+| --- | --- | --- |
+| `iris` | origin 连续 502，重试耗尽，单源耗时 183 秒（整轮约 6 分钟） | 下线 |
+| `aibreakfast` | `403 Client Error` on `https://r.jina.ai/...`，253 毫秒被拒 | 改双路径 |
+
+`iris.findtruman.io` 已转型为无关产品（FindTruman，AI 应用搭建），`/web/info_flow` 页面永久消失，
+该 fetcher 依赖抓取那个页面里的 `const feeds = [...]`，无法修复。它在
+`reports/source-quality/v0.8-audit.md` 里也是最差的源：11563 条、AI 保留率 16.9%、进精选率 0.2%。
+已从 `collect_all` 注册表移除并删除 `fetch_iris`，但**保留** `SOURCE_TIER_BY_SITE["iris"]`——
+未登记的 `site_id` 会回落成 `("other", "其他来源", 9)`，删掉会让 `archive.json` 里的历史条目在页面上掉级。
+
+`aibreakfast` 原先只有 Jina Reader 一条路，而 `docs/SOURCE_COVERAGE.md` 记载走 Jina 的**理由**
+正是 beehiiv 原生 feed 会被 GitHub Actions 屏蔽，即两条路同时不通。现改为
+beehiiv 原生 `/feed` 优先、Jina Reader 回落，两条都拿不到条目才算失败，报错信息合并两边原因。
+**这个修法本地无法验证**：国内网络下 beehiiv 返回 Cloudflare `Just a moment` 挑战，`r.jina.ai` 完全连不上，
+能否救活只有 CI 跑一轮才知道。若 Actions 里两条路都不通，该源应直接删除（审计里它仅贡献 6 条，
+但 AI 相关度 100%、独家率 83.3%）。
+
+### 本地仓库
+
+原浅克隆记录已不适用。当前工作副本是 `D:\workspace\ai-news-radar`（**不再是**阶段 0 记录的
+`E:\workspace\my\news\ai-news-radar`，该路径在当前机器上不存在），完整历史 2713 条提交，
+无 `.git/shallow`，`origin` 与 `upstream` 双远程已配置。
+
+### 验证
+
+`./.venv/Scripts/pytest.exe -q` → `235 passed`（阶段 0 基线 234 项，本次新增
+`test_parse_ai_breakfast_feed_entries` 覆盖正常条目、重复链接与缺链接）。
 
 ## 阶段 0 验收结论
 

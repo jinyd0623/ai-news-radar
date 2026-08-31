@@ -121,7 +121,11 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
-# Per-fetch item cap for wide discussion-tier aggregators (buzzing/iris).
+# One-line summary budget for feed descriptions. Long enough for a real sentence,
+# short enough that a card stays scannable; see clean_feed_summary.
+FEED_SUMMARY_MAX_CHARS = int(os.environ.get("FEED_SUMMARY_MAX_CHARS", "160"))
+# Per-fetch item cap for wide discussion-tier aggregators
+# (buzzing / techurls / newsnow).
 # They dominate raw volume with very low AI keep rates (see
 # reports/source-quality/v0.8-audit.md); cap them at the fetch layer so a
 # single round cannot flood the archive. Override via env for experiments.
@@ -177,6 +181,7 @@ CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
         "max_entries": 6,
     },
 )
+AIBREAKFAST_FEED_URL = "https://aibreakfast.beehiiv.com/feed"
 AIBREAKFAST_JINA_URL = "https://r.jina.ai/https://aibreakfast.beehiiv.com/"
 AIHOT_ITEMS_API_URL = "https://aihot.virxact.com/api/public/items"
 AIHOT_MIN_SCORE = 60
@@ -657,8 +662,17 @@ def apply_public_raw_meta(record: dict[str, Any], raw: RawItem) -> None:
     """Promote safe source metadata needed by public scoring and UI ranking."""
     meta = raw.meta if isinstance(raw.meta, dict) else {}
     for key in PUBLIC_RAW_META_FIELDS:
-        if key in meta and meta.get(key) is not None:
-            record[key] = sanitize_public_value(meta.get(key))
+        if key not in meta:
+            continue
+        value = meta.get(key)
+        if value is None:
+            continue
+        # Drop blank strings so feeds without a description do not add an empty
+        # field to every record. Falsy non-strings (e.g. aihot_selected=False)
+        # are still meaningful and kept.
+        if isinstance(value, str) and not value.strip():
+            continue
+        record[key] = sanitize_public_value(value)
 
 
 def decode_escaped_json(raw: str) -> dict[str, Any] | None:
@@ -1123,6 +1137,19 @@ def extract_next_data_payload(html: str) -> dict[str, Any] | None:
         return None
 
 
+def cap_discussion_items(items: list[RawItem], cap: int = DISCUSSION_FETCH_CAP) -> list[RawItem]:
+    """Trim a wide aggregator's haul down to the newest ``cap`` items.
+
+    Breaking out mid-scrape would bias toward whatever the page listed first,
+    which on publisher-grouped pages silently drops whole publishers. Parsing is
+    cheap, so take everything and then keep the most recent.
+    """
+    if cap <= 0 or len(items) <= cap:
+        return items
+    oldest = datetime.min.replace(tzinfo=UTC)
+    return sorted(items, key=lambda item: item.published_at or oldest, reverse=True)[:cap]
+
+
 def fetch_techurls(session: requests.Session, now: datetime) -> list[RawItem]:
     site_id = "techurls"
     site_name = "TechURLs"
@@ -1169,7 +1196,7 @@ def fetch_techurls(session: requests.Session, now: datetime) -> list[RawItem]:
                 )
             )
 
-    return out
+    return cap_discussion_items(out)
 
 
 def fetch_buzzing(session: requests.Session, now: datetime) -> list[RawItem]:
@@ -1208,82 +1235,6 @@ def fetch_buzzing(session: requests.Session, now: datetime) -> list[RawItem]:
                 meta={"raw": {k: it.get(k) for k in ("source", "site_name", "channel", "category")}},
             )
         )
-    return out
-
-
-def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
-    site_id = "iris"
-    site_name = "Info Flow"
-
-    r = session.get("https://iris.findtruman.io/web/info_flow", timeout=30)
-    r.raise_for_status()
-    html = r.text
-
-    m = re.search(r"const\s+feeds\s*=\s*\[(.*?)\]\s*;", html, re.S)
-    if not m:
-        return []
-
-    section = m.group(1)
-    feeds = re.findall(
-        r"\{\s*name:\s*'([^']+)'\s*,\s*url:\s*'([^']+)'\s*\}",
-        section,
-        re.S,
-    )
-
-    out: list[RawItem] = []
-    for feed_name, feed_url in feeds:
-        if len(out) >= DISCUSSION_FETCH_CAP:
-            break
-        try:
-            if feedparser is not None:
-                parsed = feedparser.parse(feed_url)
-                source_name = str(feed_name or getattr(parsed, "feed", {}).get("title") or "Iris Feed")
-                for entry in parsed.entries:
-                    if len(out) >= DISCUSSION_FETCH_CAP:
-                        break
-                    title = str(entry.get("title", "")).strip()
-                    url = str(entry.get("link", "")).strip()
-                    if not title or not url:
-                        continue
-                    published = (
-                        parse_date_any(entry.get("published"), now)
-                        or parse_date_any(entry.get("updated"), now)
-                        or parse_date_any(entry.get("pubDate"), now)
-                    )
-                    out.append(
-                        RawItem(
-                            site_id=site_id,
-                            site_name=site_name,
-                            source=source_name,
-                            title=title,
-                            url=url,
-                            published_at=published,
-                            meta={"feed_url": feed_url},
-                        )
-                    )
-                continue
-
-            feed_resp = session.get(feed_url, timeout=30)
-            feed_resp.raise_for_status()
-            entries = parse_feed_entries_via_xml(feed_resp.content)
-            source_name = str(feed_name or "Iris Feed")
-            for entry in entries:
-                if len(out) >= DISCUSSION_FETCH_CAP:
-                    break
-                out.append(
-                    RawItem(
-                        site_id=site_id,
-                        site_name=site_name,
-                        source=source_name,
-                        title=entry["title"],
-                        url=entry["link"],
-                        published_at=parse_date_any(entry.get("published"), now),
-                        meta={"feed_url": feed_url},
-                    )
-                )
-        except Exception:
-            # Skip blocked/broken sub feeds and keep remaining feeds.
-            continue
     return out
 
 
@@ -1663,6 +1614,7 @@ def fetch_feed_as_official_items(
                 meta={
                     "feed_url": feed_url,
                     "feed_home": feed.get("html_url") or "",
+                    "summary": feed_entry_summary(entry, title),
                 },
             )
         )
@@ -1679,6 +1631,48 @@ def feed_entry_title_link_published(entry: dict[str, Any], now: datetime) -> tup
         or parse_date_any(entry.get("pubDate"), now)
     )
     return title, link, published
+
+
+def clean_feed_summary(raw_summary: str, title: str = "", limit: int = FEED_SUMMARY_MAX_CHARS) -> str:
+    """Reduce a feed ``<description>``/``<summary>`` blob to one short plain line.
+
+    Feed descriptions range from a clean one-liner to a full HTML article body,
+    so strip markup, collapse whitespace, then keep the leading sentence within
+    ``limit``. Returns an empty string when the blob only repeats the title,
+    which several feeds do and which would add nothing to the card.
+    """
+    text = str(raw_summary or "").strip()
+    if not text:
+        return ""
+    if "<" in text:
+        text = BeautifulSoup(text, "html.parser").get_text(" ", strip=True)
+    text = maybe_fix_mojibake(re.sub(r"\s+", " ", text)).strip()
+    if not text:
+        return ""
+
+    normalized_title = re.sub(r"\s+", " ", str(title or "")).strip()
+    if normalized_title and text.casefold() == normalized_title.casefold():
+        return ""
+
+    if len(text) <= limit:
+        return text
+
+    head = text[:limit]
+    for terminator in ("。", "！", "？", "；", ".", "!", "?"):
+        idx = head.rfind(terminator)
+        # Ignore a terminator that sits so early it would leave a stub summary.
+        if idx >= limit // 3:
+            return head[: idx + 1].strip()
+    return text[: limit - 1].rstrip() + "…"
+
+
+def feed_entry_summary(entry: dict[str, Any], title: str = "") -> str:
+    """Pull the best available description out of a feedparser/XML entry."""
+    for key in ("summary", "description", "subtitle"):
+        cleaned = clean_feed_summary(entry.get(key) or "", title)
+        if cleaned:
+            return cleaned
+    return ""
 
 
 def feed_keywords(feed: dict[str, Any]) -> list[str]:
@@ -1743,6 +1737,7 @@ def parse_curated_ai_media_feed_items(
                     "feed_home": feed.get("html_url") or "",
                     "research_only": bool(feed.get("research_only")),
                     "strict_title_filter": bool(feed.get("strict_title_filter")),
+                    "summary": feed_entry_summary(entry, title),
                 },
             )
         )
@@ -1844,7 +1839,58 @@ def parse_ai_breakfast_items(markdown_text: str, now: datetime) -> list[RawItem]
     return out
 
 
-def fetch_ai_breakfast(session: requests.Session, now: datetime) -> list[RawItem]:
+def parse_ai_breakfast_feed_entries(entries: list[dict[str, Any]], now: datetime) -> list[RawItem]:
+    site_id = "aibreakfast"
+    site_name = "AI Breakfast"
+    out: list[RawItem] = []
+    seen: set[str] = set()
+
+    for entry in entries:
+        title, link, published = feed_entry_title_link_published(entry, now)
+        if not title or not link or not published:
+            continue
+        if link in seen:
+            continue
+        if now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+            continue
+
+        seen.add(link)
+        out.append(
+            RawItem(
+                site_id=site_id,
+                site_name=site_name,
+                source="AI Breakfast",
+                title=re.sub(r"\s+", " ", title).strip(),
+                url=link,
+                published_at=published,
+                meta={"feed_url": AIBREAKFAST_FEED_URL, "feed_home": "https://aibreakfast.beehiiv.com/"},
+            )
+        )
+
+    return out
+
+
+def fetch_ai_breakfast_via_feed(session: requests.Session, now: datetime) -> list[RawItem]:
+    resp = session.get(
+        AIBREAKFAST_FEED_URL,
+        timeout=20,
+        headers={
+            "User-Agent": BROWSER_UA,
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept": "application/rss+xml, application/xml, text/xml, */*",
+        },
+    )
+    resp.raise_for_status()
+
+    if feedparser is not None:
+        entries = list(feedparser.parse(resp.content).entries)
+    else:
+        entries = parse_feed_entries_via_xml(resp.content)
+
+    return parse_ai_breakfast_feed_entries(entries, now)
+
+
+def fetch_ai_breakfast_via_jina(session: requests.Session, now: datetime) -> list[RawItem]:
     resp = session.get(
         AIBREAKFAST_JINA_URL,
         timeout=25,
@@ -1855,10 +1901,33 @@ def fetch_ai_breakfast(session: requests.Session, now: datetime) -> list[RawItem
         },
     )
     resp.raise_for_status()
-    out = parse_ai_breakfast_items(resp.text, now)
-    if not out:
-        raise ValueError("No AI Breakfast items parsed")
-    return out
+    return parse_ai_breakfast_items(resp.text, now)
+
+
+def fetch_ai_breakfast(session: requests.Session, now: datetime) -> list[RawItem]:
+    """Beehiiv's own feed is the preferred path; Jina Reader is the fallback.
+
+    Both paths are fragile from CI: the Beehiiv feed can answer with a Cloudflare
+    challenge, and the Jina reader endpoint started returning 403 for anonymous
+    callers. Try them in order and only fail once neither yields items, so a
+    single blocked path does not drop the source.
+    """
+    errors: list[str] = []
+
+    for label, fetcher in (
+        ("beehiiv feed", fetch_ai_breakfast_via_feed),
+        ("jina reader", fetch_ai_breakfast_via_jina),
+    ):
+        try:
+            out = fetcher(session, now)
+        except Exception as exc:
+            errors.append(f"{label}: {exc}")
+            continue
+        if out:
+            return out
+        errors.append(f"{label}: no items parsed")
+
+    raise ValueError("No AI Breakfast items parsed (" + "; ".join(errors) + ")")
 
 
 def parse_follow_builders_items(feeds: dict[str, dict[str, Any]], now: datetime) -> list[RawItem]:
@@ -2375,7 +2444,7 @@ def fetch_newsnow(session: requests.Session, now: datetime) -> list[RawItem]:
                 )
             )
 
-    return out
+    return cap_discussion_items(out)
 
 
 def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
@@ -2386,7 +2455,6 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
         ("followbuilders", "Follow Builders", fetch_follow_builders),
         ("techurls", "TechURLs", fetch_techurls),
         ("buzzing", "Buzzing", fetch_buzzing),
-        ("iris", "Info Flow", fetch_iris),
         ("bestblogs", "BestBlogs", fetch_bestblogs),
         ("zeli", "Zeli", fetch_zeli),
         ("hackernews", "Hacker News", fetch_hacker_news_algolia),
@@ -2697,7 +2765,7 @@ def fetch_opml_rss(
                 )
                 entries = parsed.entries
                 cn_feed = ".cn/" in feed_url or feed_url.endswith(".cn") or has_cjk(str(feed_title or ""))
-                pending: list[tuple[str, str, datetime]] = []
+                pending: list[tuple[str, str, str, datetime]] = []
                 for entry in entries:
                     title = str(entry.get("title", "")).strip()
                     link = str(entry.get("link", "")).strip()
@@ -2710,13 +2778,13 @@ def fetch_opml_rss(
                     )
                     if not published:
                         continue
-                    pending.append((title, link, published))
+                    pending.append((title, link, feed_entry_summary(entry, title), published))
                 corrected_times = correct_feed_published_batch(
-                    [p for _, _, p in pending],
+                    [p for _, _, _, p in pending],
                     now,
-                    assume_cst_mislabel=cn_feed or any(has_cjk(t) for t, _, _ in pending),
+                    assume_cst_mislabel=cn_feed or any(has_cjk(t) for t, _, _, _ in pending),
                 )
-                for (title, link, _), published in zip(pending, corrected_times):
+                for (title, link, summary, _), published in zip(pending, corrected_times):
                     local_items.append(
                         RawItem(
                             site_id="opmlrss",
@@ -2728,6 +2796,7 @@ def fetch_opml_rss(
                             meta={
                                 "feed_url": feed_url,
                                 "feed_home": feed.get("html_url") or "",
+                                "summary": summary,
                             },
                         )
                     )
@@ -2759,6 +2828,7 @@ def fetch_opml_rss(
                             meta={
                                 "feed_url": feed_url,
                                 "feed_home": feed.get("html_url") or "",
+                                "summary": feed_entry_summary(entry, str(entry.get("title") or "")),
                             },
                         )
                     )
@@ -2865,6 +2935,8 @@ SOURCE_TIER_BY_SITE: dict[str, tuple[str, str, int]] = {
     "socialdata_x": ("advanced", "高级源", 4),
     "techurls": ("discussion", "热议参考", 5),
     "buzzing": ("discussion", "热议参考", 5),
+    # iris is no longer fetched (site pivoted away, endpoint gone). Kept here so
+    # archived iris items keep their tier instead of falling back to "其他来源".
     "iris": ("discussion", "热议参考", 5),
     "zeli": ("discussion", "热议参考", 5),
     "hackernews": ("discussion", "热议参考", 5),
@@ -2996,6 +3068,71 @@ def source_tier_for_site(site_id: str) -> dict[str, Any]:
         sid = "opmlrss"
     tier, label, rank = SOURCE_TIER_BY_SITE.get(sid, ("other", "其他来源", 9))
     return {"source_tier": tier, "source_tier_label": label, "source_tier_rank": rank}
+
+
+# Rule-based interest topics. Deliberately keyword-only: no model call, no key,
+# and every tag is explainable by the term that matched. Vocabulary follows the
+# `interests.yaml` topics in the project plan. There is intentionally no catch-all
+# "products" bucket — a tag that lands on everything carries no information.
+TOPIC_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
+    ("agents", ("agent", "agents", "agentic", "mcp", "tool use", "智能体", "工具调用")),
+    (
+        "ai-coding",
+        ("copilot", "codex", "cursor", "claude code", "coding", "code review", "pull request", "编程", "代码", "编码"),
+    ),
+    (
+        "open-source-models",
+        ("open source", "open-source", "open weights", "llama", "qwen", "deepseek", "mistral", "hugging face", "开源", "开放权重"),
+    ),
+    (
+        "evaluation",
+        ("benchmark", "benchmarks", "eval", "evals", "evaluation", "leaderboard", "arena", "评测", "基准测试", "榜单"),
+    ),
+    ("models", ("gpt", "claude", "gemini", "llm", "sora", "multimodal", "模型", "大模型", "多模态")),
+    ("research", ("paper", "papers", "arxiv", "preprint", "research", "论文", "研究")),
+)
+MAX_TOPICS_PER_ITEM = 3
+TOPIC_MATCH_FIELDS: tuple[str, ...] = ("title", "title_zh", "title_en", "summary", "source")
+
+
+def _topic_keyword_pattern(keyword: str) -> re.Pattern[str]:
+    """CJK terms match as substrings; ASCII terms need boundaries.
+
+    Without boundaries a short term like ``ide`` would fire on "video", "guide"
+    and "provide". ``\\b`` is avoided because it behaves awkwardly around the
+    hyphen in terms like ``open-source``.
+    """
+    if has_cjk(keyword):
+        return re.compile(re.escape(keyword))
+    return re.compile(r"(?<![a-z0-9])" + re.escape(keyword) + r"(?![a-z0-9])")
+
+
+TOPIC_MATCHERS: tuple[tuple[str, tuple[re.Pattern[str], ...]], ...] = tuple(
+    (topic, tuple(_topic_keyword_pattern(keyword) for keyword in keywords))
+    for topic, keywords in TOPIC_RULES
+)
+
+
+def assign_topics(record: dict[str, Any]) -> list[str]:
+    haystack = " ".join(str(record.get(field) or "") for field in TOPIC_MATCH_FIELDS).lower()
+    if not haystack.strip():
+        return []
+
+    topics: list[str] = []
+    for topic, matchers in TOPIC_MATCHERS:
+        if any(matcher.search(haystack) for matcher in matchers):
+            topics.append(topic)
+            if len(topics) >= MAX_TOPICS_PER_ITEM:
+                break
+    return topics
+
+
+def add_topic_fields(record: dict[str, Any]) -> dict[str, Any]:
+    out = dict(record)
+    topics = assign_topics(out)
+    if topics:
+        out["topics"] = topics
+    return out
 
 
 def add_source_tier_fields(record: dict[str, Any]) -> dict[str, Any]:
@@ -5969,6 +6106,9 @@ def build_story_record(
             "url": url,
             "source": primary.get("source"),
             "source_name": primary.get("site_name"),
+            "source_tier": primary.get("source_tier"),
+            "source_tier_label": primary.get("source_tier_label"),
+            "topics": primary.get("topics") or [],
         },
     }
 
@@ -6195,6 +6335,7 @@ def build_creator_hot_items(
         if ai_only and not normalized.get("ai_is_related", is_ai_related_record(normalized)):
             continue
         normalized = add_source_tier_fields(normalized)
+        normalized = add_topic_fields(normalized)
         items.append(add_creator_ranking_fields(normalized, now))
 
     deduped = suppress_near_duplicate_items(dedupe_items_by_title_url(items, random_pick=False))
@@ -6471,6 +6612,7 @@ def main() -> int:
                 continue
             normalized = add_ai_relevance_fields(normalized)
             normalized = add_source_tier_fields(normalized)
+            normalized = add_topic_fields(normalized)
             latest_items_all_raw.append(normalized)
 
     latest_items_all_raw = normalize_aihubtoday_records(latest_items_all_raw)

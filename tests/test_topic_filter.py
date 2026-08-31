@@ -3,9 +3,15 @@ from datetime import datetime, timezone
 from unittest.mock import patch
 
 from scripts.update_news import (
+    FEED_SUMMARY_MAX_CHARS,
+    MAX_TOPICS_PER_ITEM,
+    RawItem,
     add_bilingual_fields,
     add_creator_ranking_fields,
     add_source_tier_fields,
+    add_topic_fields,
+    apply_public_raw_meta,
+    assign_topics,
     build_agentmail_digest_payload,
     build_creator_hot_items,
     build_latest_payloads,
@@ -27,6 +33,10 @@ from scripts.update_news import (
     maybe_fetch_x_api_updates,
     maybe_fix_mojibake,
     normalize_source_for_display,
+    cap_discussion_items,
+    clean_feed_summary,
+    feed_entry_summary,
+    parse_ai_breakfast_feed_entries,
     parse_ai_breakfast_items,
     parse_aihot_api_items,
     parse_aihot_feed_items,
@@ -326,6 +336,185 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(items[0].source, "AI Breakfast")
         self.assertEqual(items[0].title, "Anthropic update lands")
         self.assertEqual(items[0].url, "https://aibreakfast.beehiiv.com/p/anthropic-update-lands")
+
+    def test_parse_ai_breakfast_feed_entries(self):
+        xml = """<?xml version='1.0' encoding='UTF-8'?>
+<rss><channel><title>AI Breakfast</title>
+<item>
+<title>Anthropic  update   lands</title>
+<link>https://aibreakfast.beehiiv.com/p/anthropic-update-lands</link>
+<pubDate>Fri, 01 May 2026 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Duplicate link is dropped</title>
+<link>https://aibreakfast.beehiiv.com/p/anthropic-update-lands</link>
+<pubDate>Fri, 01 May 2026 10:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Missing link is skipped</title>
+<link></link>
+<pubDate>Fri, 01 May 2026 11:00:00 GMT</pubDate>
+</item>
+</channel></rss>""".encode("utf-8")
+        entries = parse_feed_entries_via_xml(xml)
+        items = parse_ai_breakfast_feed_entries(entries, now=None)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].site_id, "aibreakfast")
+        self.assertEqual(items[0].source, "AI Breakfast")
+        self.assertEqual(items[0].title, "Anthropic update lands")
+        self.assertEqual(items[0].url, "https://aibreakfast.beehiiv.com/p/anthropic-update-lands")
+
+    def test_cap_discussion_items_keeps_the_newest_within_the_cap(self):
+        base = datetime(2026, 8, 31, tzinfo=timezone.utc)
+
+        def item(day, label):
+            return RawItem(
+                site_id="techurls",
+                site_name="TechURLs",
+                source=label,
+                title=label,
+                url=f"https://example.com/{label}",
+                published_at=base.replace(day=day),
+                meta={},
+            )
+
+        items = [item(1, "oldest"), item(20, "newest"), item(10, "middle")]
+        kept = cap_discussion_items(items, cap=2)
+        self.assertEqual([i.title for i in kept], ["newest", "middle"])
+
+        # Under the cap the list is returned untouched, order included.
+        self.assertEqual([i.title for i in cap_discussion_items(items, cap=9)], ["oldest", "newest", "middle"])
+
+    def test_cap_discussion_items_tolerates_missing_timestamps(self):
+        def item(published, label):
+            return RawItem(
+                site_id="newsnow",
+                site_name="NewsNow",
+                source=label,
+                title=label,
+                url=f"https://example.com/{label}",
+                published_at=published,
+                meta={},
+            )
+
+        dated = datetime(2026, 8, 31, tzinfo=timezone.utc)
+        # Two undated items would make a naive sort compare None with None.
+        items = [item(None, "a"), item(None, "b"), item(dated, "dated")]
+        kept = cap_discussion_items(items, cap=2)
+        self.assertEqual(kept[0].title, "dated")
+        self.assertEqual(len(kept), 2)
+
+    def test_assign_topics_matches_english_and_chinese_terms(self):
+        self.assertEqual(
+            assign_topics({"title": "Anthropic ships Claude Code agent teams"}),
+            ["agents", "ai-coding", "models"],
+        )
+        self.assertEqual(assign_topics({"title": "阿里开源 Qwen 新模型"}), ["open-source-models", "models"])
+        self.assertEqual(assign_topics({"title": "新基准测试榜单发布"}), ["evaluation"])
+        self.assertEqual(assign_topics({"title_zh": "一篇论文提出新的智能体框架"}), ["agents", "research"])
+
+    def test_assign_topics_requires_word_boundaries_for_ascii_terms(self):
+        # "ide" inside these words must not be read as an editor/coding signal,
+        # and none of them should pick up any other topic either.
+        for trap in ("A new video model", "A field guide", "We provide support", "Change management"):
+            self.assertEqual(assign_topics({"title": trap, "source": ""}), [], trap)
+
+    def test_assign_topics_is_capped_and_omitted_when_nothing_matches(self):
+        crowded = {
+            "title": "Agent benchmark for open-source Llama coding models in a paper",
+        }
+        self.assertEqual(len(assign_topics(crowded)), MAX_TOPICS_PER_ITEM)
+
+        self.assertEqual(assign_topics({"title": "A quiet day downtown"}), [])
+        self.assertEqual(assign_topics({}), [])
+
+        # No match means no key at all, rather than an empty list on every record.
+        self.assertNotIn("topics", add_topic_fields({"title": "A quiet day downtown"}))
+        self.assertEqual(add_topic_fields({"title": "New LLM released"})["topics"], ["models"])
+
+    def test_assign_topics_reads_the_summary_field(self):
+        record = {"title": "Weekly roundup", "summary": "A new leaderboard for agent evaluation."}
+        self.assertIn("evaluation", assign_topics(record))
+
+    def test_clean_feed_summary_strips_markup_and_collapses_space(self):
+        raw = "<p>OpenAI <b>shipped</b> a model.</p>\n\n  Benchmarks   improved."
+        self.assertEqual(
+            clean_feed_summary(raw),
+            "OpenAI shipped a model. Benchmarks improved.",
+        )
+
+    def test_clean_feed_summary_drops_blobs_that_only_repeat_the_title(self):
+        title = "OpenAI ships a new model"
+        self.assertEqual(clean_feed_summary(title, title), "")
+        self.assertEqual(clean_feed_summary("  openai SHIPS a new model  ", title), "")
+        self.assertEqual(clean_feed_summary("", title), "")
+        self.assertEqual(clean_feed_summary(None, title), "")
+
+    def test_clean_feed_summary_stays_within_the_length_budget(self):
+        # Sentence end late enough in the window: cut there, keep the period.
+        long_sentence = "中" * 100 + "。" + "尾" * 200
+        cut = clean_feed_summary(long_sentence)
+        self.assertTrue(cut.endswith("。"))
+        self.assertLessEqual(len(cut), FEED_SUMMARY_MAX_CHARS)
+
+        # No usable terminator: ellipsis, still inside the budget.
+        ellipsized = clean_feed_summary("A" * 400)
+        self.assertTrue(ellipsized.endswith("…"))
+        self.assertLessEqual(len(ellipsized), FEED_SUMMARY_MAX_CHARS)
+
+        # A terminator too early would leave a stub, so it is ignored.
+        stubby = clean_feed_summary("短。" + "长" * 400)
+        self.assertLessEqual(len(stubby), FEED_SUMMARY_MAX_CHARS)
+        self.assertNotEqual(stubby, "短。")
+
+    def test_feed_entry_summary_falls_back_across_feed_fields(self):
+        self.assertEqual(feed_entry_summary({"summary": "from summary"}), "from summary")
+        self.assertEqual(feed_entry_summary({"description": "from description"}), "from description")
+        self.assertEqual(feed_entry_summary({"subtitle": "from subtitle"}), "from subtitle")
+        self.assertEqual(feed_entry_summary({}), "")
+        # A summary that only echoes the title must not shadow a real description.
+        entry = {"summary": "Echoed title", "description": "Real detail here."}
+        self.assertEqual(feed_entry_summary(entry, "Echoed title"), "Real detail here.")
+
+    def test_apply_public_raw_meta_skips_blank_strings_but_keeps_false(self):
+        raw = RawItem(
+            site_id="curated_media",
+            site_name="Curated Media",
+            source="The Decoder AI News",
+            title="OpenAI ships a new model",
+            url="https://the-decoder.com/openai-ships",
+            published_at=None,
+            meta={"summary": "   ", "aihot_selected": False},
+        )
+        record = {}
+        apply_public_raw_meta(record, raw)
+        self.assertNotIn("summary", record)
+        self.assertIs(record["aihot_selected"], False)
+
+    def test_curated_media_feed_carries_the_description_as_summary(self):
+        xml = """<?xml version='1.0' encoding='UTF-8'?>
+<rss><channel><title>The Decoder AI News</title>
+<item>
+<title>OpenAI ships a new model</title>
+<link>https://the-decoder.com/openai-ships</link>
+<pubDate>Mon, 31 Aug 2026 08:00:00 GMT</pubDate>
+<description>&lt;p&gt;OpenAI released it today.&lt;/p&gt; Benchmarks improved.</description>
+</item>
+</channel></rss>""".encode("utf-8")
+        feed = {
+            "title": "The Decoder AI News",
+            "xml_url": "https://the-decoder.com/feed/",
+            "html_url": "https://the-decoder.com/",
+            "max_entries": 10,
+        }
+        now = datetime(2026, 8, 31, 12, 0, 0, tzinfo=timezone.utc)
+        items = parse_curated_ai_media_feed_items(xml, feed, now)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].meta.get("summary"), "OpenAI released it today. Benchmarks improved.")
+
+        record = {}
+        apply_public_raw_meta(record, items[0])
+        self.assertEqual(record.get("summary"), "OpenAI released it today. Benchmarks improved.")
 
     def test_parse_aihot_feed_items(self):
         xml = """<?xml version='1.0' encoding='UTF-8'?>

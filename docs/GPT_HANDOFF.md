@@ -5,8 +5,8 @@ verification.
 
 ## Local Project
 
-- Local path: `/Users/carl2077/workspace/ai-news-radar`
-- Public site: `https://learnprompt.github.io/ai-news-radar/`
+- Local path: `D:\workspace\ai-news-radar`
+- Public site: `https://jinyd0623.github.io/ai-news-radar/`
 - Local preview used during development: `http://127.0.0.1:8091/`
 - Local preview directory: `/tmp/ai-news-radar-preview`
 
