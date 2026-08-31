@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:05:17.031944Z",
+  "generated_at": "2026-08-31T18:01:24.715117Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8278,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7813,
+        "recency": 0.7708,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -325,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -358,7 +358,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9996,
+        "recency": 0.9862,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,7 +439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.976,
+        "recency": 0.9629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,7 +520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -568,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.786,
+        "recency": 0.7754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -601,7 +601,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -649,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8868,
+        "recency": 0.8749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -682,7 +682,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -730,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8855,
+        "recency": 0.8737,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,7 +763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -811,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8819,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -844,7 +844,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -892,15 +892,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8776,
+        "recency": 0.8658,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -925,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -1001,15 +1001,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6116,
-      "importance": 0.6116,
-      "importance_score": 0.6116,
+      "score": 0.6092,
+      "importance": 0.6092,
+      "importance_score": 0.6092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9785,
+        "recency": 0.9654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1034,7 +1034,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -1082,15 +1082,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8776,
+        "recency": 0.8658,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,7 +1115,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
+      }
+    },
+    {
+      "story_id": "story_1820ecd798ef",
+      "title": "ChatGPT 工作工具与技能参考",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "primary_url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "source": "codex-tool-reference.simonw.chatgpt.site",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": null,
+          "title_original": "ChatGPT 工作工具与技能参考",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T17:21:15.952000Z"
+        },
+        {
+          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
+          "title": "ChatGPT Work Tool and Skill Reference",
+          "title_zh": null,
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49510000",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T16:49:56.451000Z"
+        },
+        {
+          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T14:07:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "codex-tool-reference.simonw.chatgpt.site",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": null,
+          "title_original": "ChatGPT 工作工具与技能参考",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T17:21:15.952000Z"
+        },
+        {
+          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
+          "title": "ChatGPT Work Tool and Skill Reference",
+          "title_zh": null,
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49510000",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T16:49:56.451000Z"
+        },
+        {
+          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T14:07:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9904,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T14:07:15Z",
+      "latest_at": "2026-08-31T17:21:15.952000Z",
+      "primary_item": {
+        "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+        "title": "ChatGPT 工作工具与技能参考",
+        "title_zh": "ChatGPT 工作工具与技能参考",
+        "title_en": null,
+        "title_original": "ChatGPT 工作工具与技能参考",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://codex-tool-reference.simonw.chatgpt.site",
+        "source": "codex-tool-reference.simonw.chatgpt.site",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -1163,15 +1302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8776,
+        "recency": 0.8658,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,528 +1335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
-      }
-    },
-    {
-      "story_id": "story_1820ecd798ef",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://news.ycombinator.com/item?id=49510000",
-      "primary_url": "https://news.ycombinator.com/item?id=49510000",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
-          "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T16:49:56.451000Z"
-        },
-        {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
-          "title": "ChatGPT Work Tool and Skill Reference",
-          "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T14:07:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
-          "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T16:49:56.451000Z"
-        },
-        {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
-          "title": "ChatGPT Work Tool and Skill Reference",
-          "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T14:07:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9963,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T14:07:15Z",
-      "latest_at": "2026-08-31T16:49:56.451000Z",
-      "primary_item": {
-        "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-        "title": "ChatGPT Work Tool and Skill Reference",
-        "title_zh": null,
-        "title_en": "ChatGPT Work Tool and Skill Reference",
-        "title_original": "ChatGPT Work Tool and Skill Reference",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49510000",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
-      }
-    },
-    {
-      "story_id": "story_f71255ff5ffc",
-      "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-      "url": "https://www.aibase.com/news/30706",
-      "primary_url": "https://www.aibase.com/news/30706",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
-          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "title_en": null,
-          "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30706",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T08:02:51.788576Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
-          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "title_en": null,
-          "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30706",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T08:02:51.788576Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8776,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T08:02:51.788576Z",
-      "latest_at": "2026-08-31T08:02:51.788576Z",
-      "primary_item": {
-        "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
-        "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-        "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-        "title_en": null,
-        "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30706",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
-      }
-    },
-    {
-      "story_id": "story_2f756534b2bf",
-      "title": "如何构建扩散式语言模型",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "primary_url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "source": "kuleshov-group.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "如何构建扩散式语言模型",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
-        },
-        {
-          "id": "2e5cf851f266a2816174e1d9a8972c3c2916801e",
-          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T23:41:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "kuleshov-group.github.io"
-      ],
-      "items": [
-        {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "如何构建扩散式语言模型",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
-        },
-        {
-          "id": "2e5cf851f266a2816174e1d9a8972c3c2916801e",
-          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T23:41:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9122,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T23:41:32Z",
-      "latest_at": "2026-08-31T10:43:39.380000Z",
-      "primary_item": {
-        "id": "dc27c896974cd20d87f139540e6288de4871c967",
-        "title": "如何构建扩散式语言模型",
-        "title_zh": "如何构建扩散式语言模型",
-        "title_en": null,
-        "title_original": "如何构建扩散式语言模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-        "source": "kuleshov-group.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
-      }
-    },
-    {
-      "story_id": "story_492835039be8",
-      "title": "OpenClaw 2.0，意外之作",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "source": "openclaw.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "bb62a08b29635069cb6c794fe5772145f15db258",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "openclaw.ai"
-      ],
-      "items": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "bb62a08b29635069cb6c794fe5772145f15db258",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9088,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T03:38:02Z",
-      "latest_at": "2026-08-31T10:27:50.895000Z",
-      "primary_item": {
-        "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-        "title": "OpenClaw 2.0，意外之作",
-        "title_zh": "OpenClaw 2.0，意外之作",
-        "title_en": null,
-        "title_original": "OpenClaw 2.0，意外之作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-        "source": "openclaw.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
-      }
-    },
-    {
-      "story_id": "story_40b94c960751",
-      "title": "连续扩散语言模型（CDLM）",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "primary_url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "source": "sander.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "sander.ai"
-      ],
-      "items": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.888,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-31T08:51:38.607000Z",
-      "primary_item": {
-        "id": "415e009d2374693666a0903268d9b1d2782969c6",
-        "title": "连续扩散语言模型（CDLM）",
-        "title_zh": "连续扩散语言模型（CDLM）",
-        "title_en": null,
-        "title_original": "连续扩散语言模型（CDLM）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "source": "sander.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     },
     {
@@ -1794,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1827,7 +1445,418 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T17:21:27.551339Z"
+        "scored_at": "2026-08-31T18:19:36.307543Z"
+      }
+    },
+    {
+      "story_id": "story_f71255ff5ffc",
+      "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+      "url": "https://www.aibase.com/news/30706",
+      "primary_url": "https://www.aibase.com/news/30706",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_en": null,
+          "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30706",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "title_en": null,
+          "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30706",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T08:02:51.788576Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8658,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T08:02:51.788576Z",
+      "latest_at": "2026-08-31T08:02:51.788576Z",
+      "primary_item": {
+        "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+        "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+        "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+        "title_en": null,
+        "title_original": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30706",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T18:19:36.307543Z"
+      }
+    },
+    {
+      "story_id": "story_2f756534b2bf",
+      "title": "如何构建扩散式语言模型",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+      "primary_url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+      "source": "kuleshov-group.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dc27c896974cd20d87f139540e6288de4871c967",
+          "title": "如何构建扩散式语言模型",
+          "title_zh": "如何构建扩散式语言模型",
+          "title_en": null,
+          "title_original": "如何构建扩散式语言模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "source": "kuleshov-group.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T10:43:39.380000Z"
+        },
+        {
+          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
+          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
+          "title_zh": "如何构建扩散式语言模型",
+          "title_en": "How to build a diffusion language model",
+          "title_original": "How to build a diffusion language model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T23:41:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "kuleshov-group.github.io"
+      ],
+      "items": [
+        {
+          "id": "dc27c896974cd20d87f139540e6288de4871c967",
+          "title": "如何构建扩散式语言模型",
+          "title_zh": "如何构建扩散式语言模型",
+          "title_en": null,
+          "title_original": "如何构建扩散式语言模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "source": "kuleshov-group.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T10:43:39.380000Z"
+        },
+        {
+          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
+          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
+          "title_zh": "如何构建扩散式语言模型",
+          "title_en": "How to build a diffusion language model",
+          "title_original": "How to build a diffusion language model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T23:41:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T23:41:32Z",
+      "latest_at": "2026-08-31T10:43:39.380000Z",
+      "primary_item": {
+        "id": "dc27c896974cd20d87f139540e6288de4871c967",
+        "title": "如何构建扩散式语言模型",
+        "title_zh": "如何构建扩散式语言模型",
+        "title_en": null,
+        "title_original": "如何构建扩散式语言模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+        "source": "kuleshov-group.github.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T18:19:36.307543Z"
+      }
+    },
+    {
+      "story_id": "story_492835039be8",
+      "title": "OpenClaw 2.0，意外之作",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "source": "openclaw.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
+          "title": "OpenClaw 2.0，意外之作",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": null,
+          "title_original": "OpenClaw 2.0，意外之作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "openclaw.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T10:27:50.895000Z"
+        },
+        {
+          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
+          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": "OpenClaw 2.0, Accidentally",
+          "title_original": "OpenClaw 2.0, Accidentally",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T03:38:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "openclaw.ai"
+      ],
+      "items": [
+        {
+          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
+          "title": "OpenClaw 2.0，意外之作",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": null,
+          "title_original": "OpenClaw 2.0，意外之作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "openclaw.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T10:27:50.895000Z"
+        },
+        {
+          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
+          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": "OpenClaw 2.0, Accidentally",
+          "title_original": "OpenClaw 2.0, Accidentally",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T03:38:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8966,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T03:38:02Z",
+      "latest_at": "2026-08-31T10:27:50.895000Z",
+      "primary_item": {
+        "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
+        "title": "OpenClaw 2.0，意外之作",
+        "title_zh": "OpenClaw 2.0，意外之作",
+        "title_en": null,
+        "title_original": "OpenClaw 2.0，意外之作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+        "source": "openclaw.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T18:19:36.307543Z"
+      }
+    },
+    {
+      "story_id": "story_40b94c960751",
+      "title": "连续扩散语言模型（CDLM）",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "primary_url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "source": "sander.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "415e009d2374693666a0903268d9b1d2782969c6",
+          "title": "连续扩散语言模型（CDLM）",
+          "title_zh": "连续扩散语言模型（CDLM）",
+          "title_en": null,
+          "title_original": "连续扩散语言模型（CDLM）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "sander.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T08:51:38.607000Z"
+        },
+        {
+          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
+          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
+          "title_zh": "连续扩散语言模型（CDLM）",
+          "title_en": "Continuous Diffusion Language Models (CDLM's)",
+          "title_original": "Continuous Diffusion Language Models (CDLM's)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T20:46:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "sander.ai"
+      ],
+      "items": [
+        {
+          "id": "415e009d2374693666a0903268d9b1d2782969c6",
+          "title": "连续扩散语言模型（CDLM）",
+          "title_zh": "连续扩散语言模型（CDLM）",
+          "title_en": null,
+          "title_original": "连续扩散语言模型（CDLM）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "sander.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T08:51:38.607000Z"
+        },
+        {
+          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
+          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
+          "title_zh": "连续扩散语言模型（CDLM）",
+          "title_en": "Continuous Diffusion Language Models (CDLM's)",
+          "title_original": "Continuous Diffusion Language Models (CDLM's)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T20:46:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8761,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T20:46:53Z",
+      "latest_at": "2026-08-31T08:51:38.607000Z",
+      "primary_item": {
+        "id": "415e009d2374693666a0903268d9b1d2782969c6",
+        "title": "连续扩散语言模型（CDLM）",
+        "title_zh": "连续扩散语言模型（CDLM）",
+        "title_en": null,
+        "title_original": "连续扩散语言模型（CDLM）",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+        "source": "sander.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T18:19:36.307543Z"
       }
     }
   ]
