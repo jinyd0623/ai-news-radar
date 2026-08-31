@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-31T18:01:24.715117Z",
+  "generated_at": "2026-08-31T21:54:43.929003Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_bd6dbcbcc36a",
+      "title": "GitHub Copilot in VS Code, August 2026 releases",
+      "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "040868e794334d9663e1bc0910d606d026adb98d",
+          "title": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, August 2026 releases",
+          "summary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T08:39:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "040868e794334d9663e1bc0910d606d026adb98d",
+          "title": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, August 2026 releases",
+          "summary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T08:39:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8259,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:39:54Z",
+      "latest_at": "2026-08-31T08:39:54Z",
+      "primary_item": {
+        "id": "040868e794334d9663e1bc0910d606d026adb98d",
+        "title": "GitHub Copilot in VS Code, August 2026 releases",
+        "title_zh": null,
+        "title_en": "GitHub Copilot in VS Code, August 2026 releases",
+        "title_original": "GitHub Copilot in VS Code, August 2026 releases",
+        "summary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T22:12:57.050746Z"
+      }
+    },
     {
       "story_id": "story_b5eed0f3b98c",
       "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
@@ -17,7 +105,7 @@
           "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
           "title_en": "A milestone in expanding access to AI",
           "title_original": "A milestone in expanding access to AI",
-          "summary": null,
+          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "source": "OpenAI News",
@@ -37,7 +125,7 @@
           "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
           "title_en": "A milestone in expanding access to AI",
           "title_original": "A milestone in expanding access to AI",
-          "summary": null,
+          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "source": "OpenAI News",
@@ -48,15 +136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8167,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,17 +161,20 @@
         "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
         "title_en": "A milestone in expanding access to AI",
         "title_original": "A milestone in expanding access to AI",
-        "summary": null,
+        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -160,15 +251,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7708,
+        "recency": 0.7287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -189,13 +280,16 @@
         "recommend_reason_zh": null,
         "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -243,15 +337,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9113,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -271,13 +365,20 @@
         "recommend_reason_zh": null,
         "url": "https://www.ithome.com/0/996/637.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "open-source-models",
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -325,15 +426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -352,13 +453,18 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30730",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -406,15 +512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9324,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -433,94 +539,20 @@
         "recommend_reason_zh": null,
         "url": "https://runwayml.com/news/research/introducing-solaris",
         "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "ai-coding",
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
-      }
-    },
-    {
-      "story_id": "story_bb8456f834ab",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9629,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T15:24:14Z",
-      "latest_at": "2026-08-31T15:24:14Z",
-      "primary_item": {
-        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -568,15 +600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7754,
+        "recency": 0.7331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -595,13 +627,106 @@
         "recommend_reason_zh": null,
         "url": "https://www.oneusefulthing.org/p/agency-and-agents",
         "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "source_name": "AI HOT"
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "open-source-models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
+      }
+    },
+    {
+      "story_id": "story_bb8456f834ab",
+      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T15:24:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T15:24:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9103,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T15:24:14Z",
+      "latest_at": "2026-08-31T15:24:14Z",
+      "primary_item": {
+        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -649,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8749,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -676,13 +801,18 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30728",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -730,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8737,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -757,13 +887,16 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30727",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -811,15 +944,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8701,
+        "recency": 0.8226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,13 +971,16 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30726",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -892,15 +1028,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,13 +1055,16 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30719",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -942,7 +1081,7 @@
           "title_zh": null,
           "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
           "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
-          "summary": null,
+          "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.",
           "recommend_reason_zh": null,
           "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
           "source": "The Verge",
@@ -976,7 +1115,7 @@
           "title_zh": null,
           "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
           "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
-          "summary": null,
+          "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.",
           "recommend_reason_zh": null,
           "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
           "source": "The Verge",
@@ -1001,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6092,
-      "importance": 0.6092,
-      "importance_score": 0.6092,
+      "score": 0.5998,
+      "importance": 0.5998,
+      "importance_score": 0.5998,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9654,
+        "recency": 0.9127,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1024,17 +1163,20 @@
         "title_zh": null,
         "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
         "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
-        "summary": null,
+        "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.",
         "recommend_reason_zh": null,
         "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
         "source": "The Verge",
-        "source_name": "Curated Media"
+        "source_name": "Curated Media",
+        "source_tier": "ai_media",
+        "source_tier_label": "精选AI媒体",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -1082,15 +1224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,13 +1251,19 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30709",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -1221,15 +1369,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9904,
+        "recency": 0.9363,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1248,13 +1396,18 @@
         "recommend_reason_zh": null,
         "url": "https://codex-tool-reference.simonw.chatgpt.site",
         "source": "codex-tool-reference.simonw.chatgpt.site",
-        "source_name": "Buzzing"
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "ai-coding"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -1302,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1329,123 +1482,244 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30722",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
-      "story_id": "story_00f3e847a46f",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://news.ycombinator.com/item?id=49511007",
-      "primary_url": "https://news.ycombinator.com/item?id=49511007",
+      "story_id": "story_ee700037d74d",
+      "title": "The safest job from AI may be writing",
+      "url": "https://news.ycombinator.com/item?id=49512856",
+      "primary_url": "https://news.ycombinator.com/item?id=49512856",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
+          "title": "The safest job from AI may be writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The safest job from AI may be writing",
+          "title_original": "The safest job from AI may be writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49511007",
+          "url": "https://news.ycombinator.com/item?id=49512856",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T16:49:56.451000Z"
+          "published_at": "2026-08-31T21:55:05.716000Z"
         },
         {
-          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
+          "title": "The safest job from AI may be writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The safest job from AI may be writing",
+          "title_original": "The safest job from AI may be writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://usealmanac.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:34Z"
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T18:12:20Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
+          "title": "The safest job from AI may be writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The safest job from AI may be writing",
+          "title_original": "The safest job from AI may be writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49511007",
+          "url": "https://news.ycombinator.com/item?id=49512856",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T16:49:56.451000Z"
+          "published_at": "2026-08-31T21:55:05.716000Z"
         },
         {
-          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
+          "title": "The safest job from AI may be writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The safest job from AI may be writing",
+          "title_original": "The safest job from AI may be writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://usealmanac.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:34Z"
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T18:12:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9829,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T15:34:34Z",
-      "latest_at": "2026-08-31T16:49:56.451000Z",
+      "earliest_at": "2026-08-31T18:12:20Z",
+      "latest_at": "2026-08-31T21:55:05.716000Z",
       "primary_item": {
-        "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
-        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
+        "title": "The safest job from AI may be writing",
         "title_zh": null,
-        "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-        "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "title_en": "The safest job from AI may be writing",
+        "title_original": "The safest job from AI may be writing",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49511007",
+        "url": "https://news.ycombinator.com/item?id=49512856",
         "source": "hackernews",
-        "source_name": "NewsNow"
+        "source_name": "NewsNow",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
+      }
+    },
+    {
+      "story_id": "story_33e3871730ab",
+      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "source": "www.macrumors.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": null,
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T18:41:20.531000Z"
+        },
+        {
+          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T12:41:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.macrumors.com"
+      ],
+      "items": [
+        {
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": null,
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T18:41:20.531000Z"
+        },
+        {
+          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T12:41:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9545,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T12:41:22Z",
+      "latest_at": "2026-08-31T18:41:20.531000Z",
+      "primary_item": {
+        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "title_en": null,
+        "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+        "source": "www.macrumors.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -1493,15 +1767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1520,13 +1794,16 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30706",
         "source": "AIbase",
-        "source_name": "AIbase"
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     },
     {
@@ -1603,15 +1880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9,
+        "recency": 0.8509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1630,233 +1907,18 @@
         "recommend_reason_zh": null,
         "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
         "source": "kuleshov-group.github.io",
-        "source_name": "Buzzing"
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
-      }
-    },
-    {
-      "story_id": "story_492835039be8",
-      "title": "OpenClaw 2.0，意外之作",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "source": "openclaw.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openclaw.ai"
-      ],
-      "items": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8966,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T03:38:02Z",
-      "latest_at": "2026-08-31T10:27:50.895000Z",
-      "primary_item": {
-        "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-        "title": "OpenClaw 2.0，意外之作",
-        "title_zh": "OpenClaw 2.0，意外之作",
-        "title_en": null,
-        "title_original": "OpenClaw 2.0，意外之作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-        "source": "openclaw.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
-      }
-    },
-    {
-      "story_id": "story_40b94c960751",
-      "title": "连续扩散语言模型（CDLM）",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "primary_url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "source": "sander.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "sander.ai"
-      ],
-      "items": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8761,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-31T08:51:38.607000Z",
-      "primary_item": {
-        "id": "415e009d2374693666a0903268d9b1d2782969c6",
-        "title": "连续扩散语言模型（CDLM）",
-        "title_zh": "连续扩散语言模型（CDLM）",
-        "title_en": null,
-        "title_original": "连续扩散语言模型（CDLM）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "source": "sander.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T18:19:36.307543Z"
+        "scored_at": "2026-08-31T22:12:57.050746Z"
       }
     }
   ]

@@ -5,13 +5,21 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 31 Aug 2026 18:01:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 21:54:43 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>GitHub Copilot in VS Code, August 2026 releases</title>
+<link>https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases</guid>
+<description>This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Mon, 31 Aug 2026 08:39:54 +0000</pubDate>
+</item>
 <item>
 <title>ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI</title>
 <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
 <guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
-<description>OpenAI News</description>
+<description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
 </item>
@@ -48,20 +56,20 @@
 <pubDate>Mon, 31 Aug 2026 17:03:47 +0000</pubDate>
 </item>
 <item>
-<title>Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident</title>
-<link>https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but</link>
-<guid isPermaLink="true">https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but</guid>
-<description>Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会"牺牲"或"死亡"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 15:24:14 +0000</pubDate>
-</item>
-<item>
 <title>AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents</title>
 <link>https://www.oneusefulthing.org/p/agency-and-agents</link>
 <guid isPermaLink="true">https://www.oneusefulthing.org/p/agency-and-agents</guid>
 <description>OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。（Ethan Mollick：One Useful Thing（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 31 Aug 2026 00:24:35 +0000</pubDate>
+</item>
+<item>
+<title>Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident</title>
+<link>https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but</link>
+<guid isPermaLink="true">https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but</guid>
+<description>Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会"牺牲"或"死亡"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 15:24:14 +0000</pubDate>
 </item>
 <item>
 <title>豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复</title>
@@ -99,7 +107,7 @@
 <title>Debian won&amp;#8217;t ban AI code from its Linux distribution</title>
 <link>https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</guid>
-<description>The Verge</description>
+<description>Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's "development, maintenance, [and] documentation.（The Verge）</description>
 <category>值得关注</category>
 <pubDate>Mon, 31 Aug 2026 15:34:58 +0000</pubDate>
 </item>
@@ -128,12 +136,20 @@
 <pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
 </item>
 <item>
-<title>Launch HN: Almanac (YC S26) – AI that knows your company</title>
-<link>https://news.ycombinator.com/item?id=49511007</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49511007</guid>
+<title>The safest job from AI may be writing</title>
+<link>https://news.ycombinator.com/item?id=49512856</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49512856</guid>
 <description>hackernews</description>
 <category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 16:49:56 +0000</pubDate>
+<pubDate>Mon, 31 Aug 2026 21:55:05 +0000</pubDate>
+</item>
+<item>
+<title>Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及</title>
+<link>https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand</link>
+<guid isPermaLink="true">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand</guid>
+<description>www.macrumors.com</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 18:41:20 +0000</pubDate>
 </item>
 <item>
 <title>Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪</title>
@@ -150,22 +166,6 @@
 <description>kuleshov-group.github.io</description>
 <category>值得关注</category>
 <pubDate>Mon, 31 Aug 2026 10:43:39 +0000</pubDate>
-</item>
-<item>
-<title>OpenClaw 2.0，意外之作</title>
-<link>https://openclaw.ai/blog/openclaw-2-accidentally</link>
-<guid isPermaLink="true">https://openclaw.ai/blog/openclaw-2-accidentally</guid>
-<description>openclaw.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 10:27:50 +0000</pubDate>
-</item>
-<item>
-<title>连续扩散语言模型（CDLM）</title>
-<link>https://sander.ai/2026/08/24/continuous-dlms.html</link>
-<guid isPermaLink="true">https://sander.ai/2026/08/24/continuous-dlms.html</guid>
-<description>sander.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 08:51:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
