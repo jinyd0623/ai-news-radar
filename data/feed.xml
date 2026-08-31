@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 31 Aug 2026 08:46:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 09:12:15 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work</title>
@@ -16,12 +16,12 @@
 <pubDate>Mon, 31 Aug 2026 05:07:13 +0000</pubDate>
 </item>
 <item>
-<title>豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复</title>
-<link>https://www.aibase.com/news/30728</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30728</guid>
+<title>Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话</title>
+<link>https://www.aibase.com/news/30730</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30730</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:46:10 +0000</pubDate>
+<pubDate>Mon, 31 Aug 2026 09:12:15 +0000</pubDate>
 </item>
 <item>
 <title>AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents</title>
@@ -32,12 +32,12 @@
 <pubDate>Mon, 31 Aug 2026 00:24:35 +0000</pubDate>
 </item>
 <item>
-<title>英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全</title>
-<link>https://www.aibase.com/news/30727</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30727</guid>
+<title>豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复</title>
+<link>https://www.aibase.com/news/30728</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30728</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:40:13 +0000</pubDate>
+<pubDate>Mon, 31 Aug 2026 08:46:10 +0000</pubDate>
 </item>
 <item>
 <title>基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了</title>
@@ -48,12 +48,12 @@
 <pubDate>Mon, 31 Aug 2026 00:36:00 +0000</pubDate>
 </item>
 <item>
-<title>索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over "one of the largest and most blatant ongoing thefts of intellectual property in history"</title>
-<link>https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history</link>
-<guid isPermaLink="true">https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history</guid>
-<description>索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。（The Decoder：AI News（RSS））</description>
+<title>英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全</title>
+<link>https://www.aibase.com/news/30727</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30727</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 30 Aug 2026 08:50:20 +0000</pubDate>
+<pubDate>Mon, 31 Aug 2026 08:40:13 +0000</pubDate>
 </item>
 <item>
 <title>单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元</title>
@@ -96,12 +96,12 @@
 <pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI十万亿参数新模型Bel预训练完成</title>
-<link>https://www.aibase.com/news/30718</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30718</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
+<title>连续扩散语言模型（CDLM）</title>
+<link>https://sander.ai/2026/08/24/continuous-dlms.html</link>
+<guid isPermaLink="true">https://sander.ai/2026/08/24/continuous-dlms.html</guid>
+<description>sander.ai</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 08:51:38 +0000</pubDate>
 </item>
 <item>
 <title>Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails</title>
@@ -112,9 +112,9 @@
 <pubDate>Mon, 31 Aug 2026 08:04:07 +0000</pubDate>
 </item>
 <item>
-<title>OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话</title>
-<link>https://www.aibase.com/news/30720</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30720</guid>
+<title>OpenAI十万亿参数新模型Bel预训练完成</title>
+<link>https://www.aibase.com/news/30718</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30718</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
@@ -144,6 +144,14 @@
 <pubDate>Sun, 30 Aug 2026 15:15:25 +0000</pubDate>
 </item>
 <item>
+<title>OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话</title>
+<link>https://www.aibase.com/news/30720</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30720</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
+</item>
+<item>
 <title>一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包</title>
 <link>https://www.aibase.com/news/30721</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30721</guid>
@@ -155,14 +163,6 @@
 <title>上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群</title>
 <link>https://www.aibase.com/news/30711</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30711</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
-</item>
-<item>
-<title>华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院</title>
-<link>https://www.aibase.com/news/30710</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30710</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
