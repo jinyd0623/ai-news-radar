@@ -5,8 +5,16 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 31 Aug 2026 09:12:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 17:05:17 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI</title>
+<link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+<guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
+</item>
 <item>
 <title>理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work</title>
 <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work</link>
@@ -16,12 +24,36 @@
 <pubDate>Mon, 31 Aug 2026 05:07:13 +0000</pubDate>
 </item>
 <item>
+<title>DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8</title>
+<link>https://www.ithome.com/0/996/637.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/996/637.htm</guid>
+<description>DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 11:35:24 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话</title>
 <link>https://www.aibase.com/news/30730</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30730</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 31 Aug 2026 09:12:15 +0000</pubDate>
+</item>
+<item>
+<title>Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面 / Introducing Solaris</title>
+<link>https://runwayml.com/news/research/introducing-solaris</link>
+<guid isPermaLink="true">https://runwayml.com/news/research/introducing-solaris</guid>
+<description>Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。（Runway：News（网页））</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 17:03:47 +0000</pubDate>
+</item>
+<item>
+<title>Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident</title>
+<link>https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but</link>
+<guid isPermaLink="true">https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but</guid>
+<description>Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会"牺牲"或"死亡"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 15:24:14 +0000</pubDate>
 </item>
 <item>
 <title>AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents</title>
@@ -38,14 +70,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 31 Aug 2026 08:46:10 +0000</pubDate>
-</item>
-<item>
-<title>基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489121&amp;idx=1&amp;sn=f517f5cee108929b49d2b596ebf96a06</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489121&amp;idx=1&amp;sn=f517f5cee108929b49d2b596ebf96a06</guid>
-<description>MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时"AI 电视台"。（公众号：MiniMax（稀宇科技））</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 00:36:00 +0000</pubDate>
 </item>
 <item>
 <title>英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全</title>
@@ -72,6 +96,14 @@
 <pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
 </item>
 <item>
+<title>Debian won&amp;#8217;t ban AI code from its Linux distribution</title>
+<link>https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 15:34:58 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%</title>
 <link>https://www.aibase.com/news/30709</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30709</guid>
@@ -88,12 +120,36 @@
 <pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
 </item>
 <item>
+<title>ChatGPT Work Tool and Skill Reference</title>
+<link>https://news.ycombinator.com/item?id=49510000</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49510000</guid>
+<description>hackernews</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 16:49:56 +0000</pubDate>
+</item>
+<item>
 <title>Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪</title>
 <link>https://www.aibase.com/news/30706</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30706</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
+</item>
+<item>
+<title>如何构建扩散式语言模型</title>
+<link>https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model</link>
+<guid isPermaLink="true">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model</guid>
+<description>kuleshov-group.github.io</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 10:43:39 +0000</pubDate>
+</item>
+<item>
+<title>OpenClaw 2.0，意外之作</title>
+<link>https://openclaw.ai/blog/openclaw-2-accidentally</link>
+<guid isPermaLink="true">https://openclaw.ai/blog/openclaw-2-accidentally</guid>
+<description>openclaw.ai</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 10:27:50 +0000</pubDate>
 </item>
 <item>
 <title>连续扩散语言模型（CDLM）</title>
@@ -104,68 +160,12 @@
 <pubDate>Mon, 31 Aug 2026 08:51:38 +0000</pubDate>
 </item>
 <item>
-<title>Meta 安全研究员的 AI 智能体意外删除了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails</title>
-<link>https://news.ycombinator.com/item?id=49506655</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49506655</guid>
+<title>Launch HN: Almanac (YC S26) – AI that knows your company</title>
+<link>https://news.ycombinator.com/item?id=49511007</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49511007</guid>
 <description>hackernews</description>
 <category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 08:04:07 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI十万亿参数新模型Bel预训练完成</title>
-<link>https://www.aibase.com/news/30718</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30718</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
-</item>
-<item>
-<title>METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告</title>
-<link>https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack</link>
-<guid isPermaLink="true">https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack</guid>
-<description>thezvi.wordpress.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 30 Aug 2026 19:31:43 +0000</pubDate>
-</item>
-<item>
-<title>默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中</title>
-<link>https://github.com/anthropics/claude-code/issues/66504</link>
-<guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/66504</guid>
-<description>github.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 30 Aug 2026 16:35:36 +0000</pubDate>
-</item>
-<item>
-<title>“无AI星期五”</title>
-<link>https://noaifridays.com</link>
-<guid isPermaLink="true">https://noaifridays.com</guid>
-<description>noaifridays.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 30 Aug 2026 15:15:25 +0000</pubDate>
-</item>
-<item>
-<title>OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话</title>
-<link>https://www.aibase.com/news/30720</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30720</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
-</item>
-<item>
-<title>一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包</title>
-<link>https://www.aibase.com/news/30721</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30721</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
-</item>
-<item>
-<title>上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群</title>
-<link>https://www.aibase.com/news/30711</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30711</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 08:02:51 +0000</pubDate>
+<pubDate>Mon, 31 Aug 2026 16:49:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
