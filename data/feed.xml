@@ -5,8 +5,24 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 01 Sep 2026 19:56:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 23:20:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+<link>https://huggingface.co/blog/allenai/benchmirt</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/benchmirt</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards</title>
+<link>https://openai.com/index/path-to-astra</link>
+<guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
+<description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace</title>
 <link>https://blog.google/products-and-platforms/products/workspace/google-pics</link>
@@ -16,10 +32,18 @@
 <pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
-<link>https://huggingface.co/blog/webgpu-kernels</link>
-<guid isPermaLink="true">https://huggingface.co/blog/webgpu-kernels</guid>
-<description>Hugging Face Blog</description>
+<title>Copilot code review can now approve pull requests</title>
+<link>https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests</guid>
+<description>Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 19:25:57 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.152.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
@@ -32,6 +56,30 @@
 <pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
 </item>
 <item>
+<title>Enterprise Live Migrations from GHES to ghe.com generally available</title>
+<link>https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</guid>
+<description>Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 22:24:27 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
+<link>https://huggingface.co/blog/webgpu-kernels</link>
+<guid isPermaLink="true">https://huggingface.co/blog/webgpu-kernels</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The latest AI news we announced in August 2026</title>
+<link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</guid>
+<description>Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini logo icon; 2. a photo of a pixel phone; 3.（Google AI Blog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
 <title>How AI-native companies turn workflows into operating capability</title>
 <link>https://openai.com/index/ai-native-company-workflows</link>
 <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
@@ -40,36 +88,12 @@
 <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Block users from discussion comments in personal repositories</title>
-<link>https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</guid>
-<description>You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 16:30:01 +0000</pubDate>
-</item>
-<item>
-<title>Codex CLI 0.152.0</title>
+<title>ChatGPT for iOS 1.2026.237</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
 <description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
-<link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
-<description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts</title>
-<link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
-<description>Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。（Anthropic：Newsroom（网页））</description>
-<category>官方更新</category>
-<pubDate>Mon, 31 Aug 2026 23:00:05 +0000</pubDate>
 </item>
 <item>
 <title>Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …</title>
@@ -80,12 +104,28 @@
 <pubDate>Tue, 01 Sep 2026 19:43:09 +0000</pubDate>
 </item>
 <item>
-<title>Copilot model access update for GitHub Team plans</title>
-<link>https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</guid>
-<description>We have updated how model access is determined for Copilot users who hold seats in more than one organization.（GitHub Changelog）</description>
+<title>Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…</title>
+<link>https://x.com/ArtificialAnlys/status/2094881171066978525</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2094881171066978525</guid>
+<description>Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 01 Sep 2026 20:12:46 +0000</pubDate>
+</item>
+<item>
+<title>Set an expiration date for individual user budgets</title>
+<link>https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</guid>
+<description>You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Mon, 31 Aug 2026 21:58:46 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 20:23:13 +0000</pubDate>
+</item>
+<item>
+<title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+<link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+<description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
@@ -104,6 +144,14 @@
 <pubDate>Tue, 01 Sep 2026 15:28:36 +0000</pubDate>
 </item>
 <item>
+<title>Block users from discussion comments in personal repositories</title>
+<link>https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</guid>
+<description>You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 16:30:01 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控</title>
 <link>https://www.ithome.com/0/996/711.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/0/996/711.htm</guid>
@@ -112,57 +160,9 @@
 <pubDate>Mon, 31 Aug 2026 23:55:44 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…</title>
-<link>https://x.com/AnthropicAI/status/2094577944056430865</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2094577944056430865</guid>
-<description>Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。（X：Anthropic (@AnthropicAI)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 00:07:51 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview</guid>
-<description>Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。（Claude Platform：开发者版本说明（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相</title>
 <link>https://www.aibase.com/news/30752</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30752</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
-</item>
-<item>
-<title>57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”</title>
-<link>https://www.aibase.com/news/30754</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30754</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT Ads上线不足200天年化收入突破10 亿美元</title>
-<link>https://www.aibase.com/news/30753</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30753</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活</title>
-<link>https://www.aibase.com/news/30755</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30755</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数</title>
-<link>https://www.aibase.com/news/30751</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30751</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
