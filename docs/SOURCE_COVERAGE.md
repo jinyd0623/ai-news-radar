@@ -94,15 +94,20 @@ baseline, then let the aggregator layer add breadth.
   AI relevance scoring as the rest of the radar. Research-heavy feeds are
   intentionally filtered and downweighted so they fill the research lane without
   dominating the default hot view.
-- **AI Breakfast**: tries the public Beehiiv feed first and falls back to the
-  Jina Reader view of the archive. Neither path is reliable on its own: the
-  Beehiiv feed can answer with a Cloudflare challenge, and the Jina Reader
-  endpoint began returning 403 to anonymous callers in 2026-08. The source is
-  only reported as failed once both paths return nothing.
+- **AI Breakfast**: retired 2026-09-01. Both access paths are dead. The Beehiiv
+  feed at `/feed` answers 404 — verified from a US CI runner, so this is a missing
+  path rather than a geo-block — and the Jina Reader endpoint returns 403 to
+  anonymous callers. `rss.beehiiv.com/feeds/<slug>.xml` also 404s; the real feed
+  would need discovering from the publication page. Not worth it for a source that
+  contributed 6 items over the 14-day audit window. If someone wants it back,
+  discover the actual feed URL rather than guessing paths.
 - **Info Flow (iris)**: retired in 2026-08. `iris.findtruman.io` pivoted to an
   unrelated product and `/web/info_flow` answers 502, which cost roughly three
   minutes per run in retries. Archived items keep their tier label, but nothing
   is fetched anymore.
+
+Both retired sources keep their `SOURCE_TIER_BY_SITE` entries so archived items
+do not fall back to the `other` / 其他来源 tier.
 - **AI HOT**: reads the public `https://aihot.virxact.com/api/public/items`
   API in selected mode and keeps only items whose AI HOT card score is at least
   60. The parser preserves AI HOT's Chinese title, valid English original title,

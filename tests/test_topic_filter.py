@@ -36,8 +36,6 @@ from scripts.update_news import (
     cap_discussion_items,
     clean_feed_summary,
     feed_entry_summary,
-    parse_ai_breakfast_feed_entries,
-    parse_ai_breakfast_items,
     parse_aihot_api_items,
     parse_aihot_feed_items,
     parse_curated_ai_media_feed_items,
@@ -325,44 +323,6 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(items[0].source, "OpenAI Codex Changelog")
         self.assertEqual(items[0].title, "Codex app adds workspace companions")
         self.assertEqual(items[0].url, "https://developers.openai.com/codex/changelog#codex-2026-05-01")
-
-    def test_parse_ai_breakfast_items(self):
-        markdown = """
-        [May 1, 2026 • 4 min read ### **Anthropic update lands** AI Breakfast](https://aibreakfast.beehiiv.com/p/anthropic-update-lands)
-        [Apr 29, 2026 • 5 min read ### **OpenAI ships a model update** AI Breakfast](https://aibreakfast.beehiiv.com/p/openai-ships-model-update)
-        """
-        items = parse_ai_breakfast_items(markdown, now=None)
-        self.assertEqual(len(items), 2)
-        self.assertEqual(items[0].source, "AI Breakfast")
-        self.assertEqual(items[0].title, "Anthropic update lands")
-        self.assertEqual(items[0].url, "https://aibreakfast.beehiiv.com/p/anthropic-update-lands")
-
-    def test_parse_ai_breakfast_feed_entries(self):
-        xml = """<?xml version='1.0' encoding='UTF-8'?>
-<rss><channel><title>AI Breakfast</title>
-<item>
-<title>Anthropic  update   lands</title>
-<link>https://aibreakfast.beehiiv.com/p/anthropic-update-lands</link>
-<pubDate>Fri, 01 May 2026 09:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Duplicate link is dropped</title>
-<link>https://aibreakfast.beehiiv.com/p/anthropic-update-lands</link>
-<pubDate>Fri, 01 May 2026 10:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Missing link is skipped</title>
-<link></link>
-<pubDate>Fri, 01 May 2026 11:00:00 GMT</pubDate>
-</item>
-</channel></rss>""".encode("utf-8")
-        entries = parse_feed_entries_via_xml(xml)
-        items = parse_ai_breakfast_feed_entries(entries, now=None)
-        self.assertEqual(len(items), 1)
-        self.assertEqual(items[0].site_id, "aibreakfast")
-        self.assertEqual(items[0].source, "AI Breakfast")
-        self.assertEqual(items[0].title, "Anthropic update lands")
-        self.assertEqual(items[0].url, "https://aibreakfast.beehiiv.com/p/anthropic-update-lands")
 
     def test_cap_discussion_items_keeps_the_newest_within_the_cap(self):
         base = datetime(2026, 8, 31, tzinfo=timezone.utc)

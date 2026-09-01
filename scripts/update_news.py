@@ -181,8 +181,6 @@ CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
         "max_entries": 6,
     },
 )
-AIBREAKFAST_FEED_URL = "https://aibreakfast.beehiiv.com/feed"
-AIBREAKFAST_JINA_URL = "https://r.jina.ai/https://aibreakfast.beehiiv.com/"
 AIHOT_ITEMS_API_URL = "https://aihot.virxact.com/api/public/items"
 AIHOT_MIN_SCORE = 60
 AIHOT_API_TAKE = 100
@@ -1801,135 +1799,6 @@ def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[
     return out
 
 
-def parse_ai_breakfast_items(markdown_text: str, now: datetime) -> list[RawItem]:
-    site_id = "aibreakfast"
-    site_name = "AI Breakfast"
-    out: list[RawItem] = []
-    seen: set[str] = set()
-    pattern = re.compile(
-        r"([A-Z][a-z]{2}\s+\d{1,2},\s+\d{4})\s+•\s+\d+\s+min read\s+###\s+\*\*(.*?)\*\*.*?"
-        r"\]\((https?://aibreakfast\.beehiiv\.com/p/[^)]+)\)",
-        re.S,
-    )
-
-    for date_text, title_text, url in pattern.findall(markdown_text or ""):
-        url = url.strip()
-        if not url or url in seen:
-            continue
-        published = parse_date_any(date_text, now)
-        if not published:
-            continue
-        if now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
-            continue
-
-        seen.add(url)
-        title = re.sub(r"\s+", " ", title_text).strip()
-        out.append(
-            RawItem(
-                site_id=site_id,
-                site_name=site_name,
-                source="AI Breakfast",
-                title=maybe_fix_mojibake(title),
-                url=url,
-                published_at=published,
-                meta={"feed_home": "https://aibreakfast.beehiiv.com/"},
-            )
-        )
-
-    return out
-
-
-def parse_ai_breakfast_feed_entries(entries: list[dict[str, Any]], now: datetime) -> list[RawItem]:
-    site_id = "aibreakfast"
-    site_name = "AI Breakfast"
-    out: list[RawItem] = []
-    seen: set[str] = set()
-
-    for entry in entries:
-        title, link, published = feed_entry_title_link_published(entry, now)
-        if not title or not link or not published:
-            continue
-        if link in seen:
-            continue
-        if now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
-            continue
-
-        seen.add(link)
-        out.append(
-            RawItem(
-                site_id=site_id,
-                site_name=site_name,
-                source="AI Breakfast",
-                title=re.sub(r"\s+", " ", title).strip(),
-                url=link,
-                published_at=published,
-                meta={"feed_url": AIBREAKFAST_FEED_URL, "feed_home": "https://aibreakfast.beehiiv.com/"},
-            )
-        )
-
-    return out
-
-
-def fetch_ai_breakfast_via_feed(session: requests.Session, now: datetime) -> list[RawItem]:
-    resp = session.get(
-        AIBREAKFAST_FEED_URL,
-        timeout=20,
-        headers={
-            "User-Agent": BROWSER_UA,
-            "Accept-Language": "en-US,en;q=0.9",
-            "Accept": "application/rss+xml, application/xml, text/xml, */*",
-        },
-    )
-    resp.raise_for_status()
-
-    if feedparser is not None:
-        entries = list(feedparser.parse(resp.content).entries)
-    else:
-        entries = parse_feed_entries_via_xml(resp.content)
-
-    return parse_ai_breakfast_feed_entries(entries, now)
-
-
-def fetch_ai_breakfast_via_jina(session: requests.Session, now: datetime) -> list[RawItem]:
-    resp = session.get(
-        AIBREAKFAST_JINA_URL,
-        timeout=25,
-        headers={
-            "User-Agent": BROWSER_UA,
-            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-            "Accept": "text/plain, */*",
-        },
-    )
-    resp.raise_for_status()
-    return parse_ai_breakfast_items(resp.text, now)
-
-
-def fetch_ai_breakfast(session: requests.Session, now: datetime) -> list[RawItem]:
-    """Beehiiv's own feed is the preferred path; Jina Reader is the fallback.
-
-    Both paths are fragile from CI: the Beehiiv feed can answer with a Cloudflare
-    challenge, and the Jina reader endpoint started returning 403 for anonymous
-    callers. Try them in order and only fail once neither yields items, so a
-    single blocked path does not drop the source.
-    """
-    errors: list[str] = []
-
-    for label, fetcher in (
-        ("beehiiv feed", fetch_ai_breakfast_via_feed),
-        ("jina reader", fetch_ai_breakfast_via_jina),
-    ):
-        try:
-            out = fetcher(session, now)
-        except Exception as exc:
-            errors.append(f"{label}: {exc}")
-            continue
-        if out:
-            return out
-        errors.append(f"{label}: no items parsed")
-
-    raise ValueError("No AI Breakfast items parsed (" + "; ".join(errors) + ")")
-
-
 def parse_follow_builders_items(feeds: dict[str, dict[str, Any]], now: datetime) -> list[RawItem]:
     site_id = "followbuilders"
     site_name = "Follow Builders"
@@ -2451,7 +2320,6 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
     tasks = [
         ("official_ai", "Official AI Updates", fetch_official_ai_updates),
         ("curated_media", "Curated Media", fetch_curated_ai_media),
-        ("aibreakfast", "AI Breakfast", fetch_ai_breakfast),
         ("followbuilders", "Follow Builders", fetch_follow_builders),
         ("techurls", "TechURLs", fetch_techurls),
         ("buzzing", "Buzzing", fetch_buzzing),
@@ -2921,6 +2789,9 @@ def event_time(record: dict[str, Any]) -> datetime | None:
 SOURCE_TIER_BY_SITE: dict[str, tuple[str, str, int]] = {
     "official_ai": ("official", "官方一手源", 0),
     "curated_media": ("ai_media", "精选AI媒体", 2),
+    # aibreakfast is no longer fetched (both the Beehiiv feed and the Jina reader
+    # path are dead). Kept for the same reason as iris below: archived items would
+    # otherwise fall back to "其他来源".
     "aibreakfast": ("ai_vertical", "AI垂直源", 1),
     "aihubtoday": ("ai_vertical", "AI垂直源", 1),
     "aibase": ("ai_vertical", "AI垂直源", 1),

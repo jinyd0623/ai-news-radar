@@ -104,7 +104,41 @@ No AI Breakfast items parsed (
 `rss.beehiiv.com/feeds/<不透明ID>.xml`，而 `<slug>.xml` 形式实测 404。本地无法访问站点 HTML
 去发现真实的 feed 链接（站点根路径是 Cloudflare 挑战），所以：
 
-**若 CI 里 beehiiv 仍是 404，就不要再猜路径，直接删除该源。** 它在审计里仅贡献 6 条。
+CI（美国 runner）跑出的报错**逐字相同**，404 因此不是地域封锁，而是路径确实不存在。
+按事先约定不再猜路径，**该源已删除**，见下节。
+
+## CI 首轮验证结果（新代码）
+
+`origin/master` 的 `cf0e7b1d`，`source-status.json` 的 `generated_at` 为
+`2026-09-01T01:51:03Z`。对照本文档前面的改动前基线：
+
+| 项 | 基线 | 现在 |
+| --- | ---: | ---: |
+| `failed_sites` | `['aibreakfast','iris']` | `['aibreakfast']`，iris 已彻底消失 |
+| techurls 抓取量 | 405 | **50** |
+| newsnow 抓取量 | 126 | **50** |
+| 日报 `source_tier_label` | 0/20 | **20/20** |
+| 日报 `topics` | 0/20 | **8/20** |
+| 日报 `summary` | 5/20 | 7/20 |
+| `latest-24h` `summary` | 7/143 | **49/210** |
+| `latest-24h` `topics` | 0 | **78/210** |
+
+摘要按通道看是满覆盖，为 0 的都是本就没有 `<description>` 的源：
+
+| 源 | 条数 | 带摘要 |
+| --- | ---: | ---: |
+| curated_media | 24 | 20 |
+| opmlrss | 14 | 14 |
+| waytoagi | 7 | 7 |
+| aihot | 5 | 5 |
+| official_ai | 3 | 3 |
+| techurls / newsnow / aibase / buzzing / hackernews / zeli / followbuilders | — | 0 |
+
+后一组分别是 HTML 抓取与 JSON API，没有 feed 描述可抽，符合设计。
+
+**日报 `summary` 只到 7/20 的原因**：这一轮 `official_ai` 只有 3 条落进 24 小时窗口。
+摘要覆盖率最高的两条通道（official_ai、curated_media）本身进日报的条数就少，
+所以提升主要体现在网页流而非日报。这与下面「观察项」是同一个成因。
 
 ### 仍未验证的一项
 
@@ -115,8 +149,9 @@ harness 被本地权限策略拦下，JS 行为仅经人工推演。**且线上�
 
 ## 遗留与下一步
 
-- **`aibreakfast` 双路径修复仍未经 CI 验证**（阶段 0 遗留项）。下一轮 Actions 跑完后看
-  `data/source-status.json`：若 beehiiv 与 Jina 两条路都失败，该源应直接删除。
+- **`aibreakfast` 已删除**（阶段 0 遗留项就此关闭）。CI 确认两条路都死且非地域封锁，
+  遂移除常量、解析函数、两个 fetcher、`collect_all` 注册项与两个相关用例。
+  `SOURCE_TIER_BY_SITE` 条目保留，理由同 iris。想恢复的话应去发现真实 feed 地址，不要再猜路径。
 - **计划第 7 节的 Meta AI / Mistral / YouTube 官方源尚未接入。** 本地网络无法验证可用性，
   盲加违背「每次引入新来源时记录可靠性与降级方案」，需要能在 CI 里探测后再做。
 - **arXiv 留待下一轮**，需要独立的论文栏位与选题规则。
