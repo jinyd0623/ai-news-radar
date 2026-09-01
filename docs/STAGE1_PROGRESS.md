@@ -74,14 +74,44 @@
 - story 层 40/40 带上来源等级标签（改前 0/20），topics 命中 24/40
 - `clean_feed_summary` 的中英文截断路径输出长度全部落在 160 以内
 
-**两处没能本地验证，必须留意：**
+### 推送后补做的联网验证
 
-1. **摘要覆盖率的真实提升量不出来。** 这台机器上 `huggingface.co`、`ai.meta.com`、
-   `youtube.com`、`r.jina.ai` 全部返回 000——是网络屏蔽而非源失效（`huggingface.co`
-   本身就是仓库里正常工作的官方源）。能连通的只有 arXiv 和 about.fb.com。
-   端到端覆盖率要等 GitHub Actions 跑一轮后看 `data/daily-brief.json`。
-2. **前端 `itemTopicLabels` 未实际执行。** `node --check` 通过，但逻辑 harness 被本地
-   权限策略拦下，JS 行为仅经人工推演。下一轮 Pages 发布后需人工打开页面确认 chip 渲染正常。
+本机到境外站点的连通是**间断**的（同一 URL 前后两次分别是 000 和 200），带重试的
+`create_session()` 后来连上了，于是下面几项拿到了真实数据，不只是夹具：
+
+| 项目 | 结果 |
+| --- | --- |
+| 限流 techurls | 405 → **50**，全部带时间戳 |
+| 限流 newsnow | 126 → **50**，全部带时间戳 |
+| 限流 buzzing | 50（原本就受限） |
+| 摘要 official_ai | 176 条中 **114 条带摘要**（65%） |
+| 摘要 curated_media | 46 条中 **46 条带摘要**（100%） |
+
+对比改动前整个 143 条精选里只有 7 条带摘要，摘要链路已确认在真实 feed 上生效。
+
+### aibreakfast 双路径的实测结论
+
+双路径的合并报错按设计工作，输出是：
+
+```text
+No AI Breakfast items parsed (
+  beehiiv feed: 404 Client Error: Not Found for url: https://aibreakfast.beehiiv.com/feed;
+  jina reader: 403 Client Error: Forbidden for url: https://r.jina.ai/...)
+```
+
+注意 beehiiv 给的是 **404 而非 403**——与之前用 curl 观察到的 Cloudflare `Just a moment`
+挑战不同。这说明 `/feed` 这个路径本身可能就不存在，而不只是被拦。beehiiv 的 RSS 也可能挂在
+`rss.beehiiv.com/feeds/<不透明ID>.xml`，而 `<slug>.xml` 形式实测 404。本地无法访问站点 HTML
+去发现真实的 feed 链接（站点根路径是 Cloudflare 挑战），所以：
+
+**若 CI 里 beehiiv 仍是 404，就不要再猜路径，直接删除该源。** 它在审计里仅贡献 6 条。
+
+### 仍未验证的一项
+
+**前端 `itemTopicLabels` 未实际执行。** `node --check` 通过，线上 `assets/app.js` 已确认包含
+`TOPIC_LABELS` 与 `itemTopicLabels`，`index.html` 的缓存参数已升到 `aihot-0831a`，但逻辑
+harness 被本地权限策略拦下，JS 行为仅经人工推演。**且线上数据目前还没有 `topics` 字段**
+（旧管线产出），所以现在打开页面看不到主题 chip 是预期的，不代表 JS 有问题——要等管线用新代码跑一轮。
 
 ## 遗留与下一步
 
