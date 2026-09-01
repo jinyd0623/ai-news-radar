@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 01 Sep 2026 06:15:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 10:10:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.152.0</title>
@@ -24,36 +24,12 @@
 <pubDate>Mon, 31 Aug 2026 23:00:05 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot in VS Code, August 2026 releases</title>
-<link>https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases</guid>
-<description>This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Mon, 31 Aug 2026 08:39:54 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI supports California’s bill to advance youth AI safety</title>
-<link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
-<guid isPermaLink="true">https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
-<description>OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Polimill builds Japan's next-generation public AI infrastructure</title>
-<link>https://openai.com/index/polimill</link>
-<guid isPermaLink="true">https://openai.com/index/polimill</guid>
-<description>Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段</title>
-<link>https://www.aibase.com/news/30745</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30745</guid>
+<title>1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相</title>
+<link>https://www.aibase.com/news/30752</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30752</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…</title>
@@ -64,12 +40,12 @@
 <pubDate>Tue, 01 Sep 2026 00:07:51 +0000</pubDate>
 </item>
 <item>
-<title>​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台</title>
-<link>https://www.aibase.com/news/30747</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30747</guid>
+<title>57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”</title>
+<link>https://www.aibase.com/news/30754</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30754</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8</title>
@@ -80,44 +56,44 @@
 <pubDate>Mon, 31 Aug 2026 11:35:24 +0000</pubDate>
 </item>
 <item>
-<title>​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红</title>
-<link>https://www.aibase.com/news/30743</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30743</guid>
+<title>ChatGPT Ads上线不足200天年化收入突破10 亿美元</title>
+<link>https://www.aibase.com/news/30753</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30753</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
-<title>​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练</title>
-<link>https://www.aibase.com/news/30749</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30749</guid>
+<title>DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活</title>
+<link>https://www.aibase.com/news/30755</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30755</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
-<title>中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”</title>
-<link>https://www.aibase.com/news/30750</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30750</guid>
+<title>MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数</title>
+<link>https://www.aibase.com/news/30751</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30751</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
-<title>中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro</title>
-<link>https://www.aibase.com/news/30740</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30740</guid>
+<title>Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面</title>
+<link>https://www.aibase.com/news/30756</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30756</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
-<title>千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费</title>
-<link>https://www.aibase.com/news/30746</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30746</guid>
+<title>炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？</title>
+<link>https://www.aibase.com/news/30759</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30759</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
 <title>Debian won&amp;#8217;t ban AI code from its Linux distribution</title>
@@ -128,20 +104,20 @@
 <pubDate>Mon, 31 Aug 2026 15:34:58 +0000</pubDate>
 </item>
 <item>
+<title>韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气</title>
+<link>https://www.aibase.com/news/30758</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30758</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
+</item>
+<item>
 <title>在人工智能时代，最安全的职业可能是写作</title>
 <link>http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html</link>
 <guid isPermaLink="true">http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html</guid>
 <description>muratbuffalo.blogspot.com</description>
 <category>多源热议</category>
 <pubDate>Tue, 01 Sep 2026 01:21:40 +0000</pubDate>
-</item>
-<item>
-<title>大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？</title>
-<link>https://www.aibase.com/news/30742</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30742</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 工作工具与技能参考</title>
@@ -152,9 +128,9 @@
 <pubDate>Mon, 31 Aug 2026 17:21:15 +0000</pubDate>
 </item>
 <item>
-<title>总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告</title>
-<link>https://www.aibase.com/news/30744</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30744</guid>
+<title>AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段</title>
+<link>https://www.aibase.com/news/30745</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30745</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
@@ -166,6 +142,30 @@
 <description>Slashdot</description>
 <category>值得关注</category>
 <pubDate>Mon, 31 Aug 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及</title>
+<link>https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand</link>
+<guid isPermaLink="true">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand</guid>
+<description>www.macrumors.com</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 18:41:20 +0000</pubDate>
+</item>
+<item>
+<title>Launch HN: Almanac (YC S26) – AI that knows your company</title>
+<link>https://news.ycombinator.com/item?id=49511007</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49511007</guid>
+<description>hackernews</description>
+<category>值得关注</category>
+<pubDate>Mon, 31 Aug 2026 16:49:56 +0000</pubDate>
+</item>
+<item>
+<title>​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台</title>
+<link>https://www.aibase.com/news/30747</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30747</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
 </item>
 </channel>
 </rss>
