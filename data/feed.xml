@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 01 Sep 2026 11:46:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 15:28:36 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.152.0</title>
@@ -16,6 +16,22 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
+<link>https://huggingface.co/blog/webgpu-kernels</link>
+<guid isPermaLink="true">https://huggingface.co/blog/webgpu-kernels</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Copilot model access update for GitHub Team plans</title>
+<link>https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</guid>
+<description>We have updated how model access is determined for Copilot users who hold seats in more than one organization.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Mon, 31 Aug 2026 21:58:46 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts</title>
 <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
@@ -24,12 +40,20 @@
 <pubDate>Mon, 31 Aug 2026 23:00:05 +0000</pubDate>
 </item>
 <item>
-<title>1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相</title>
-<link>https://www.aibase.com/news/30752</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30752</guid>
+<title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
+<link>https://www.ithome.com/0/997/147.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/997/147.htm</guid>
+<description>据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 01 Sep 2026 12:40:19 +0000</pubDate>
+</item>
+<item>
+<title>Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型</title>
+<link>https://www.aibase.com/news/30760</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30760</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 15:28:36 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…</title>
@@ -38,6 +62,14 @@
 <description>Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。（X：Anthropic (@AnthropicAI)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 01 Sep 2026 00:07:51 +0000</pubDate>
+</item>
+<item>
+<title>1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相</title>
+<link>https://www.aibase.com/news/30752</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30752</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
 <title>57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”</title>
@@ -80,14 +112,6 @@
 <pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
-<title>炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？</title>
-<link>https://www.aibase.com/news/30759</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30759</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
-</item>
-<item>
 <title>Debian won&amp;#8217;t ban AI code from its Linux distribution</title>
 <link>https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</guid>
@@ -96,12 +120,20 @@
 <pubDate>Mon, 31 Aug 2026 15:34:58 +0000</pubDate>
 </item>
 <item>
-<title>韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气</title>
-<link>https://www.aibase.com/news/30758</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30758</guid>
+<title>炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？</title>
+<link>https://www.aibase.com/news/30759</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30759</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
+</item>
+<item>
+<title>电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法</title>
+<link>https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype</link>
+<guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype</guid>
+<description>www.eff.org</description>
+<category>值得关注</category>
+<pubDate>Tue, 01 Sep 2026 14:41:25 +0000</pubDate>
 </item>
 <item>
 <title>在人工智能时代，最安全的职业可能是写作</title>
@@ -112,20 +144,20 @@
 <pubDate>Tue, 01 Sep 2026 01:21:40 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 工作工具与技能参考</title>
-<link>https://codex-tool-reference.simonw.chatgpt.site</link>
-<guid isPermaLink="true">https://codex-tool-reference.simonw.chatgpt.site</guid>
-<description>codex-tool-reference.simonw.chatgpt.site</description>
-<category>多源热议</category>
-<pubDate>Mon, 31 Aug 2026 17:21:15 +0000</pubDate>
+<title>人工智能也能让你更快变差</title>
+<link>https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</link>
+<guid isPermaLink="true">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</guid>
+<description>www.hermit-tech.com</description>
+<category>值得关注</category>
+<pubDate>Tue, 01 Sep 2026 11:45:30 +0000</pubDate>
 </item>
 <item>
-<title>AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段</title>
-<link>https://www.aibase.com/news/30745</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30745</guid>
+<title>韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气</title>
+<link>https://www.aibase.com/news/30758</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30758</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
 </item>
 <item>
 <title>Apple 被 Mac Mini 和 Mac Studio 的 AI 需求打了个措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio</title>
@@ -134,38 +166,6 @@
 <description>Slashdot</description>
 <category>值得关注</category>
 <pubDate>Mon, 31 Aug 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及</title>
-<link>https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand</link>
-<guid isPermaLink="true">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand</guid>
-<description>www.macrumors.com</description>
-<category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 18:41:20 +0000</pubDate>
-</item>
-<item>
-<title>Launch HN: Almanac (YC S26) – AI that knows your company</title>
-<link>https://news.ycombinator.com/item?id=49511007</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49511007</guid>
-<description>hackernews</description>
-<category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 16:49:56 +0000</pubDate>
-</item>
-<item>
-<title>​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台</title>
-<link>https://www.aibase.com/news/30747</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30747</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 06:15:33 +0000</pubDate>
-</item>
-<item>
-<title>Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines</title>
-<link>https://news.ycombinator.com/item?id=49510632</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49510632</guid>
-<description>hackernews</description>
-<category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 16:49:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
