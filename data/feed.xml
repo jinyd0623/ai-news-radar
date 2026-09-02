@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 02 Sep 2026 19:49:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 23:20:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
@@ -14,6 +14,22 @@
 <description>Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。（Anthropic：Newsroom（网页））</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 03:33:48 +0000</pubDate>
+</item>
+<item>
+<title>Content exclusions generally available in Copilot app and CLI</title>
+<link>https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</guid>
+<description>The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 18:14:23 +0000</pubDate>
+</item>
+<item>
+<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
+<link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</guid>
+<description>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.（GitHub AI &amp; ML）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
@@ -32,6 +48,22 @@
 <pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
 </item>
 <item>
+<title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
+<link>https://openai.com/index/atv-big-air-tour</link>
+<guid isPermaLink="true">https://openai.com/index/atv-big-air-tour</guid>
+<description>ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Proactive cyber defense for governments and enterprises</title>
+<link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</guid>
+<description>Introducing Fairwind Program（Google AI Blog）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
+</item>
+<item>
 <title>Enterprise-managed settings support any default model</title>
 <link>https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</guid>
@@ -48,14 +80,6 @@
 <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Proactive cyber defense for governments and enterprises</title>
-<link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</guid>
-<description>Introducing Fairwind Program（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting</guid>
@@ -64,12 +88,12 @@
 <pubDate>Wed, 02 Sep 2026 14:35:03 +0000</pubDate>
 </item>
 <item>
-<title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
-<link>https://huggingface.co/blog/allenai/benchmirt</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/benchmirt</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+<title>Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…</title>
+<link>https://x.com/kimmonismus/status/2095265444999410146</link>
+<guid isPermaLink="true">https://x.com/kimmonismus/status/2095265444999410146</guid>
+<description>Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。（X：Kim (@kimmonismus)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 21:39:44 +0000</pubDate>
 </item>
 <item>
 <title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
@@ -88,20 +112,12 @@
 <pubDate>Wed, 02 Sep 2026 16:29:43 +0000</pubDate>
 </item>
 <item>
-<title>Enterprise Live Migrations from GHES to ghe.com generally available</title>
-<link>https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</guid>
-<description>Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 22:24:27 +0000</pubDate>
-</item>
-<item>
-<title>The latest AI news we announced in August 2026</title>
-<link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</guid>
-<description>Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini logo icon; 2. a photo of a pixel phone; 3.（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 20:45:00 +0000</pubDate>
+<title>Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨</title>
+<link>https://x.com/alexandr_wang/status/2095249704888197175</link>
+<guid isPermaLink="true">https://x.com/alexandr_wang/status/2095249704888197175</guid>
+<description>Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。（X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 20:37:12 +0000</pubDate>
 </item>
 <item>
 <title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
@@ -136,22 +152,6 @@
 <pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
 </item>
 <item>
-<title>Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…</title>
-<link>https://x.com/ArtificialAnlys/status/2094881171066978525</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2094881171066978525</guid>
-<description>Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 20:12:46 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents</title>
-<link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
-<guid isPermaLink="true">https://claude.com/blog/the-anatomy-of-effective-commerce-agents</guid>
-<description>Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。（Claude：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 17:01:34 +0000</pubDate>
-</item>
-<item>
 <title>Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage</title>
 <link>https://cursor.com/blog/self-hosted-machines</link>
 <guid isPermaLink="true">https://cursor.com/blog/self-hosted-machines</guid>
@@ -160,12 +160,12 @@
 <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Set an expiration date for individual user budgets</title>
-<link>https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</guid>
-<description>You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 20:23:13 +0000</pubDate>
+<title>Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents</title>
+<link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
+<guid isPermaLink="true">https://claude.com/blog/the-anatomy-of-effective-commerce-agents</guid>
+<description>Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。（Claude：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 17:01:34 +0000</pubDate>
 </item>
 </channel>
 </rss>
