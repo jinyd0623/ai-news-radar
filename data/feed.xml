@@ -5,13 +5,13 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 02 Sep 2026 15:07:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 19:49:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
 <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
 <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
-<description>Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型，Mythos 5.1 仅通过受信任访问计划提供给网络安全和生命科学领域。（Anthropic：Newsroom（网页））</description>
+<description>Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。（Anthropic：Newsroom（网页））</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 03:33:48 +0000</pubDate>
 </item>
@@ -24,36 +24,44 @@
 <pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
 </item>
 <item>
-<title>Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace</title>
-<link>https://blog.google/products-and-platforms/products/workspace/google-pics</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/workspace/google-pics</guid>
-<description>Collage of images created by Google Pics, with the text "Say hello to Google Pics" on top（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Copilot code review can now approve pull requests</title>
-<link>https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests</guid>
-<description>Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 19:25:57 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini</title>
-<link>https://deepmind.google/blog/introducing-agentic-video-in-gemini</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-agentic-video-in-gemini</guid>
+<title>Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
 </item>
 <item>
-<title>How AI-native companies turn workflows into operating capability</title>
-<link>https://openai.com/index/ai-native-company-workflows</link>
-<guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
-<description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.（OpenAI News）</description>
+<title>Enterprise-managed settings support any default model</title>
+<link>https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</guid>
+<description>You can now set your preferred GitHub Copilot model as the default for new conversations through enterprise-managed settings.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 18:51:12 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality</guid>
+<description>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.（GitHub AI &amp; ML）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Proactive cyber defense for governments and enterprises</title>
+<link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</guid>
+<description>Introducing Fairwind Program（Google AI Blog）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting</guid>
+<description>OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 14:35:03 +0000</pubDate>
 </item>
 <item>
 <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
@@ -62,6 +70,22 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+</item>
+<item>
+<title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
+<link>https://x.com/rohanpaul_ai/status/2095197606884573208</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2095197606884573208</guid>
+<description>美国司法部在 OpenAI 与纽约时报的版权诉讼中提交意见书，主张用受版权文本训练 LLM 一般应属合理使用，称模型训练具有非凡转换性，并以国家安全为由警告全面许可要求会削弱美国 AI 开发者竞争力。该意见书属建议性质、不约束法院，仍将数据获取方式与具体输出是否复制受保护段落作为独立问题留给法院逐案判断。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 17:10:11 +0000</pubDate>
+</item>
+<item>
+<title>Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions</title>
+<link>https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions</link>
+<guid isPermaLink="true">https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions</guid>
+<description>Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。（Google Developers Blog（RSS））</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 16:29:43 +0000</pubDate>
 </item>
 <item>
 <title>Enterprise Live Migrations from GHES to ghe.com generally available</title>
@@ -80,12 +104,20 @@
 <pubDate>Tue, 01 Sep 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…</title>
-<link>https://x.com/rohanpaul_ai/status/2094975190468010368</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2094975190468010368</guid>
-<description>Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
+<link>https://x.com/claudeai/status/2095226833293685100</link>
+<guid isPermaLink="true">https://x.com/claudeai/status/2095226833293685100</guid>
+<description>Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。（X：Claude (@claudeai)）</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 02:26:22 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 19:06:19 +0000</pubDate>
+</item>
+<item>
+<title>什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？</title>
+<link>https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0</link>
+<guid isPermaLink="true">https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0</guid>
+<description>Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。（Google AI：DEV 作者专属（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 15:28:05 +0000</pubDate>
 </item>
 <item>
 <title>大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起</title>
@@ -112,60 +144,28 @@
 <pubDate>Tue, 01 Sep 2026 20:12:46 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents</title>
+<link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
+<guid isPermaLink="true">https://claude.com/blog/the-anatomy-of-effective-commerce-agents</guid>
+<description>Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。（Claude：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 17:01:34 +0000</pubDate>
+</item>
+<item>
+<title>Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage</title>
+<link>https://cursor.com/blog/self-hosted-machines</link>
+<guid isPermaLink="true">https://cursor.com/blog/self-hosted-machines</guid>
+<description>Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。（Cursor Blog）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Set an expiration date for individual user budgets</title>
 <link>https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</guid>
 <description>You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 20:23:13 +0000</pubDate>
-</item>
-<item>
-<title>腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力</title>
-<link>https://www.aibase.com/news/30784</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30784</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 11:21:12 +0000</pubDate>
-</item>
-<item>
-<title>Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿 / 🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…</title>
-<link>https://x.com/Alibaba_Qwen/status/2094982928371794077</link>
-<guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2094982928371794077</guid>
-<description>通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。（X：通义千问 / Qwen (@Alibaba_Qwen)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 02:57:07 +0000</pubDate>
-</item>
-<item>
-<title>美团 LongCat-2.0 上线 Cline 免费试用 / LongCat-2.0 is now free to try in @cline ！ 🐱</title>
-<link>https://x.com/Meituan_LongCat/status/2094996391387111865</link>
-<guid isPermaLink="true">https://x.com/Meituan_LongCat/status/2094996391387111865</guid>
-<description>X：美团 LongCat (@Meituan_LongCat)</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 03:50:37 +0000</pubDate>
-</item>
-<item>
-<title>Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …</title>
-<link>https://x.com/rohanpaul_ai/status/2094873718237565197</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2094873718237565197</guid>
-<description>Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 19:43:09 +0000</pubDate>
-</item>
-<item>
-<title>Block users from discussion comments in personal repositories</title>
-<link>https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</guid>
-<description>You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 16:30:01 +0000</pubDate>
-</item>
-<item>
-<title>Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力</title>
-<link>https://www.aibase.com/news/30783</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30783</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 09:41:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
