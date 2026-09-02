@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 02 Sep 2026 09:41:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 11:21:12 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
@@ -88,12 +88,12 @@
 <pubDate>Wed, 02 Sep 2026 02:26:22 +0000</pubDate>
 </item>
 <item>
-<title>Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力</title>
-<link>https://www.aibase.com/news/30783</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30783</guid>
+<title>大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起</title>
+<link>https://www.aibase.com/news/30785</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30785</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 09:41:29 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 11:21:12 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…</title>
@@ -128,6 +128,14 @@
 <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力</title>
+<link>https://www.aibase.com/news/30784</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30784</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 11:21:12 +0000</pubDate>
+</item>
+<item>
 <title>Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿 / 🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…</title>
 <link>https://x.com/Alibaba_Qwen/status/2094982928371794077</link>
 <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2094982928371794077</guid>
@@ -142,14 +150,6 @@
 <description>X：美团 LongCat (@Meituan_LongCat)</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 03:50:37 +0000</pubDate>
-</item>
-<item>
-<title>南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯</title>
-<link>https://www.aibase.com/news/30779</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30779</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 09:41:29 +0000</pubDate>
 </item>
 <item>
 <title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>

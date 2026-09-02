@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:41:29.397518Z",
+  "generated_at": "2026-09-02T11:21:12.975090Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8958,
-      "importance": 0.8958,
-      "importance_score": 0.8958,
+      "score": 0.8918,
+      "importance": 0.8918,
+      "importance_score": 0.8918,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9153,
+        "recency": 0.8936,
         "story_heat": 0.5
       },
       "category": "official",
@@ -146,7 +146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -252,15 +252,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8555,
-      "importance": 0.8555,
-      "importance_score": 0.8555,
+      "score": 0.8523,
+      "importance": 0.8523,
+      "importance_score": 0.8523,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7417,
+        "recency": 0.7241,
         "story_heat": 0.5
       },
       "category": "official",
@@ -291,7 +291,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -339,15 +339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8404,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,7 +381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -458,15 +458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7745,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "official",
@@ -497,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -545,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8139,
+        "recency": 0.7946,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -633,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7875,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,7 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -722,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8496,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -760,7 +760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -808,15 +808,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7858,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -848,7 +848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -896,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8295,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -936,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -984,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.8792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1023,30 +1023,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
-      "story_id": "story_9154b7af34e8",
-      "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
-      "url": "https://www.aibase.com/news/30783",
-      "primary_url": "https://www.aibase.com/news/30783",
+      "story_id": "story_8067e80125ef",
+      "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
+      "url": "https://www.aibase.com/news/30785",
+      "primary_url": "https://www.aibase.com/news/30785",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "60ef2462f83ed2207b2905df16768b5646e8a18c",
-          "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
-          "title_zh": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "id": "b8667558c3b1ac28e8d2e751957bfdca7748a2b1",
+          "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
+          "title_zh": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
           "title_en": null,
-          "title_original": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "title_original": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30783",
+          "url": "https://www.aibase.com/news/30785",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-02T09:41:29.397518Z"
+          "published_at": "2026-09-02T11:21:12.975090Z"
         }
       ],
       "source_count": 1,
@@ -1055,18 +1055,18 @@
       ],
       "items": [
         {
-          "id": "60ef2462f83ed2207b2905df16768b5646e8a18c",
-          "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
-          "title_zh": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "id": "b8667558c3b1ac28e8d2e751957bfdca7748a2b1",
+          "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
+          "title_zh": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
           "title_en": null,
-          "title_original": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "title_original": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30783",
+          "url": "https://www.aibase.com/news/30785",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-02T09:41:29.397518Z"
+          "published_at": "2026-09-02T11:21:12.975090Z"
         }
       ],
       "item_count": 1,
@@ -1087,28 +1087,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T09:41:29.397518Z",
-      "latest_at": "2026-09-02T09:41:29.397518Z",
+      "earliest_at": "2026-09-02T11:21:12.975090Z",
+      "latest_at": "2026-09-02T11:21:12.975090Z",
       "primary_item": {
-        "id": "60ef2462f83ed2207b2905df16768b5646e8a18c",
-        "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
-        "title_zh": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+        "id": "b8667558c3b1ac28e8d2e751957bfdca7748a2b1",
+        "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
+        "title_zh": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
         "title_en": null,
-        "title_original": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+        "title_original": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30783",
+        "url": "https://www.aibase.com/news/30785",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": []
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1185,15 +1187,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8757,
+        "recency": 0.855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1227,7 +1229,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1275,15 +1277,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7578,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1316,7 +1318,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1364,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.8036,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1404,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1452,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7311,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1492,7 +1494,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
+      }
+    },
+    {
+      "story_id": "story_c2955229fde1",
+      "title": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+      "url": "https://www.aibase.com/news/30784",
+      "primary_url": "https://www.aibase.com/news/30784",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "307c32360c10704f7a9686ea04855b05c32963f9",
+          "title": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+          "title_zh": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+          "title_en": null,
+          "title_original": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30784",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T11:21:12.975090Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "307c32360c10704f7a9686ea04855b05c32963f9",
+          "title": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+          "title_zh": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+          "title_en": null,
+          "title_original": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30784",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T11:21:12.975090Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T11:21:12.975090Z",
+      "latest_at": "2026-09-02T11:21:12.975090Z",
+      "primary_item": {
+        "id": "307c32360c10704f7a9686ea04855b05c32963f9",
+        "title": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+        "title_zh": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+        "title_en": null,
+        "title_original": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30784",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1540,15 +1629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9073,
+        "recency": 0.8857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1580,7 +1669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1628,15 +1717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.919,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1664,92 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
-      }
-    },
-    {
-      "story_id": "story_6fd44e495457",
-      "title": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-      "url": "https://www.aibase.com/news/30779",
-      "primary_url": "https://www.aibase.com/news/30779",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1090d2832b72c2b67de772821ba4f0d94b119380",
-          "title": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-          "title_zh": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-          "title_en": null,
-          "title_original": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30779",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T09:41:29.397518Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1090d2832b72c2b67de772821ba4f0d94b119380",
-          "title": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-          "title_zh": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-          "title_en": null,
-          "title_original": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30779",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T09:41:29.397518Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T09:41:29.397518Z",
-      "latest_at": "2026-09-02T09:41:29.397518Z",
-      "primary_item": {
-        "id": "1090d2832b72c2b67de772821ba4f0d94b119380",
-        "title": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-        "title_zh": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-        "title_en": null,
-        "title_original": "南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30779",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1797,15 +1801,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7382,
+        "recency": 0.7207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1833,7 +1837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     },
     {
@@ -1881,15 +1885,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1919,7 +1923,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T10:13:09.851773Z"
+        "scored_at": "2026-09-02T11:56:15.554669Z"
       }
     }
   ]
