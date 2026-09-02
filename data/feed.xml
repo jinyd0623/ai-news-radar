@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 02 Sep 2026 11:21:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 15:07:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
@@ -16,20 +16,12 @@
 <pubDate>Wed, 02 Sep 2026 03:33:48 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards</title>
-<link>https://openai.com/index/path-to-astra</link>
-<guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
-<description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 03:13:14 +0000</pubDate>
-</item>
-<item>
-<title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
-<link>https://huggingface.co/blog/allenai/benchmirt</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/benchmirt</guid>
+<title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
+<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
 </item>
 <item>
 <title>Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace</title>
@@ -56,20 +48,28 @@
 <pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
 </item>
 <item>
-<title>Enterprise Live Migrations from GHES to ghe.com generally available</title>
-<link>https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</guid>
-<description>Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 22:24:27 +0000</pubDate>
-</item>
-<item>
 <title>How AI-native companies turn workflows into operating capability</title>
 <link>https://openai.com/index/ai-native-company-workflows</link>
 <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
 <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+<link>https://huggingface.co/blog/allenai/benchmirt</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/benchmirt</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+</item>
+<item>
+<title>Enterprise Live Migrations from GHES to ghe.com generally available</title>
+<link>https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available</guid>
+<description>Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 22:24:27 +0000</pubDate>
 </item>
 <item>
 <title>The latest AI news we announced in August 2026</title>
@@ -104,14 +104,6 @@
 <pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
 </item>
 <item>
-<title>Claude Fable 5.1 is generally available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot</guid>
-<description>Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 14:29:23 +0000</pubDate>
-</item>
-<item>
 <title>Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…</title>
 <link>https://x.com/ArtificialAnlys/status/2094881171066978525</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2094881171066978525</guid>
@@ -120,12 +112,12 @@
 <pubDate>Tue, 01 Sep 2026 20:12:46 +0000</pubDate>
 </item>
 <item>
-<title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
-<link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
-<description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.（OpenAI News）</description>
+<title>Set an expiration date for individual user budgets</title>
+<link>https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</guid>
+<description>You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 20:23:13 +0000</pubDate>
 </item>
 <item>
 <title>腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力</title>
@@ -152,20 +144,28 @@
 <pubDate>Wed, 02 Sep 2026 03:50:37 +0000</pubDate>
 </item>
 <item>
-<title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
-<link>https://www.ithome.com/0/997/147.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/997/147.htm</guid>
-<description>据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。（IT之家（RSS））</description>
+<title>Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …</title>
+<link>https://x.com/rohanpaul_ai/status/2094873718237565197</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2094873718237565197</guid>
+<description>Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 12:40:19 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 19:43:09 +0000</pubDate>
 </item>
 <item>
-<title>UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</guid>
-<description>UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。（公众号：数字生命卡兹克）</description>
+<title>Block users from discussion comments in personal repositories</title>
+<link>https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</guid>
+<description>You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 16:30:01 +0000</pubDate>
+</item>
+<item>
+<title>Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力</title>
+<link>https://www.aibase.com/news/30783</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30783</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 03:32:20 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 09:41:29 +0000</pubDate>
 </item>
 </channel>
 </rss>

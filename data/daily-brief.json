@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:21:12.975090Z",
+  "generated_at": "2026-09-02T15:07:59.635179Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8918,
-      "importance": 0.8918,
-      "importance_score": 0.8918,
+      "score": 0.8833,
+      "importance": 0.8833,
+      "importance_score": 0.8833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8936,
+        "recency": 0.8461,
         "story_heat": 0.5
       },
       "category": "official",
@@ -146,175 +146,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
-      "story_id": "story_0ce11be79fc0",
-      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "primary_url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-          "title_en": "Path to Astra: critical capabilities and frontier safeguards",
-          "title_original": "Path to Astra: critical capabilities and frontier safeguards",
-          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra： critical capabilities and frontier safeguards",
-          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-          "title_en": "Path to Astra： critical capabilities and frontier safeguards",
-          "title_original": "Path to Astra： critical capabilities and frontier safeguards",
-          "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "6290b3b635810208b5588f6fe8f8b81610a01adf",
-          "title": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "title_zh": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "title_en": null,
-          "title_original": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T03:13:14.351000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-          "title_en": "Path to Astra: critical capabilities and frontier safeguards",
-          "title_original": "Path to Astra: critical capabilities and frontier safeguards",
-          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra： critical capabilities and frontier safeguards",
-          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-          "title_en": "Path to Astra： critical capabilities and frontier safeguards",
-          "title_original": "Path to Astra： critical capabilities and frontier safeguards",
-          "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "6290b3b635810208b5588f6fe8f8b81610a01adf",
-          "title": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "title_zh": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "title_en": null,
-          "title_original": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T03:13:14.351000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7241,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T13:00:00Z",
-      "latest_at": "2026-09-02T03:13:14.351000Z",
-      "primary_item": {
-        "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
-        "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-        "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-        "title_en": "Path to Astra: critical capabilities and frontier safeguards",
-        "title_original": "Path to Astra: critical capabilities and frontier safeguards",
-        "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/path-to-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
-      }
-    },
-    {
-      "story_id": "story_94cad6318b8f",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "primary_url": "https://huggingface.co/blog/allenai/benchmirt",
+      "story_id": "story_e664187f9e97",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
           "title_zh": null,
-          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T21:39:07Z"
+          "published_at": "2026-09-02T13:49:14Z"
         }
       ],
       "source_count": 1,
@@ -323,31 +178,31 @@
       ],
       "items": [
         {
-          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
           "title_zh": null,
-          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T21:39:07Z"
+          "published_at": "2026-09-02T13:49:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8566,
+      "importance": 0.8566,
+      "importance_score": 0.8566,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8205,
+        "ai_relevance": 0.95,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "official",
@@ -356,32 +211,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T21:39:07Z",
-      "latest_at": "2026-09-01T21:39:07Z",
+      "earliest_at": "2026-09-02T13:49:14Z",
+      "latest_at": "2026-09-02T13:49:14Z",
       "primary_item": {
-        "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
         "title_zh": null,
-        "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+        "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/benchmirt",
+        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
         "topics": [
-          "open-source-models",
-          "evaluation",
-          "models"
+          "open-source-models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -458,15 +311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7562,
+        "recency": 0.716,
         "story_heat": 0.25
       },
       "category": "official",
@@ -497,7 +350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -545,15 +398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7946,
+        "recency": 0.7524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -633,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7688,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,93 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
-      }
-    },
-    {
-      "story_id": "story_842216100d96",
-      "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-      "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_zh": null,
-          "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T22:24:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_zh": null,
-          "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T22:24:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8295,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T22:24:27Z",
-      "latest_at": "2026-09-01T22:24:27Z",
-      "primary_item": {
-        "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-        "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "title_zh": null,
-        "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -808,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7672,
+        "recency": 0.7264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -848,7 +615,183 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
+      }
+    },
+    {
+      "story_id": "story_94cad6318b8f",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "primary_url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_zh": null,
+          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T21:39:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_zh": null,
+          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T21:39:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7769,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T21:39:07Z",
+      "latest_at": "2026-09-01T21:39:07Z",
+      "primary_item": {
+        "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "title_zh": null,
+        "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/benchmirt",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "open-source-models",
+          "evaluation",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-02T15:45:52.587944Z"
+      }
+    },
+    {
+      "story_id": "story_842216100d96",
+      "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+      "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
+          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+          "title_zh": null,
+          "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
+          "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
+          "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T22:24:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
+          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+          "title_zh": null,
+          "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
+          "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
+          "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T22:24:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7854,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T22:24:27Z",
+      "latest_at": "2026-09-01T22:24:27Z",
+      "primary_item": {
+        "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
+        "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+        "title_zh": null,
+        "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
+        "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
+        "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -896,15 +839,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8099,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -936,7 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -984,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8325,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1023,7 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -1071,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,7 +1053,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -1187,15 +1130,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.855,
+        "recency": 0.8096,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1229,96 +1172,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
-      }
-    },
-    {
-      "story_id": "story_0684dd59481d",
-      "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
-          "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "title_original": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "summary": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T14:29:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
-          "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "title_original": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "summary": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T14:29:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7399,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T14:29:23Z",
-      "latest_at": "2026-09-01T14:29:23Z",
-      "primary_item": {
-        "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
-        "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Claude Fable 5.1 is generally available in GitHub Copilot",
-        "title_original": "Claude Fable 5.1 is generally available in GitHub Copilot",
-        "summary": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -1366,21 +1220,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8036,
+        "recency": 0.7609,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-01T20:12:46Z",
       "latest_at": "2026-09-01T20:12:46Z",
@@ -1406,63 +1259,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
-      "story_id": "story_d048fe91383f",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
+      "story_id": "story_5de5820ec3a1",
+      "title": "Set an expiration date for individual user budgets",
+      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "primary_url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "Set an expiration date for individual user budgets",
           "title_zh": null,
-          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
+          "published_at": "2026-09-01T20:23:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "Set an expiration date for individual user budgets",
           "title_zh": null,
-          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
+          "published_at": "2026-09-01T20:23:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7137,
+        "ai_relevance": 0.87,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1471,30 +1324,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T12:00:00Z",
-      "latest_at": "2026-09-01T12:00:00Z",
+      "earliest_at": "2026-09-01T20:23:13Z",
+      "latest_at": "2026-09-01T20:23:13Z",
       "primary_item": {
-        "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+        "title": "Set an expiration date for individual user budgets",
         "title_zh": null,
-        "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+        "title_en": "Set an expiration date for individual user budgets",
+        "title_original": "Set an expiration date for individual user budgets",
+        "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
-        "topics": [
-          "research"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -1542,15 +1393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1581,7 +1432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -1629,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1669,7 +1520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
@@ -1717,15 +1568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8972,
+        "recency": 0.8496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1753,82 +1604,255 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     },
     {
-      "story_id": "story_0ccf033da9a1",
-      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-      "url": "https://www.ithome.com/0/997/147.htm",
-      "primary_url": "https://www.ithome.com/0/997/147.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_5537a1603458",
+      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5185e25016efc4497b35a35d691c0680728e6658",
-          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_en": null,
-          "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+          "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T12:40:19Z"
+          "published_at": "2026-09-01T19:43:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "5185e25016efc4497b35a35d691c0680728e6658",
-          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_en": null,
-          "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+          "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T12:40:19Z"
+          "published_at": "2026-09-01T19:43:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7207,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-01T12:40:19Z",
-      "latest_at": "2026-09-01T12:40:19Z",
+      "earliest_at": "2026-09-01T19:43:09Z",
+      "latest_at": "2026-09-01T19:43:09Z",
       "primary_item": {
-        "id": "5185e25016efc4497b35a35d691c0680728e6658",
-        "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-        "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-        "title_en": null,
-        "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-        "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+        "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+        "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+        "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/997/147.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-02T15:45:52.587944Z"
+      }
+    },
+    {
+      "story_id": "story_c5bbc19a185e",
+      "title": "Block users from discussion comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "Block users from discussion comments in personal repositories",
+          "title_zh": null,
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
+          "summary": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "Block users from discussion comments in personal repositories",
+          "title_zh": null,
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
+          "summary": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7212,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T16:30:01Z",
+      "latest_at": "2026-09-01T16:30:01Z",
+      "primary_item": {
+        "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+        "title": "Block users from discussion comments in personal repositories",
+        "title_zh": null,
+        "title_en": "Block users from discussion comments in personal repositories",
+        "title_original": "Block users from discussion comments in personal repositories",
+        "summary": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-02T15:45:52.587944Z"
+      }
+    },
+    {
+      "story_id": "story_9154b7af34e8",
+      "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+      "url": "https://www.aibase.com/news/30783",
+      "primary_url": "https://www.aibase.com/news/30783",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "60ef2462f83ed2207b2905df16768b5646e8a18c",
+          "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "title_zh": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "title_en": null,
+          "title_original": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30783",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T09:41:29.397518Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "60ef2462f83ed2207b2905df16768b5646e8a18c",
+          "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "title_zh": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "title_en": null,
+          "title_original": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30783",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T09:41:29.397518Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9244,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T09:41:29.397518Z",
+      "latest_at": "2026-09-02T09:41:29.397518Z",
+      "primary_item": {
+        "id": "60ef2462f83ed2207b2905df16768b5646e8a18c",
+        "title": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+        "title_zh": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+        "title_en": null,
+        "title_original": "Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30783",
+        "source": "AIbase",
+        "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": []
@@ -1837,93 +1861,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
-      }
-    },
-    {
-      "story_id": "story_bbc4c41b2306",
-      "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9521b8f8095c91c3c9eb3086448b8696ec57c408",
-          "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "title_zh": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "title_en": null,
-          "title_original": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T03:32:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "9521b8f8095c91c3c9eb3086448b8696ec57c408",
-          "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "title_zh": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "title_en": null,
-          "title_original": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T03:32:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8933,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T03:32:20Z",
-      "latest_at": "2026-09-02T03:32:20Z",
-      "primary_item": {
-        "id": "9521b8f8095c91c3c9eb3086448b8696ec57c408",
-        "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-        "title_zh": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-        "title_en": null,
-        "title_original": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-        "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T11:56:15.554669Z"
+        "scored_at": "2026-09-02T15:45:52.587944Z"
       }
     }
   ]
