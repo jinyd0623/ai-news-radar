@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 01 Sep 2026 23:20:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 01:03:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
@@ -40,14 +40,6 @@
 <pubDate>Tue, 01 Sep 2026 19:25:57 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.152.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini</title>
 <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-agentic-video-in-gemini</guid>
@@ -62,14 +54,6 @@
 <description>Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub E…（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 22:24:27 +0000</pubDate>
-</item>
-<item>
-<title>Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
-<link>https://huggingface.co/blog/webgpu-kernels</link>
-<guid isPermaLink="true">https://huggingface.co/blog/webgpu-kernels</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The latest AI news we announced in August 2026</title>
@@ -88,20 +72,20 @@
 <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT for iOS 1.2026.237</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …</title>
 <link>https://x.com/rohanpaul_ai/status/2094873718237565197</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2094873718237565197</guid>
 <description>Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 01 Sep 2026 19:43:09 +0000</pubDate>
+</item>
+<item>
+<title>Claude Fable 5.1 is generally available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot</guid>
+<description>Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 14:29:23 +0000</pubDate>
 </item>
 <item>
 <title>Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…</title>
@@ -112,20 +96,28 @@
 <pubDate>Tue, 01 Sep 2026 20:12:46 +0000</pubDate>
 </item>
 <item>
-<title>Set an expiration date for individual user budgets</title>
-<link>https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</guid>
-<description>You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 20:23:13 +0000</pubDate>
-</item>
-<item>
 <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
 <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
 <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
 <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元</title>
+<link>https://www.aibase.com/news/30762</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30762</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 01:03:31 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…</title>
+<link>https://x.com/trq212/status/2094945951865520458</link>
+<guid isPermaLink="true">https://x.com/trq212/status/2094945951865520458</guid>
+<description>Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。（X：Thariq (@trq212)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
 </item>
 <item>
 <title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
@@ -136,12 +128,28 @@
 <pubDate>Tue, 01 Sep 2026 12:40:19 +0000</pubDate>
 </item>
 <item>
-<title>Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型</title>
-<link>https://www.aibase.com/news/30760</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30760</guid>
+<title>Set an expiration date for individual user budgets</title>
+<link>https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</guid>
+<description>You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 20:23:13 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速</title>
+<link>https://www.aibase.com/news/30761</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30761</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 15:28:36 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 01:03:31 +0000</pubDate>
+</item>
+<item>
+<title>地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成</title>
+<link>https://www.aibase.com/news/30763</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30763</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 01:03:31 +0000</pubDate>
 </item>
 <item>
 <title>Block users from discussion comments in personal repositories</title>
@@ -152,20 +160,12 @@
 <pubDate>Tue, 01 Sep 2026 16:30:01 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控</title>
-<link>https://www.ithome.com/0/996/711.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/996/711.htm</guid>
-<description>Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 31 Aug 2026 23:55:44 +0000</pubDate>
-</item>
-<item>
-<title>1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相</title>
-<link>https://www.aibase.com/news/30752</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30752</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:10:44 +0000</pubDate>
+<title>GitHub CLI: Media in issues, pull requests, and comments</title>
+<link>https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments</guid>
+<description>GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 12:35:59 +0000</pubDate>
 </item>
 </channel>
 </rss>
