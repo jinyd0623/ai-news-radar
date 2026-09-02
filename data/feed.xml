@@ -5,15 +5,15 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 02 Sep 2026 01:03:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 05:51:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
-<link>https://huggingface.co/blog/allenai/benchmirt</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/benchmirt</guid>
-<description>Hugging Face Blog</description>
+<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+<guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
+<description>Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型，Mythos 5.1 仅通过受信任访问计划提供给网络安全和生命科学领域。（Anthropic：Newsroom（网页））</description>
 <category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 03:33:48 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards</title>
@@ -21,7 +21,15 @@
 <guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
 <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 03:13:14 +0000</pubDate>
+</item>
+<item>
+<title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+<link>https://huggingface.co/blog/allenai/benchmirt</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/benchmirt</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
 </item>
 <item>
 <title>Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace</title>
@@ -72,12 +80,20 @@
 <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …</title>
-<link>https://x.com/rohanpaul_ai/status/2094873718237565197</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2094873718237565197</guid>
-<description>Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<title>Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…</title>
+<link>https://x.com/rohanpaul_ai/status/2094975190468010368</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2094975190468010368</guid>
+<description>Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 19:43:09 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 02:26:22 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%</title>
+<link>https://www.aibase.com/news/30767</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30767</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 05:51:24 +0000</pubDate>
 </item>
 <item>
 <title>Claude Fable 5.1 is generally available in GitHub Copilot</title>
@@ -104,20 +120,36 @@
 <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元</title>
-<link>https://www.aibase.com/news/30762</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30762</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 01:03:31 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…</title>
 <link>https://x.com/trq212/status/2094945951865520458</link>
 <guid isPermaLink="true">https://x.com/trq212/status/2094945951865520458</guid>
 <description>Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。（X：Thariq (@trq212)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
+</item>
+<item>
+<title>Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿 / 🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…</title>
+<link>https://x.com/Alibaba_Qwen/status/2094982928371794077</link>
+<guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2094982928371794077</guid>
+<description>通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。（X：通义千问 / Qwen (@Alibaba_Qwen)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 02:57:07 +0000</pubDate>
+</item>
+<item>
+<title>美团 LongCat-2.0 上线 Cline 免费试用 / LongCat-2.0 is now free to try in @cline ！ 🐱</title>
+<link>https://x.com/Meituan_LongCat/status/2094996391387111865</link>
+<guid isPermaLink="true">https://x.com/Meituan_LongCat/status/2094996391387111865</guid>
+<description>X：美团 LongCat (@Meituan_LongCat)</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 03:50:37 +0000</pubDate>
+</item>
+<item>
+<title>UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</guid>
+<description>UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 03:32:20 +0000</pubDate>
 </item>
 <item>
 <title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
@@ -128,44 +160,12 @@
 <pubDate>Tue, 01 Sep 2026 12:40:19 +0000</pubDate>
 </item>
 <item>
-<title>Set an expiration date for individual user budgets</title>
-<link>https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets</guid>
-<description>You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 20:23:13 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速</title>
-<link>https://www.aibase.com/news/30761</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30761</guid>
+<title>OpenAI CEO直说“不喜欢智能眼镜”：跟戴摄像机的人讲话很不舒服，扎克伯格暂时松口气</title>
+<link>https://www.aibase.com/news/30765</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30765</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 01:03:31 +0000</pubDate>
-</item>
-<item>
-<title>地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成</title>
-<link>https://www.aibase.com/news/30763</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30763</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 01:03:31 +0000</pubDate>
-</item>
-<item>
-<title>Block users from discussion comments in personal repositories</title>
-<link>https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</guid>
-<description>You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking contr…（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 16:30:01 +0000</pubDate>
-</item>
-<item>
-<title>GitHub CLI: Media in issues, pull requests, and comments</title>
-<link>https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments</guid>
-<description>GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 12:35:59 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 05:51:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
