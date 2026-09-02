@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 02 Sep 2026 05:51:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 09:41:29 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
@@ -64,20 +64,20 @@
 <pubDate>Tue, 01 Sep 2026 22:24:27 +0000</pubDate>
 </item>
 <item>
-<title>The latest AI news we announced in August 2026</title>
-<link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</guid>
-<description>Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini logo icon; 2. a photo of a pixel phone; 3.（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 20:45:00 +0000</pubDate>
-</item>
-<item>
 <title>How AI-native companies turn workflows into operating capability</title>
 <link>https://openai.com/index/ai-native-company-workflows</link>
 <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
 <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The latest AI news we announced in August 2026</title>
+<link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</guid>
+<description>Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini logo icon; 2. a photo of a pixel phone; 3.（Google AI Blog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…</title>
@@ -88,12 +88,20 @@
 <pubDate>Wed, 02 Sep 2026 02:26:22 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%</title>
-<link>https://www.aibase.com/news/30767</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30767</guid>
+<title>Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力</title>
+<link>https://www.aibase.com/news/30783</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30783</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 05:51:24 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 09:41:29 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…</title>
+<link>https://x.com/trq212/status/2094945951865520458</link>
+<guid isPermaLink="true">https://x.com/trq212/status/2094945951865520458</guid>
+<description>Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。（X：Thariq (@trq212)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
 </item>
 <item>
 <title>Claude Fable 5.1 is generally available in GitHub Copilot</title>
@@ -120,14 +128,6 @@
 <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…</title>
-<link>https://x.com/trq212/status/2094945951865520458</link>
-<guid isPermaLink="true">https://x.com/trq212/status/2094945951865520458</guid>
-<description>Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。（X：Thariq (@trq212)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
-</item>
-<item>
 <title>Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿 / 🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…</title>
 <link>https://x.com/Alibaba_Qwen/status/2094982928371794077</link>
 <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2094982928371794077</guid>
@@ -144,12 +144,12 @@
 <pubDate>Wed, 02 Sep 2026 03:50:37 +0000</pubDate>
 </item>
 <item>
-<title>UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</guid>
-<description>UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。（公众号：数字生命卡兹克）</description>
+<title>南向资金彻底疯狂：Minimax吸金能力逆天，买入规模超越阿里腾讯</title>
+<link>https://www.aibase.com/news/30779</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30779</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 03:32:20 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 09:41:29 +0000</pubDate>
 </item>
 <item>
 <title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
@@ -160,12 +160,12 @@
 <pubDate>Tue, 01 Sep 2026 12:40:19 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI CEO直说“不喜欢智能眼镜”：跟戴摄像机的人讲话很不舒服，扎克伯格暂时松口气</title>
-<link>https://www.aibase.com/news/30765</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30765</guid>
-<description>AIbase</description>
+<title>UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609</guid>
+<description>UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。（公众号：数字生命卡兹克）</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 05:51:24 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 03:32:20 +0000</pubDate>
 </item>
 </channel>
 </rss>
