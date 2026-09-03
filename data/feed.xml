@@ -5,8 +5,32 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 03 Sep 2026 15:01:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 19:52:12 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
+<link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</link>
+<guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</guid>
+<description>NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。（NVIDIA Blog（RSS））</description>
+<category>多源热议</category>
+<pubDate>Thu, 03 Sep 2026 15:01:53 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 3.8 Flash is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</guid>
+<description>Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 18:50:38 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
+<link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 15:02:08 +0000</pubDate>
+</item>
 <item>
 <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
 <link>https://huggingface.co/blog/Hcompany/neomme</link>
@@ -16,28 +40,20 @@
 <pubDate>Thu, 03 Sep 2026 13:13:48 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
-<link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</guid>
-<description>NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。（NVIDIA Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 15:01:53 +0000</pubDate>
-</item>
-<item>
-<title>CodeQL 2.26.4 improves GitHub actions security detections</title>
-<link>https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections</guid>
-<description>CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.（GitHub Changelog）</description>
+<title>GitHub Copilot app for Beginners: Run several agents at once</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once</guid>
+<description>Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.（GitHub AI &amp; ML）</description>
 <category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 14:04:59 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
-<link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</link>
-<guid isPermaLink="true">https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</guid>
-<description>METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<title>IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期</title>
+<link>https://ifm.ai/blog/k2</link>
+<guid isPermaLink="true">https://ifm.ai/blog/k2</guid>
+<description>IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
-<pubDate>Thu, 03 Sep 2026 04:49:35 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 17:35:09 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.153.0</title>
@@ -48,20 +64,76 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
-<link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</guid>
-<description>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.（GitHub AI &amp; ML）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
+<title>OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代 / OpenAI's next big AI model has 'entered the AGI era'</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release</guid>
+<description>OpenAI 发布下一代的旗舰模型 GPT-6 Astra，称其为能力上的世代跃升，Greg Brockman 表示现在可能已进入 AGI 时代。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber</guid>
-<description>Google DeepMind</description>
+<title>OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model</title>
+<link>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model</guid>
+<description>OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 18:01:45 +0000</pubDate>
+</item>
+<item>
+<title>GitHub CLI Linux package signing key expires September 5</title>
+<link>https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5</guid>
+<description>The current PGP key for the GitHub CLI Linux package repositories expires on Saturday, September 5, 2026.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:05:40 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"</title>
+<link>https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era</link>
+<guid isPermaLink="true">https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era</guid>
+<description>OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 19:25:40 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态 / Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …</title>
+<link>https://x.com/sundarpichai/status/2095569375373984139</link>
+<guid isPermaLink="true">https://x.com/sundarpichai/status/2095569375373984139</guid>
+<description>NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。（X：Sundar Pichai (@sundarpichai)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 17:47:27 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…</title>
+<link>https://x.com/satyanadella/status/2095587182039969861</link>
+<guid isPermaLink="true">https://x.com/satyanadella/status/2095587182039969861</guid>
+<description>NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。（X：Satya Nadella (@satyanadella)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 18:58:12 +0000</pubDate>
+</item>
+<item>
+<title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
+<link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</link>
+<guid isPermaLink="true">https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</guid>
+<description>METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Thu, 03 Sep 2026 04:49:35 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…</title>
+<link>https://x.com/testingcatalog/status/2095578972335542742</link>
+<guid isPermaLink="true">https://x.com/testingcatalog/status/2095578972335542742</guid>
+<description>OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。（X：Testing Catalog (@testingcatalog)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 18:25:35 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放 / OpenAI is rolling GPT-6 Astra out first to restricted cybersecurity customers， API access and AWS ex…</title>
+<link>https://x.com/rohanpaul_ai/status/2095586785455948112</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2095586785455948112</guid>
+<description>OpenAI 发布 GPT-6 Astra，首先向经过审核的 Daybreak 网络安全客户开放，Plus、Pro、Business、Enterprise、API 和 AWS 将在未来数日内跟进。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 18:56:38 +0000</pubDate>
 </item>
 <item>
 <title>Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
@@ -72,100 +144,28 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Proactive cyber defense for governments and enterprises</title>
-<link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</guid>
-<description>Introducing Fairwind Program（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
-</item>
-<item>
-<title>Content exclusions generally available in Copilot app and CLI</title>
-<link>https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</guid>
-<description>The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 18:14:23 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality</guid>
-<description>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.（GitHub AI &amp; ML）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own</title>
-<link>https://huggingface.co/blog/funes</link>
-<guid isPermaLink="true">https://huggingface.co/blog/funes</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AI 绩效评估从"用量"转向"产出"：Meta 弃用采用率仪表盘与 Token 指标</title>
-<link>https://www.aibase.com/news/30802</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30802</guid>
-<description>AIbase</description>
+<title>OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展 / GPT-6 Astra is here！ This is a big moment for our research team - years of work on pretraining， rein…</title>
+<link>https://x.com/markchen90/status/2095597534412673109</link>
+<guid isPermaLink="true">https://x.com/markchen90/status/2095597534412673109</guid>
+<description>OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。（X：Mark Chen（OpenAI 首席研究官，@markchen90））</description>
 <category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 09:54:33 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:39:21 +0000</pubDate>
 </item>
 <item>
-<title>美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用</title>
-<link>https://www.ithome.com/0/997/732.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/997/732.htm</guid>
-<description>美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。（IT之家（RSS））</description>
+<title>OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9% / Official GPT-6 Astra Benchmarks from OpenAIs website "Astra also saturates ARC-AGI-3 with a 99.9% s…</title>
+<link>https://x.com/kimmonismus/status/2095585966102614182</link>
+<guid isPermaLink="true">https://x.com/kimmonismus/status/2095585966102614182</guid>
+<description>X：Kim (@kimmonismus)</description>
 <category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 23:50:05 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 18:53:23 +0000</pubDate>
 </item>
 <item>
-<title>Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…</title>
-<link>https://x.com/kimmonismus/status/2095265444999410146</link>
-<guid isPermaLink="true">https://x.com/kimmonismus/status/2095265444999410146</guid>
-<description>Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。（X：Kim (@kimmonismus)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 21:39:44 +0000</pubDate>
-</item>
-<item>
-<title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
-<link>https://x.com/claudeai/status/2095226833293685100</link>
-<guid isPermaLink="true">https://x.com/claudeai/status/2095226833293685100</guid>
-<description>Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。（X：Claude (@claudeai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 19:06:19 +0000</pubDate>
-</item>
-<item>
-<title>Enterprise-managed settings support any default model</title>
-<link>https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</guid>
-<description>You can now set your preferred GitHub Copilot model as the default for new conversations through enterprise-managed settings.（GitHub Changelog）</description>
+<title>Reopening Copilot Business and Enterprise signups</title>
+<link>https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups</guid>
+<description>We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 18:51:12 +0000</pubDate>
-</item>
-<item>
-<title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
-<link>https://x.com/rohanpaul_ai/status/2095197606884573208</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2095197606884573208</guid>
-<description>美国司法部在 OpenAI 与纽约时报的版权诉讼中提交意见书，主张用受版权文本训练 LLM 一般应属合理使用，称模型训练具有非凡转换性，并以国家安全为由警告全面许可要求会削弱美国 AI 开发者竞争力。该意见书属建议性质、不约束法院，仍将数据获取方式与具体输出是否复制受保护段落作为独立问题留给法院逐案判断。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 17:10:11 +0000</pubDate>
-</item>
-<item>
-<title>用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv</title>
-<link>https://huggingface.co/blog/train-to-paint-with-code</link>
-<guid isPermaLink="true">https://huggingface.co/blog/train-to-paint-with-code</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions</title>
-<link>https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions</link>
-<guid isPermaLink="true">https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions</guid>
-<description>Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。（Google Developers Blog（RSS））</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 16:29:43 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 14:40:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
