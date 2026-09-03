@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 03 Sep 2026 05:50:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 09:54:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
@@ -24,20 +24,20 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv</title>
+<link>https://huggingface.co/blog/train-to-paint-with-code</link>
+<guid isPermaLink="true">https://huggingface.co/blog/train-to-paint-with-code</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Content exclusions generally available in Copilot app and CLI</title>
 <link>https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</guid>
 <description>The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 18:14:23 +0000</pubDate>
-</item>
-<item>
-<title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
-<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
 </item>
 <item>
 <title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
@@ -72,6 +72,14 @@
 <pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
 </item>
 <item>
+<title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
+<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
+</item>
+<item>
 <title>Enterprise-managed settings support any default model</title>
 <link>https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</guid>
@@ -86,6 +94,14 @@
 <description>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.（GitHub AI &amp; ML）</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI 绩效评估从"用量"转向"产出"：Meta 弃用采用率仪表盘与 Token 指标</title>
+<link>https://www.aibase.com/news/30802</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30802</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 09:54:33 +0000</pubDate>
 </item>
 <item>
 <title>美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用</title>
@@ -104,20 +120,20 @@
 <pubDate>Wed, 02 Sep 2026 14:35:03 +0000</pubDate>
 </item>
 <item>
-<title>AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号</title>
-<link>https://www.aibase.com/news/30793</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30793</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 05:50:39 +0000</pubDate>
-</item>
-<item>
 <title>Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…</title>
 <link>https://x.com/kimmonismus/status/2095265444999410146</link>
 <guid isPermaLink="true">https://x.com/kimmonismus/status/2095265444999410146</guid>
 <description>Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。（X：Kim (@kimmonismus)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 21:39:44 +0000</pubDate>
+</item>
+<item>
+<title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
+<link>https://x.com/claudeai/status/2095226833293685100</link>
+<guid isPermaLink="true">https://x.com/claudeai/status/2095226833293685100</guid>
+<description>Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。（X：Claude (@claudeai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 19:06:19 +0000</pubDate>
 </item>
 <item>
 <title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
@@ -144,28 +160,12 @@
 <pubDate>Wed, 02 Sep 2026 20:37:12 +0000</pubDate>
 </item>
 <item>
-<title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
-<link>https://x.com/claudeai/status/2095226833293685100</link>
-<guid isPermaLink="true">https://x.com/claudeai/status/2095226833293685100</guid>
-<description>Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。（X：Claude (@claudeai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 19:06:19 +0000</pubDate>
-</item>
-<item>
-<title>AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关</title>
-<link>https://www.aibase.com/news/30799</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30799</guid>
+<title>AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D</title>
+<link>https://www.aibase.com/news/30806</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30806</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 05:50:39 +0000</pubDate>
-</item>
-<item>
-<title>什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？</title>
-<link>https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0</link>
-<guid isPermaLink="true">https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0</guid>
-<description>Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。（Google AI：DEV 作者专属（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 15:28:05 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 09:54:33 +0000</pubDate>
 </item>
 </channel>
 </rss>
