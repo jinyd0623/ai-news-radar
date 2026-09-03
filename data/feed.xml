@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 03 Sep 2026 19:52:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 23:18:08 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
@@ -14,6 +14,14 @@
 <description>NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。（NVIDIA Blog（RSS））</description>
 <category>多源热议</category>
 <pubDate>Thu, 03 Sep 2026 15:01:53 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services</title>
+<link>https://openai.com/index/daybreak-for-frontline-defenders</link>
+<guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
+<description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 13:15:00 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 3.8 Flash is now available in GitHub Copilot</title>
@@ -30,6 +38,14 @@
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Thu, 03 Sep 2026 15:02:08 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.153.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
@@ -56,12 +72,28 @@
 <pubDate>Thu, 03 Sep 2026 17:35:09 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.153.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
+<title>OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra</title>
+<link>https://simonwillison.net/2026/Sep/3/gpt6-astra</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/3/gpt6-astra</guid>
+<description>OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。（Simon Willison 博客）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 20:18:41 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold</title>
+<link>https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold</guid>
+<description>OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 21:16:11 +0000</pubDate>
+</item>
+<item>
+<title>Upcoming deprecation of selected GitHub Copilot models</title>
+<link>https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models</guid>
+<description>We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions)…（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:40:14 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代 / OpenAI's next big AI model has 'entered the AGI era'</title>
@@ -80,12 +112,12 @@
 <pubDate>Thu, 03 Sep 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
-<title>GitHub CLI Linux package signing key expires September 5</title>
-<link>https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5</guid>
-<description>The current PGP key for the GitHub CLI Linux package repositories expires on Saturday, September 5, 2026.（GitHub Changelog）</description>
+<title>OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview: GPT-6 Astra</title>
+<link>https://openai.com/index/safety-overview-gpt-6-astra</link>
+<guid isPermaLink="true">https://openai.com/index/safety-overview-gpt-6-astra</guid>
+<description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 19:05:40 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"</title>
@@ -112,12 +144,20 @@
 <pubDate>Thu, 03 Sep 2026 18:58:12 +0000</pubDate>
 </item>
 <item>
-<title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
-<link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</link>
-<guid isPermaLink="true">https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</guid>
-<description>METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Thu, 03 Sep 2026 04:49:35 +0000</pubDate>
+<title>Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …</title>
+<link>https://x.com/ArtificialAnlys/status/2095595489031000350</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2095595489031000350</guid>
+<description>Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 19:31:13 +0000</pubDate>
+</item>
+<item>
+<title>François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…</title>
+<link>https://x.com/fchollet/status/2095598451115614371</link>
+<guid isPermaLink="true">https://x.com/fchollet/status/2095598451115614371</guid>
+<description>François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。（X：Francois Chollet (@fchollet)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 19:42:59 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…</title>
@@ -126,46 +166,6 @@
 <description>OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。（X：Testing Catalog (@testingcatalog)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 03 Sep 2026 18:25:35 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放 / OpenAI is rolling GPT-6 Astra out first to restricted cybersecurity customers， API access and AWS ex…</title>
-<link>https://x.com/rohanpaul_ai/status/2095586785455948112</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2095586785455948112</guid>
-<description>OpenAI 发布 GPT-6 Astra，首先向经过审核的 Daybreak 网络安全客户开放，Plus、Pro、Business、Enterprise、API 和 AWS 将在未来数日内跟进。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 18:56:38 +0000</pubDate>
-</item>
-<item>
-<title>Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
-<link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
-<guid isPermaLink="true">https://huggingface.co/blog/grpo-with-trl-ifstruct</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展 / GPT-6 Astra is here！ This is a big moment for our research team - years of work on pretraining， rein…</title>
-<link>https://x.com/markchen90/status/2095597534412673109</link>
-<guid isPermaLink="true">https://x.com/markchen90/status/2095597534412673109</guid>
-<description>OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。（X：Mark Chen（OpenAI 首席研究官，@markchen90））</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 19:39:21 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9% / Official GPT-6 Astra Benchmarks from OpenAIs website "Astra also saturates ARC-AGI-3 with a 99.9% s…</title>
-<link>https://x.com/kimmonismus/status/2095585966102614182</link>
-<guid isPermaLink="true">https://x.com/kimmonismus/status/2095585966102614182</guid>
-<description>X：Kim (@kimmonismus)</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 18:53:23 +0000</pubDate>
-</item>
-<item>
-<title>Reopening Copilot Business and Enterprise signups</title>
-<link>https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups</guid>
-<description>We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 14:40:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
