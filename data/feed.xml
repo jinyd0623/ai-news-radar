@@ -5,8 +5,32 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 03 Sep 2026 11:17:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 15:01:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
+<link>https://huggingface.co/blog/Hcompany/neomme</link>
+<guid isPermaLink="true">https://huggingface.co/blog/Hcompany/neomme</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 13:13:48 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
+<link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</link>
+<guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</guid>
+<description>NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。（NVIDIA Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 15:01:53 +0000</pubDate>
+</item>
+<item>
+<title>CodeQL 2.26.4 improves GitHub actions security detections</title>
+<link>https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections</guid>
+<description>CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 14:04:59 +0000</pubDate>
+</item>
 <item>
 <title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
 <link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</link>
@@ -22,22 +46,6 @@
 <description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Give Your Coding Agents a Memory You Own</title>
-<link>https://huggingface.co/blog/funes</link>
-<guid isPermaLink="true">https://huggingface.co/blog/funes</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Content exclusions generally available in Copilot app and CLI</title>
-<link>https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</guid>
-<description>The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 18:14:23 +0000</pubDate>
 </item>
 <item>
 <title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
@@ -56,17 +64,9 @@
 <pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
 </item>
 <item>
-<title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
-<link>https://openai.com/index/atv-big-air-tour</link>
-<guid isPermaLink="true">https://openai.com/index/atv-big-air-tour</guid>
-<description>ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv</title>
-<link>https://huggingface.co/blog/train-to-paint-with-code</link>
-<guid isPermaLink="true">https://huggingface.co/blog/train-to-paint-with-code</guid>
+<title>Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
+<link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
+<guid isPermaLink="true">https://huggingface.co/blog/grpo-with-trl-ifstruct</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
@@ -80,12 +80,12 @@
 <pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
 </item>
 <item>
-<title>Enterprise-managed settings support any default model</title>
-<link>https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</guid>
-<description>You can now set your preferred GitHub Copilot model as the default for new conversations through enterprise-managed settings.（GitHub Changelog）</description>
+<title>Content exclusions generally available in Copilot app and CLI</title>
+<link>https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</guid>
+<description>The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 18:51:12 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 18:14:23 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality</title>
@@ -94,6 +94,14 @@
 <description>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.（GitHub AI &amp; ML）</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own</title>
+<link>https://huggingface.co/blog/funes</link>
+<guid isPermaLink="true">https://huggingface.co/blog/funes</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>AI 绩效评估从"用量"转向"产出"：Meta 弃用采用率仪表盘与 Token 指标</title>
@@ -112,14 +120,6 @@
 <pubDate>Wed, 02 Sep 2026 23:50:05 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting</guid>
-<description>OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 14:35:03 +0000</pubDate>
-</item>
-<item>
 <title>Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…</title>
 <link>https://x.com/kimmonismus/status/2095265444999410146</link>
 <guid isPermaLink="true">https://x.com/kimmonismus/status/2095265444999410146</guid>
@@ -136,12 +136,12 @@
 <pubDate>Wed, 02 Sep 2026 19:06:19 +0000</pubDate>
 </item>
 <item>
-<title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
-<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
-<description>Hugging Face Blog</description>
+<title>Enterprise-managed settings support any default model</title>
+<link>https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model</guid>
+<description>You can now set your preferred GitHub Copilot model as the default for new conversations through enterprise-managed settings.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 18:51:12 +0000</pubDate>
 </item>
 <item>
 <title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
@@ -152,20 +152,20 @@
 <pubDate>Wed, 02 Sep 2026 17:10:11 +0000</pubDate>
 </item>
 <item>
+<title>用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv</title>
+<link>https://huggingface.co/blog/train-to-paint-with-code</link>
+<guid isPermaLink="true">https://huggingface.co/blog/train-to-paint-with-code</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions</title>
 <link>https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions</link>
 <guid isPermaLink="true">https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions</guid>
 <description>Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。（Google Developers Blog（RSS））</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 16:29:43 +0000</pubDate>
-</item>
-<item>
-<title>Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨</title>
-<link>https://x.com/alexandr_wang/status/2095249704888197175</link>
-<guid isPermaLink="true">https://x.com/alexandr_wang/status/2095249704888197175</guid>
-<description>Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。（X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 20:37:12 +0000</pubDate>
 </item>
 </channel>
 </rss>
