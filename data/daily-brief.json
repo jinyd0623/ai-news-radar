@@ -1,125 +1,8 @@
 {
-  "generated_at": "2026-09-02T23:20:32.604042Z",
+  "generated_at": "2026-09-03T01:08:53.718303Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_6e35b04142f7",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T03:33:48.237000Z"
-        },
-        {
-          "id": "898ffd2db043d598085bc6368bbb637ba9991898",
-          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": null,
-          "title_en": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_original": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49525378",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T23:22:06.813000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T03:33:48.237000Z"
-        },
-        {
-          "id": "898ffd2db043d598085bc6368bbb637ba9991898",
-          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": null,
-          "title_en": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_original": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49525378",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T23:22:06.813000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7515,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T23:22:06.813000Z",
-      "latest_at": "2026-09-02T03:33:48.237000Z",
-      "primary_item": {
-        "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-        "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
-      }
-    },
     {
       "story_id": "story_f2e8c1eb7be1",
       "title": "Content exclusions generally available in Copilot app and CLI",
@@ -165,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.929,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "official",
@@ -205,7 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -253,15 +136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9667,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "official",
@@ -293,7 +176,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -341,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8715,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,7 +264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -429,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9034,
+        "recency": 0.8802,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -517,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8489,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "official",
@@ -555,7 +438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -603,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8951,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -641,7 +524,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
+      }
+    },
+    {
+      "story_id": "story_2a70e38b6ec4",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+          "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+          "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+          "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T03:33:48.237000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+          "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+          "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+          "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T03:33:48.237000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7322,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T03:33:48.237000Z",
+      "latest_at": "2026-09-02T03:33:48.237000Z",
+      "primary_item": {
+        "id": "ce63be131b37945285411d9f6a59acbd508fd131",
+        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+        "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+        "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+        "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+        "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -689,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9372,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,7 +699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -777,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9258,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "official",
@@ -817,7 +787,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
+      }
+    },
+    {
+      "story_id": "story_92a899d05c07",
+      "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+      "url": "https://www.ithome.com/0/997/732.htm",
+      "primary_url": "https://www.ithome.com/0/997/732.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
+          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "title_zh": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "title_en": null,
+          "title_original": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/997/732.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T23:50:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
+          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "title_zh": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "title_en": null,
+          "title_original": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/997/732.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T23:50:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T23:50:05Z",
+      "latest_at": "2026-09-02T23:50:05Z",
+      "primary_item": {
+        "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
+        "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+        "title_zh": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+        "title_en": null,
+        "title_original": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+        "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/997/732.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -894,15 +951,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8812,
+        "recency": 0.8585,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -932,7 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -980,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.976,
+        "recency": 0.9509,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1076,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
+      }
+    },
+    {
+      "story_id": "story_2e845457e6c6",
+      "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+      "url": "https://www.aibase.com/news/30789",
+      "primary_url": "https://www.aibase.com/news/30789",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
+          "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+          "title_zh": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+          "title_en": null,
+          "title_original": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30789",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T01:08:53.718303Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
+          "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+          "title_zh": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+          "title_en": null,
+          "title_original": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30789",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T01:08:53.718303Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T01:08:53.718303Z",
+      "latest_at": "2026-09-03T01:08:53.718303Z",
+      "primary_item": {
+        "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
+        "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+        "title_zh": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+        "title_en": null,
+        "title_original": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30789",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -1067,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9147,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +1250,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -1154,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1193,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -1241,15 +1385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9614,
+        "recency": 0.9367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1280,7 +1424,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -1328,21 +1472,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T19:06:19Z",
       "latest_at": "2026-09-02T19:06:19Z",
@@ -1368,7 +1511,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
+      }
+    },
+    {
+      "story_id": "story_18637e079316",
+      "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+      "url": "https://www.aibase.com/news/30786",
+      "primary_url": "https://www.aibase.com/news/30786",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
+          "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "title_zh": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "title_en": null,
+          "title_original": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30786",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T01:08:53.718303Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
+          "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "title_zh": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "title_en": null,
+          "title_original": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30786",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T01:08:53.718303Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T01:08:53.718303Z",
+      "latest_at": "2026-09-03T01:08:53.718303Z",
+      "primary_item": {
+        "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
+        "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+        "title_zh": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+        "title_en": null,
+        "title_original": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30786",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -1416,15 +1647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1456,211 +1687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
-      }
-    },
-    {
-      "story_id": "story_8067e80125ef",
-      "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-      "url": "https://www.aibase.com/news/30785",
-      "primary_url": "https://www.aibase.com/news/30785",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b8667558c3b1ac28e8d2e751957bfdca7748a2b1",
-          "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-          "title_zh": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-          "title_en": null,
-          "title_original": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30785",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T11:21:12.975090Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b8667558c3b1ac28e8d2e751957bfdca7748a2b1",
-          "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-          "title_zh": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-          "title_en": null,
-          "title_original": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30785",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T11:21:12.975090Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.841,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T11:21:12.975090Z",
-      "latest_at": "2026-09-02T11:21:12.975090Z",
-      "primary_item": {
-        "id": "b8667558c3b1ac28e8d2e751957bfdca7748a2b1",
-        "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-        "title_zh": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-        "title_en": null,
-        "title_original": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30785",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
-      }
-    },
-    {
-      "story_id": "story_81b03dbe87b3",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-      "url": "https://x.com/trq212/status/2094945951865520458",
-      "primary_url": "https://x.com/trq212/status/2094945951865520458",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "09ed22f42bb30c08b2fb58f26c5bb790f27c1f98",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
-          "title_en": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-          "title_original": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-          "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2094945951865520458",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T00:30:11Z"
-        },
-        {
-          "id": "cf37ba90da698123f9afa9e93fe59bfaa9747783",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it’s a very good model, I spent a lot of time diving into it- longer write up coming but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt...",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
-          "title_en": "it’s a very good model, I spent a lot of time diving into it- longer write up coming but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt...",
-          "title_original": "it’s a very good model, I spent a lot of time diving into it- longer write up coming but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2094945951865520458",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T00:30:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thariq",
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "09ed22f42bb30c08b2fb58f26c5bb790f27c1f98",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
-          "title_en": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-          "title_original": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-          "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2094945951865520458",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T00:30:11Z"
-        },
-        {
-          "id": "cf37ba90da698123f9afa9e93fe59bfaa9747783",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it’s a very good model, I spent a lot of time diving into it- longer write up coming but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt...",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
-          "title_en": "it’s a very good model, I spent a lot of time diving into it- longer write up coming but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt...",
-          "title_original": "it’s a very good model, I spent a lot of time diving into it- longer write up coming but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2094945951865520458",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T00:30:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7191,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T00:30:11Z",
-      "latest_at": "2026-09-02T00:30:11Z",
-      "primary_item": {
-        "id": "09ed22f42bb30c08b2fb58f26c5bb790f27c1f98",
-        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-        "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
-        "title_en": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-        "title_original": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
-        "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/trq212/status/2094945951865520458",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "evaluation",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     },
     {
@@ -1708,15 +1735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8489,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1747,95 +1774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
-      }
-    },
-    {
-      "story_id": "story_e268caebd4a8",
-      "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-      "primary_url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
-          "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-          "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-          "title_en": "A guide to the anatomy of effective commerce agents",
-          "title_original": "A guide to the anatomy of effective commerce agents",
-          "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T17:01:34.540000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
-          "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-          "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-          "title_en": "A guide to the anatomy of effective commerce agents",
-          "title_original": "A guide to the anatomy of effective commerce agents",
-          "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T17:01:34.540000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9128,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T17:01:34.540000Z",
-      "latest_at": "2026-09-02T17:01:34.540000Z",
-      "primary_item": {
-        "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
-        "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-        "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-        "title_en": "A guide to the anatomy of effective commerce agents",
-        "title_original": "A guide to the anatomy of effective commerce agents",
-        "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T23:53:40.254890Z"
+        "scored_at": "2026-09-03T01:40:45.362519Z"
       }
     }
   ]
