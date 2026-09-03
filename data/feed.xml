@@ -5,8 +5,24 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 03 Sep 2026 01:08:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 05:50:39 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
+<link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</link>
+<guid isPermaLink="true">https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</guid>
+<description>METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Thu, 03 Sep 2026 04:49:35 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.153.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Content exclusions generally available in Copilot app and CLI</title>
 <link>https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli</link>
@@ -16,20 +32,20 @@
 <pubDate>Wed, 02 Sep 2026 18:14:23 +0000</pubDate>
 </item>
 <item>
-<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
-<link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</guid>
-<description>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.（GitHub AI &amp; ML）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
 <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
+</item>
+<item>
+<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
+<link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</guid>
+<description>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.（GitHub AI &amp; ML）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
@@ -54,14 +70,6 @@
 <description>Introducing Fairwind Program（Google AI Blog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
-<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
-<guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
-<description>Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。（Anthropic：Newsroom（网页））</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 03:33:48 +0000</pubDate>
 </item>
 <item>
 <title>Enterprise-managed settings support any default model</title>
@@ -96,20 +104,20 @@
 <pubDate>Wed, 02 Sep 2026 14:35:03 +0000</pubDate>
 </item>
 <item>
+<title>AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号</title>
+<link>https://www.aibase.com/news/30793</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30793</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 05:50:39 +0000</pubDate>
+</item>
+<item>
 <title>Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…</title>
 <link>https://x.com/kimmonismus/status/2095265444999410146</link>
 <guid isPermaLink="true">https://x.com/kimmonismus/status/2095265444999410146</guid>
 <description>Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。（X：Kim (@kimmonismus)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 21:39:44 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 3.8 Flash发布 六周三连更但干活不灵光</title>
-<link>https://www.aibase.com/news/30789</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30789</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 01:08:53 +0000</pubDate>
 </item>
 <item>
 <title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
@@ -144,12 +152,12 @@
 <pubDate>Wed, 02 Sep 2026 19:06:19 +0000</pubDate>
 </item>
 <item>
-<title>Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol</title>
-<link>https://www.aibase.com/news/30786</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30786</guid>
+<title>AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关</title>
+<link>https://www.aibase.com/news/30799</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30799</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 01:08:53 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 05:50:39 +0000</pubDate>
 </item>
 <item>
 <title>什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？</title>
@@ -158,14 +166,6 @@
 <description>Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。（Google AI：DEV 作者专属（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 15:28:05 +0000</pubDate>
-</item>
-<item>
-<title>Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage</title>
-<link>https://cursor.com/blog/self-hosted-machines</link>
-<guid isPermaLink="true">https://cursor.com/blog/self-hosted-machines</guid>
-<description>Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。（Cursor Blog）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
