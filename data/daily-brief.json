@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:18:08.908570Z",
+  "generated_at": "2026-09-04T01:01:54.533674Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8725,
-      "importance": 0.8725,
-      "importance_score": 0.8725,
+      "score": 0.8687,
+      "importance": 0.8687,
+      "importance_score": 0.8687,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.91,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8494,
+        "recency": 0.8284,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,7 +176,182 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
+      }
+    },
+    {
+      "story_id": "story_3af91fe6473f",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+      "url": "https://arcprize.org/blog/astra",
+      "primary_url": "https://arcprize.org/blog/astra",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_en": null,
+          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+          "recommend_reason_zh": null,
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:07:48.532000Z"
+        },
+        {
+          "id": "a3e9b5238b02867c9479b2bbc573f770ecc91b0a",
+          "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "title_zh": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "title_en": null,
+          "title_original": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arcprize.org/blog/astra",
+          "source": "arcprize.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:48.532000Z"
+        },
+        {
+          "id": "e91863598213042be8151470451ef96349f8389f",
+          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_zh": null,
+          "title_en": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_original": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49555691",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T23:18:35.815000Z"
+        },
+        {
+          "id": "aaf05ca056405ab2c8e1dfafb5a9074ab24e7042",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_en": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_original": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arcprize.org/blog/astra",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-03T19:45:00Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "arcprize.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_en": null,
+          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+          "recommend_reason_zh": null,
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:07:48.532000Z"
+        },
+        {
+          "id": "a3e9b5238b02867c9479b2bbc573f770ecc91b0a",
+          "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "title_zh": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "title_en": null,
+          "title_original": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arcprize.org/blog/astra",
+          "source": "arcprize.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:48.532000Z"
+        },
+        {
+          "id": "e91863598213042be8151470451ef96349f8389f",
+          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_zh": null,
+          "title_en": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_original": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49555691",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T23:18:35.815000Z"
+        },
+        {
+          "id": "aaf05ca056405ab2c8e1dfafb5a9074ab24e7042",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_en": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "title_original": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arcprize.org/blog/astra",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-03T19:45:00Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8583,
+      "importance": 0.8583,
+      "importance_score": 0.8583,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9871,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T19:45:00Z",
+      "latest_at": "2026-09-04T00:07:48.532000Z",
+      "primary_item": {
+        "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "title_en": null,
+        "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+        "recommend_reason_zh": null,
+        "url": "https://arcprize.org/blog/astra",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -253,15 +428,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8649,
+        "recency": 0.8436,
         "story_heat": 0.25
       },
       "category": "official",
@@ -292,96 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
-      }
-    },
-    {
-      "story_id": "story_af7f559f57ce",
-      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "summary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T18:50:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "summary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T18:50:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9376,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T18:50:38Z",
-      "latest_at": "2026-09-03T18:50:38Z",
-      "primary_item": {
-        "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-        "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
-        "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
-        "summary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -458,15 +544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8875,
+        "recency": 0.8656,
         "story_heat": 0.25
       },
       "category": "official",
@@ -497,124 +583,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
-      "story_id": "story_0a991ead0e43",
-      "title": "Codex CLI 0.153.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_af7f559f57ce",
+      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "Codex CLI 0.153.0",
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
           "title_zh": null,
-          "title_en": "Codex CLI 0.153.0",
-          "title_original": "Codex CLI 0.153.0",
-          "summary": null,
+          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "summary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.",
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "50aa205ff410f3127af9c9a89ce05de430cd66de",
-          "title": "Codex CLI 0.153.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.153.1",
-          "title_original": "Codex CLI 0.153.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T18:50:38Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "Codex CLI 0.153.0",
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
           "title_zh": null,
-          "title_en": "Codex CLI 0.153.0",
-          "title_original": "Codex CLI 0.153.0",
-          "summary": null,
+          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "summary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.",
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "50aa205ff410f3127af9c9a89ce05de430cd66de",
-          "title": "Codex CLI 0.153.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.153.1",
-          "title_original": "Codex CLI 0.153.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T18:50:38Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7143,
-        "story_heat": 0.25
+        "ai_relevance": 0.95,
+        "recency": 0.9145,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
+      "earliest_at": "2026-09-03T18:50:38Z",
+      "latest_at": "2026-09-03T18:50:38Z",
       "primary_item": {
-        "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-        "title": "Codex CLI 0.153.0",
+        "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+        "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
         "title_zh": null,
-        "title_en": "Codex CLI 0.153.0",
-        "title_original": "Codex CLI 0.153.0",
-        "summary": null,
+        "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
+        "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
+        "summary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.",
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
         "topics": [
-          "ai-coding"
+          "ai-coding",
+          "models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -662,15 +720,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8646,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "official",
@@ -703,7 +761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -751,15 +809,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8999,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -792,122 +850,151 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
-      "story_id": "story_09f1f8cfa0a6",
-      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-      "url": "https://ifm.ai/blog/k2",
-      "primary_url": "https://ifm.ai/blog/k2",
+      "story_id": "story_54dbd84743df",
+      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+      "primary_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
+          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
           "title_en": null,
-          "title_original": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+          "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+          "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
           "recommend_reason_zh": null,
-          "url": "https://ifm.ai/blog/k2",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T17:35:09.004000Z"
+          "published_at": "2026-09-04T00:07:47.851000Z"
         },
         {
-          "id": "a358cf099e44b982be454303e9e521b6774fd746",
-          "title": "K2 Horizon：前沿性能，极致开放",
-          "title_zh": "K2 Horizon：前沿性能，极致开放",
+          "id": "e8e1cc352fbf42ac0ef529e79e05e7cd5993bc17",
+          "title": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
+          "title_zh": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
           "title_en": null,
-          "title_original": "K2 Horizon：前沿性能，极致开放",
+          "title_original": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ifm.ai/blog/k2",
-          "source": "ifm.ai",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+          "source": "babyloniantwins.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-03T17:35:09.004000Z"
+          "published_at": "2026-09-04T00:07:47.851000Z"
         },
         {
-          "id": "80eed9a42b6d36610792e9a234d3dd249c4c2308",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
-          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "title_en": "K2 Horizon: A connected fleet of six open models",
-          "title_original": "K2 Horizon: A connected fleet of six open models",
+          "id": "edc53e565a3e799a805fc85f3fa40da6053c2208",
+          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_zh": null,
+          "title_en": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_original": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ifm.ai/blog/k2",
+          "url": "https://news.ycombinator.com/item?id=49550375",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T19:52:34.190000Z"
+        },
+        {
+          "id": "46e3ec54c4107119c59f998d01c1c1a385f5b5f0",
+          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot / Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+          "title_en": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_original": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-03T15:36:43Z"
+          "published_at": "2026-09-03T14:28:18Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ifm.ai"
+        "babyloniantwins.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
+          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
           "title_en": null,
-          "title_original": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+          "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+          "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
           "recommend_reason_zh": null,
-          "url": "https://ifm.ai/blog/k2",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T17:35:09.004000Z"
+          "published_at": "2026-09-04T00:07:47.851000Z"
         },
         {
-          "id": "a358cf099e44b982be454303e9e521b6774fd746",
-          "title": "K2 Horizon：前沿性能，极致开放",
-          "title_zh": "K2 Horizon：前沿性能，极致开放",
+          "id": "e8e1cc352fbf42ac0ef529e79e05e7cd5993bc17",
+          "title": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
+          "title_zh": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
           "title_en": null,
-          "title_original": "K2 Horizon：前沿性能，极致开放",
+          "title_original": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ifm.ai/blog/k2",
-          "source": "ifm.ai",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+          "source": "babyloniantwins.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-03T17:35:09.004000Z"
+          "published_at": "2026-09-04T00:07:47.851000Z"
         },
         {
-          "id": "80eed9a42b6d36610792e9a234d3dd249c4c2308",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
-          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "title_en": "K2 Horizon: A connected fleet of six open models",
-          "title_original": "K2 Horizon: A connected fleet of six open models",
+          "id": "edc53e565a3e799a805fc85f3fa40da6053c2208",
+          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_zh": null,
+          "title_en": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_original": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ifm.ai/blog/k2",
+          "url": "https://news.ycombinator.com/item?id=49550375",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T19:52:34.190000Z"
+        },
+        {
+          "id": "46e3ec54c4107119c59f998d01c1c1a385f5b5f0",
+          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot / Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+          "title_en": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "title_original": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-03T15:36:43Z"
+          "published_at": "2026-09-03T14:28:18Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8553,
+      "importance": 0.8553,
+      "importance_score": 0.8553,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
-        "story_heat": 0.5
+        "recency": 0.9871,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -915,23 +1002,23 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T15:36:43Z",
-      "latest_at": "2026-09-03T17:35:09.004000Z",
+      "earliest_at": "2026-09-03T14:28:18Z",
+      "latest_at": "2026-09-04T00:07:47.851000Z",
       "primary_item": {
-        "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
-        "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-        "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+        "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
+        "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+        "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
         "title_en": null,
-        "title_original": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-        "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+        "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+        "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
         "recommend_reason_zh": null,
-        "url": "https://ifm.ai/blog/k2",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
-          "open-source-models",
+          "ai-coding",
           "models"
         ]
       },
@@ -939,7 +1026,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1016,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9577,
+        "recency": 0.9341,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1056,7 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1133,15 +1220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9471,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1173,7 +1260,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1221,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9489,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1262,7 +1349,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1339,15 +1426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1379,7 +1466,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1456,15 +1543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1496,112 +1583,82 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
-      "story_id": "story_9ceba1d5d51f",
-      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "primary_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "story_id": "story_7818dad3e51c",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b897f9e2cc4fc9f5c8308c484538d7bac387d3bd",
-          "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview: GPT-6 Astra",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-          "title_en": "Safety overview: GPT-6 Astra",
-          "title_original": "Safety overview: GPT-6 Astra",
-          "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflo…",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "261f051bbfafad4ee0b16fceb406f66b3d38b54b",
-          "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview： GPT-6 Astra",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-          "title_en": "Safety overview： GPT-6 Astra",
-          "title_original": "Safety overview： GPT-6 Astra",
-          "summary": "OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T12:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "b897f9e2cc4fc9f5c8308c484538d7bac387d3bd",
-          "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview: GPT-6 Astra",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-          "title_en": "Safety overview: GPT-6 Astra",
-          "title_original": "Safety overview: GPT-6 Astra",
-          "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflo…",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "261f051bbfafad4ee0b16fceb406f66b3d38b54b",
-          "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview： GPT-6 Astra",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-          "title_en": "Safety overview： GPT-6 Astra",
-          "title_original": "Safety overview： GPT-6 Astra",
-          "summary": "OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T12:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7143,
-        "story_heat": 0.25
+        "recency": 0.8285,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
+      "earliest_at": "2026-09-03T12:00:00Z",
+      "latest_at": "2026-09-03T12:00:00Z",
       "primary_item": {
-        "id": "b897f9e2cc4fc9f5c8308c484538d7bac387d3bd",
-        "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview: GPT-6 Astra",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-        "title_en": "Safety overview: GPT-6 Astra",
-        "title_original": "Safety overview: GPT-6 Astra",
-        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflo…",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "source_tier": "official",
@@ -1614,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1662,15 +1719,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9456,
+        "recency": 0.9223,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1701,7 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1749,15 +1806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9235,
+        "recency": 0.9007,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1789,7 +1846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1837,15 +1894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9394,
+        "recency": 0.9162,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1877,7 +1934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -1925,15 +1982,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1966,7 +2023,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -2014,15 +2071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.9261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2053,7 +2110,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     },
     {
@@ -2101,15 +2158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2140,7 +2197,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T23:57:06.569902Z"
+        "scored_at": "2026-09-04T01:37:48.778210Z"
       }
     }
   ]

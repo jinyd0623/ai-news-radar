@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 03 Sep 2026 23:18:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 01:01:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
@@ -16,20 +16,20 @@
 <pubDate>Thu, 03 Sep 2026 15:01:53 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线</title>
+<link>https://arcprize.org/blog/astra</link>
+<guid isPermaLink="true">https://arcprize.org/blog/astra</guid>
+<description>OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Fri, 04 Sep 2026 00:07:48 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services</title>
 <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
 <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
 <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Thu, 03 Sep 2026 13:15:00 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 3.8 Flash is now available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</guid>
-<description>Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 18:50:38 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
@@ -40,12 +40,12 @@
 <pubDate>Thu, 03 Sep 2026 15:02:08 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.153.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
+<title>Gemini 3.8 Flash is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</guid>
+<description>Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 18:50:38 +0000</pubDate>
 </item>
 <item>
 <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
@@ -64,12 +64,12 @@
 <pubDate>Thu, 03 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期</title>
-<link>https://ifm.ai/blog/k2</link>
-<guid isPermaLink="true">https://ifm.ai/blog/k2</guid>
-<description>IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<title>开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot</title>
+<link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</link>
+<guid isPermaLink="true">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</guid>
+<description>作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
-<pubDate>Thu, 03 Sep 2026 17:35:09 +0000</pubDate>
+<pubDate>Fri, 04 Sep 2026 00:07:47 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra</title>
@@ -112,12 +112,12 @@
 <pubDate>Thu, 03 Sep 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级 / Safety overview: GPT-6 Astra</title>
-<link>https://openai.com/index/safety-overview-gpt-6-astra</link>
-<guid isPermaLink="true">https://openai.com/index/safety-overview-gpt-6-astra</guid>
-<description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.（OpenAI News）</description>
+<title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
+<link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+<guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+<description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflo…（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"</title>
