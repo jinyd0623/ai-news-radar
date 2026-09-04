@@ -5,16 +5,8 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 04 Sep 2026 11:20:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 14:59:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
-<item>
-<title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
-<link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</guid>
-<description>NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。（NVIDIA Blog（RSS））</description>
-<category>多源热议</category>
-<pubDate>Thu, 03 Sep 2026 15:01:53 +0000</pubDate>
-</item>
 <item>
 <title>OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线</title>
 <link>https://arcprize.org/blog/astra</link>
@@ -22,14 +14,6 @@
 <description>OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Fri, 04 Sep 2026 00:07:48 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services</title>
-<link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-<guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
-<description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 13:15:00 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
@@ -48,20 +32,20 @@
 <pubDate>Thu, 03 Sep 2026 18:50:38 +0000</pubDate>
 </item>
 <item>
-<title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
-<link>https://huggingface.co/blog/Hcompany/neomme</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Hcompany/neomme</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 13:13:48 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Copilot app for Beginners: Run several agents at once</title>
 <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once</guid>
 <description>Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.（GitHub AI &amp; ML）</description>
 <category>官方更新</category>
 <pubDate>Thu, 03 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward</title>
+<link>https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward</link>
+<guid isPermaLink="true">https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward</guid>
+<description>GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 11:07:36 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.</title>
@@ -72,12 +56,12 @@
 <pubDate>Fri, 04 Sep 2026 00:59:44 +0000</pubDate>
 </item>
 <item>
-<title>开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot</title>
-<link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</link>
-<guid isPermaLink="true">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</guid>
-<description>作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Fri, 04 Sep 2026 00:07:47 +0000</pubDate>
+<title>Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …</title>
+<link>https://x.com/kimmonismus/status/2095837763517988869</link>
+<guid isPermaLink="true">https://x.com/kimmonismus/status/2095837763517988869</guid>
+<description>Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。（X：Kim (@kimmonismus)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 11:33:56 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra</title>
@@ -112,12 +96,12 @@
 <pubDate>Thu, 03 Sep 2026 19:40:14 +0000</pubDate>
 </item>
 <item>
-<title>英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台</title>
-<link>https://www.ithome.com/0/998/248.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/248.htm</guid>
-<description>英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。（IT之家（RSS））</description>
+<title>路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理</title>
+<link>https://www.ithome.com/0/998/593.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/593.htm</guid>
+<description>路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。（IT之家（RSS））</description>
 <category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 00:38:47 +0000</pubDate>
+<pubDate>Fri, 04 Sep 2026 12:41:05 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线</title>
@@ -136,12 +120,12 @@
 <pubDate>Thu, 03 Sep 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
-<title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
-<link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-<description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflo…（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+<title>NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态 / Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …</title>
+<link>https://x.com/sundarpichai/status/2095569375373984139</link>
+<guid isPermaLink="true">https://x.com/sundarpichai/status/2095569375373984139</guid>
+<description>NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。（X：Sundar Pichai (@sundarpichai)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 17:47:27 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位</title>
@@ -152,20 +136,36 @@
 <pubDate>Fri, 04 Sep 2026 02:29:45 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"</title>
-<link>https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era</link>
-<guid isPermaLink="true">https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era</guid>
-<description>OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。（The Decoder：AI News（RSS））</description>
+<title>AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单</title>
+<link>https://www.aibase.com/news/30838</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30838</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 19:25:40 +0000</pubDate>
+<pubDate>Fri, 04 Sep 2026 11:20:35 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态 / Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …</title>
-<link>https://x.com/sundarpichai/status/2095569375373984139</link>
-<guid isPermaLink="true">https://x.com/sundarpichai/status/2095569375373984139</guid>
-<description>NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。（X：Sundar Pichai (@sundarpichai)）</description>
+<title>NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…</title>
+<link>https://x.com/satyanadella/status/2095587182039969861</link>
+<guid isPermaLink="true">https://x.com/satyanadella/status/2095587182039969861</guid>
+<description>NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。（X：Satya Nadella (@satyanadella)）</description>
 <category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 17:47:27 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 18:58:12 +0000</pubDate>
+</item>
+<item>
+<title>IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期</title>
+<link>https://ifm.ai/blog/k2</link>
+<guid isPermaLink="true">https://ifm.ai/blog/k2</guid>
+<description>IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Thu, 03 Sep 2026 17:35:09 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …</title>
+<link>https://x.com/ArtificialAnlys/status/2095595489031000350</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2095595489031000350</guid>
+<description>Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 19:31:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
