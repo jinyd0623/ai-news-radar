@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 04 Sep 2026 01:01:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 05:56:04 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
@@ -64,6 +64,14 @@
 <pubDate>Thu, 03 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
+<title>NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.</title>
+<link>https://x.com/steipete/status/2095678161052901828</link>
+<guid isPermaLink="true">https://x.com/steipete/status/2095678161052901828</guid>
+<description>黄仁勋宣布 NVIDIA 将收购 Hugging Face，称开放模型能强化安全与网络安全、加速创新与扩散、支持主权 AI，让开发者、初创、大学和各国都能构建并定制 AI。他表示 NVIDIA 将成为 Hugging Face 及其社区和开放模型未来的好归宿，作者 Peter Steinberger 转发并评论这是绝佳组合。（X：Peter Steinberger (@steipete)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 00:59:44 +0000</pubDate>
+</item>
+<item>
 <title>开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot</title>
 <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</link>
 <guid isPermaLink="true">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</guid>
@@ -104,6 +112,22 @@
 <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
+<title>英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台</title>
+<link>https://www.ithome.com/0/998/248.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/248.htm</guid>
+<description>英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 00:38:47 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线</title>
+<link>https://x.com/frxiaobei/status/2095682473745363068</link>
+<guid isPermaLink="true">https://x.com/frxiaobei/status/2095682473745363068</guid>
+<description>OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。（X：小北 (@frxiaobei)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 01:16:52 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model</title>
 <link>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model</guid>
@@ -120,6 +144,14 @@
 <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位</title>
+<link>https://x.com/AYi_AInotes/status/2095700816980222311</link>
+<guid isPermaLink="true">https://x.com/AYi_AInotes/status/2095700816980222311</guid>
+<description>OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。（X：阿易 AI Notes (@AYi_AInotes)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 02:29:45 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the "AGI era"</title>
 <link>https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era</link>
 <guid isPermaLink="true">https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era</guid>
@@ -134,38 +166,6 @@
 <description>NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。（X：Sundar Pichai (@sundarpichai)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 03 Sep 2026 17:47:27 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…</title>
-<link>https://x.com/satyanadella/status/2095587182039969861</link>
-<guid isPermaLink="true">https://x.com/satyanadella/status/2095587182039969861</guid>
-<description>NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。（X：Satya Nadella (@satyanadella)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 18:58:12 +0000</pubDate>
-</item>
-<item>
-<title>Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …</title>
-<link>https://x.com/ArtificialAnlys/status/2095595489031000350</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2095595489031000350</guid>
-<description>Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 19:31:13 +0000</pubDate>
-</item>
-<item>
-<title>François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…</title>
-<link>https://x.com/fchollet/status/2095598451115614371</link>
-<guid isPermaLink="true">https://x.com/fchollet/status/2095598451115614371</guid>
-<description>François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。（X：Francois Chollet (@fchollet)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 19:42:59 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…</title>
-<link>https://x.com/testingcatalog/status/2095578972335542742</link>
-<guid isPermaLink="true">https://x.com/testingcatalog/status/2095578972335542742</guid>
-<description>OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。（X：Testing Catalog (@testingcatalog)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 18:25:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
