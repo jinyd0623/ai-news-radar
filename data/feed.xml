@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 05 Sep 2026 11:51:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 13:53:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'</title>
@@ -32,12 +32,20 @@
 <pubDate>Fri, 04 Sep 2026 18:59:51 +0000</pubDate>
 </item>
 <item>
-<title>塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起</title>
-<link>https://www.ithome.com/0/998/758.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/758.htm</guid>
-<description>据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。（IT之家（RSS））</description>
+<title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
+<link>https://www.ithome.com/0/998/814.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/814.htm</guid>
+<description>针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。（IT之家（RSS））</description>
 <category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 07:53:01 +0000</pubDate>
+<pubDate>Sat, 05 Sep 2026 11:43:16 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
+<link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</link>
+<guid isPermaLink="true">https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</guid>
+<description>OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 05 Sep 2026 13:31:04 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot weekly releases — August 31</title>
@@ -46,14 +54,6 @@
 <description>This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Fri, 04 Sep 2026 21:05:01 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol</title>
-<link>https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol</guid>
-<description>OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 07:41:03 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …</title>
@@ -88,6 +88,14 @@
 <pubDate>Sat, 05 Sep 2026 07:56:50 +0000</pubDate>
 </item>
 <item>
+<title>塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起</title>
+<link>https://www.ithome.com/0/998/758.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/758.htm</guid>
+<description>据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 05 Sep 2026 07:53:01 +0000</pubDate>
+</item>
+<item>
 <title>GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！</title>
 <link>https://x.com/sama/status/2096008528834244741</link>
 <guid isPermaLink="true">https://x.com/sama/status/2096008528834244741</guid>
@@ -96,20 +104,20 @@
 <pubDate>Fri, 04 Sep 2026 22:52:29 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol</title>
+<link>https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol</link>
+<guid isPermaLink="true">https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol</guid>
+<description>OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 05 Sep 2026 07:41:03 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis</title>
 <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Sep/4/rogue-agent-wikis</guid>
 <description>OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。（Simon Willison 博客）</description>
 <category>行业动态</category>
 <pubDate>Fri, 04 Sep 2026 17:38:48 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元</title>
-<link>https://www.ithome.com/0/998/630.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/630.htm</guid>
-<description>据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 22:52:38 +0000</pubDate>
 </item>
 <item>
 <title>New API endpoint provides privacy-safe star history data</title>
@@ -128,6 +136,22 @@
 <pubDate>Fri, 04 Sep 2026 17:45:09 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元</title>
+<link>https://www.ithome.com/0/998/630.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/630.htm</guid>
+<description>据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 22:52:38 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the "wiki incident，" where our agents wrote to several internet sites： it's past …</title>
+<link>https://x.com/OpenAI/status/2096133504417616165</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2096133504417616165</guid>
+<description>OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 05 Sep 2026 07:09:06 +0000</pubDate>
+</item>
+<item>
 <title>GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections</title>
 <link>https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections</link>
 <guid isPermaLink="true">https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections</guid>
@@ -142,30 +166,6 @@
 <description>OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 05 Sep 2026 00:42:24 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the "wiki incident，" where our agents wrote to several internet sites： it's past …</title>
-<link>https://x.com/OpenAI/status/2096133504417616165</link>
-<guid isPermaLink="true">https://x.com/OpenAI/status/2096133504417616165</guid>
-<description>OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。（X：OpenAI (@OpenAI)）</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 07:09:06 +0000</pubDate>
-</item>
-<item>
-<title>英伟达两年从零建起近千亿美元股权投资组合</title>
-<link>https://www.ithome.com/0/998/620.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/620.htm</guid>
-<description>据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 14:59:33 +0000</pubDate>
-</item>
-<item>
-<title>路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理</title>
-<link>https://www.ithome.com/0/998/593.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/593.htm</guid>
-<description>路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 12:41:05 +0000</pubDate>
 </item>
 </channel>
 </rss>
