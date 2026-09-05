@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 05 Sep 2026 01:01:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 06:57:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration</title>
@@ -32,6 +32,14 @@
 <pubDate>Fri, 04 Sep 2026 21:05:01 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …</title>
+<link>https://x.com/OpenAI/status/2095968413646737608</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2095968413646737608</guid>
+<description>OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 20:33:56 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem</title>
 <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
 <guid isPermaLink="true">https://www.anthropic.com/research/formalizing-fermats-last-theorem</guid>
@@ -56,14 +64,6 @@
 <pubDate>Fri, 04 Sep 2026 22:52:29 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …</title>
-<link>https://x.com/OpenAI/status/2095968413646737608</link>
-<guid isPermaLink="true">https://x.com/OpenAI/status/2095968413646737608</guid>
-<description>OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。（X：OpenAI (@OpenAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 20:13:05 +0000</pubDate>
-</item>
-<item>
 <title>GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections</title>
 <link>https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections</link>
 <guid isPermaLink="true">https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections</guid>
@@ -78,6 +78,14 @@
 <description>OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。（Simon Willison 博客）</description>
 <category>行业动态</category>
 <pubDate>Fri, 04 Sep 2026 17:38:48 +0000</pubDate>
+</item>
+<item>
+<title>奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出</title>
+<link>https://www.ithome.com/0/998/661.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/661.htm</guid>
+<description>OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 05 Sep 2026 00:42:24 +0000</pubDate>
 </item>
 <item>
 <title>New API endpoint provides privacy-safe star history data</title>
@@ -104,28 +112,12 @@
 <pubDate>Fri, 04 Sep 2026 11:33:56 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线</title>
-<link>https://x.com/frxiaobei/status/2095682473745363068</link>
-<guid isPermaLink="true">https://x.com/frxiaobei/status/2095682473745363068</guid>
-<description>OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。（X：小北 (@frxiaobei)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 01:16:52 +0000</pubDate>
-</item>
-<item>
 <title>GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward</title>
 <link>https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward</link>
 <guid isPermaLink="true">https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward</guid>
 <description>GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 04 Sep 2026 11:07:36 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位</title>
-<link>https://x.com/AYi_AInotes/status/2095700816980222311</link>
-<guid isPermaLink="true">https://x.com/AYi_AInotes/status/2095700816980222311</guid>
-<description>OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。（X：阿易 AI Notes (@AYi_AInotes)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 02:29:45 +0000</pubDate>
 </item>
 <item>
 <title>AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单</title>
@@ -136,12 +128,12 @@
 <pubDate>Fri, 04 Sep 2026 11:20:35 +0000</pubDate>
 </item>
 <item>
-<title>Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！</title>
-<link>https://x.com/gdb/status/2095730639094079594</link>
-<guid isPermaLink="true">https://x.com/gdb/status/2095730639094079594</guid>
-<description>Greg Brockman 转发 Satya Nadella 的推文，表示对 Astra 登陆 Azure 感到兴奋。Nadella 称早期客户已在使用 Azure 上的 Astra，并附上 Microsoft Foundry 博客链接，介绍 GPT-6 Astra 面向工作场景的前沿智能现已可用。（X：Greg Brockman (@gdb)）</description>
+<title>AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应</title>
+<link>https://www.aibase.com/news/30845</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30845</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 04:28:15 +0000</pubDate>
+<pubDate>Fri, 04 Sep 2026 11:20:35 +0000</pubDate>
 </item>
 <item>
 <title>英伟达两年从零建起近千亿美元股权投资组合</title>
@@ -152,17 +144,25 @@
 <pubDate>Fri, 04 Sep 2026 14:59:33 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力</title>
-<link>https://x.com/AYi_AInotes/status/2095698966684049433</link>
-<guid isPermaLink="true">https://x.com/AYi_AInotes/status/2095698966684049433</guid>
-<description>OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。（X：阿易 AI Notes (@AYi_AInotes)）</description>
+<title>Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次</title>
+<link>https://www.aibase.com/news/30841</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30841</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 04 Sep 2026 02:22:24 +0000</pubDate>
+<pubDate>Fri, 04 Sep 2026 11:20:35 +0000</pubDate>
 </item>
 <item>
-<title>AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应</title>
-<link>https://www.aibase.com/news/30845</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30845</guid>
+<title>路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理</title>
+<link>https://www.ithome.com/0/998/593.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/593.htm</guid>
+<description>路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 04 Sep 2026 12:41:05 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报</title>
+<link>https://www.aibase.com/news/30844</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30844</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 04 Sep 2026 11:20:35 +0000</pubDate>
