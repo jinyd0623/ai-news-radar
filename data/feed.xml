@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 06 Sep 2026 07:09:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 09:29:01 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure</title>
@@ -24,6 +24,14 @@
 <pubDate>Sat, 05 Sep 2026 11:15:55 +0000</pubDate>
 </item>
 <item>
+<title>Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化</title>
+<link>https://www.ithome.com/0/998/927.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/927.htm</guid>
+<description>据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sun, 06 Sep 2026 06:46:16 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the "wiki incident" and says its rules for disclosing agent failures need to…</title>
 <link>https://x.com/rohanpaul_ai/status/2096303922378088854</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2096303922378088854</guid>
@@ -40,20 +48,12 @@
 <pubDate>Sat, 05 Sep 2026 21:31:52 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
-<link>https://www.ithome.com/0/998/814.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/814.htm</guid>
-<description>针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。（IT之家（RSS））</description>
+<title>OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
+<link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</link>
+<guid isPermaLink="true">https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</guid>
+<description>OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 11:43:16 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol</title>
-<link>https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol</guid>
-<description>OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 07:41:03 +0000</pubDate>
+<pubDate>Sat, 05 Sep 2026 13:31:04 +0000</pubDate>
 </item>
 <item>
 <title>实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级</title>
@@ -64,28 +64,12 @@
 <pubDate>Sat, 05 Sep 2026 11:39:52 +0000</pubDate>
 </item>
 <item>
-<title>费马大定理的 Lean 4 机器检查完整证明开源发布</title>
-<link>https://github.com/anthropics/fermats-last-theorem</link>
-<guid isPermaLink="true">https://github.com/anthropics/fermats-last-theorem</guid>
-<description>Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
+<link>https://www.ithome.com/0/998/814.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/998/814.htm</guid>
+<description>针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。（IT之家（RSS））</description>
 <category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 07:56:50 +0000</pubDate>
-</item>
-<item>
-<title>塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起</title>
-<link>https://www.ithome.com/0/998/758.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/758.htm</guid>
-<description>据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 07:53:01 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
-<link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</guid>
-<description>OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 13:31:04 +0000</pubDate>
+<pubDate>Sat, 05 Sep 2026 11:43:16 +0000</pubDate>
 </item>
 <item>
 <title>安装在机械臂上的GPT-6 Astra</title>
@@ -110,14 +94,6 @@
 <description>arxiv.org</description>
 <category>值得关注</category>
 <pubDate>Sat, 05 Sep 2026 22:19:59 +0000</pubDate>
-</item>
-<item>
-<title>AI 处理事件，工程师与系统失去联系</title>
-<link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
-<guid isPermaLink="true">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</guid>
-<description>www.sylvainkalache.com</description>
-<category>多源热议</category>
-<pubDate>Sat, 05 Sep 2026 10:17:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
