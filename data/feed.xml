@@ -5,8 +5,16 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 06 Sep 2026 17:07:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 19:13:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind</title>
+<link>https://openai.com/index/an-alien-mind</link>
+<guid isPermaLink="true">https://openai.com/index/an-alien-mind</guid>
+<description>Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Sun, 06 Sep 2026 18:33:46 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI</title>
 <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
@@ -16,20 +24,12 @@
 <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind</title>
-<link>https://openai.com/index/an-alien-mind</link>
-<guid isPermaLink="true">https://openai.com/index/an-alien-mind</guid>
-<description>Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Sun, 06 Sep 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure</title>
-<link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure</guid>
-<description>OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。（TechCrunch：AI（RSS））</description>
+<title>OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its "automated research intern" milestone. i.e. a human…</title>
+<link>https://x.com/rohanpaul_ai/status/2096665545190043737</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2096665545190043737</guid>
+<description>OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 18:05:27 +0000</pubDate>
+<pubDate>Sun, 06 Sep 2026 18:23:14 +0000</pubDate>
 </item>
 <item>
 <title>Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化</title>
@@ -38,14 +38,6 @@
 <description>据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sun, 06 Sep 2026 06:46:16 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the "wiki incident" and says its rules for disclosing agent failures need to…</title>
-<link>https://x.com/rohanpaul_ai/status/2096303922378088854</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2096303922378088854</guid>
-<description>OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 18:26:17 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分 / GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…</title>
@@ -62,6 +54,14 @@
 <description>beza1e1.tuxen.de</description>
 <category>多源热议</category>
 <pubDate>Sun, 06 Sep 2026 16:12:11 +0000</pubDate>
+</item>
+<item>
+<title>How we monitor internal coding agents for misalignment</title>
+<link>https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Sun, 06 Sep 2026 16:37:55 +0000</pubDate>
 </item>
 <item>
 <title>人工智能关机——保持人性</title>
