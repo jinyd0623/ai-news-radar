@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 06 Sep 2026 12:10:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 14:13:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure</title>
@@ -38,14 +38,6 @@
 <description>GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。（X：Testing Catalog (@testingcatalog)）</description>
 <category>行业动态</category>
 <pubDate>Sat, 05 Sep 2026 21:31:52 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
-<link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</guid>
-<description>OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 13:31:04 +0000</pubDate>
 </item>
 <item>
 <title>安装在机械臂上的GPT-6 Astra</title>
