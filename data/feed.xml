@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 06 Sep 2026 19:13:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 22:54:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind</title>
@@ -38,14 +38,6 @@
 <description>据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sun, 06 Sep 2026 06:46:16 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分 / GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…</title>
-<link>https://x.com/testingcatalog/status/2096350628054176240</link>
-<guid isPermaLink="true">https://x.com/testingcatalog/status/2096350628054176240</guid>
-<description>GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。（X：Testing Catalog (@testingcatalog)）</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 21:31:52 +0000</pubDate>
 </item>
 <item>
 <title>我对人工智能的看法</title>
@@ -86,22 +78,6 @@
 <description>openai.robocurve.org</description>
 <category>值得关注</category>
 <pubDate>Sun, 06 Sep 2026 04:56:10 +0000</pubDate>
-</item>
-<item>
-<title>OKF Agent Memory – Git-native persistent memory for AI coding agents</title>
-<link>https://news.ycombinator.com/item?id=49581240</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49581240</guid>
-<description>hackernews</description>
-<category>值得关注</category>
-<pubDate>Sun, 06 Sep 2026 01:02:28 +0000</pubDate>
-</item>
-<item>
-<title>大语言模型作为认知病毒</title>
-<link>https://arxiv.org/abs/2609.03344</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.03344</guid>
-<description>arxiv.org</description>
-<category>值得关注</category>
-<pubDate>Sat, 05 Sep 2026 22:19:59 +0000</pubDate>
 </item>
 </channel>
 </rss>
