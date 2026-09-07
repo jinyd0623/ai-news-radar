@@ -1,260 +1,81 @@
 {
-  "generated_at": "2026-09-07T06:08:18.949860Z",
+  "generated_at": "2026-09-07T10:24:57.752932Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_cc153614bc7c",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "story_id": "story_002df950f741",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "primary_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "title_zh": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "title_en": "Research acceleration: The view inside OpenAI",
-          "title_original": "Research acceleration: The view inside OpenAI",
-          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+          "title": "Supporting independent journalism in Ukraine",
+          "title_zh": null,
+          "title_en": "Supporting independent journalism in Ukraine",
+          "title_original": "Supporting independent journalism in Ukraine",
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration： The view inside OpenAI",
-          "title_zh": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "title_en": "Research acceleration： The view inside OpenAI",
-          "title_original": "Research acceleration： The view inside OpenAI",
-          "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "title_zh": "研究加速：OpenAI内部视角",
-          "title_en": null,
-          "title_original": "研究加速：OpenAI内部视角",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
+          "published_at": "2026-09-07T00:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "title_zh": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "title_en": "Research acceleration: The view inside OpenAI",
-          "title_original": "Research acceleration: The view inside OpenAI",
-          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+          "title": "Supporting independent journalism in Ukraine",
+          "title_zh": null,
+          "title_en": "Supporting independent journalism in Ukraine",
+          "title_original": "Supporting independent journalism in Ukraine",
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration： The view inside OpenAI",
-          "title_zh": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "title_en": "Research acceleration： The view inside OpenAI",
-          "title_original": "Research acceleration： The view inside OpenAI",
-          "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "title_zh": "研究加速：OpenAI内部视角",
-          "title_en": null,
-          "title_original": "研究加速：OpenAI内部视角",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
+          "published_at": "2026-09-07T00:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7264,
-        "story_heat": 0.5
+        "recency": 0.8604,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T08:00:00Z",
-      "latest_at": "2026-09-07T00:17:54.906000Z",
+      "earliest_at": "2026-09-07T00:00:00Z",
+      "latest_at": "2026-09-07T00:00:00Z",
       "primary_item": {
-        "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-        "title_zh": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-        "title_en": "Research acceleration: The view inside OpenAI",
-        "title_original": "Research acceleration: The view inside OpenAI",
-        "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+        "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+        "title": "Supporting independent journalism in Ukraine",
+        "title_zh": null,
+        "title_en": "Supporting independent journalism in Ukraine",
+        "title_original": "Supporting independent journalism in Ukraine",
+        "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents",
-          "ai-coding",
-          "research"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
-      }
-    },
-    {
-      "story_id": "story_612a2e0c0069",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "title_en": "An Alien Mind",
-          "title_original": "An Alien Mind",
-          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "title_zh": "《外星人的思维》",
-          "title_en": null,
-          "title_original": "《外星人的思维》",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "title_en": "An Alien Mind",
-          "title_original": "An Alien Mind",
-          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "title_zh": "《外星人的思维》",
-          "title_en": null,
-          "title_original": "《外星人的思维》",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7369,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T09:00:00Z",
-      "latest_at": "2026-09-06T18:33:46.745000Z",
-      "primary_item": {
-        "id": "07df97fa324316a3761be85953d935f46ac91560",
-        "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-        "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-        "title_en": "An Alien Mind",
-        "title_original": "An Alien Mind",
-        "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/an-alien-mind",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "source_tier": "official",
@@ -265,30 +86,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_ebdec8d1a91e",
-      "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-      "url": "https://www.aibase.com/news/30863",
-      "primary_url": "https://www.aibase.com/news/30863",
+      "story_id": "story_2ebcbcb9674f",
+      "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+      "url": "https://www.aibase.com/news/30876",
+      "primary_url": "https://www.aibase.com/news/30876",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-          "title_zh": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
+          "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "title_en": null,
-          "title_original": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30863",
+          "url": "https://www.aibase.com/news/30876",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "source_count": 1,
@@ -297,18 +118,18 @@
       ],
       "items": [
         {
-          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-          "title_zh": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
+          "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "title_en": null,
-          "title_original": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30863",
+          "url": "https://www.aibase.com/news/30876",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "item_count": 1,
@@ -329,28 +150,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
       "primary_item": {
-        "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-        "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-        "title_zh": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+        "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
+        "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+        "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
         "title_en": null,
-        "title_original": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+        "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30863",
+        "url": "https://www.aibase.com/news/30876",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": []
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
@@ -398,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8439,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -438,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
@@ -486,15 +309,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
@@ -573,15 +396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.862,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -611,30 +434,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_6571438294b7",
-      "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-      "url": "https://www.aibase.com/news/30859",
-      "primary_url": "https://www.aibase.com/news/30859",
+      "story_id": "story_e75491e5f031",
+      "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+      "url": "https://www.aibase.com/news/30874",
+      "primary_url": "https://www.aibase.com/news/30874",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "970241c1c6ec9c77457258fc6f654bf5617f5bf5",
-          "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-          "title_zh": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+          "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
+          "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "title_en": null,
-          "title_original": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+          "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30859",
+          "url": "https://www.aibase.com/news/30874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "source_count": 1,
@@ -643,18 +466,18 @@
       ],
       "items": [
         {
-          "id": "970241c1c6ec9c77457258fc6f654bf5617f5bf5",
-          "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-          "title_zh": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+          "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
+          "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "title_en": null,
-          "title_original": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+          "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30859",
+          "url": "https://www.aibase.com/news/30874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "item_count": 1,
@@ -675,17 +498,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
       "primary_item": {
-        "id": "970241c1c6ec9c77457258fc6f654bf5617f5bf5",
-        "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-        "title_zh": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+        "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
+        "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+        "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
         "title_en": null,
-        "title_original": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+        "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30859",
+        "url": "https://www.aibase.com/news/30874",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -696,117 +519,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_5c53403fc048",
-      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "primary_url": "https://www.ithome.com/0/998/927.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "title_zh": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "title_en": null,
-          "title_original": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "title_zh": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "title_en": null,
-          "title_original": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7136,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-06T06:46:16Z",
-      "latest_at": "2026-09-06T06:46:16Z",
-      "primary_item": {
-        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-        "title_zh": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-        "title_en": null,
-        "title_original": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-        "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/927.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "evaluation",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
-      }
-    },
-    {
-      "story_id": "story_bd838d3672c1",
-      "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-      "url": "https://www.aibase.com/news/30858",
-      "primary_url": "https://www.aibase.com/news/30858",
+      "story_id": "story_6576f701bc03",
+      "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+      "url": "https://www.aibase.com/news/30871",
+      "primary_url": "https://www.aibase.com/news/30871",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
-          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-          "title_zh": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
+          "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
           "title_en": null,
-          "title_original": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30858",
+          "url": "https://www.aibase.com/news/30871",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "source_count": 1,
@@ -815,18 +551,18 @@
       ],
       "items": [
         {
-          "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
-          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-          "title_zh": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
+          "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
           "title_en": null,
-          "title_original": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30858",
+          "url": "https://www.aibase.com/news/30871",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "item_count": 1,
@@ -847,17 +583,279 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
       "primary_item": {
-        "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
-        "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-        "title_zh": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+        "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
+        "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+        "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
         "title_en": null,
-        "title_original": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+        "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30858",
+        "url": "https://www.aibase.com/news/30871",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T10:44:51.675518Z"
+      }
+    },
+    {
+      "story_id": "story_c480607eabf3",
+      "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+      "url": "https://www.aibase.com/news/30872",
+      "primary_url": "https://www.aibase.com/news/30872",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2690503e8ebf91a939d49d0b672dbe3191d1c471",
+          "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "title_zh": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "title_en": null,
+          "title_original": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30872",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:24:57.752932Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2690503e8ebf91a939d49d0b672dbe3191d1c471",
+          "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "title_zh": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "title_en": null,
+          "title_original": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30872",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:24:57.752932Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
+      "primary_item": {
+        "id": "2690503e8ebf91a939d49d0b672dbe3191d1c471",
+        "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+        "title_zh": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+        "title_en": null,
+        "title_original": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30872",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T10:44:51.675518Z"
+      }
+    },
+    {
+      "story_id": "story_ba6959090466",
+      "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+      "url": "https://www.aibase.com/news/30875",
+      "primary_url": "https://www.aibase.com/news/30875",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5965c1fd2c278050d8b5b820a9641bdcc6f04178",
+          "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+          "title_zh": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+          "title_en": null,
+          "title_original": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30875",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:24:57.752932Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5965c1fd2c278050d8b5b820a9641bdcc6f04178",
+          "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+          "title_zh": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+          "title_en": null,
+          "title_original": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30875",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:24:57.752932Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
+      "primary_item": {
+        "id": "5965c1fd2c278050d8b5b820a9641bdcc6f04178",
+        "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+        "title_zh": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+        "title_en": null,
+        "title_original": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30875",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T10:44:51.675518Z"
+      }
+    },
+    {
+      "story_id": "story_fc8fc80cdf77",
+      "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+      "url": "https://www.aibase.com/news/30873",
+      "primary_url": "https://www.aibase.com/news/30873",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "de63239747d4967b618130607f3283ca5282a6d8",
+          "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_en": null,
+          "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30873",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:24:57.752932Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "de63239747d4967b618130607f3283ca5282a6d8",
+          "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_en": null,
+          "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30873",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:24:57.752932Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
+      "primary_item": {
+        "id": "de63239747d4967b618130607f3283ca5282a6d8",
+        "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "title_en": null,
+        "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30873",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -868,30 +866,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_2da49029d19a",
-      "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
-      "url": "https://www.aibase.com/news/30855",
-      "primary_url": "https://www.aibase.com/news/30855",
+      "story_id": "story_a9beddb6a8eb",
+      "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+      "url": "https://www.aibase.com/news/30880",
+      "primary_url": "https://www.aibase.com/news/30880",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "110ebe51ef721223bbf241c3b3348de955932089",
-          "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
-          "title_zh": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
           "title_en": null,
-          "title_original": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+          "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30855",
+          "url": "https://www.aibase.com/news/30880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "source_count": 1,
@@ -900,18 +898,18 @@
       ],
       "items": [
         {
-          "id": "110ebe51ef721223bbf241c3b3348de955932089",
-          "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
-          "title_zh": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
           "title_en": null,
-          "title_original": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+          "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30855",
+          "url": "https://www.aibase.com/news/30880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "item_count": 1,
@@ -932,205 +930,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
       "primary_item": {
-        "id": "110ebe51ef721223bbf241c3b3348de955932089",
-        "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
-        "title_zh": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+        "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+        "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+        "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
         "title_en": null,
-        "title_original": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+        "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30855",
+        "url": "https://www.aibase.com/news/30880",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
-      }
-    },
-    {
-      "story_id": "story_a7723992e0de",
-      "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-      "url": "https://www.aibase.com/news/30852",
-      "primary_url": "https://www.aibase.com/news/30852",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
-          "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "title_zh": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "title_en": null,
-          "title_original": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
-          "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "title_zh": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "title_en": null,
-          "title_original": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
-      "primary_item": {
-        "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
-        "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-        "title_zh": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-        "title_en": null,
-        "title_original": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30852",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "evaluation",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
-      }
-    },
-    {
-      "story_id": "story_f26b362ac44b",
-      "title": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-      "url": "https://www.aibase.com/news/30854",
-      "primary_url": "https://www.aibase.com/news/30854",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb2119b75f24c8261e0487a58c15bbc8b0917c0f",
-          "title": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-          "title_zh": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-          "title_en": null,
-          "title_original": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30854",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bb2119b75f24c8261e0487a58c15bbc8b0917c0f",
-          "title": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-          "title_zh": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-          "title_en": null,
-          "title_original": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30854",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
-      "primary_item": {
-        "id": "bb2119b75f24c8261e0487a58c15bbc8b0917c0f",
-        "title": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-        "title_zh": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-        "title_en": null,
-        "title_original": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30854",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
@@ -1207,15 +1028,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.595,
-      "importance": 0.595,
-      "importance_score": 0.595,
+      "score": 0.5851,
+      "importance": 0.5851,
+      "importance_score": 0.5851,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9147,
+        "recency": 0.8599,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,30 +1066,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_6e5c02c68e9b",
-      "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-      "url": "https://www.aibase.com/news/30861",
-      "primary_url": "https://www.aibase.com/news/30861",
+      "story_id": "story_8af0488e15ed",
+      "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+      "url": "https://www.aibase.com/news/30879",
+      "primary_url": "https://www.aibase.com/news/30879",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "title_zh": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
           "title_en": null,
-          "title_original": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30861",
+          "url": "https://www.aibase.com/news/30879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "source_count": 1,
@@ -1277,18 +1098,18 @@
       ],
       "items": [
         {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "title_zh": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
           "title_en": null,
-          "title_original": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30861",
+          "url": "https://www.aibase.com/news/30879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "item_count": 1,
@@ -1309,17 +1130,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
       "primary_item": {
-        "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-        "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-        "title_zh": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+        "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+        "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+        "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
         "title_en": null,
-        "title_original": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+        "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30861",
+        "url": "https://www.aibase.com/news/30879",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -1330,166 +1151,79 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_9c3285d9771b",
-      "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-      "url": "https://www.aibase.com/news/30864",
-      "primary_url": "https://www.aibase.com/news/30864",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "title_zh": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "title_en": null,
-          "title_original": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30864",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "title_zh": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "title_en": null,
-          "title_original": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30864",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
-      "primary_item": {
-        "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-        "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-        "title_zh": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-        "title_en": null,
-        "title_original": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30864",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
-      }
-    },
-    {
-      "story_id": "story_b94cfff5e377",
-      "title": "I refused to train the AI that could replace me",
-      "url": "https://news.ycombinator.com/item?id=49593959",
-      "primary_url": "https://news.ycombinator.com/item?id=49593959",
+      "story_id": "story_89772b9cda52",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://news.ycombinator.com/item?id=49596054",
+      "primary_url": "https://news.ycombinator.com/item?id=49596054",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
-          "title": "I refused to train the AI that could replace me",
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
           "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593959",
+          "url": "https://news.ycombinator.com/item?id=49596054",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T06:08:44.760000Z"
+          "published_at": "2026-09-07T10:25:21.432000Z"
         },
         {
-          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
-          "title": "I refused to train the AI that could replace me",
+          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
           "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T04:38:22Z"
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T09:26:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
-          "title": "I refused to train the AI that could replace me",
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
           "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593959",
+          "url": "https://news.ycombinator.com/item?id=49596054",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T06:08:44.760000Z"
+          "published_at": "2026-09-07T10:25:21.432000Z"
         },
         {
-          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
-          "title": "I refused to train the AI that could replace me",
+          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
           "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T04:38:22Z"
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T09:26:41Z"
         }
       ],
       "item_count": 2,
@@ -1509,17 +1243,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T04:38:22Z",
-      "latest_at": "2026-09-07T06:08:44.760000Z",
+      "earliest_at": "2026-09-07T09:26:41Z",
+      "latest_at": "2026-09-07T10:25:21.432000Z",
       "primary_item": {
-        "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
-        "title": "I refused to train the AI that could replace me",
+        "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
         "title_zh": null,
-        "title_en": "I refused to train the AI that could replace me",
-        "title_original": "I refused to train the AI that could replace me",
+        "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+        "title_original": "Speculative Decoding in vLLM on AMD GPUs",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49593959",
+        "url": "https://news.ycombinator.com/item?id=49596054",
         "source": "hackernews",
         "source_name": "NewsNow",
         "source_tier": "discussion",
@@ -1530,7 +1264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
@@ -1636,15 +1370,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8177,
+        "recency": 0.7687,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1672,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
@@ -1777,15 +1511,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8087,
+        "recency": 0.7603,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1813,30 +1547,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_a0689e4c8b0e",
-      "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
-      "url": "https://www.aibase.com/news/30865",
-      "primary_url": "https://www.aibase.com/news/30865",
+      "story_id": "story_2fabd48a7add",
+      "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
+      "url": "https://www.aibase.com/news/30869",
+      "primary_url": "https://www.aibase.com/news/30869",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f777308bb08f89b51b8661b25bc9f2116c88c185",
-          "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
-          "title_zh": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+          "id": "5a8b4794fd659159bb8bbd0315e6972862801359",
+          "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
+          "title_zh": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
           "title_en": null,
-          "title_original": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+          "title_original": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30865",
+          "url": "https://www.aibase.com/news/30869",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "source_count": 1,
@@ -1845,18 +1579,18 @@
       ],
       "items": [
         {
-          "id": "f777308bb08f89b51b8661b25bc9f2116c88c185",
-          "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
-          "title_zh": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+          "id": "5a8b4794fd659159bb8bbd0315e6972862801359",
+          "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
+          "title_zh": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
           "title_en": null,
-          "title_original": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+          "title_original": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30865",
+          "url": "https://www.aibase.com/news/30869",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:08:18.949860Z"
+          "published_at": "2026-09-07T10:24:57.752932Z"
         }
       ],
       "item_count": 1,
@@ -1877,145 +1611,375 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:08:18.949860Z",
-      "latest_at": "2026-09-07T06:08:18.949860Z",
+      "earliest_at": "2026-09-07T10:24:57.752932Z",
+      "latest_at": "2026-09-07T10:24:57.752932Z",
       "primary_item": {
-        "id": "f777308bb08f89b51b8661b25bc9f2116c88c185",
-        "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
-        "title_zh": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+        "id": "5a8b4794fd659159bb8bbd0315e6972862801359",
+        "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
+        "title_zh": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
         "title_en": null,
-        "title_original": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+        "title_original": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30865",
+        "url": "https://www.aibase.com/news/30869",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     },
     {
-      "story_id": "story_f5c486b1ef2a",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://news.ycombinator.com/item?id=49592366",
-      "primary_url": "https://news.ycombinator.com/item?id=49592366",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_cc153614bc7c",
+      "title": "研究加速：OpenAI内部视角",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "openai.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": null,
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+          "title": "研究加速：OpenAI内部视角",
+          "title_zh": "研究加速：OpenAI内部视角",
+          "title_en": null,
+          "title_original": "研究加速：OpenAI内部视角",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:08:44.760000Z"
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T00:17:54.906000Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": null,
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "id": "0799e5d3a85065759ca6d5774d9940ede2f9dd47",
+          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
+          "title_zh": "研究加速：OpenAI内部视角",
+          "title_en": "Research acceleration: The view inside OpenAI",
+          "title_original": "Research acceleration: The view inside OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:08:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": null,
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+          "title": "研究加速：OpenAI内部视角",
+          "title_zh": "研究加速：OpenAI内部视角",
+          "title_en": null,
+          "title_original": "研究加速：OpenAI内部视角",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:08:44.760000Z"
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T00:17:54.906000Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": null,
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "id": "0799e5d3a85065759ca6d5774d9940ede2f9dd47",
+          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
+          "title_zh": "研究加速：OpenAI内部视角",
+          "title_en": "Research acceleration: The view inside OpenAI",
+          "title_original": "Research acceleration: The view inside OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:08:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8641,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T00:21:01Z",
-      "latest_at": "2026-09-07T06:08:44.760000Z",
+      "earliest_at": "2026-09-06T15:08:44Z",
+      "latest_at": "2026-09-07T00:17:54.906000Z",
       "primary_item": {
-        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "title_zh": null,
-        "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+        "title": "研究加速：OpenAI内部视角",
+        "title_zh": "研究加速：OpenAI内部视角",
+        "title_en": null,
+        "title_original": "研究加速：OpenAI内部视角",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49592366",
-        "source": "hackernews",
-        "source_name": "NewsNow",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "source": "openai.com",
+        "source_name": "Buzzing",
         "source_tier": "discussion",
         "source_tier_label": "热议参考",
         "topics": [
-          "agents"
+          "research"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T06:25:45.442568Z"
+        "scored_at": "2026-09-07T10:44:51.675518Z"
+      }
+    },
+    {
+      "story_id": "story_545843532362",
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://news.ycombinator.com/item?id=49593842",
+      "primary_url": "https://news.ycombinator.com/item?id=49593842",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:08:44.760000Z"
+        },
+        {
+          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:18:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:08:44.760000Z"
+        },
+        {
+          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:18:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9402,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T04:18:28Z",
+      "latest_at": "2026-09-07T06:08:44.760000Z",
+      "primary_item": {
+        "id": "105a989db729c5378cd3770bbf134901f6685eee",
+        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_zh": null,
+        "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49593842",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T10:44:51.675518Z"
+      }
+    },
+    {
+      "story_id": "story_2e625774c329",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "How we monitor internal coding agents for misalignment",
+          "title_original": "How we monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "How we monitor internal coding agents for misalignment",
+          "title_original": "How we monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7735,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T16:37:55Z",
+      "latest_at": "2026-09-06T16:37:55Z",
+      "primary_item": {
+        "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+        "title": "How we monitor internal coding agents for misalignment",
+        "title_zh": null,
+        "title_en": "How we monitor internal coding agents for misalignment",
+        "title_original": "How we monitor internal coding agents for misalignment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "agents",
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T10:44:51.675518Z"
       }
     }
   ]
