@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 07 Sep 2026 20:36:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 23:31:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Supporting independent journalism in Ukraine</title>
@@ -80,12 +80,12 @@
 <pubDate>Mon, 07 Sep 2026 10:24:57 +0000</pubDate>
 </item>
 <item>
-<title>Research acceleration: The view inside OpenAI</title>
-<link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai</guid>
-<description>Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI.（Simon Willison）</description>
-<category>值得关注</category>
-<pubDate>Sun, 06 Sep 2026 23:57:40 +0000</pubDate>
+<title>墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫</title>
+<link>https://www.aibase.com/news/30880</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30880</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 10:24:57 +0000</pubDate>
 </item>
 <item>
 <title>基于AMD GPU的vLLM中的推测性解码</title>
@@ -94,14 +94,6 @@
 <description>vllm.ai</description>
 <category>多源热议</category>
 <pubDate>Mon, 07 Sep 2026 17:40:59 +0000</pubDate>
-</item>
-<item>
-<title>墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫</title>
-<link>https://www.aibase.com/news/30880</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30880</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 07 Sep 2026 10:24:57 +0000</pubDate>
 </item>
 <item>
 <title>工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手</title>
@@ -166,6 +158,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 07 Sep 2026 10:24:57 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI</title>
+<link>https://news.ycombinator.com/item?id=49594189</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49594189</guid>
+<description>hackernews</description>
+<category>值得关注</category>
+<pubDate>Mon, 07 Sep 2026 06:08:44 +0000</pubDate>
 </item>
 </channel>
 </rss>
