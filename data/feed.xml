@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 07 Sep 2026 01:03:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 06:08:18 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI</title>
@@ -24,6 +24,14 @@
 <pubDate>Sun, 06 Sep 2026 18:33:46 +0000</pubDate>
 </item>
 <item>
+<title>AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容</title>
+<link>https://www.aibase.com/news/30863</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30863</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its "automated research intern" milestone. i.e. a human…</title>
 <link>https://x.com/rohanpaul_ai/status/2096665545190043737</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2096665545190043737</guid>
@@ -32,12 +40,12 @@
 <pubDate>Sun, 06 Sep 2026 18:23:14 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架</title>
-<link>https://www.aibase.com/news/30851</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30851</guid>
-<description>AIbase</description>
+<title>何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战</title>
+<link>https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36</link>
+<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36</guid>
+<description>Daily Digest</description>
 <category>行业动态</category>
-<pubDate>Mon, 07 Sep 2026 01:03:54 +0000</pubDate>
+<pubDate>Mon, 07 Sep 2026 03:26:50 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层</title>
@@ -48,12 +56,52 @@
 <pubDate>Mon, 07 Sep 2026 00:08:00 +0000</pubDate>
 </item>
 <item>
+<title>AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口</title>
+<link>https://www.aibase.com/news/30859</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30859</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
+</item>
+<item>
 <title>Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化</title>
 <link>https://www.ithome.com/0/998/927.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/0/998/927.htm</guid>
 <description>据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sun, 06 Sep 2026 06:46:16 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断</title>
+<link>https://www.aibase.com/news/30858</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30858</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
+</item>
+<item>
+<title>Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话</title>
+<link>https://www.aibase.com/news/30855</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30855</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发</title>
+<link>https://www.aibase.com/news/30852</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30852</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来</title>
+<link>https://www.aibase.com/news/30854</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30854</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
 </item>
 <item>
 <title>Research acceleration: The view inside OpenAI</title>
@@ -64,6 +112,30 @@
 <pubDate>Sun, 06 Sep 2026 23:57:40 +0000</pubDate>
 </item>
 <item>
+<title>努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手</title>
+<link>https://www.aibase.com/news/30861</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30861</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
+</item>
+<item>
+<title>千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪</title>
+<link>https://www.aibase.com/news/30864</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30864</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
+</item>
+<item>
+<title>I refused to train the AI that could replace me</title>
+<link>https://news.ycombinator.com/item?id=49593959</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49593959</guid>
+<description>hackernews</description>
+<category>值得关注</category>
+<pubDate>Mon, 07 Sep 2026 06:08:44 +0000</pubDate>
+</item>
+<item>
 <title>我对人工智能的看法</title>
 <link>https://beza1e1.tuxen.de/ai_feelings.html</link>
 <guid isPermaLink="true">https://beza1e1.tuxen.de/ai_feelings.html</guid>
@@ -72,36 +144,28 @@
 <pubDate>Sun, 06 Sep 2026 16:12:11 +0000</pubDate>
 </item>
 <item>
-<title>How we monitor internal coding agents for misalignment</title>
-<link>https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment</link>
-<guid isPermaLink="true">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Sun, 06 Sep 2026 16:37:55 +0000</pubDate>
-</item>
-<item>
 <title>人工智能关机——保持人性</title>
 <link>https://keepitfree.ai/announcements/a/i-shuts-down-stay-human</link>
 <guid isPermaLink="true">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human</guid>
 <description>keepitfree.ai</description>
-<category>值得关注</category>
+<category>多源热议</category>
 <pubDate>Sun, 06 Sep 2026 15:26:17 +0000</pubDate>
 </item>
 <item>
-<title>人工智能、工具与转型</title>
-<link>https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</link>
-<guid isPermaLink="true">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</guid>
-<description>www.ben-evans.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 06 Sep 2026 14:22:15 +0000</pubDate>
+<title>千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连</title>
+<link>https://www.aibase.com/news/30865</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30865</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 06:08:18 +0000</pubDate>
 </item>
 <item>
-<title>安装在机械臂上的GPT-6 Astra</title>
-<link>https://openai.robocurve.org/gpt-6-astra</link>
-<guid isPermaLink="true">https://openai.robocurve.org/gpt-6-astra</guid>
-<description>openai.robocurve.org</description>
+<title>MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server</title>
+<link>https://news.ycombinator.com/item?id=49592366</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49592366</guid>
+<description>hackernews</description>
 <category>值得关注</category>
-<pubDate>Sun, 06 Sep 2026 04:56:10 +0000</pubDate>
+<pubDate>Mon, 07 Sep 2026 06:08:44 +0000</pubDate>
 </item>
 </channel>
 </rss>
