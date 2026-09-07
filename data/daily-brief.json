@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:24:57.752932Z",
+  "generated_at": "2026-09-07T12:36:59.067003Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8604,
+        "recency": 0.8334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -86,7 +86,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -134,15 +134,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7934,
+        "recency": 0.7686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -309,21 +309,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9043,
+        "recency": 0.876,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T03:26:50Z",
       "latest_at": "2026-09-07T03:26:50Z",
@@ -348,7 +347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -396,15 +395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.862,
+        "recency": 0.8351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -434,7 +433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -482,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -519,7 +518,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -567,15 +566,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -655,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -742,15 +741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -781,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -829,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +865,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -914,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1028,15 +1027,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5851,
-      "importance": 0.5851,
-      "importance_score": 0.5851,
+      "score": 0.5803,
+      "importance": 0.5803,
+      "importance_score": 0.5803,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8599,
+        "recency": 0.833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1066,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1114,15 +1113,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,7 +1150,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1228,15 +1227,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9688,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1264,7 +1263,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1370,15 +1369,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7687,
+        "recency": 0.7447,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1406,7 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1511,15 +1510,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7603,
+        "recency": 0.7365,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1547,7 +1546,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1595,15 +1594,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1632,7 +1631,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1709,15 +1708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8641,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1747,123 +1746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
-      }
-    },
-    {
-      "story_id": "story_545843532362",
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://news.ycombinator.com/item?id=49593842",
-      "primary_url": "https://news.ycombinator.com/item?id=49593842",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "105a989db729c5378cd3770bbf134901f6685eee",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593842",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:08:44.760000Z"
-        },
-        {
-          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trailofbits/coop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T04:18:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "105a989db729c5378cd3770bbf134901f6685eee",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593842",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:08:44.760000Z"
-        },
-        {
-          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trailofbits/coop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T04:18:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9402,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T04:18:28Z",
-      "latest_at": "2026-09-07T06:08:44.760000Z",
-      "primary_item": {
-        "id": "105a989db729c5378cd3770bbf134901f6685eee",
-        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "title_zh": null,
-        "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49593842",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     },
     {
@@ -1940,15 +1823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7735,
+        "recency": 0.7493,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1979,7 +1862,123 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:44:51.675518Z"
+        "scored_at": "2026-09-07T12:57:21.693701Z"
+      }
+    },
+    {
+      "story_id": "story_545843532362",
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://news.ycombinator.com/item?id=49593842",
+      "primary_url": "https://news.ycombinator.com/item?id=49593842",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:08:44.760000Z"
+        },
+        {
+          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:18:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:08:44.760000Z"
+        },
+        {
+          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:18:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5297,
+      "importance": 0.5297,
+      "importance_score": 0.5297,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9108,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T04:18:28Z",
+      "latest_at": "2026-09-07T06:08:44.760000Z",
+      "primary_item": {
+        "id": "105a989db729c5378cd3770bbf134901f6685eee",
+        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_zh": null,
+        "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49593842",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T12:57:21.693701Z"
       }
     }
   ]
