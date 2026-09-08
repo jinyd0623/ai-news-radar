@@ -5,15 +5,31 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 08 Sep 2026 05:58:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 09:46:11 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道</title>
-<link>https://www.aibase.com/news/30889</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30889</guid>
+<title>Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.</title>
+<link>https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier</link>
+<guid isPermaLink="true">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier</guid>
+<description>Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。（Mistral AI：News（网页））</description>
+<category>官方更新</category>
+<pubDate>Tue, 08 Sep 2026 06:48:43 +0000</pubDate>
+</item>
+<item>
+<title>数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过</title>
+<link>https://cims.nyu.edu/~tristanb/statement.pdf</link>
+<guid isPermaLink="true">https://cims.nyu.edu/~tristanb/statement.pdf</guid>
+<description>特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 07:20:02 +0000</pubDate>
+</item>
+<item>
+<title>Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈</title>
+<link>https://www.aibase.com/news/30908</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30908</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录</title>
@@ -24,14 +40,6 @@
 <pubDate>Tue, 08 Sep 2026 00:17:23 +0000</pubDate>
 </item>
 <item>
-<title>最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则</title>
-<link>https://www.ithome.com/0/999/313.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/999/313.htm</guid>
-<description>最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 07 Sep 2026 07:46:08 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk</title>
 <link>https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk</link>
 <guid isPermaLink="true">https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk</guid>
@@ -40,12 +48,100 @@
 <pubDate>Mon, 07 Sep 2026 18:12:41 +0000</pubDate>
 </item>
 <item>
+<title>ChatGPT Work 迎来重磅升级：精准克隆个人写作风格</title>
+<link>https://www.aibase.com/news/30905</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30905</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
+</item>
+<item>
 <title>Mistral AI 宣布 30 亿欧元 D 轮融资 / Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…</title>
 <link>https://x.com/MistralAI/status/2097188835897586083</link>
 <guid isPermaLink="true">https://x.com/MistralAI/status/2097188835897586083</guid>
 <description>Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。（X：Mistral AI (@MistralAI)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 08 Sep 2026 05:02:37 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写</title>
+<link>https://www.aibase.com/news/30906</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30906</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建</title>
+<link>https://www.aibase.com/news/30904</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30904</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
+</item>
+<item>
+<title>Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理</title>
+<link>https://www.aibase.com/news/30902</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30902</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
+</item>
+<item>
+<title>微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品</title>
+<link>https://www.aibase.com/news/30909</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30909</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
+</item>
+<item>
+<title>联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线</title>
+<link>https://www.aibase.com/news/30903</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30903</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
+</item>
+<item>
+<title>马斯克杀入Copilot主场：Grok Bot 深度接管微软账号</title>
+<link>https://www.aibase.com/news/30907</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30907</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 09:46:11 +0000</pubDate>
+</item>
+<item>
+<title>AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元</title>
+<link>https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</link>
+<guid isPermaLink="true">https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</guid>
+<description>www.bottlenecklabs.com</description>
+<category>值得关注</category>
+<pubDate>Tue, 08 Sep 2026 06:33:02 +0000</pubDate>
+</item>
+<item>
+<title>我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。</title>
+<link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
+<guid isPermaLink="true">https://mcpherrin.ca/2026/09/07/rsa.html</guid>
+<description>mcpherrin.ca</description>
+<category>值得关注</category>
+<pubDate>Tue, 08 Sep 2026 02:51:51 +0000</pubDate>
+</item>
+<item>
+<title>AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道</title>
+<link>https://www.aibase.com/news/30889</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30889</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
+</item>
+<item>
+<title>'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'</title>
+<link>https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</link>
+<guid isPermaLink="true">https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</guid>
+<description>Slashdot</description>
+<category>值得关注</category>
+<pubDate>Mon, 07 Sep 2026 11:34:00 +0000</pubDate>
 </item>
 <item>
 <title>AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见</title>
@@ -67,102 +163,6 @@
 <title>Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力</title>
 <link>https://www.aibase.com/news/30894</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30894</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹</title>
-<link>https://www.aibase.com/news/30898</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30898</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓</title>
-<link>https://www.aibase.com/news/30891</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30891</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>可灵AI正式官宣亮相2026多伦多国际电影节市场</title>
-<link>https://www.aibase.com/news/30900</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30900</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>宇树科技实现全球首次世界模型实时驱动人形机器人自主格斗</title>
-<link>https://www.aibase.com/news/30892</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30892</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>基于AMD GPU的vLLM中的推测性解码</title>
-<link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
-<guid isPermaLink="true">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
-<description>vllm.ai</description>
-<category>多源热议</category>
-<pubDate>Mon, 07 Sep 2026 17:40:59 +0000</pubDate>
-</item>
-<item>
-<title>我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。</title>
-<link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
-<guid isPermaLink="true">https://mcpherrin.ca/2026/09/07/rsa.html</guid>
-<description>mcpherrin.ca</description>
-<category>值得关注</category>
-<pubDate>Tue, 08 Sep 2026 02:51:51 +0000</pubDate>
-</item>
-<item>
-<title>小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%</title>
-<link>https://www.aibase.com/news/30893</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30893</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'</title>
-<link>https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</link>
-<guid isPermaLink="true">https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</guid>
-<description>Slashdot</description>
-<category>值得关注</category>
-<pubDate>Mon, 07 Sep 2026 11:34:00 +0000</pubDate>
-</item>
-<item>
-<title>张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型</title>
-<link>https://www.aibase.com/news/30890</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30890</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次</title>
-<link>https://www.aibase.com/news/30895</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30895</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>抬眼就能完成支付！微信支付智能眼镜 SDK 正式上线，Rokid 成首家适配品牌</title>
-<link>https://www.aibase.com/news/30901</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30901</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
-</item>
-<item>
-<title>每日调用量破 10 亿次！微信开源 WeMM-Embedding 多模态大模型，全面领跑国际权威榜单</title>
-<link>https://www.aibase.com/news/30896</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30896</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 08 Sep 2026 05:58:59 +0000</pubDate>
