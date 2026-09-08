@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:46:11.003105Z",
+  "generated_at": "2026-09-08T11:22:05.145467Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8525,
+      "importance": 0.8525,
+      "importance_score": 0.8525,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9251,
         "story_heat": 0.5
       },
       "category": "official",
@@ -146,7 +146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -194,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9654,
+        "recency": 0.9434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -231,30 +231,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
-      "story_id": "story_bbef342e3266",
-      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-      "url": "https://www.aibase.com/news/30908",
-      "primary_url": "https://www.aibase.com/news/30908",
+      "story_id": "story_613d849d5200",
+      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+      "url": "https://www.aibase.com/news/30911",
+      "primary_url": "https://www.aibase.com/news/30911",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:46:11.003105Z"
+          "published_at": "2026-09-08T11:22:05.145467Z"
         }
       ],
       "source_count": 1,
@@ -263,18 +263,18 @@
       ],
       "items": [
         {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:46:11.003105Z"
+          "published_at": "2026-09-08T11:22:05.145467Z"
         }
       ],
       "item_count": 1,
@@ -295,28 +295,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T09:46:11.003105Z",
-      "latest_at": "2026-09-08T09:46:11.003105Z",
+      "earliest_at": "2026-09-08T11:22:05.145467Z",
+      "latest_at": "2026-09-08T11:22:05.145467Z",
       "primary_item": {
-        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "id": "fca343610ea50224e783418e5186b3f2329bff06",
+        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+        "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
         "title_en": null,
-        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30908",
+        "url": "https://www.aibase.com/news/30911",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": []
+        "topics": [
+          "open-source-models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -364,15 +366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8721,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -404,7 +406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -452,15 +454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.7806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -488,26 +490,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
-      "story_id": "story_2a18f45ec375",
-      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-      "url": "https://www.aibase.com/news/30905",
-      "primary_url": "https://www.aibase.com/news/30905",
+      "story_id": "story_bbef342e3266",
+      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+      "url": "https://www.aibase.com/news/30908",
+      "primary_url": "https://www.aibase.com/news/30908",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "title_en": null,
-          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30905",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -520,14 +522,14 @@
       ],
       "items": [
         {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "title_en": null,
-          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30905",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -536,15 +538,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,14 +557,14 @@
       "earliest_at": "2026-09-08T09:46:11.003105Z",
       "latest_at": "2026-09-08T09:46:11.003105Z",
       "primary_item": {
-        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
         "title_en": null,
-        "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30905",
+        "url": "https://www.aibase.com/news/30908",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -573,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -621,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.934,
+        "recency": 0.9127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,7 +661,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
+      }
+    },
+    {
+      "story_id": "story_2a18f45ec375",
+      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+      "url": "https://www.aibase.com/news/30905",
+      "primary_url": "https://www.aibase.com/news/30905",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_en": null,
+          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T09:46:11.003105Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_en": null,
+          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T09:46:11.003105Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9772,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T09:46:11.003105Z",
+      "latest_at": "2026-09-08T09:46:11.003105Z",
+      "primary_item": {
+        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "title_en": null,
+        "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30905",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -707,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -746,7 +833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -794,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -834,7 +921,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -882,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -921,7 +1008,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -969,15 +1056,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1006,7 +1093,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -1054,15 +1141,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1091,94 +1178,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
-      }
-    },
-    {
-      "story_id": "story_540d9571c139",
-      "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-      "url": "https://www.aibase.com/news/30907",
-      "primary_url": "https://www.aibase.com/news/30907",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:46:11.003105Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:46:11.003105Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:46:11.003105Z",
-      "latest_at": "2026-09-08T09:46:11.003105Z",
-      "primary_item": {
-        "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-        "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_en": null,
-        "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30907",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -1255,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9546,
+        "recency": 0.9328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1293,7 +1293,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -1319,7 +1319,7 @@
           "published_at": "2026-09-08T02:51:51.808000Z"
         },
         {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "id": "e5cbf8b523d5e9ad616004ddd2f829654fc66f90",
           "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
           "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
           "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
@@ -1327,15 +1327,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-08T01:16:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "mcpherrin.ca"
       ],
       "items": [
@@ -1354,7 +1354,7 @@
           "published_at": "2026-09-08T02:51:51.808000Z"
         },
         {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "id": "e5cbf8b523d5e9ad616004ddd2f829654fc66f90",
           "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
           "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
           "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
@@ -1362,23 +1362,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-08T01:16:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9051,
+        "recency": 0.8844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1406,7 +1406,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
+      }
+    },
+    {
+      "story_id": "story_540d9571c139",
+      "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+      "url": "https://www.aibase.com/news/30907",
+      "primary_url": "https://www.aibase.com/news/30907",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_en": null,
+          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T09:46:11.003105Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_en": null,
+          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T09:46:11.003105Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9772,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T09:46:11.003105Z",
+      "latest_at": "2026-09-08T09:46:11.003105Z",
+      "primary_item": {
+        "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+        "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+        "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+        "title_en": null,
+        "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30907",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -1454,15 +1541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1491,120 +1578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
-      }
-    },
-    {
-      "story_id": "story_051a17bd579f",
-      "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-      "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "primary_url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "026e632102308d3191d80f1966ce41e85d409c52",
-          "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "title_zh": null,
-          "title_en": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "title_original": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T11:34:00Z"
-        },
-        {
-          "id": "ed9a56ad8977d1aa877e5b421f70d78dff01d7e9",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": null,
-          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot"
-      ],
-      "items": [
-        {
-          "id": "026e632102308d3191d80f1966ce41e85d409c52",
-          "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "title_zh": null,
-          "title_en": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "title_original": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T11:34:00Z"
-        },
-        {
-          "id": "ed9a56ad8977d1aa877e5b421f70d78dff01d7e9",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": null,
-          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4964,
-      "importance": 0.4964,
-      "importance_score": 0.4964,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7257,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T10:38:32Z",
-      "latest_at": "2026-09-07T11:34:00Z",
-      "primary_item": {
-        "id": "026e632102308d3191d80f1966ce41e85d409c52",
-        "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-        "title_zh": null,
-        "title_en": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-        "title_original": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "source": "Slashdot",
-        "source_name": "TechURLs",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -1652,15 +1626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1689,7 +1663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -1737,15 +1711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1774,7 +1748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     },
     {
@@ -1822,15 +1796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1859,7 +1833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:10:36.086091Z"
+        "scored_at": "2026-09-08T11:45:38.334577Z"
       }
     }
   ]
