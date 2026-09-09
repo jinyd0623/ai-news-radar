@@ -1,8 +1,215 @@
 {
-  "generated_at": "2026-09-09T19:47:15.094586Z",
+  "generated_at": "2026-09-09T23:17:42.158002Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7909c6cf5087",
+      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "primary_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "96f85e7d3f701514e50b0d3c2bd8212b98f861ab",
+          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+          "title_en": "GPT-6 Astra: The next generation in intelligence for work",
+          "title_original": "GPT-6 Astra: The next generation in intelligence for work",
+          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T11:00:00Z"
+        },
+        {
+          "id": "43fe6120bb215dd89f809b0998c80ec930b0ac39",
+          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra： The next generation in intelligence for work",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+          "title_en": "GPT-6 Astra： The next generation in intelligence for work",
+          "title_original": "GPT-6 Astra： The next generation in intelligence for work",
+          "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T11:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "96f85e7d3f701514e50b0d3c2bd8212b98f861ab",
+          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+          "title_en": "GPT-6 Astra: The next generation in intelligence for work",
+          "title_original": "GPT-6 Astra: The next generation in intelligence for work",
+          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T11:00:00Z"
+        },
+        {
+          "id": "43fe6120bb215dd89f809b0998c80ec930b0ac39",
+          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra： The next generation in intelligence for work",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+          "title_en": "GPT-6 Astra： The next generation in intelligence for work",
+          "title_original": "GPT-6 Astra： The next generation in intelligence for work",
+          "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8557,
+      "importance": 0.8557,
+      "importance_score": 0.8557,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8373,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T11:00:00Z",
+      "latest_at": "2026-09-09T11:00:00Z",
+      "primary_item": {
+        "id": "96f85e7d3f701514e50b0d3c2bd8212b98f861ab",
+        "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
+        "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+        "title_en": "GPT-6 Astra: The next generation in intelligence for work",
+        "title_original": "GPT-6 Astra: The next generation in intelligence for work",
+        "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T23:51:48.829383Z"
+      }
+    },
+    {
+      "story_id": "story_b361718ee020",
+      "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+      "primary_url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a89c21c8375b192a955b575fb405ff6c227e98c",
+          "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+          "title_zh": null,
+          "title_en": "Enterprise managed permissions for GitHub Copilot agent operations",
+          "title_original": "Enterprise managed permissions for GitHub Copilot agent operations",
+          "summary": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approva…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T20:08:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4a89c21c8375b192a955b575fb405ff6c227e98c",
+          "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+          "title_zh": null,
+          "title_en": "Enterprise managed permissions for GitHub Copilot agent operations",
+          "title_original": "Enterprise managed permissions for GitHub Copilot agent operations",
+          "summary": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approva…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T20:08:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9554,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T20:08:14Z",
+      "latest_at": "2026-09-09T20:08:14Z",
+      "primary_item": {
+        "id": "4a89c21c8375b192a955b575fb405ff6c227e98c",
+        "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+        "title_zh": null,
+        "title_en": "Enterprise managed permissions for GitHub Copilot agent operations",
+        "title_original": "Enterprise managed permissions for GitHub Copilot agent operations",
+        "summary": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approva…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "agents",
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T23:51:48.829383Z"
+      }
+    },
     {
       "story_id": "story_ea4f77cf3524",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
@@ -48,15 +255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8495,
-      "importance": 0.8495,
-      "importance_score": 0.8495,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9414,
+        "recency": 0.8949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -88,179 +295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
-      }
-    },
-    {
-      "story_id": "story_5969262efc42",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "title_zh": null,
-          "title_en": "Paul Christiano joins OpenAI Foundation Board",
-          "title_original": "Paul Christiano joins OpenAI Foundation Board",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "title_zh": null,
-          "title_en": "Paul Christiano joins OpenAI Foundation Board",
-          "title_original": "Paul Christiano joins OpenAI Foundation Board",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9605,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T17:00:00Z",
-      "latest_at": "2026-09-09T17:00:00Z",
-      "primary_item": {
-        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-        "title": "Paul Christiano joins OpenAI Foundation Board",
-        "title_zh": null,
-        "title_en": "Paul Christiano joins OpenAI Foundation Board",
-        "title_original": "Paul Christiano joins OpenAI Foundation Board",
-        "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
-      }
-    },
-    {
-      "story_id": "story_cb60067aa36b",
-      "title": "GitHub Advanced Security expands trial availability",
-      "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-      "primary_url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-          "title": "GitHub Advanced Security expands trial availability",
-          "title_zh": null,
-          "title_en": "GitHub Advanced Security expands trial availability",
-          "title_original": "GitHub Advanced Security expands trial availability",
-          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:33:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-          "title": "GitHub Advanced Security expands trial availability",
-          "title_zh": null,
-          "title_en": "GitHub Advanced Security expands trial availability",
-          "title_original": "GitHub Advanced Security expands trial availability",
-          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:33:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9683,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T17:33:34Z",
-      "latest_at": "2026-09-09T17:33:34Z",
-      "primary_item": {
-        "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-        "title": "GitHub Advanced Security expands trial availability",
-        "title_zh": null,
-        "title_en": "GitHub Advanced Security expands trial availability",
-        "title_original": "GitHub Advanced Security expands trial availability",
-        "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -308,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9468,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "official",
@@ -346,7 +381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -452,15 +487,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9282,
+        "recency": 0.8824,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -493,63 +528,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
-      "story_id": "story_0251a274feda",
-      "title": "Block pull requests with exposed secrets from merging",
-      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
-      "primary_url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
-      "source": "GitHub Changelog",
+      "story_id": "story_3bb3bc949a7f",
+      "title": "Codex CLI 0.154.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d03e8752c374fb03eb2c82111ae394a62849e462",
-          "title": "Block pull requests with exposed secrets from merging",
+          "id": "2128df5666e630f101d91e4b1bd1df095078ee00",
+          "title": "Codex CLI 0.154.0",
           "title_zh": null,
-          "title_en": "Block pull requests with exposed secrets from merging",
-          "title_original": "Block pull requests with exposed secrets from merging",
-          "summary": "Repository rulesets allow you to easily add scalable protections across your repositories.",
+          "title_en": "Codex CLI 0.154.0",
+          "title_original": "Codex CLI 0.154.0",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T17:14:02Z"
+          "published_at": "2026-09-09T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "d03e8752c374fb03eb2c82111ae394a62849e462",
-          "title": "Block pull requests with exposed secrets from merging",
+          "id": "2128df5666e630f101d91e4b1bd1df095078ee00",
+          "title": "Codex CLI 0.154.0",
           "title_zh": null,
-          "title_en": "Block pull requests with exposed secrets from merging",
-          "title_original": "Block pull requests with exposed secrets from merging",
-          "summary": "Repository rulesets allow you to easily add scalable protections across your repositories.",
+          "title_en": "Codex CLI 0.154.0",
+          "title_original": "Codex CLI 0.154.0",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T17:14:02Z"
+          "published_at": "2026-09-09T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9638,
+        "ai_relevance": 0.98,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -558,17 +593,105 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:14:02Z",
-      "latest_at": "2026-09-09T17:14:02Z",
+      "earliest_at": "2026-09-09T00:00:00Z",
+      "latest_at": "2026-09-09T00:00:00Z",
       "primary_item": {
-        "id": "d03e8752c374fb03eb2c82111ae394a62849e462",
-        "title": "Block pull requests with exposed secrets from merging",
+        "id": "2128df5666e630f101d91e4b1bd1df095078ee00",
+        "title": "Codex CLI 0.154.0",
         "title_zh": null,
-        "title_en": "Block pull requests with exposed secrets from merging",
-        "title_original": "Block pull requests with exposed secrets from merging",
-        "summary": "Repository rulesets allow you to easily add scalable protections across your repositories.",
+        "title_en": "Codex CLI 0.154.0",
+        "title_original": "Codex CLI 0.154.0",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T23:51:48.829383Z"
+      }
+    },
+    {
+      "story_id": "story_218a1539238c",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "primary_url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fbe7460c292c5737858f0220574b1fa62116af75",
+          "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+          "title_zh": null,
+          "title_en": "CodeQL 2.27.0 adds support for Linux ARM64",
+          "title_original": "CodeQL 2.27.0 adds support for Linux ARM64",
+          "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improv…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T21:45:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fbe7460c292c5737858f0220574b1fa62116af75",
+          "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+          "title_zh": null,
+          "title_en": "CodeQL 2.27.0 adds support for Linux ARM64",
+          "title_original": "CodeQL 2.27.0 adds support for Linux ARM64",
+          "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improv…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T21:45:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.978,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T21:45:06Z",
+      "latest_at": "2026-09-09T21:45:06Z",
+      "primary_item": {
+        "id": "fbe7460c292c5737858f0220574b1fa62116af75",
+        "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+        "title_zh": null,
+        "title_en": "CodeQL 2.27.0 adds support for Linux ARM64",
+        "title_original": "CodeQL 2.27.0 adds support for Linux ARM64",
+        "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improv…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
@@ -579,7 +702,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
+      }
+    },
+    {
+      "story_id": "story_5969262efc42",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "title_zh": null,
+          "title_en": "Paul Christiano joins OpenAI Foundation Board",
+          "title_original": "Paul Christiano joins OpenAI Foundation Board",
+          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "title_zh": null,
+          "title_en": "Paul Christiano joins OpenAI Foundation Board",
+          "title_original": "Paul Christiano joins OpenAI Foundation Board",
+          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9131,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T17:00:00Z",
+      "latest_at": "2026-09-09T17:00:00Z",
+      "primary_item": {
+        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+        "title": "Paul Christiano joins OpenAI Foundation Board",
+        "title_zh": null,
+        "title_en": "Paul Christiano joins OpenAI Foundation Board",
+        "title_original": "Paul Christiano joins OpenAI Foundation Board",
+        "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -627,15 +836,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9468,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "official",
@@ -665,7 +874,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -713,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9728,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -750,7 +959,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -798,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7867,
-      "importance": 0.7867,
-      "importance_score": 0.7867,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9893,
+        "recency": 0.9405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,7 +1047,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -886,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9954,
+        "recency": 0.9463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -927,95 +1136,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
-      }
-    },
-    {
-      "story_id": "story_ddf3578155d9",
-      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "primary_url": "https://mistral.ai/news/legacy-code-modernization",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
-          "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-          "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/legacy-code-modernization",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T18:59:11.761000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
-          "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-          "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/legacy-code-modernization",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T18:59:11.761000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9885,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T18:59:11.761000Z",
-      "latest_at": "2026-09-09T18:59:11.761000Z",
-      "primary_item": {
-        "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
-        "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-        "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-        "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-        "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-        "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-        "recommend_reason_zh": null,
-        "url": "https://mistral.ai/news/legacy-code-modernization",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents",
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -1063,15 +1184,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.874,
+        "recency": 0.8308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1224,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
+      }
+    },
+    {
+      "story_id": "story_cb60067aa36b",
+      "title": "GitHub Advanced Security expands trial availability",
+      "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+      "primary_url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
+          "title": "GitHub Advanced Security expands trial availability",
+          "title_zh": null,
+          "title_en": "GitHub Advanced Security expands trial availability",
+          "title_original": "GitHub Advanced Security expands trial availability",
+          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:33:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
+          "title": "GitHub Advanced Security expands trial availability",
+          "title_zh": null,
+          "title_en": "GitHub Advanced Security expands trial availability",
+          "title_original": "GitHub Advanced Security expands trial availability",
+          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:33:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9205,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T17:33:34Z",
+      "latest_at": "2026-09-09T17:33:34Z",
+      "primary_item": {
+        "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
+        "title": "GitHub Advanced Security expands trial availability",
+        "title_zh": null,
+        "title_en": "GitHub Advanced Security expands trial availability",
+        "title_original": "GitHub Advanced Security expands trial availability",
+        "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T23:51:48.829383Z"
+      }
+    },
+    {
+      "story_id": "story_ddf3578155d9",
+      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+      "url": "https://mistral.ai/news/legacy-code-modernization",
+      "primary_url": "https://mistral.ai/news/legacy-code-modernization",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
+          "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+          "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+          "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+          "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+          "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/legacy-code-modernization",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T18:59:11.761000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Mistral AI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
+          "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+          "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+          "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+          "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+          "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/legacy-code-modernization",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T18:59:11.761000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9397,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T18:59:11.761000Z",
+      "latest_at": "2026-09-09T18:59:11.761000Z",
+      "primary_item": {
+        "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
+        "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+        "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+        "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+        "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+        "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+        "recommend_reason_zh": null,
+        "url": "https://mistral.ai/news/legacy-code-modernization",
+        "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "agents",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -1143,7 +1438,7 @@
           "published_at": "2026-09-09T16:05:40.926000Z"
         },
         {
-          "id": "ae2a95b911eb0f0c1b1d814b452a53c946756b37",
+          "id": "363d64a030a81f2923205e6c8ed51a5549984520",
           "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
           "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
           "title_en": "What will our economic future look like?",
@@ -1151,16 +1446,16 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-09T13:38:23Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "Hacker News",
+        "Hacker News · 24h最热",
         "www.anthropic.com"
       ],
       "items": [
@@ -1193,7 +1488,7 @@
           "published_at": "2026-09-09T16:05:40.926000Z"
         },
         {
-          "id": "ae2a95b911eb0f0c1b1d814b452a53c946756b37",
+          "id": "363d64a030a81f2923205e6c8ed51a5549984520",
           "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
           "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
           "title_en": "What will our economic future look like?",
@@ -1201,23 +1496,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-09T13:38:23Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9127,
+        "recency": 0.8676,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1250,7 +1545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -1298,15 +1593,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8629,
+        "recency": 0.8203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1339,7 +1634,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -1387,15 +1682,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,7 +1723,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -1476,15 +1771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8511,
+        "recency": 0.8091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1516,95 +1811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
-      }
-    },
-    {
-      "story_id": "story_fee049a1c565",
-      "title": "Remediate Code Quality findings with agentic autofix",
-      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-      "primary_url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ad26dab94774552dcff735fc552e83cb5d84cf17",
-          "title": "Remediate Code Quality findings with agentic autofix",
-          "title_zh": null,
-          "title_en": "Remediate Code Quality findings with agentic autofix",
-          "title_original": "Remediate Code Quality findings with agentic autofix",
-          "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T12:21:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ad26dab94774552dcff735fc552e83cb5d84cf17",
-          "title": "Remediate Code Quality findings with agentic autofix",
-          "title_zh": null,
-          "title_en": "Remediate Code Quality findings with agentic autofix",
-          "title_original": "Remediate Code Quality findings with agentic autofix",
-          "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T12:21:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8982,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T12:21:01Z",
-      "latest_at": "2026-09-09T12:21:01Z",
-      "primary_item": {
-        "id": "ad26dab94774552dcff735fc552e83cb5d84cf17",
-        "title": "Remediate Code Quality findings with agentic autofix",
-        "title_zh": null,
-        "title_en": "Remediate Code Quality findings with agentic autofix",
-        "title_original": "Remediate Code Quality findings with agentic autofix",
-        "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     },
     {
@@ -1652,21 +1859,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-09T09:17:53Z",
       "latest_at": "2026-09-09T09:17:53Z",
@@ -1693,178 +1899,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
-      }
-    },
-    {
-      "story_id": "story_817352332488",
-      "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-      "url": "https://www.aibase.com/news/30936",
-      "primary_url": "https://www.aibase.com/news/30936",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
-          "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "title_zh": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "title_en": null,
-          "title_original": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30936",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T15:09:00.569873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
-          "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "title_zh": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "title_en": null,
-          "title_original": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30936",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T15:09:00.569873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9352,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T15:09:00.569873Z",
-      "latest_at": "2026-09-09T15:09:00.569873Z",
-      "primary_item": {
-        "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
-        "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-        "title_zh": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-        "title_en": null,
-        "title_original": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30936",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
-      }
-    },
-    {
-      "story_id": "story_96f12cb5f614",
-      "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "primary_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58436be6016157fdfe3da160adb8e3c2b5b97744",
-          "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem",
-          "title_zh": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-          "title_en": "On the Navier-Stokes Millennium Prize Problem",
-          "title_original": "On the Navier-Stokes Millennium Prize Problem",
-          "summary": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T23:55:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "58436be6016157fdfe3da160adb8e3c2b5b97744",
-          "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem",
-          "title_zh": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-          "title_en": "On the Navier-Stokes Millennium Prize Problem",
-          "title_original": "On the Navier-Stokes Millennium Prize Problem",
-          "summary": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T23:55:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T23:55:12Z",
-      "latest_at": "2026-09-08T23:55:12Z",
-      "primary_item": {
-        "id": "58436be6016157fdfe3da160adb8e3c2b5b97744",
-        "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem",
-        "title_zh": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-        "title_en": "On the Navier-Stokes Millennium Prize Problem",
-        "title_original": "On the Navier-Stokes Millennium Prize Problem",
-        "summary": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T20:22:04.336406Z"
+        "scored_at": "2026-09-09T23:51:48.829383Z"
       }
     }
   ]
