@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 10 Sep 2026 01:07:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 05:59:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work</title>
@@ -40,6 +40,14 @@
 <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
+<title>DeepSeek 发布 V4.1 Flash：552B MoE 多模态模型，同步开源并下调 API 定价</title>
+<link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485817&amp;idx=1&amp;sn=627dd80114901f3fd8717e2c13feaf6a</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485817&amp;idx=1&amp;sn=627dd80114901f3fd8717e2c13feaf6a</guid>
+<description>DeepSeek 正式发布 V4.1 Flash，全新 Causal-Encoder-Decoder 结构的 552B 参数 MoE 模型，输入激活 8B、输出激活 16B，具备原生多模态视觉理解，基准测试超越包括 DeepSeek V4 Pro 在内的旗舰模型。（公众号：DeepSeek（深度求索））</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 05:44:15 +0000</pubDate>
+</item>
+<item>
 <title>GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra， looped transformers， and hidden reasoning</title>
 <link>https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</link>
 <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</guid>
@@ -54,6 +62,14 @@
 <description>CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improv…（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 09 Sep 2026 21:45:06 +0000</pubDate>
+</item>
+<item>
+<title>诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能</title>
+<link>https://www.aibase.com/news/30954</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30954</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 05:59:41 +0000</pubDate>
 </item>
 <item>
 <title>Paul Christiano joins OpenAI Foundation Board</title>
@@ -94,14 +110,6 @@
 <description>Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。（Anthropic：Research（发表成果 · 网页））</description>
 <category>行业动态</category>
 <pubDate>Wed, 09 Sep 2026 19:28:17 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI悄然调整ChatGPT广告政策，全面封杀Adobe等竞品AI生图与语音广告</title>
-<link>https://www.aibase.com/news/30938</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30938</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 01:07:43 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs</title>
@@ -158,14 +166,6 @@
 <description>NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。（X：X.PIN (@thexpin)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 09 Sep 2026 09:20:00 +0000</pubDate>
-</item>
-<item>
-<title>美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…</title>
-<link>https://x.com/rohanpaul_ai/status/2097605329123147987</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2097605329123147987</guid>
-<description>NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 08:37:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
