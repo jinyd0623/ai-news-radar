@@ -1,124 +1,94 @@
 {
-  "generated_at": "2026-09-10T09:48:23.214397Z",
+  "generated_at": "2026-09-10T11:22:54.153671Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7909c6cf5087",
-      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "primary_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI News",
+      "story_id": "story_15857ddbbec1",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "primary_url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "96f85e7d3f701514e50b0d3c2bd8212b98f861ab",
-          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-          "title_en": "GPT-6 Astra: The next generation in intelligence for work",
-          "title_original": "GPT-6 Astra: The next generation in intelligence for work",
-          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "title_zh": null,
+          "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "title_original": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T11:00:00Z"
-        },
-        {
-          "id": "43fe6120bb215dd89f809b0998c80ec930b0ac39",
-          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra： The next generation in intelligence for work",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-          "title_en": "GPT-6 Astra： The next generation in intelligence for work",
-          "title_original": "GPT-6 Astra： The next generation in intelligence for work",
-          "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T11:00:00Z"
+          "published_at": "2026-09-10T00:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "96f85e7d3f701514e50b0d3c2bd8212b98f861ab",
-          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-          "title_en": "GPT-6 Astra: The next generation in intelligence for work",
-          "title_original": "GPT-6 Astra: The next generation in intelligence for work",
-          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "title_zh": null,
+          "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "title_original": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T11:00:00Z"
-        },
-        {
-          "id": "43fe6120bb215dd89f809b0998c80ec930b0ac39",
-          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra： The next generation in intelligence for work",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-          "title_en": "GPT-6 Astra： The next generation in intelligence for work",
-          "title_original": "GPT-6 Astra： The next generation in intelligence for work",
-          "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T11:00:00Z"
+          "published_at": "2026-09-10T00:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7194,
-        "story_heat": 0.25
+        "recency": 0.8484,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T11:00:00Z",
-      "latest_at": "2026-09-09T11:00:00Z",
+      "earliest_at": "2026-09-10T00:00:00Z",
+      "latest_at": "2026-09-10T00:00:00Z",
       "primary_item": {
-        "id": "96f85e7d3f701514e50b0d3c2bd8212b98f861ab",
-        "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
-        "title_zh": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-        "title_en": "GPT-6 Astra: The next generation in intelligence for work",
-        "title_original": "GPT-6 Astra: The next generation in intelligence for work",
-        "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+        "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+        "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+        "title_zh": null,
+        "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+        "title_original": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-        "source": "OpenAI News",
+        "url": "https://huggingface.co/blog/gradio-workflow-1111",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
         "topics": [
-          "models"
+          "open-source-models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -166,15 +136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8209,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,63 +177,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
-      "story_id": "story_ea4f77cf3524",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face Blog",
+      "story_id": "story_5969262efc42",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fd91534dca51075721031b57097e5f9315f7f497",
-          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
           "title_zh": null,
-          "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "summary": null,
+          "title_en": "Paul Christiano joins OpenAI Foundation Board",
+          "title_original": "Paul Christiano joins OpenAI Foundation Board",
+          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T15:36:24Z"
+          "published_at": "2026-09-09T17:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "fd91534dca51075721031b57097e5f9315f7f497",
-          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
           "title_zh": null,
-          "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "summary": null,
+          "title_en": "Paul Christiano joins OpenAI Foundation Board",
+          "title_original": "Paul Christiano joins OpenAI Foundation Board",
+          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T15:36:24Z"
+          "published_at": "2026-09-09T17:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7689,
+        "ai_relevance": 0.91,
+        "recency": 0.7669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -272,30 +242,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T15:36:24Z",
-      "latest_at": "2026-09-09T15:36:24Z",
+      "earliest_at": "2026-09-09T17:00:00Z",
+      "latest_at": "2026-09-09T17:00:00Z",
       "primary_item": {
-        "id": "fd91534dca51075721031b57097e5f9315f7f497",
-        "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+        "title": "Paul Christiano joins OpenAI Foundation Board",
         "title_zh": null,
-        "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-        "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-        "summary": null,
+        "title_en": "Paul Christiano joins OpenAI Foundation Board",
+        "title_original": "Paul Christiano joins OpenAI Foundation Board",
+        "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-        "source": "Hugging Face Blog",
+        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
-        "topics": [
-          "open-source-models"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -343,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9675,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -383,7 +351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -431,15 +399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7733,
+        "recency": 0.7559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +437,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -517,15 +485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9429,
+        "recency": 0.9217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -558,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -664,15 +632,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7581,
+        "recency": 0.7411,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -705,7 +673,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_ea4f77cf3524",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fd91534dca51075721031b57097e5f9315f7f497",
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_zh": null,
+          "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T15:36:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fd91534dca51075721031b57097e5f9315f7f497",
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_zh": null,
+          "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T15:36:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7516,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T15:36:24Z",
+      "latest_at": "2026-09-09T15:36:24Z",
+      "primary_item": {
+        "id": "fd91534dca51075721031b57097e5f9315f7f497",
+        "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "title_zh": null,
+        "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -753,15 +809,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8402,
+        "recency": 0.8213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -791,7 +847,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -839,15 +895,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -879,93 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_5969262efc42",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "title_zh": null,
-          "title_en": "Paul Christiano joins OpenAI Foundation Board",
-          "title_original": "Paul Christiano joins OpenAI Foundation Board",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "title_zh": null,
-          "title_en": "Paul Christiano joins OpenAI Foundation Board",
-          "title_original": "Paul Christiano joins OpenAI Foundation Board",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7845,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T17:00:00Z",
-      "latest_at": "2026-09-09T17:00:00Z",
-      "primary_item": {
-        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-        "title": "Paul Christiano joins OpenAI Foundation Board",
-        "title_zh": null,
-        "title_en": "Paul Christiano joins OpenAI Foundation Board",
-        "title_original": "Paul Christiano joins OpenAI Foundation Board",
-        "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -1042,15 +1012,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9464,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1080,7 +1050,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_ce9846509246",
+      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "primary_url": "https://cognition.com/blog/factoring-rsa-260",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
+          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_en": null,
+          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+          "recommend_reason_zh": null,
+          "url": "https://cognition.com/blog/factoring-rsa-260",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T10:50:45.032000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
+          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "title_en": null,
+          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+          "recommend_reason_zh": null,
+          "url": "https://cognition.com/blog/factoring-rsa-260",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T10:50:45.032000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T10:50:45.032000Z",
+      "latest_at": "2026-09-10T10:50:45.032000Z",
+      "primary_item": {
+        "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
+        "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+        "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+        "title_en": null,
+        "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+        "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+        "recommend_reason_zh": null,
+        "url": "https://cognition.com/blog/factoring-rsa-260",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -1128,15 +1185,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9461,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1169,614 +1226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_c1742d135f37",
-      "title": "Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "Recreating a 70-year love story frame by frame",
-          "title_zh": null,
-          "title_en": "Recreating a 70-year love story frame by frame",
-          "title_original": "Recreating a 70-year love story frame by frame",
-          "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "Recreating a 70-year love story frame by frame",
-          "title_zh": null,
-          "title_en": "Recreating a 70-year love story frame by frame",
-          "title_original": "Recreating a 70-year love story frame by frame",
-          "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7733,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T16:00:00Z",
-      "latest_at": "2026-09-09T16:00:00Z",
-      "primary_item": {
-        "id": "26fbf978c4fd836611834662158952580d960e28",
-        "title": "Recreating a 70-year love story frame by frame",
-        "title_zh": null,
-        "title_en": "Recreating a 70-year love story frame by frame",
-        "title_original": "Recreating a 70-year love story frame by frame",
-        "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_81441f1b3696",
-      "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-      "url": "https://x.com/natolambert/status/2097745018421236154",
-      "primary_url": "https://x.com/natolambert/status/2097745018421236154",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
-          "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-          "title_zh": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-          "title_en": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-          "title_original": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-          "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2097745018421236154",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:52:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Nathan Lambert (@natolambert)"
-      ],
-      "items": [
-        {
-          "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
-          "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-          "title_zh": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-          "title_en": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-          "title_original": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-          "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2097745018421236154",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:52:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7945,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T17:52:41Z",
-      "latest_at": "2026-09-09T17:52:41Z",
-      "primary_item": {
-        "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
-        "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-        "title_zh": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-        "title_en": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-        "title_original": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-        "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/natolambert/status/2097745018421236154",
-        "source": "X：Nathan Lambert (@natolambert)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_2d7c9d621d9e",
-      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-      "primary_url": "https://x.com/AnthropicAI/status/2097762642958135398",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96de1990dcf1dc53352ac758db00f1e60191cee9",
-          "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-          "title_zh": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-          "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-          "title_original": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-          "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T19:02:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "96de1990dcf1dc53352ac758db00f1e60191cee9",
-          "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-          "title_zh": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-          "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-          "title_original": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-          "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T19:02:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.808,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T19:02:43Z",
-      "latest_at": "2026-09-09T19:02:43Z",
-      "primary_item": {
-        "id": "96de1990dcf1dc53352ac758db00f1e60191cee9",
-        "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-        "title_zh": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-        "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-        "title_original": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-        "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "evaluation",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_8173475ff08e",
-      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-      "url": "https://x.com/kimmonismus/status/2097970735591366804",
-      "primary_url": "https://x.com/kimmonismus/status/2097970735591366804",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/kimmonismus/status/2097970735591366804",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:49:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/kimmonismus/status/2097970735591366804",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:49:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.986,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T08:49:36Z",
-      "latest_at": "2026-09-10T08:49:36Z",
-      "primary_item": {
-        "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-        "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-        "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-        "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-        "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-        "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/kimmonismus/status/2097970735591366804",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_068c3c65edc6",
-      "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
-      "primary_url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ea5a1f529a9971983029913209e99c4c82b0c3c6",
-          "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-          "title_zh": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
-          "title_en": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-          "title_original": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-          "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T10:27:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ea5a1f529a9971983029913209e99c4c82b0c3c6",
-          "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-          "title_zh": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
-          "title_en": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-          "title_original": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-          "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T10:27:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T10:27:37Z",
-      "latest_at": "2026-09-09T10:27:37Z",
-      "primary_item": {
-        "id": "ea5a1f529a9971983029913209e99c4c82b0c3c6",
-        "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-        "title_zh": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
-        "title_en": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-        "title_original": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-        "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_fe90894c67b0",
-      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "title_en": "An alignment assessment of recent cybersecurity incidents",
-          "title_original": "An alignment assessment of recent cybersecurity incidents",
-          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T19:28:17.117000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "title_en": "An alignment assessment of recent cybersecurity incidents",
-          "title_original": "An alignment assessment of recent cybersecurity incidents",
-          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T19:28:17.117000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.813,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T19:28:17.117000Z",
-      "latest_at": "2026-09-09T19:28:17.117000Z",
-      "primary_item": {
-        "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-        "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-        "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-        "title_en": "An alignment assessment of recent cybersecurity incidents",
-        "title_original": "An alignment assessment of recent cybersecurity incidents",
-        "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "evaluation",
-          "models",
-          "research"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
-      }
-    },
-    {
-      "story_id": "story_cb60067aa36b",
-      "title": "GitHub Advanced Security expands trial availability",
-      "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-      "primary_url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-          "title": "GitHub Advanced Security expands trial availability",
-          "title_zh": null,
-          "title_en": "GitHub Advanced Security expands trial availability",
-          "title_original": "GitHub Advanced Security expands trial availability",
-          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:33:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-          "title": "GitHub Advanced Security expands trial availability",
-          "title_zh": null,
-          "title_en": "GitHub Advanced Security expands trial availability",
-          "title_original": "GitHub Advanced Security expands trial availability",
-          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:33:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T17:33:34Z",
-      "latest_at": "2026-09-09T17:33:34Z",
-      "primary_item": {
-        "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-        "title": "GitHub Advanced Security expands trial availability",
-        "title_zh": null,
-        "title_en": "GitHub Advanced Security expands trial availability",
-        "title_original": "GitHub Advanced Security expands trial availability",
-        "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     },
     {
@@ -1824,15 +1274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7405,
+        "recency": 0.7238,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1862,7 +1312,527 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T10:23:07.144141Z"
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_c1742d135f37",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "26fbf978c4fd836611834662158952580d960e28",
+          "title": "Recreating a 70-year love story frame by frame",
+          "title_zh": null,
+          "title_en": "Recreating a 70-year love story frame by frame",
+          "title_original": "Recreating a 70-year love story frame by frame",
+          "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "26fbf978c4fd836611834662158952580d960e28",
+          "title": "Recreating a 70-year love story frame by frame",
+          "title_zh": null,
+          "title_en": "Recreating a 70-year love story frame by frame",
+          "title_original": "Recreating a 70-year love story frame by frame",
+          "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7559,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T16:00:00Z",
+      "latest_at": "2026-09-09T16:00:00Z",
+      "primary_item": {
+        "id": "26fbf978c4fd836611834662158952580d960e28",
+        "title": "Recreating a 70-year love story frame by frame",
+        "title_zh": null,
+        "title_en": "Recreating a 70-year love story frame by frame",
+        "title_original": "Recreating a 70-year love story frame by frame",
+        "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_81441f1b3696",
+      "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+      "url": "https://x.com/natolambert/status/2097745018421236154",
+      "primary_url": "https://x.com/natolambert/status/2097745018421236154",
+      "source": "X：Nathan Lambert (@natolambert)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
+          "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+          "title_zh": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
+          "title_en": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+          "title_original": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+          "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/natolambert/status/2097745018421236154",
+          "source": "X：Nathan Lambert (@natolambert)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T17:52:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Nathan Lambert (@natolambert)"
+      ],
+      "items": [
+        {
+          "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
+          "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+          "title_zh": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
+          "title_en": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+          "title_original": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+          "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/natolambert/status/2097745018421236154",
+          "source": "X：Nathan Lambert (@natolambert)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T17:52:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7767,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T17:52:41Z",
+      "latest_at": "2026-09-09T17:52:41Z",
+      "primary_item": {
+        "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
+        "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+        "title_zh": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
+        "title_en": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+        "title_original": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
+        "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/natolambert/status/2097745018421236154",
+        "source": "X：Nathan Lambert (@natolambert)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_2d7c9d621d9e",
+      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+      "primary_url": "https://x.com/AnthropicAI/status/2097762642958135398",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96de1990dcf1dc53352ac758db00f1e60191cee9",
+          "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+          "title_zh": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+          "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+          "title_original": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+          "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T19:02:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "96de1990dcf1dc53352ac758db00f1e60191cee9",
+          "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+          "title_zh": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+          "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+          "title_original": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+          "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T19:02:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7899,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T19:02:43Z",
+      "latest_at": "2026-09-09T19:02:43Z",
+      "primary_item": {
+        "id": "96de1990dcf1dc53352ac758db00f1e60191cee9",
+        "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+        "title_zh": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+        "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+        "title_original": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+        "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "evaluation",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_8173475ff08e",
+      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+      "url": "https://x.com/kimmonismus/status/2097970735591366804",
+      "primary_url": "https://x.com/kimmonismus/status/2097970735591366804",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
+          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/kimmonismus/status/2097970735591366804",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T08:49:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
+          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/kimmonismus/status/2097970735591366804",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T08:49:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9638,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T08:49:36Z",
+      "latest_at": "2026-09-10T08:49:36Z",
+      "primary_item": {
+        "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
+        "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+        "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+        "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+        "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+        "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/kimmonismus/status/2097970735591366804",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_fe90894c67b0",
+      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
+          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+          "title_en": "An alignment assessment of recent cybersecurity incidents",
+          "title_original": "An alignment assessment of recent cybersecurity incidents",
+          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T19:28:17.117000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
+          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+          "title_en": "An alignment assessment of recent cybersecurity incidents",
+          "title_original": "An alignment assessment of recent cybersecurity incidents",
+          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T19:28:17.117000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-09T19:28:17.117000Z",
+      "latest_at": "2026-09-09T19:28:17.117000Z",
+      "primary_item": {
+        "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
+        "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+        "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+        "title_en": "An alignment assessment of recent cybersecurity incidents",
+        "title_original": "An alignment assessment of recent cybersecurity incidents",
+        "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "evaluation",
+          "models",
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
+      }
+    },
+    {
+      "story_id": "story_cb60067aa36b",
+      "title": "GitHub Advanced Security expands trial availability",
+      "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+      "primary_url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
+          "title": "GitHub Advanced Security expands trial availability",
+          "title_zh": null,
+          "title_en": "GitHub Advanced Security expands trial availability",
+          "title_original": "GitHub Advanced Security expands trial availability",
+          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:33:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
+          "title": "GitHub Advanced Security expands trial availability",
+          "title_zh": null,
+          "title_en": "GitHub Advanced Security expands trial availability",
+          "title_original": "GitHub Advanced Security expands trial availability",
+          "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:33:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7731,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T17:33:34Z",
+      "latest_at": "2026-09-09T17:33:34Z",
+      "primary_item": {
+        "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
+        "title": "GitHub Advanced Security expands trial availability",
+        "title_zh": null,
+        "title_en": "GitHub Advanced Security expands trial availability",
+        "title_original": "GitHub Advanced Security expands trial availability",
+        "summary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T12:01:29.746781Z"
       }
     }
   ]
