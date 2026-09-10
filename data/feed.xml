@@ -5,10 +5,10 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 10 Sep 2026 11:22:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 15:00:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
+<title>Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
 <link>https://huggingface.co/blog/gradio-workflow-1111</link>
 <guid isPermaLink="true">https://huggingface.co/blog/gradio-workflow-1111</guid>
 <description>Hugging Face Blog</description>
@@ -56,12 +56,12 @@
 <pubDate>Thu, 10 Sep 2026 05:44:15 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra， looped transformers， and hidden reasoning</title>
-<link>https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</link>
-<guid isPermaLink="true">https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</guid>
-<description>OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Wed, 09 Sep 2026 17:08:36 +0000</pubDate>
+<title>DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents</title>
+<link>https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents</link>
+<guid isPermaLink="true">https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents</guid>
+<description>DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 12:40:51 +0000</pubDate>
 </item>
 <item>
 <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
@@ -112,14 +112,6 @@
 <pubDate>Thu, 10 Sep 2026 05:58:04 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案 / The AI policy window is open. We need to act.</title>
-<link>https://openai.com/index/ai-policy-window</link>
-<guid isPermaLink="true">https://openai.com/index/ai-policy-window</guid>
-<description>Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains…（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Recreating a 70-year love story frame by frame</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film</guid>
@@ -134,6 +126,14 @@
 <description>Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。（X：Nathan Lambert (@natolambert)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 09 Sep 2026 17:52:41 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…</title>
+<link>https://x.com/SiliconFlowAI/status/2098054160176545821</link>
+<guid isPermaLink="true">https://x.com/SiliconFlowAI/status/2098054160176545821</guid>
+<description>硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。（X：硅基流动 SiliconFlow (@SiliconFlowAI)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 14:21:06 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…</title>
@@ -160,12 +160,12 @@
 <pubDate>Wed, 09 Sep 2026 19:28:17 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Advanced Security expands trial availability</title>
-<link>https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability</guid>
-<description>More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 17:33:34 +0000</pubDate>
+<title>275万网友用阿福减重超500万斤:AI或引爆健康消费  体脂秤血糖</title>
+<link>https://www.aibase.com/news/30971</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30971</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 15:00:07 +0000</pubDate>
 </item>
 </channel>
 </rss>
