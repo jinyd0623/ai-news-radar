@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:59:41.140921Z",
+  "generated_at": "2026-09-10T09:48:23.214397Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7601,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "official",
@@ -118,7 +118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -166,15 +166,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8673,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,7 +207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -255,15 +255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8124,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,7 +295,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
+      }
+    },
+    {
+      "story_id": "story_4f6a9ae0c6f7",
+      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+      "primary_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
+          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+          "title_zh": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+          "title_en": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+          "title_original": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+          "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T07:31:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
+          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+          "title_zh": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+          "title_en": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+          "title_original": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+          "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T07:31:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9675,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T07:31:01Z",
+      "latest_at": "2026-09-10T07:31:01Z",
+      "primary_item": {
+        "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
+        "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+        "title_zh": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+        "title_en": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+        "title_original": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+        "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -343,15 +431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.817,
+        "recency": 0.7733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -429,15 +517,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9963,
+        "recency": 0.9429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -576,15 +664,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.801,
+        "recency": 0.7581,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -617,7 +705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -665,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8878,
+        "recency": 0.8402,
         "story_heat": 0.0
       },
       "category": "official",
@@ -703,7 +791,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
+      }
+    },
+    {
+      "story_id": "story_5da02e9477c9",
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+      "url": "https://x.com/kimmonismus/status/2097962333767102665",
+      "primary_url": "https://x.com/kimmonismus/status/2097962333767102665",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
+          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+          "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/kimmonismus/status/2097962333767102665",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T08:16:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
+          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+          "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/kimmonismus/status/2097962333767102665",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T08:16:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T08:16:13Z",
+      "latest_at": "2026-09-10T08:16:13Z",
+      "primary_item": {
+        "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
+        "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+        "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+        "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+        "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+        "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/kimmonismus/status/2097962333767102665",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T10:23:07.144141Z"
+      }
+    },
+    {
+      "story_id": "story_5969262efc42",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "title_zh": null,
+          "title_en": "Paul Christiano joins OpenAI Foundation Board",
+          "title_original": "Paul Christiano joins OpenAI Foundation Board",
+          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "title_zh": null,
+          "title_en": "Paul Christiano joins OpenAI Foundation Board",
+          "title_original": "Paul Christiano joins OpenAI Foundation Board",
+          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7845,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T17:00:00Z",
+      "latest_at": "2026-09-09T17:00:00Z",
+      "primary_item": {
+        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+        "title": "Paul Christiano joins OpenAI Foundation Board",
+        "title_zh": null,
+        "title_en": "Paul Christiano joins OpenAI Foundation Board",
+        "title_original": "Paul Christiano joins OpenAI Foundation Board",
+        "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -780,15 +1042,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9464,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -818,93 +1080,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
-      "story_id": "story_5969262efc42",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_bcd7d71a4aa4",
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "title_zh": null,
-          "title_en": "Paul Christiano joins OpenAI Foundation Board",
-          "title_original": "Paul Christiano joins OpenAI Foundation Board",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "id": "09e02b519b59037c4409e618dca34e880d033e48",
+          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "title_zh": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "title_en": null,
+          "title_original": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T05:58:04.695000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "DeepSeek：API 更新日志"
       ],
       "items": [
         {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "title_zh": null,
-          "title_en": "Paul Christiano joins OpenAI Foundation Board",
-          "title_original": "Paul Christiano joins OpenAI Foundation Board",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "id": "09e02b519b59037c4409e618dca34e880d033e48",
+          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "title_zh": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "title_en": null,
+          "title_original": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T05:58:04.695000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
-      "importance_label": "官方更新",
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8289,
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9461,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:00:00Z",
-      "latest_at": "2026-09-09T17:00:00Z",
+      "earliest_at": "2026-09-10T05:58:04.695000Z",
+      "latest_at": "2026-09-10T05:58:04.695000Z",
       "primary_item": {
-        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-        "title": "Paul Christiano joins OpenAI Foundation Board",
-        "title_zh": null,
-        "title_en": "Paul Christiano joins OpenAI Foundation Board",
-        "title_original": "Paul Christiano joins OpenAI Foundation Board",
-        "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+        "id": "09e02b519b59037c4409e618dca34e880d033e48",
+        "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+        "title_zh": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+        "title_en": null,
+        "title_original": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+        "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models",
+          "evaluation",
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -952,15 +1217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.817,
+        "recency": 0.7733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -990,7 +1255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -1038,15 +1303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8395,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -1123,15 +1388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8538,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,63 +1428,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
-      "story_id": "story_fe90894c67b0",
-      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "source": "Anthropic：Research（发表成果 · 网页）",
+      "story_id": "story_8173475ff08e",
+      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+      "url": "https://x.com/kimmonismus/status/2097970735591366804",
+      "primary_url": "https://x.com/kimmonismus/status/2097970735591366804",
+      "source": "X：Kim (@kimmonismus)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "title_en": "An alignment assessment of recent cybersecurity incidents",
-          "title_original": "An alignment assessment of recent cybersecurity incidents",
-          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
+          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-          "source": "Anthropic：Research（发表成果 · 网页）",
+          "url": "https://x.com/kimmonismus/status/2097970735591366804",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T19:28:17.117000Z"
+          "published_at": "2026-09-10T08:49:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
+        "X：Kim (@kimmonismus)"
       ],
       "items": [
         {
-          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "title_en": "An alignment assessment of recent cybersecurity incidents",
-          "title_original": "An alignment assessment of recent cybersecurity incidents",
-          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
+          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-          "source": "Anthropic：Research（发表成果 · 网页）",
+          "url": "https://x.com/kimmonismus/status/2097970735591366804",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T19:28:17.117000Z"
+          "published_at": "2026-09-10T08:49:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.859,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1227,32 +1492,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T19:28:17.117000Z",
-      "latest_at": "2026-09-09T19:28:17.117000Z",
+      "earliest_at": "2026-09-10T08:49:36Z",
+      "latest_at": "2026-09-10T08:49:36Z",
       "primary_item": {
-        "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-        "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
-        "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-        "title_en": "An alignment assessment of recent cybersecurity incidents",
-        "title_original": "An alignment assessment of recent cybersecurity incidents",
-        "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+        "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
+        "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+        "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+        "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+        "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+        "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
         "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-        "source": "Anthropic：Research（发表成果 · 网页）",
+        "url": "https://x.com/kimmonismus/status/2097970735591366804",
+        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
-          "evaluation",
-          "models",
-          "research"
+          "open-source-models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -1300,21 +1563,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7542,
+        "recency": 0.7138,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-09T10:27:37Z",
       "latest_at": "2026-09-09T10:27:37Z",
@@ -1340,7 +1602,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
+      }
+    },
+    {
+      "story_id": "story_fe90894c67b0",
+      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
+          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+          "title_en": "An alignment assessment of recent cybersecurity incidents",
+          "title_original": "An alignment assessment of recent cybersecurity incidents",
+          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T19:28:17.117000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
+          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+          "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+          "title_en": "An alignment assessment of recent cybersecurity incidents",
+          "title_original": "An alignment assessment of recent cybersecurity incidents",
+          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T19:28:17.117000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.813,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-09T19:28:17.117000Z",
+      "latest_at": "2026-09-09T19:28:17.117000Z",
+      "primary_item": {
+        "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
+        "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents",
+        "title_zh": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+        "title_en": "An alignment assessment of recent cybersecurity incidents",
+        "title_original": "An alignment assessment of recent cybersecurity incidents",
+        "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "evaluation",
+          "models",
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -1388,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8356,
+        "recency": 0.7909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1426,95 +1776,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
-      }
-    },
-    {
-      "story_id": "story_ddf3578155d9",
-      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "primary_url": "https://mistral.ai/news/legacy-code-modernization",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
-          "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-          "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/legacy-code-modernization",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T18:59:11.761000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
-          "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-          "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-          "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/legacy-code-modernization",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T18:59:11.761000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.853,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T18:59:11.761000Z",
-      "latest_at": "2026-09-09T18:59:11.761000Z",
-      "primary_item": {
-        "id": "62987621e65fcf77f7609a4599266ef3f98f619a",
-        "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-        "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-        "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-        "title_original": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-        "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-        "recommend_reason_zh": null,
-        "url": "https://mistral.ai/news/legacy-code-modernization",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents",
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     },
     {
@@ -1562,15 +1824,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7824,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1600,332 +1862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
-      }
-    },
-    {
-      "story_id": "story_1e0e5586f10e",
-      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "primary_url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "Scenarios for our Economic Future",
-          "title_original": "Scenarios for our Economic Future",
-          "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40.545000Z"
-        },
-        {
-          "id": "873d4837526d1a4d53b428d73657a03c1501629d",
-          "title": "我们的经济未来会是什么样子？",
-          "title_zh": "我们的经济未来会是什么样子？",
-          "title_en": null,
-          "title_original": "我们的经济未来会是什么样子？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-09T16:05:40.926000Z"
-        },
-        {
-          "id": "363d64a030a81f2923205e6c8ed51a5549984520",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "What will our economic future look like?",
-          "title_original": "What will our economic future look like?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T13:38:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "Hacker News · 24h最热",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "Scenarios for our Economic Future",
-          "title_original": "Scenarios for our Economic Future",
-          "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40.545000Z"
-        },
-        {
-          "id": "873d4837526d1a4d53b428d73657a03c1501629d",
-          "title": "我们的经济未来会是什么样子？",
-          "title_zh": "我们的经济未来会是什么样子？",
-          "title_en": null,
-          "title_original": "我们的经济未来会是什么样子？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-09T16:05:40.926000Z"
-        },
-        {
-          "id": "363d64a030a81f2923205e6c8ed51a5549984520",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "What will our economic future look like?",
-          "title_original": "What will our economic future look like?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T13:38:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7876,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T13:27:40.545000Z",
-      "latest_at": "2026-09-09T16:05:40.926000Z",
-      "primary_item": {
-        "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-        "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-        "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-        "title_en": "Scenarios for our Economic Future",
-        "title_original": "Scenarios for our Economic Future",
-        "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/institute/econ-scenarios",
-        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models",
-          "research"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
-      }
-    },
-    {
-      "story_id": "story_e9165c96a062",
-      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-      "url": "https://www.ithome.com/1/000/353.htm",
-      "primary_url": "https://www.ithome.com/1/000/353.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "79e7c8a25c55bd9ca8ac193f1a315addc16fbdd4",
-          "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-          "title_zh": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-          "title_en": null,
-          "title_original": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-          "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/000/353.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T09:34:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "79e7c8a25c55bd9ca8ac193f1a315addc16fbdd4",
-          "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-          "title_zh": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-          "title_en": null,
-          "title_original": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-          "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/000/353.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T09:34:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7447,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T09:34:47Z",
-      "latest_at": "2026-09-09T09:34:47Z",
-      "primary_item": {
-        "id": "79e7c8a25c55bd9ca8ac193f1a315addc16fbdd4",
-        "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-        "title_zh": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-        "title_en": null,
-        "title_original": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-        "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/000/353.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "models",
-          "research"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
-      }
-    },
-    {
-      "story_id": "story_406d0c1436b1",
-      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-      "url": "https://x.com/thexpin/status/2097615997616406833",
-      "primary_url": "https://x.com/thexpin/status/2097615997616406833",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b74cae62cb6d9683e680062af57fec87e33d22fb",
-          "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-          "title_zh": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
-          "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-          "title_original": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-          "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thexpin/status/2097615997616406833",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T09:20:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：X.PIN (@thexpin)"
-      ],
-      "items": [
-        {
-          "id": "b74cae62cb6d9683e680062af57fec87e33d22fb",
-          "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-          "title_zh": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
-          "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-          "title_original": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-          "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thexpin/status/2097615997616406833",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T09:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.742,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T09:20:00Z",
-      "latest_at": "2026-09-09T09:20:00Z",
-      "primary_item": {
-        "id": "b74cae62cb6d9683e680062af57fec87e33d22fb",
-        "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-        "title_zh": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
-        "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-        "title_original": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-        "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thexpin/status/2097615997616406833",
-        "source": "X：X.PIN (@thexpin)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-10T06:33:12.650950Z"
+        "scored_at": "2026-09-10T10:23:07.144141Z"
       }
     }
   ]
