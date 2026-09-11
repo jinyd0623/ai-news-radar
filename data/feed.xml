@@ -5,8 +5,24 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 11 Sep 2026 15:03:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 19:44:48 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
+<link>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</guid>
+<description>If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.（GitHub AI &amp; ML）</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+<description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data</title>
 <link>https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data</link>
@@ -14,14 +30,6 @@
 <description>Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 13:50:28 +0000</pubDate>
-</item>
-<item>
-<title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
-<link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
-<guid isPermaLink="true">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
-<description>César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot weekly releases — September 7</title>
@@ -38,14 +46,6 @@
 <description>Checking agent-generated code usually means hopping between tabs.（GitHub AI &amp; ML）</description>
 <category>官方更新</category>
 <pubDate>Thu, 10 Sep 2026 21:31:19 +0000</pubDate>
-</item>
-<item>
-<title>3 ways to prep for your next big race with Search</title>
-<link>https://blog.google/products-and-platforms/products/search/running-race-training-tips</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/running-race-training-tips</guid>
-<description>Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek</title>
@@ -80,12 +80,12 @@
 <pubDate>Fri, 11 Sep 2026 04:24:28 +0000</pubDate>
 </item>
 <item>
-<title>Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发</title>
-<link>https://shopify.engineering/back-to-native</link>
-<guid isPermaLink="true">https://shopify.engineering/back-to-native</guid>
-<description>Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<title>Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement</title>
+<link>https://www.dwarkesh.com/p/john-beren-charlie</link>
+<guid isPermaLink="true">https://www.dwarkesh.com/p/john-beren-charlie</guid>
+<description>Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。（Dwarkesh Patel：Podcast &amp; Blog（RSS））</description>
 <category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 15:04:41 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 16:28:11 +0000</pubDate>
 </item>
 <item>
 <title>AI Scan for pull request APIs in public preview</title>
@@ -104,44 +104,12 @@
 <pubDate>Fri, 11 Sep 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
-<title>Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark</title>
-<link>https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark</link>
-<guid isPermaLink="true">https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark</guid>
-<description>独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 16:33:44 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
-<link>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</guid>
-<description>Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。（Anthropic：Research（发表成果 · 网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 17:28:52 +0000</pubDate>
-</item>
-<item>
 <title>外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”</title>
 <link>https://www.aibase.com/news/31003</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31003</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 15:03:30 +0000</pubDate>
-</item>
-<item>
-<title>Control GitHub Actions cache access with cache-mode</title>
-<link>https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</guid>
-<description>You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 17:26:59 +0000</pubDate>
-</item>
-<item>
-<title>MAI-Code-1-Flash deprecated</title>
-<link>https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</guid>
-<description>We have deprecated MAI-Code-1-Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) tod…（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 16:54:01 +0000</pubDate>
 </item>
 <item>
 <title>小米开源工业级目标说话人语音识别大模型 CocktailASR-1</title>
@@ -152,20 +120,52 @@
 <pubDate>Fri, 11 Sep 2026 11:24:18 +0000</pubDate>
 </item>
 <item>
-<title>Xcode 27 runner image now runs on macOS 27</title>
-<link>https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27</guid>
-<description>You can now validate your Apple apps against macOS 27 using the Xcode 27 runner image for GitHub-hosted macOS runners, available in public preview.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 15:15:36 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试</title>
 <link>https://www.aibase.com/news/30999</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30999</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 09:47:25 +0000</pubDate>
+</item>
+<item>
+<title>Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发</title>
+<link>https://www.aibase.com/news/30993</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30993</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 11 Sep 2026 09:47:25 +0000</pubDate>
+</item>
+<item>
+<title>刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话</title>
+<link>https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7</link>
+<guid isPermaLink="true">https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7</guid>
+<description>点击查看原文&gt;（InfoQ CN）</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 13:00:35 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用</title>
+<link>https://www.aibase.com/news/30995</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30995</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 11 Sep 2026 09:47:25 +0000</pubDate>
+</item>
+<item>
+<title>数学领域中人工智能的偏差</title>
+<link>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</link>
+<guid isPermaLink="true">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</guid>
+<description>terrytao.wordpress.com</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 19:07:02 +0000</pubDate>
+</item>
+<item>
+<title>顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods</title>
+<link>https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</link>
+<guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 18:07:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
