@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 11 Sep 2026 01:09:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 06:01:56 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
@@ -48,6 +48,14 @@
 <pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级</title>
+<link>https://www.aibase.com/news/30980</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30980</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 11 Sep 2026 06:01:56 +0000</pubDate>
+</item>
+<item>
 <title>AI Scan for pull request APIs in public preview</title>
 <link>https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</guid>
@@ -88,14 +96,6 @@
 <pubDate>Thu, 10 Sep 2026 15:04:41 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体</title>
-<link>https://www.aibase.com/news/30973</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30973</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 01:09:28 +0000</pubDate>
-</item>
-<item>
 <title>Control GitHub Actions cache access with cache-mode</title>
 <link>https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</guid>
@@ -110,14 +110,6 @@
 <description>Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。（Anthropic：Research（发表成果 · 网页））</description>
 <category>行业动态</category>
 <pubDate>Thu, 10 Sep 2026 17:28:52 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek 发布 V4.1 Flash：552B MoE 多模态模型，同步开源并下调 API 定价</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485817&amp;idx=1&amp;sn=627dd80114901f3fd8717e2c13feaf6a</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485817&amp;idx=1&amp;sn=627dd80114901f3fd8717e2c13feaf6a</guid>
-<description>DeepSeek 正式发布 V4.1 Flash，全新 Causal-Encoder-Decoder 结构的 552B 参数 MoE 模型，输入激活 8B、输出激活 16B，具备原生多模态视觉理解，基准测试超越包括 DeepSeek V4 Pro 在内的旗舰模型。（公众号：DeepSeek（深度求索））</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 05:44:15 +0000</pubDate>
 </item>
 <item>
 <title>Introducing ChatGPT for Financial Services</title>
@@ -144,20 +136,20 @@
 <pubDate>Thu, 10 Sep 2026 08:16:13 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek 发布 V4.1-Flash，API 价格同步下调</title>
-<link>https://api-docs.deepseek.com/zh-cn/updates</link>
-<guid isPermaLink="true">https://api-docs.deepseek.com/zh-cn/updates</guid>
-<description>DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。（DeepSeek：API 更新日志）</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 05:58:04 +0000</pubDate>
-</item>
-<item>
-<title>算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级</title>
-<link>https://www.aibase.com/news/30974</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30974</guid>
+<title>Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”</title>
+<link>https://www.aibase.com/news/30988</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30988</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 01:09:28 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 06:01:56 +0000</pubDate>
+</item>
+<item>
+<title>Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk</title>
+<link>https://x.com/elonmusk/status/2098217236771295567</link>
+<guid isPermaLink="true">https://x.com/elonmusk/status/2098217236771295567</guid>
+<description>Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。（X：Elon Musk (@elonmusk, xAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 11 Sep 2026 01:09:06 +0000</pubDate>
 </item>
 <item>
 <title>WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.</title>
@@ -166,6 +158,14 @@
 <description>WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。（X：Tencent WorkBuddy (@WorkBuddy_AI)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 10 Sep 2026 15:49:16 +0000</pubDate>
+</item>
+<item>
+<title>MAI-Code-1-Flash deprecated</title>
+<link>https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</guid>
+<description>We have deprecated MAI-Code-1-Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) tod…（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Thu, 10 Sep 2026 16:54:01 +0000</pubDate>
 </item>
 </channel>
 </rss>
