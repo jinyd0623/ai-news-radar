@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 12 Sep 2026 12:12:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 14:11:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Sat, 12 Sep 2026 12:12:27 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 14:11:40 +0000</pubDate>
 </item>
 <item>
 <title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
@@ -48,14 +48,6 @@
 <pubDate>Sat, 12 Sep 2026 05:37:39 +0000</pubDate>
 </item>
 <item>
-<title>Auto-resolution and analysis updates in Copilot code review</title>
-<link>https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review</guid>
-<description>Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Fri, 11 Sep 2026 20:00:07 +0000</pubDate>
-</item>
-<item>
 <title>Cognition helps Devin test its own work with GPT‑6 Astra</title>
 <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/cognition-devin-testing-with-astra</guid>
@@ -64,12 +56,12 @@
 <pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data</title>
-<link>https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data</link>
-<guid isPermaLink="true">https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data</guid>
-<description>Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 13:50:28 +0000</pubDate>
+<title>Auto-resolution and analysis updates in Copilot code review</title>
+<link>https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review</guid>
+<description>Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 20:00:07 +0000</pubDate>
 </item>
 <item>
 <title>英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元</title>
@@ -86,22 +78,6 @@
 <description>Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。（Dwarkesh Patel：Podcast &amp; Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 12 Sep 2026 08:31:36 +0000</pubDate>
-</item>
-<item>
-<title>具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议</title>
-<link>https://www.aibase.com/news/31002</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31002</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 15:03:30 +0000</pubDate>
-</item>
-<item>
-<title>外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”</title>
-<link>https://www.aibase.com/news/31003</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31003</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
 <title>Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
