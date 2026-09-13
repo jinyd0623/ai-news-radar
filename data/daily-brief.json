@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T19:29:10.631013Z",
+  "generated_at": "2026-09-13T23:11:37.089050Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T19:29:10.631013Z",
-      "latest_at": "2026-09-13T19:29:10.631013Z",
+      "earliest_at": "2026-09-13T23:11:37.089050Z",
+      "latest_at": "2026-09-13T23:11:37.089050Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -88,7 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -165,15 +165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9273,
+        "recency": 0.879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -206,7 +206,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -254,15 +254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7469,
+        "recency": 0.7079,
         "story_heat": 0.0
       },
       "category": "official",
@@ -294,7 +294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -342,21 +342,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-13T05:56:03Z",
       "latest_at": "2026-09-13T05:56:03Z",
@@ -381,121 +380,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
-      }
-    },
-    {
-      "story_id": "story_b87018eebc80",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-      "url": "https://x.com/trq212/status/2098860941391872132",
-      "primary_url": "https://x.com/trq212/status/2098860941391872132",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        },
-        {
-          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "title_original": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thariq",
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        },
-        {
-          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "title_original": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7101,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T19:46:58Z",
-      "latest_at": "2026-09-12T19:46:58Z",
-      "primary_item": {
-        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/trq212/status/2098860941391872132",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -543,15 +428,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.9355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,120 +464,262 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
-      "story_id": "story_449833896f65",
-      "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_076542355556",
+      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "www.vals.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T20:19:16Z"
-        },
-        {
-          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": null,
+          "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "d075602df41308c78aa5aecf417b18a1894097c7",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-12T20:28:29Z"
+          "published_at": "2026-09-13T21:06:13Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News",
         "Hacker News · 24h最热",
-        "TechCrunch AI"
+        "www.vals.ai"
       ],
       "items": [
         {
-          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T20:19:16Z"
-        },
-        {
-          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
-          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": null,
+          "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "d075602df41308c78aa5aecf417b18a1894097c7",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-12T20:28:29Z"
+          "published_at": "2026-09-13T21:06:13Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6101,
-      "importance": 0.6101,
-      "importance_score": 0.6101,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7157,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9889,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T20:19:16Z",
-      "latest_at": "2026-09-12T20:28:29Z",
+      "earliest_at": "2026-09-13T21:06:13Z",
+      "latest_at": "2026-09-13T22:25:23.276000Z",
       "primary_item": {
-        "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-        "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-        "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "title_en": null,
+        "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media",
-        "source_tier": "ai_media",
-        "source_tier_label": "精选AI媒体",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "source": "www.vals.ai",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
         "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
+      }
+    },
+    {
+      "story_id": "story_ffdf3bb7485a",
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+          "title": "AI recursive self-improvement might not come so quickly after all",
+          "title_zh": null,
+          "title_en": "AI recursive self-improvement might not come so quickly after all",
+          "title_original": "AI recursive self-improvement might not come so quickly after all",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:49:44Z"
+        },
+        {
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_zh": null,
+          "title_en": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_original": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T18:49:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+          "title": "AI recursive self-improvement might not come so quickly after all",
+          "title_zh": null,
+          "title_en": "AI recursive self-improvement might not come so quickly after all",
+          "title_original": "AI recursive self-improvement might not come so quickly after all",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:49:44Z"
+        },
+        {
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_zh": null,
+          "title_en": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_original": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T18:49:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9389,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T18:49:44Z",
+      "latest_at": "2026-09-13T18:49:44Z",
+      "primary_item": {
+        "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+        "title": "AI recursive self-improvement might not come so quickly after all",
+        "title_zh": null,
+        "title_en": "AI recursive self-improvement might not come so quickly after all",
+        "title_original": "AI recursive self-improvement might not come so quickly after all",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -769,15 +796,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9895,
+        "recency": 0.9379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -807,7 +834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -884,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9747,
+        "recency": 0.9239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -922,7 +949,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -999,15 +1026,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8385,
+        "recency": 0.7948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,7 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     },
     {
@@ -1112,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.4985,
+      "importance": 0.4985,
+      "importance_score": 0.4985,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7778,
+        "recency": 0.7373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1145,127 +1172,10 @@
         "topics": []
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
-      }
-    },
-    {
-      "story_id": "story_4484533bd9b1",
-      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "primary_url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "withspecific.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_en": null,
-          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
-        },
-        {
-          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:25:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "withspecific.com"
-      ],
-      "items": [
-        {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_en": null,
-          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
-        },
-        {
-          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:25:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7692,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T20:25:48Z",
-      "latest_at": "2026-09-13T01:18:53.561000Z",
-      "primary_item": {
-        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-        "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-        "title_en": null,
-        "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://withspecific.com/benchmarks/real-swe",
-        "source": "withspecific.com",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": [
-          "ai-coding",
-          "evaluation",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T19:36:50.436496Z"
+        "scored_at": "2026-09-13T23:22:18.664124Z"
       }
     }
   ]
