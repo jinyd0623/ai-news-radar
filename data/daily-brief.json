@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T23:11:37.089050Z",
+  "generated_at": "2026-09-14T01:10:43.586387Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.86,
-      "importance_score": 0.86,
+      "score": 0.857,
+      "importance": 0.857,
+      "importance_score": 0.857,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T23:11:37.089050Z",
-      "latest_at": "2026-09-13T23:11:37.089050Z",
+      "earliest_at": "2026-09-14T00:00:00Z",
+      "latest_at": "2026-09-14T00:00:00Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -88,7 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -165,15 +165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.879,
+        "recency": 0.8541,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -206,95 +206,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
-      "story_id": "story_b025ab79dc77",
-      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_c751bec5886c",
+      "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+      "url": "https://www.aibase.com/news/31008",
+      "primary_url": "https://www.aibase.com/news/31008",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "title_en": "📞 1-800-ChatGPT",
-          "title_original": "📞 1-800-ChatGPT",
-          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+          "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+          "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_zh": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_en": null,
+          "title_original": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
+          "url": "https://www.aibase.com/news/31008",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "title_en": "📞 1-800-ChatGPT",
-          "title_original": "📞 1-800-ChatGPT",
-          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+          "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+          "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_zh": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_en": null,
+          "title_original": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
+          "url": "https://www.aibase.com/news/31008",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
+        "editorial": 0.72,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7079,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T23:16:27Z",
-      "latest_at": "2026-09-12T23:16:27Z",
+      "earliest_at": "2026-09-14T01:10:43.586387Z",
+      "latest_at": "2026-09-14T01:10:43.586387Z",
       "primary_item": {
-        "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-        "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-        "title_en": "📞 1-800-ChatGPT",
-        "title_original": "📞 1-800-ChatGPT",
-        "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+        "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+        "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+        "title_zh": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+        "title_en": null,
+        "title_original": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents",
-          "models"
-        ]
+        "url": "https://www.aibase.com/news/31008",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -342,15 +339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7794,
+        "recency": 0.7574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -380,7 +377,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
+      }
+    },
+    {
+      "story_id": "story_ebd0e66ec1cc",
+      "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+      "url": "https://www.aibase.com/news/31004",
+      "primary_url": "https://www.aibase.com/news/31004",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7b7ed5c17d41064ae28afdfd8a38b9456c7ffe7",
+          "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_zh": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_en": null,
+          "title_original": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31004",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b7b7ed5c17d41064ae28afdfd8a38b9456c7ffe7",
+          "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_zh": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_en": null,
+          "title_original": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31004",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:10:43.586387Z",
+      "latest_at": "2026-09-14T01:10:43.586387Z",
+      "primary_item": {
+        "id": "b7b7ed5c17d41064ae28afdfd8a38b9456c7ffe7",
+        "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+        "title_zh": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+        "title_en": null,
+        "title_original": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31004",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -428,15 +510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9355,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -464,7 +546,262 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
+      }
+    },
+    {
+      "story_id": "story_0fe0151f08d9",
+      "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+      "url": "https://www.aibase.com/news/31005",
+      "primary_url": "https://www.aibase.com/news/31005",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+          "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_zh": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_en": null,
+          "title_original": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+          "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_zh": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_en": null,
+          "title_original": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:10:43.586387Z",
+      "latest_at": "2026-09-14T01:10:43.586387Z",
+      "primary_item": {
+        "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+        "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+        "title_zh": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+        "title_en": null,
+        "title_original": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31005",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T01:23:08.907983Z"
+      }
+    },
+    {
+      "story_id": "story_d68fe1a9d50c",
+      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+      "url": "https://www.aibase.com/news/31007",
+      "primary_url": "https://www.aibase.com/news/31007",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_zh": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_en": null,
+          "title_original": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_zh": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_en": null,
+          "title_original": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:10:43.586387Z",
+      "latest_at": "2026-09-14T01:10:43.586387Z",
+      "primary_item": {
+        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "title_zh": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "title_en": null,
+        "title_original": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31007",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T01:23:08.907983Z"
+      }
+    },
+    {
+      "story_id": "story_1e32cab69036",
+      "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+      "url": "https://www.aibase.com/news/31006",
+      "primary_url": "https://www.aibase.com/news/31006",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_zh": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_en": null,
+          "title_original": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_zh": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_en": null,
+          "title_original": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:10:43.586387Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:10:43.586387Z",
+      "latest_at": "2026-09-14T01:10:43.586387Z",
+      "primary_item": {
+        "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+        "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "title_zh": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "title_en": null,
+        "title_original": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31006",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -570,15 +907,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5688,
-      "importance": 0.5688,
-      "importance_score": 0.5688,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9889,
+        "recency": 0.961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -606,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -683,15 +1020,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9389,
+        "recency": 0.9124,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -719,7 +1056,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -745,7 +1082,7 @@
           "published_at": "2026-09-13T18:45:18.039000Z"
         },
         {
-          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "id": "4815bfc7cf797d4747bbe4587d622ef98363458c",
           "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
           "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
@@ -753,15 +1090,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "twitter.com"
       ],
       "items": [
@@ -780,7 +1117,7 @@
           "published_at": "2026-09-13T18:45:18.039000Z"
         },
         {
-          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "id": "4815bfc7cf797d4747bbe4587d622ef98363458c",
           "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
           "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
@@ -788,23 +1125,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9379,
+        "recency": 0.9114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -834,7 +1171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -860,7 +1197,7 @@
           "published_at": "2026-09-13T17:42:38.853000Z"
         },
         {
-          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "id": "ea782f86fc770f87a95ec7e0a0eabbe814a2301a",
           "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
           "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
           "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
@@ -868,15 +1205,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-13T15:44:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "techcrunch.com"
       ],
       "items": [
@@ -895,7 +1232,7 @@
           "published_at": "2026-09-13T17:42:38.853000Z"
         },
         {
-          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "id": "ea782f86fc770f87a95ec7e0a0eabbe814a2301a",
           "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
           "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
           "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
@@ -903,23 +1240,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-13T15:44:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.8978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -949,7 +1286,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     },
     {
@@ -1026,15 +1363,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7948,
+        "recency": 0.7723,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1062,120 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
-      }
-    },
-    {
-      "story_id": "story_759bdd7a2753",
-      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "source": "xeiaso.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_en": null,
-          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "aa2fb7216570cba7eb97afbfe18fbc6a90dbb4c7",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_en": "Everyone should slow down AI development except for me",
-          "title_original": "Everyone should slow down AI development except for me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T00:30:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "xeiaso.net"
-      ],
-      "items": [
-        {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_en": null,
-          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "aa2fb7216570cba7eb97afbfe18fbc6a90dbb4c7",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_en": "Everyone should slow down AI development except for me",
-          "title_original": "Everyone should slow down AI development except for me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T00:30:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4985,
-      "importance": 0.4985,
-      "importance_score": 0.4985,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7373,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T00:30:44Z",
-      "latest_at": "2026-09-13T02:05:04.827000Z",
-      "primary_item": {
-        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-        "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
-        "title_en": null,
-        "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-        "source": "xeiaso.net",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T23:22:18.664124Z"
+        "scored_at": "2026-09-14T01:23:08.907983Z"
       }
     }
   ]
