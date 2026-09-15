@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 14 Sep 2026 20:57:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 23:53:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org</title>
@@ -32,6 +32,14 @@
 <pubDate>Mon, 14 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel</guid>
+<description>Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的"卡特尔"。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 22:59:41 +0000</pubDate>
+</item>
+<item>
 <title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
@@ -46,6 +54,14 @@
 <description>Animation of the text "{DevFest} 2026 Join us! Google Developer Groups" with a globe icon, asterisk icon, &lt; icon, and &gt; icon（Google AI Blog）</description>
 <category>官方更新</category>
 <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？</title>
+<link>https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</link>
+<guid isPermaLink="true">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</guid>
+<description>Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 19:56:20 +0000</pubDate>
 </item>
 <item>
 <title>Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线 / Siri AI， a profoundly more capable and personal assistant， is here</title>
@@ -150,22 +166,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 14 Sep 2026 10:44:30 +0000</pubDate>
-</item>
-<item>
-<title>对于人工智能领域的领军人物而言，《毁灭战士》不过是一种炒作</title>
-<link>https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype</link>
-<guid isPermaLink="true">https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype</guid>
-<description>erkansaka.net</description>
-<category>值得关注</category>
-<pubDate>Mon, 14 Sep 2026 17:04:22 +0000</pubDate>
-</item>
-<item>
-<title>大型AI企业提出了关于“监管俘获”的条件</title>
-<link>https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067</link>
-<guid isPermaLink="true">https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067</guid>
-<description>www.theregister.com</description>
-<category>值得关注</category>
-<pubDate>Mon, 14 Sep 2026 16:48:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
