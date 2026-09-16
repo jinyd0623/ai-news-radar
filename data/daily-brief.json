@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:09:46.567157Z",
+  "generated_at": "2026-09-16T23:39:41.416356Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8843,
-      "importance": 0.8843,
-      "importance_score": 0.8843,
+      "score": 0.8763,
+      "importance": 0.8763,
+      "importance_score": 0.8763,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9017,
+        "recency": 0.8573,
         "story_heat": 0.5
       },
       "category": "official",
@@ -147,30 +147,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
-      "story_id": "story_b7506bc123b9",
-      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "story_id": "story_6210c4b108ab",
+      "title": "Copilot预算增加请求普遍可用 / Copilot budget increase requests are generally available",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": null,
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository.",
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot预算增加请求普遍可用 / Copilot budget increase requests are generally available",
+          "title_zh": "Copilot预算增加请求普遍可用",
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
+          "published_at": "2026-09-16T20:17:18Z"
         }
       ],
       "source_count": 1,
@@ -179,31 +179,31 @@
       ],
       "items": [
         {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": null,
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository.",
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot预算增加请求普遍可用 / Copilot budget increase requests are generally available",
+          "title_zh": "Copilot预算增加请求普遍可用",
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
+          "published_at": "2026-09-16T20:17:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9074,
+        "ai_relevance": 0.91,
+        "recency": 0.9525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -212,28 +212,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T13:26:06Z",
-      "latest_at": "2026-09-16T13:26:06Z",
+      "earliest_at": "2026-09-16T20:17:18Z",
+      "latest_at": "2026-09-16T20:17:18Z",
       "primary_item": {
-        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_zh": null,
-        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository.",
+        "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+        "title": "Copilot预算增加请求普遍可用 / Copilot budget increase requests are generally available",
+        "title_zh": "Copilot预算增加请求普遍可用",
+        "title_en": "Copilot budget increase requests are generally available",
+        "title_original": "Copilot budget increase requests are generally available",
+        "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits.",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
-        "topics": []
+        "topics": [
+          "ai-coding"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -260,8 +262,8 @@
         },
         {
           "id": "f75dea1184ff397ff69eebf652150cde9dd9549b",
-          "title": "Claude Cowork and chat are now one Claude",
-          "title_zh": null,
+          "title": "Claude 协作和聊天现已合而为一 Claude / Claude Cowork and chat are now one Claude",
+          "title_zh": "Claude 协作和聊天现已合而为一 Claude",
           "title_en": "Claude Cowork and chat are now one Claude",
           "title_original": "Claude Cowork and chat are now one Claude",
           "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s.",
@@ -310,8 +312,8 @@
         },
         {
           "id": "f75dea1184ff397ff69eebf652150cde9dd9549b",
-          "title": "Claude Cowork and chat are now one Claude",
-          "title_zh": null,
+          "title": "Claude 协作和聊天现已合而为一 Claude / Claude Cowork and chat are now one Claude",
+          "title_zh": "Claude 协作和聊天现已合而为一 Claude",
           "title_en": "Claude Cowork and chat are now one Claude",
           "title_original": "Claude Cowork and chat are now one Claude",
           "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s.",
@@ -339,15 +341,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9065,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -379,12 +381,358 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
+      }
+    },
+    {
+      "story_id": "story_4b28983f879b",
+      "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9531,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:19:58Z",
+      "latest_at": "2026-09-16T20:19:58Z",
+      "primary_item": {
+        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+        "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+        "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+        "title_en": "SCIM user responses now include a profileUrl attribute",
+        "title_original": "SCIM user responses now include a profileUrl attribute",
+        "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T23:40:26.141044Z"
+      }
+    },
+    {
+      "story_id": "story_76db13fd8fea",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9083,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-16T17:00:00Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "title_en": "Our framework for reporting model misalignment",
+        "title_original": "Our framework for reporting model misalignment",
+        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T23:40:26.141044Z"
+      }
+    },
+    {
+      "story_id": "story_636869304a68",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI Safety Memes (@AISafetyMemes)"
+      ],
+      "items": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9902,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T22:58:50Z",
+      "latest_at": "2026-09-16T22:58:50Z",
+      "primary_item": {
+        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+        "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T23:40:26.141044Z"
+      }
+    },
+    {
+      "story_id": "story_d6e73104d607",
+      "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Clo…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Clo…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9531,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:20:16Z",
+      "latest_at": "2026-09-16T20:20:16Z",
+      "primary_item": {
+        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+        "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+        "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
+        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+        "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Clo…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
       "story_id": "story_8ce36e5af566",
-      "title": "Helping older adults use AI in everyday life",
+      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI News",
@@ -392,8 +740,8 @@
       "sources": [
         {
           "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "Helping older adults use AI in everyday life",
-          "title_zh": null,
+          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+          "title_zh": "帮助老年人在日常生活中使用人工智能",
           "title_en": "Helping older adults use AI in everyday life",
           "title_original": "Helping older adults use AI in everyday life",
           "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -412,8 +760,8 @@
       "items": [
         {
           "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "Helping older adults use AI in everyday life",
-          "title_zh": null,
+          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+          "title_zh": "帮助老年人在日常生活中使用人工智能",
           "title_en": "Helping older adults use AI in everyday life",
           "title_original": "Helping older adults use AI in everyday life",
           "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -427,15 +775,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9417,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,8 +796,8 @@
       "latest_at": "2026-09-16T16:00:00Z",
       "primary_item": {
         "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "Helping older adults use AI in everyday life",
-        "title_zh": null,
+        "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+        "title_zh": "帮助老年人在日常生活中使用人工智能",
         "title_en": "Helping older adults use AI in everyday life",
         "title_original": "Helping older adults use AI in everyday life",
         "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -465,95 +813,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
-      }
-    },
-    {
-      "story_id": "story_8c35cf0772a6",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "title_zh": null,
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "title_zh": null,
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8888,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T12:00:00Z",
-      "latest_at": "2026-09-16T12:00:00Z",
-      "primary_item": {
-        "id": "240870ecd56cd902b085ad5440133358690656e0",
-        "title": "How to connect AI usage to business value",
-        "title_zh": null,
-        "title_en": "How to connect AI usage to business value",
-        "title_original": "How to connect AI usage to business value",
-        "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -601,21 +861,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-16T13:29:54Z",
       "latest_at": "2026-09-16T13:29:54Z",
@@ -638,7 +897,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -686,15 +945,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9481,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -724,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -772,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,7 +1069,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
+      }
+    },
+    {
+      "story_id": "story_8c35cf0772a6",
+      "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+          "title_zh": "如何将人工智能的使用与商业价值联系起来",
+          "title_en": "How to connect AI usage to business value",
+          "title_original": "How to connect AI usage to business value",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+          "title_zh": "如何将人工智能的使用与商业价值联系起来",
+          "title_en": "How to connect AI usage to business value",
+          "title_original": "How to connect AI usage to business value",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.845,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T12:00:00Z",
+      "latest_at": "2026-09-16T12:00:00Z",
+      "primary_item": {
+        "id": "240870ecd56cd902b085ad5440133358690656e0",
+        "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+        "title_zh": "如何将人工智能的使用与商业价值联系起来",
+        "title_en": "How to connect AI usage to business value",
+        "title_original": "How to connect AI usage to business value",
+        "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -858,15 +1205,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9152,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -896,63 +1243,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
-      "story_id": "story_20d27da6a9f4",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
+      "story_id": "story_b7506bc123b9",
+      "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
-          "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": "代码扫描 AI Scan 不再需要 CodeQL 默认设置",
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
-          "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": "代码扫描 AI Scan 不再需要 CodeQL 默认设置",
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8511,
+        "ai_relevance": 0.87,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -961,30 +1308,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
       "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "How workers are unlocking new ways of working",
-        "title_zh": null,
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
-        "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_zh": "代码扫描 AI Scan 不再需要 CodeQL 默认设置",
+        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository.",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
-        "topics": [
-          "research"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -1032,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,7 +1413,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
+      }
+    },
+    {
+      "story_id": "story_20d27da6a9f4",
+      "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+          "title_zh": "工人如何开启新的工作方式",
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+          "title_zh": "工人如何开启新的工作方式",
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8092,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T09:00:00Z",
+      "latest_at": "2026-09-16T09:00:00Z",
+      "primary_item": {
+        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+        "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+        "title_zh": "工人如何开启新的工作方式",
+        "title_en": "How workers are unlocking new ways of working",
+        "title_original": "How workers are unlocking new ways of working",
+        "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -1116,15 +1549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,7 +1587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -1202,15 +1635,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1238,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -1286,15 +1719,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1324,7 +1757,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     },
     {
@@ -1372,15 +1805,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1411,521 +1844,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
-      }
-    },
-    {
-      "story_id": "story_5c549693e5f6",
-      "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-      "url": "https://www.aibase.com/news/31089",
-      "primary_url": "https://www.aibase.com/news/31089",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fea216bf28cd86739c5ebbc3061985643465e7aa",
-          "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-          "title_zh": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-          "title_en": null,
-          "title_original": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31089",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:59:49.924926Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fea216bf28cd86739c5ebbc3061985643465e7aa",
-          "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-          "title_zh": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-          "title_en": null,
-          "title_original": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31089",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:59:49.924926Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8635,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T09:59:49.924926Z",
-      "latest_at": "2026-09-16T09:59:49.924926Z",
-      "primary_item": {
-        "id": "fea216bf28cd86739c5ebbc3061985643465e7aa",
-        "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-        "title_zh": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-        "title_en": null,
-        "title_original": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31089",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
-      }
-    },
-    {
-      "story_id": "story_507328619f5c",
-      "title": "关于“模特福利”的警告",
-      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-      "primary_url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-      "source": "mustafa-suleyman.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "928edea2b24554231212754a9d92b54db8bcc07c",
-          "title": "关于“模特福利”的警告",
-          "title_zh": "关于“模特福利”的警告",
-          "title_en": null,
-          "title_original": "关于“模特福利”的警告",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-          "source": "mustafa-suleyman.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T19:00:46.319000Z"
-        },
-        {
-          "id": "b69a53b63da496e4cb2de311916e13066504ccb2",
-          "title": "关于“模特福利”的警告 / A warning about 'model welfare'",
-          "title_zh": "关于“模特福利”的警告",
-          "title_en": "A warning about 'model welfare'",
-          "title_original": "A warning about 'model welfare'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:27:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "mustafa-suleyman.ai"
-      ],
-      "items": [
-        {
-          "id": "928edea2b24554231212754a9d92b54db8bcc07c",
-          "title": "关于“模特福利”的警告",
-          "title_zh": "关于“模特福利”的警告",
-          "title_en": null,
-          "title_original": "关于“模特福利”的警告",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-          "source": "mustafa-suleyman.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T19:00:46.319000Z"
-        },
-        {
-          "id": "b69a53b63da496e4cb2de311916e13066504ccb2",
-          "title": "关于“模特福利”的警告 / A warning about 'model welfare'",
-          "title_zh": "关于“模特福利”的警告",
-          "title_en": "A warning about 'model welfare'",
-          "title_original": "A warning about 'model welfare'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:27:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9835,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T14:27:47Z",
-      "latest_at": "2026-09-16T19:00:46.319000Z",
-      "primary_item": {
-        "id": "928edea2b24554231212754a9d92b54db8bcc07c",
-        "title": "关于“模特福利”的警告",
-        "title_zh": "关于“模特福利”的警告",
-        "title_en": null,
-        "title_original": "关于“模特福利”的警告",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-        "source": "mustafa-suleyman.ai",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
-      }
-    },
-    {
-      "story_id": "story_0fde9b3c225c",
-      "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "primary_url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "source": "enclave.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
-        },
-        {
-          "id": "815c98458e61f7051c82eade7f31a0e7dc41cf87",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T12:19:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "enclave.ai"
-      ],
-      "items": [
-        {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
-        },
-        {
-          "id": "815c98458e61f7051c82eade7f31a0e7dc41cf87",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T12:19:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9539,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T12:19:55Z",
-      "latest_at": "2026-09-16T16:53:38.011000Z",
-      "primary_item": {
-        "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-        "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "title_en": null,
-        "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-        "source": "enclave.ai",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": [
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
-      }
-    },
-    {
-      "story_id": "story_c8a4ea21195d",
-      "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-      "primary_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-      "source": "frvr.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": null,
-          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "frvr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T15:19:20.606000Z"
-        },
-        {
-          "id": "bf3523b69138eef3fbf7ed3247dccf36c52d2cd7",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:30:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "frvr.com"
-      ],
-      "items": [
-        {
-          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": null,
-          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "frvr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T15:19:20.606000Z"
-        },
-        {
-          "id": "bf3523b69138eef3fbf7ed3247dccf36c52d2cd7",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:30:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9325,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T14:30:36Z",
-      "latest_at": "2026-09-16T15:19:20.606000Z",
-      "primary_item": {
-        "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-        "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-        "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-        "title_en": null,
-        "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-        "source": "frvr.com",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
-      }
-    },
-    {
-      "story_id": "story_9a4373a5593c",
-      "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-      "url": "https://www.aibase.com/news/31093",
-      "primary_url": "https://www.aibase.com/news/31093",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d2ff8c9696a1dad740e20ed78e060b7887361aba",
-          "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-          "title_zh": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-          "title_en": null,
-          "title_original": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31093",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:59:49.924926Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d2ff8c9696a1dad740e20ed78e060b7887361aba",
-          "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-          "title_zh": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-          "title_en": null,
-          "title_original": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31093",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:59:49.924926Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8635,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T09:59:49.924926Z",
-      "latest_at": "2026-09-16T09:59:49.924926Z",
-      "primary_item": {
-        "id": "d2ff8c9696a1dad740e20ed78e060b7887361aba",
-        "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-        "title_zh": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-        "title_en": null,
-        "title_original": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31093",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:31:34.511129Z"
+        "scored_at": "2026-09-16T23:40:26.141044Z"
       }
     }
   ]
