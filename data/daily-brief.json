@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:28:15.568003Z",
+  "generated_at": "2026-09-16T06:03:53.193941Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8815,
-      "importance": 0.8815,
-      "importance_score": 0.8815,
+      "score": 0.8713,
+      "importance": 0.8713,
+      "importance_score": 0.8713,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8861,
+        "recency": 0.8293,
         "story_heat": 0.5
       },
       "category": "official",
@@ -147,7 +147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -195,15 +195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8723,
+        "recency": 0.8163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -236,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -284,15 +284,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9125,
+        "recency": 0.8539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -324,7 +324,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -372,15 +372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8722,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -410,7 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -458,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9178,
+        "recency": 0.8589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -496,7 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -544,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8722,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -582,7 +582,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
+      }
+    },
+    {
+      "story_id": "story_8489d5c88f74",
+      "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+      "url": "https://www.aibase.com/news/31073",
+      "primary_url": "https://www.aibase.com/news/31073",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c4b7d648b3185fe251e14ac07102f9f948366294",
+          "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "title_zh": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "title_en": null,
+          "title_original": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31073",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c4b7d648b3185fe251e14ac07102f9f948366294",
+          "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "title_zh": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "title_en": null,
+          "title_original": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31073",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T06:03:53.193941Z",
+      "latest_at": "2026-09-16T06:03:53.193941Z",
+      "primary_item": {
+        "id": "c4b7d648b3185fe251e14ac07102f9f948366294",
+        "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+        "title_zh": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+        "title_en": null,
+        "title_original": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31073",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -659,15 +744,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7892,
+        "recency": 0.7385,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -697,92 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
-      }
-    },
-    {
-      "story_id": "story_23bd01795005",
-      "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-      "url": "https://www.aibase.com/news/31068",
-      "primary_url": "https://www.aibase.com/news/31068",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-          "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "title_zh": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "title_en": null,
-          "title_original": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31068",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-          "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "title_zh": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "title_en": null,
-          "title_original": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31068",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T01:28:15.568003Z",
-      "latest_at": "2026-09-16T01:28:15.568003Z",
-      "primary_item": {
-        "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-        "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-        "title_zh": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-        "title_en": null,
-        "title_original": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31068",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -830,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -870,7 +870,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -918,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8822,
+        "recency": 0.8255,
         "story_heat": 0.0
       },
       "category": "official",
@@ -956,7 +956,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -1004,15 +1004,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8722,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1042,7 +1042,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -1090,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8209,
+        "recency": 0.7682,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1128,7 +1128,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
+      }
+    },
+    {
+      "story_id": "story_8b50271636c2",
+      "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+      "url": "https://www.aibase.com/news/31080",
+      "primary_url": "https://www.aibase.com/news/31080",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_en": null,
+          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31080",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_en": null,
+          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31080",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T06:03:53.193941Z",
+      "latest_at": "2026-09-16T06:03:53.193941Z",
+      "primary_item": {
+        "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+        "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "title_en": null,
+        "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31080",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -1176,15 +1263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.8817,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -1263,15 +1350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1302,95 +1389,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
-      }
-    },
-    {
-      "story_id": "story_2fc03dc93a33",
-      "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-      "url": "https://www.aibase.com/news/31070",
-      "primary_url": "https://www.aibase.com/news/31070",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4886a2562b8177ee9189ed31a2d2aecfd6b26b77",
-          "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "title_zh": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "title_en": null,
-          "title_original": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31070",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4886a2562b8177ee9189ed31a2d2aecfd6b26b77",
-          "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "title_zh": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "title_en": null,
-          "title_original": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31070",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T01:28:15.568003Z",
-      "latest_at": "2026-09-16T01:28:15.568003Z",
-      "primary_item": {
-        "id": "4886a2562b8177ee9189ed31a2d2aecfd6b26b77",
-        "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-        "title_zh": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-        "title_en": null,
-        "title_original": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31070",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
@@ -1438,15 +1437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8352,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1476,116 +1475,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     },
     {
-      "story_id": "story_53a811285ee1",
-      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
-          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "title_zh": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "title_en": null,
-          "title_original": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T14:30:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：生数科技（Vidu·视频）"
-      ],
-      "items": [
-        {
-          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
-          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "title_zh": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "title_en": null,
-          "title_original": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T14:30:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8537,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T14:30:59Z",
-      "latest_at": "2026-09-15T14:30:59Z",
-      "primary_item": {
-        "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
-        "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-        "title_zh": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-        "title_en": null,
-        "title_original": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-        "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-        "source": "公众号：生数科技（Vidu·视频）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
-      }
-    },
-    {
-      "story_id": "story_ade770d3a355",
-      "title": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
-      "url": "https://www.aibase.com/news/31069",
-      "primary_url": "https://www.aibase.com/news/31069",
+      "story_id": "story_6781aac070ee",
+      "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+      "url": "https://www.aibase.com/news/31074",
+      "primary_url": "https://www.aibase.com/news/31074",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7b28536877bcf957069a6c123003a12aa9c407c2",
-          "title": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
-          "title_zh": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "id": "8efc9cacbd71dfb9034fdcb3f5bb4e232f2cffc4",
+          "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+          "title_zh": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
           "title_en": null,
-          "title_original": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "title_original": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31069",
+          "url": "https://www.aibase.com/news/31074",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
+          "published_at": "2026-09-16T06:03:53.193941Z"
         }
       ],
       "source_count": 1,
@@ -1594,18 +1507,18 @@
       ],
       "items": [
         {
-          "id": "7b28536877bcf957069a6c123003a12aa9c407c2",
-          "title": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
-          "title_zh": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "id": "8efc9cacbd71dfb9034fdcb3f5bb4e232f2cffc4",
+          "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+          "title_zh": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
           "title_en": null,
-          "title_original": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "title_original": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31069",
+          "url": "https://www.aibase.com/news/31074",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
+          "published_at": "2026-09-16T06:03:53.193941Z"
         }
       ],
       "item_count": 1,
@@ -1626,187 +1539,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T01:28:15.568003Z",
-      "latest_at": "2026-09-16T01:28:15.568003Z",
+      "earliest_at": "2026-09-16T06:03:53.193941Z",
+      "latest_at": "2026-09-16T06:03:53.193941Z",
       "primary_item": {
-        "id": "7b28536877bcf957069a6c123003a12aa9c407c2",
-        "title": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
-        "title_zh": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+        "id": "8efc9cacbd71dfb9034fdcb3f5bb4e232f2cffc4",
+        "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+        "title_zh": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
         "title_en": null,
-        "title_original": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+        "title_original": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31069",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
-      }
-    },
-    {
-      "story_id": "story_804383ca2906",
-      "title": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-      "url": "https://www.aibase.com/news/31067",
-      "primary_url": "https://www.aibase.com/news/31067",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6a02db8334cf17da79f61cc9fdc28b9c7a2ffdbc",
-          "title": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-          "title_zh": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-          "title_en": null,
-          "title_original": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31067",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6a02db8334cf17da79f61cc9fdc28b9c7a2ffdbc",
-          "title": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-          "title_zh": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-          "title_en": null,
-          "title_original": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31067",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T01:28:15.568003Z",
-      "latest_at": "2026-09-16T01:28:15.568003Z",
-      "primary_item": {
-        "id": "6a02db8334cf17da79f61cc9fdc28b9c7a2ffdbc",
-        "title": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-        "title_zh": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-        "title_en": null,
-        "title_original": "字节跳动上半年营收增30%、净利率降至16.7%:AI投入拖累利润，海外收入占比再创新高  2. 趋势影响型:",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31067",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
-      }
-    },
-    {
-      "story_id": "story_f290327c6d8d",
-      "title": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-      "url": "https://www.aibase.com/news/31071",
-      "primary_url": "https://www.aibase.com/news/31071",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ac9edef7396998aceba15459d9bfb543796af2e3",
-          "title": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-          "title_zh": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-          "title_en": null,
-          "title_original": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31071",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ac9edef7396998aceba15459d9bfb543796af2e3",
-          "title": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-          "title_zh": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-          "title_en": null,
-          "title_original": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31071",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T01:28:15.568003Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T01:28:15.568003Z",
-      "latest_at": "2026-09-16T01:28:15.568003Z",
-      "primary_item": {
-        "id": "ac9edef7396998aceba15459d9bfb543796af2e3",
-        "title": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-        "title_zh": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-        "title_en": null,
-        "title_original": "马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31071",
+        "url": "https://www.aibase.com/news/31074",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -1819,7 +1562,264 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T02:01:26.622376Z"
+        "scored_at": "2026-09-16T06:36:20.256316Z"
+      }
+    },
+    {
+      "story_id": "story_2193e15c4c23",
+      "title": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+      "url": "https://www.aibase.com/news/31078",
+      "primary_url": "https://www.aibase.com/news/31078",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "01cb02a62a1b7624136bda6d9061142cd1dd1d36",
+          "title": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+          "title_zh": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+          "title_en": null,
+          "title_original": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "01cb02a62a1b7624136bda6d9061142cd1dd1d36",
+          "title": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+          "title_zh": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+          "title_en": null,
+          "title_original": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T06:03:53.193941Z",
+      "latest_at": "2026-09-16T06:03:53.193941Z",
+      "primary_item": {
+        "id": "01cb02a62a1b7624136bda6d9061142cd1dd1d36",
+        "title": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+        "title_zh": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+        "title_en": null,
+        "title_original": "​OpenAI内部Lily项目曝光，人工审核员正翻阅用户私密聊天记录？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31078",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T06:36:20.256316Z"
+      }
+    },
+    {
+      "story_id": "story_b03532cecb99",
+      "title": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+      "url": "https://www.aibase.com/news/31077",
+      "primary_url": "https://www.aibase.com/news/31077",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d3ece5224711faf3a46154109c34ebe8a2e90ec3",
+          "title": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+          "title_zh": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+          "title_en": null,
+          "title_original": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31077",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d3ece5224711faf3a46154109c34ebe8a2e90ec3",
+          "title": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+          "title_zh": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+          "title_en": null,
+          "title_original": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31077",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T06:03:53.193941Z",
+      "latest_at": "2026-09-16T06:03:53.193941Z",
+      "primary_item": {
+        "id": "d3ece5224711faf3a46154109c34ebe8a2e90ec3",
+        "title": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+        "title_zh": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+        "title_en": null,
+        "title_original": "​Salesforce 联手英伟达推出 Koa 推理大模型，向闭源 AI 巨头宣战",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31077",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T06:36:20.256316Z"
+      }
+    },
+    {
+      "story_id": "story_3217f39d67cd",
+      "title": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+      "url": "https://www.aibase.com/news/31075",
+      "primary_url": "https://www.aibase.com/news/31075",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8ff49870732ac40941ea4b708dab2c9457c7a1db",
+          "title": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+          "title_zh": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+          "title_en": null,
+          "title_original": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31075",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8ff49870732ac40941ea4b708dab2c9457c7a1db",
+          "title": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+          "title_zh": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+          "title_en": null,
+          "title_original": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31075",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:03:53.193941Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T06:03:53.193941Z",
+      "latest_at": "2026-09-16T06:03:53.193941Z",
+      "primary_item": {
+        "id": "8ff49870732ac40941ea4b708dab2c9457c7a1db",
+        "title": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+        "title_zh": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+        "title_en": null,
+        "title_original": "​中文互联网基础语料 4.0 正式发布，120GB 高质量可信数据重磅上线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31075",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T06:36:20.256316Z"
       }
     }
   ]
