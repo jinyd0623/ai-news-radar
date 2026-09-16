@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 16 Sep 2026 15:26:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 20:09:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI</title>
@@ -13,15 +13,7 @@
 <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
 <description>Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 13:51:15 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 19:53:25 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 16:06:24 +0000</pubDate>
 </item>
 <item>
 <title>Code scanning AI Scan no longer requires CodeQL default setup</title>
@@ -32,28 +24,28 @@
 <pubDate>Wed, 16 Sep 2026 13:26:06 +0000</pubDate>
 </item>
 <item>
-<title>您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?</title>
-<link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
+<title>Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude</title>
+<link>https://claude.com/blog/cowork-is-now-claude</link>
+<guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
+<description>Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。（Claude：Blog（网页））</description>
+<category>多源热议</category>
+<pubDate>Wed, 16 Sep 2026 18:28:45 +0000</pubDate>
 </item>
 <item>
-<title>Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language</guid>
-<description>Animation of several words in different languages slowly zooming past（Google AI Blog）</description>
+<title>Helping older adults use AI in everyday life</title>
+<link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+<guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+<description>OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions</title>
-<link>https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions</guid>
-<description>GitHub Copilot can now suggest allowed values when you create a custom property for repositories in your organization.（GitHub Changelog）</description>
+<title>How to connect AI usage to business value</title>
+<link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
+<guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
+<description>Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 19:07:47 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W37</title>
@@ -64,12 +56,12 @@
 <pubDate>Wed, 16 Sep 2026 13:29:54 +0000</pubDate>
 </item>
 <item>
-<title>人工智能的社会影响 / AI for Societal Impact</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact</guid>
-<description>Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+<title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…</title>
+<link>https://x.com/bcherny/status/2100260544087535639</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2100260544087535639</guid>
+<description>Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 16 Sep 2026 16:28:29 +0000</pubDate>
 </item>
 <item>
 <title>AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手</title>
@@ -88,28 +80,12 @@
 <pubDate>Wed, 16 Sep 2026 14:01:39 +0000</pubDate>
 </item>
 <item>
-<title>强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations</title>
-<link>https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations</guid>
-<description>Enterprise administrators can now enforce GitHub Advanced Security configurations across their organizations.（GitHub Changelog）</description>
+<title>How workers are unlocking new ways of working</title>
+<link>https://openai.com/index/unlocking-new-ways-of-working</link>
+<guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
+<description>New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 19:31:58 +0000</pubDate>
-</item>
-<item>
-<title>Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂 / Inside OpenAI's agentic software factory</title>
-<link>https://newsletter.pragmaticengineer.com/p/openai-software-factory</link>
-<guid isPermaLink="true">https://newsletter.pragmaticengineer.com/p/openai-software-factory</guid>
-<description>Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。（Pragmatic Engineer（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 15 Sep 2026 15:41:25 +0000</pubDate>
-</item>
-<item>
-<title>构建人工智能以加速科学发展并改善生活 / Building AI to accelerate science and improve lives</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people</guid>
-<description>B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor（Google AI Blog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运</title>
@@ -118,14 +94,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 16 Sep 2026 09:59:49 +0000</pubDate>
-</item>
-<item>
-<title>SHA-1 in HTTPS on GitHub sunset</title>
-<link>https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset</guid>
-<description>Previously we announced we would be disabling SHA-1 in HTTPS for GitHub on September 15th, 2026.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:47:20 +0000</pubDate>
 </item>
 <item>
 <title>Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通</title>
@@ -163,6 +131,38 @@
 <title>​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试</title>
 <link>https://www.aibase.com/news/31089</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31089</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 16 Sep 2026 09:59:49 +0000</pubDate>
+</item>
+<item>
+<title>关于“模特福利”的警告</title>
+<link>https://mustafa-suleyman.ai/a-warning-about-model-welfare</link>
+<guid isPermaLink="true">https://mustafa-suleyman.ai/a-warning-about-model-welfare</guid>
+<description>mustafa-suleyman.ai</description>
+<category>值得关注</category>
+<pubDate>Wed, 16 Sep 2026 19:00:46 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型</title>
+<link>https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model</link>
+<guid isPermaLink="true">https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model</guid>
+<description>enclave.ai</description>
+<category>值得关注</category>
+<pubDate>Wed, 16 Sep 2026 16:53:38 +0000</pubDate>
+</item>
+<item>
+<title>PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”</title>
+<link>https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand</link>
+<guid isPermaLink="true">https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand</guid>
+<description>frvr.com</description>
+<category>值得关注</category>
+<pubDate>Wed, 16 Sep 2026 15:19:20 +0000</pubDate>
+</item>
+<item>
+<title>​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配</title>
+<link>https://www.aibase.com/news/31093</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31093</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 16 Sep 2026 09:59:49 +0000</pubDate>
