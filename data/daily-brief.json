@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:28:56.160886Z",
+  "generated_at": "2026-09-17T06:10:11.253929Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8743,
-      "importance": 0.8743,
-      "importance_score": 0.8743,
+      "score": 0.8627,
+      "importance": 0.8627,
+      "importance_score": 0.8627,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9851,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,7 +119,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -225,15 +225,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8723,
-      "importance": 0.8723,
-      "importance_score": 0.8723,
+      "score": 0.8625,
+      "importance": 0.8625,
+      "importance_score": 0.8625,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8351,
+        "recency": 0.7804,
         "story_heat": 0.5
       },
       "category": "official",
@@ -266,7 +266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -314,15 +314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9277,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -354,7 +354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -460,15 +460,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8252,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -500,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -548,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8847,
+        "recency": 0.8268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9283,
+        "recency": 0.8676,
         "story_heat": 0.0
       },
       "category": "official",
@@ -672,7 +672,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -720,15 +720,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,7 +760,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
+      }
+    },
+    {
+      "story_id": "story_df20ed226138",
+      "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+      "url": "https://www.aibase.com/news/31112",
+      "primary_url": "https://www.aibase.com/news/31112",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
+          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_en": null,
+          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31112",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:10:11.253929Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
+          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "title_en": null,
+          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31112",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:10:11.253929Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T06:10:11.253929Z",
+      "latest_at": "2026-09-17T06:10:11.253929Z",
+      "primary_item": {
+        "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
+        "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "title_en": null,
+        "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31112",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -808,15 +895,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9284,
+        "recency": 0.8676,
         "story_heat": 0.0
       },
       "category": "official",
@@ -846,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -894,15 +981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.872,
+        "recency": 0.815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -932,30 +1019,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
-      "story_id": "story_fe2e25c6840c",
-      "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-      "url": "https://www.aibase.com/news/31106",
-      "primary_url": "https://www.aibase.com/news/31106",
+      "story_id": "story_b8d37f3b3430",
+      "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+      "url": "https://www.aibase.com/news/31110",
+      "primary_url": "https://www.aibase.com/news/31110",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e427042515a287d551be8dd06efd671d331d825e",
-          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-          "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
+          "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
           "title_en": null,
-          "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31106",
+          "url": "https://www.aibase.com/news/31110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
+          "published_at": "2026-09-17T06:10:11.253929Z"
         }
       ],
       "source_count": 1,
@@ -964,18 +1051,18 @@
       ],
       "items": [
         {
-          "id": "e427042515a287d551be8dd06efd671d331d825e",
-          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-          "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
+          "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+          "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
           "title_en": null,
-          "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31106",
+          "url": "https://www.aibase.com/news/31110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
+          "published_at": "2026-09-17T06:10:11.253929Z"
         }
       ],
       "item_count": 1,
@@ -996,30 +1083,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T01:28:56.160886Z",
-      "latest_at": "2026-09-17T01:28:56.160886Z",
+      "earliest_at": "2026-09-17T06:10:11.253929Z",
+      "latest_at": "2026-09-17T06:10:11.253929Z",
       "primary_item": {
-        "id": "e427042515a287d551be8dd06efd671d331d825e",
-        "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-        "title_zh": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+        "id": "60f31c15cc39fee5b3e883af733eeb9d9d69e817",
+        "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+        "title_zh": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
         "title_en": null,
-        "title_original": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+        "title_original": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31106",
+        "url": "https://www.aibase.com/news/31110",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -1067,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.981,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1107,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -1155,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8411,
+        "recency": 0.786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,95 +1276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
-      }
-    },
-    {
-      "story_id": "story_d1e99996f746",
-      "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-      "url": "https://www.aibase.com/news/31108",
-      "primary_url": "https://www.aibase.com/news/31108",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
-          "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "title_zh": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "title_en": null,
-          "title_original": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
-          "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "title_zh": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "title_en": null,
-          "title_original": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T01:28:56.160886Z",
-      "latest_at": "2026-09-17T01:28:56.160886Z",
-      "primary_item": {
-        "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
-        "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-        "title_zh": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-        "title_en": null,
-        "title_original": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31108",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -1327,15 +1324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1365,7 +1362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -1413,15 +1410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8231,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1453,93 +1450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
-      }
-    },
-    {
-      "story_id": "story_0155d9a74bfb",
-      "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
-          "title_en": "https://x.com/i/article/2100222503125917696",
-          "title_original": "https://x.com/i/article/2100222503125917696",
-          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T14:01:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
-      ],
-      "items": [
-        {
-          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
-          "title_en": "https://x.com/i/article/2100222503125917696",
-          "title_original": "https://x.com/i/article/2100222503125917696",
-          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T14:01:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8475,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:01:39Z",
-      "latest_at": "2026-09-16T14:01:39Z",
-      "primary_item": {
-        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-        "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
-        "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
-        "title_en": "https://x.com/i/article/2100222503125917696",
-        "title_original": "https://x.com/i/article/2100222503125917696",
-        "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -1587,15 +1498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8403,
+        "recency": 0.7853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1625,30 +1536,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
-      "story_id": "story_d952497b17d0",
-      "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
-      "url": "https://www.aibase.com/news/31105",
-      "primary_url": "https://www.aibase.com/news/31105",
+      "story_id": "story_c1ae6ddc6337",
+      "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+      "url": "https://www.aibase.com/news/31125",
+      "primary_url": "https://www.aibase.com/news/31125",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9ece314fdd660a3c38cb728d438f3e2856bfa1a1",
-          "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
-          "title_zh": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
-          "title_original": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31105",
+          "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
+          "published_at": "2026-09-17T06:10:11.253929Z"
         }
       ],
       "source_count": 1,
@@ -1657,18 +1568,18 @@
       ],
       "items": [
         {
-          "id": "9ece314fdd660a3c38cb728d438f3e2856bfa1a1",
-          "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
-          "title_zh": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
-          "title_original": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31105",
+          "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
+          "published_at": "2026-09-17T06:10:11.253929Z"
         }
       ],
       "item_count": 1,
@@ -1689,28 +1600,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T01:28:56.160886Z",
-      "latest_at": "2026-09-17T01:28:56.160886Z",
+      "earliest_at": "2026-09-17T06:10:11.253929Z",
+      "latest_at": "2026-09-17T06:10:11.253929Z",
       "primary_item": {
-        "id": "9ece314fdd660a3c38cb728d438f3e2856bfa1a1",
-        "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
-        "title_zh": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+        "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
         "title_en": null,
-        "title_original": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+        "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31105",
+        "url": "https://www.aibase.com/news/31125",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": []
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
@@ -1758,15 +1671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7882,
+        "recency": 0.7366,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1798,30 +1711,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     },
     {
-      "story_id": "story_af95ef53645f",
-      "title": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
-      "url": "https://www.aibase.com/news/31104",
-      "primary_url": "https://www.aibase.com/news/31104",
+      "story_id": "story_93ada1416ace",
+      "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+      "url": "https://www.aibase.com/news/31116",
+      "primary_url": "https://www.aibase.com/news/31116",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "05e228e5b9af887aef2840d6de7af6f745c11cd7",
-          "title": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
-          "title_zh": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
+          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "title_en": null,
-          "title_original": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
+          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31104",
+          "url": "https://www.aibase.com/news/31116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
+          "published_at": "2026-09-17T06:10:11.253929Z"
         }
       ],
       "source_count": 1,
@@ -1830,18 +1743,18 @@
       ],
       "items": [
         {
-          "id": "05e228e5b9af887aef2840d6de7af6f745c11cd7",
-          "title": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
-          "title_zh": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
+          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "title_en": null,
-          "title_original": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
+          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31104",
+          "url": "https://www.aibase.com/news/31116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T01:28:56.160886Z"
+          "published_at": "2026-09-17T06:10:11.253929Z"
         }
       ],
       "item_count": 1,
@@ -1862,23 +1775,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T01:28:56.160886Z",
-      "latest_at": "2026-09-17T01:28:56.160886Z",
+      "earliest_at": "2026-09-17T06:10:11.253929Z",
+      "latest_at": "2026-09-17T06:10:11.253929Z",
       "primary_item": {
-        "id": "05e228e5b9af887aef2840d6de7af6f745c11cd7",
-        "title": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
-        "title_zh": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
+        "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+        "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+        "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
         "title_en": null,
-        "title_original": "百度沈抖：产业智能体正在打通大模型变现的“最后一公里”",
+        "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31104",
+        "url": "https://www.aibase.com/news/31116",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T06:22:39.565584Z"
+      }
+    },
+    {
+      "story_id": "story_e356524096ff",
+      "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+      "url": "https://www.aibase.com/news/31121",
+      "primary_url": "https://www.aibase.com/news/31121",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_en": null,
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31121",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:10:11.253929Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_en": null,
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31121",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:10:11.253929Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T06:10:11.253929Z",
+      "latest_at": "2026-09-17T06:10:11.253929Z",
+      "primary_item": {
+        "id": "6385b186684e3bd8987ed87649e02d588768933a",
+        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_en": null,
+        "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31121",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
-          "agents",
           "models"
         ]
       },
@@ -1886,7 +1883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T01:38:00.588795Z"
+        "scored_at": "2026-09-17T06:22:39.565584Z"
       }
     }
   ]
