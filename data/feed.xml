@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 17 Sep 2026 23:33:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 01:18:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Copilot impact dashboard now shows feature engagement</title>
@@ -24,28 +24,12 @@
 <pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot</title>
-<link>https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</guid>
-<description>A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.（GitHub AI &amp; ML）</description>
+<title>How Cooley is accelerating IPO work with ChatGPT</title>
+<link>https://openai.com/index/cooley-gopublic</link>
+<guid isPermaLink="true">https://openai.com/index/cooley-gopublic</guid>
+<description>Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters m…（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Thu, 17 Sep 2026 00:26:43 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Astra for Law</title>
-<link>https://openai.com/index/astra-for-law</link>
-<guid isPermaLink="true">https://openai.com/index/astra-for-law</guid>
-<description>OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Thu, 17 Sep 2026 21:25:48 +0000</pubDate>
-</item>
-<item>
-<title>Codex CLI 0.155.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Agentic CLI customizations now in the usage metrics API</title>
@@ -88,6 +72,14 @@
 <pubDate>Thu, 17 Sep 2026 19:28:24 +0000</pubDate>
 </item>
 <item>
+<title>AI基础设施需求升温，Crusoe估值10个月增长至300亿美元</title>
+<link>https://www.aibase.com/news/31140</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31140</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 01:18:37 +0000</pubDate>
+</item>
+<item>
 <title>Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.</title>
 <link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
 <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-omni-flash</guid>
@@ -102,6 +94,14 @@
 <description>The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Thu, 17 Sep 2026 16:27:16 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…</title>
+<link>https://x.com/sherwinwu/status/2100730628673065040</link>
+<guid isPermaLink="true">https://x.com/sherwinwu/status/2100730628673065040</guid>
+<description>ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。（X：Sherwin Wu（@sherwinwu））</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 23:36:26 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier</title>
@@ -120,6 +120,14 @@
 <pubDate>Thu, 17 Sep 2026 20:34:24 +0000</pubDate>
 </item>
 <item>
+<title>TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686475&amp;idx=1&amp;sn=1d9d43036b6d72fd83b9d5658b351215</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686475&amp;idx=1&amp;sn=1d9d43036b6d72fd83b9d5658b351215</guid>
+<description>TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 00:08:00 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling</title>
 <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
 <guid isPermaLink="true">https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
@@ -136,6 +144,14 @@
 <pubDate>Thu, 17 Sep 2026 15:38:13 +0000</pubDate>
 </item>
 <item>
+<title>DeepMind成立新研究院，四篇文章直面AGI关键问题</title>
+<link>https://www.aibase.com/news/31141</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31141</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 01:18:37 +0000</pubDate>
+</item>
+<item>
 <title>Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale</title>
 <link>https://www.goodfire.com/research/reward-hacking-activation-monitors</link>
 <guid isPermaLink="true">https://www.goodfire.com/research/reward-hacking-activation-monitors</guid>
@@ -144,28 +160,12 @@
 <pubDate>Thu, 17 Sep 2026 16:38:32 +0000</pubDate>
 </item>
 <item>
-<title>Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级</title>
-<link>https://www.aibase.com/news/31132</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31132</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 10:03:02 +0000</pubDate>
-</item>
-<item>
 <title>Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation</title>
 <link>https://claude.com/blog/projects-redesigned</link>
 <guid isPermaLink="true">https://claude.com/blog/projects-redesigned</guid>
 <description>Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。（Claude：Blog（网页））</description>
 <category>行业动态</category>
 <pubDate>Thu, 17 Sep 2026 17:52:08 +0000</pubDate>
-</item>
-<item>
-<title>Workflow execution protections in GitHub Actions generally available</title>
-<link>https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available</guid>
-<description>Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and reposito…（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 17 Sep 2026 15:45:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
