@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T09:50:12.453710Z",
+  "generated_at": "2026-09-18T11:20:08.826555Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8659,
-      "importance": 0.8659,
-      "importance_score": 0.8659,
+      "score": 0.8623,
+      "importance": 0.8623,
+      "importance_score": 0.8623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.9094,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -175,7 +175,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
+      }
+    },
+    {
+      "story_id": "story_ab92e74332cb",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datase…",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "6792b094f89b63f83782daaf009ffe17ff4ae984",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T09:45:07Z"
+        },
+        {
+          "id": "07d88bec8b04480d277b16a8028de1e06f6a6dcd",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T00:07:08Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datase…",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "6792b094f89b63f83782daaf009ffe17ff4ae984",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T09:45:07Z"
+        },
+        {
+          "id": "07d88bec8b04480d277b16a8028de1e06f6a6dcd",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T00:07:08Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7987,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T19:46:08Z",
+      "latest_at": "2026-09-18T09:45:07Z",
+      "primary_item": {
+        "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+        "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+        "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+        "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+        "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+        "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -223,15 +396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8403,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,7 +436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -398,15 +571,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7876,
+        "recency": 0.7707,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -440,93 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
-      }
-    },
-    {
-      "story_id": "story_ae721db060a3",
-      "title": "让全球数据更容易探索 / Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": "UN System Data Commons Data webpage",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": "UN System Data Commons Data webpage",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8189,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T20:00:00Z",
-      "latest_at": "2026-09-17T20:00:00Z",
-      "primary_item": {
-        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-        "title": "让全球数据更容易探索 / Making global data easier to explore",
-        "title_zh": "让全球数据更容易探索",
-        "title_en": "Making global data easier to explore",
-        "title_original": "Making global data easier to explore",
-        "summary": "UN System Data Commons Data webpage",
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7295,
+        "recency": 0.7139,
         "story_heat": 0.0
       },
       "category": "official",
@@ -612,151 +699,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
-      "story_id": "story_ab92e74332cb",
-      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_ae721db060a3",
+      "title": "让全球数据更容易探索 / Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "让全球数据更容易探索 / Making global data easier to explore",
+          "title_zh": "让全球数据更容易探索",
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": "UN System Data Commons Data webpage",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datase…",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "07d88bec8b04480d277b16a8028de1e06f6a6dcd",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T00:07:08Z"
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "让全球数据更容易探索 / Making global data easier to explore",
+          "title_zh": "让全球数据更容易探索",
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": "UN System Data Commons Data webpage",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datase…",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "07d88bec8b04480d277b16a8028de1e06f6a6dcd",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T00:07:08Z"
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8162,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8014,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T19:46:08Z",
-      "latest_at": "2026-09-18T00:07:08Z",
+      "earliest_at": "2026-09-17T20:00:00Z",
+      "latest_at": "2026-09-17T20:00:00Z",
       "primary_item": {
-        "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-        "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-        "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+        "title": "让全球数据更容易探索 / Making global data easier to explore",
+        "title_zh": "让全球数据更容易探索",
+        "title_en": "Making global data easier to explore",
+        "title_original": "Making global data easier to explore",
+        "summary": "UN System Data Commons Data webpage",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
         "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -804,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8326,
+        "recency": 0.8147,
         "story_heat": 0.0
       },
       "category": "official",
@@ -845,7 +874,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -893,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9657,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,7 +962,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -981,15 +1010,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1068,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,7 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1157,15 +1186,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8497,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1196,7 +1225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1244,15 +1273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8432,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1283,7 +1312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1331,21 +1360,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T19:28:24Z",
       "latest_at": "2026-09-17T19:28:24Z",
@@ -1368,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1416,15 +1444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.778,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1454,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1502,15 +1530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1541,91 +1569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
-      }
-    },
-    {
-      "story_id": "story_604df0a8861f",
-      "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-      "url": "https://x.com/sherwinwu/status/2100730628673065040",
-      "primary_url": "https://x.com/sherwinwu/status/2100730628673065040",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
-          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-          "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
-          "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-          "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-          "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sherwinwu/status/2100730628673065040",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T23:36:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sherwin Wu（@sherwinwu）"
-      ],
-      "items": [
-        {
-          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
-          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-          "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
-          "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-          "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-          "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sherwinwu/status/2100730628673065040",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T23:36:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8627,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T23:36:26Z",
-      "latest_at": "2026-09-17T23:36:26Z",
-      "primary_item": {
-        "id": "698408c02cad1284bbc95137884d418e5e7541d0",
-        "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-        "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
-        "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-        "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
-        "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sherwinwu/status/2100730628673065040",
-        "source": "X：Sherwin Wu（@sherwinwu）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1673,15 +1617,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8286,
+        "recency": 0.8109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1712,7 +1656,91 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
+      }
+    },
+    {
+      "story_id": "story_604df0a8861f",
+      "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+      "url": "https://x.com/sherwinwu/status/2100730628673065040",
+      "primary_url": "https://x.com/sherwinwu/status/2100730628673065040",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+          "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sherwinwu/status/2100730628673065040",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T23:36:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sherwin Wu（@sherwinwu）"
+      ],
+      "items": [
+        {
+          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+          "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sherwinwu/status/2100730628673065040",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T23:36:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8442,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T23:36:26Z",
+      "latest_at": "2026-09-17T23:36:26Z",
+      "primary_item": {
+        "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+        "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+        "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+        "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+        "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+        "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sherwinwu/status/2100730628673065040",
+        "source": "X：Sherwin Wu（@sherwinwu）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1760,15 +1788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8257,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1800,7 +1828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1848,15 +1876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8693,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1886,7 +1914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     },
     {
@@ -1934,15 +1962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1974,7 +2002,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T09:50:59.440377Z"
+        "scored_at": "2026-09-18T11:20:56.200336Z"
       }
     }
   ]
