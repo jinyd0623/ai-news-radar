@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:04:16.467454Z",
+  "generated_at": "2026-09-20T14:42:48.966351Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8277,
+        "recency": 0.8083,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -146,7 +146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -170,10 +170,25 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_original": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News",
         "Qwen：Blog Retrieval（API）"
       ],
       "items": [
@@ -190,28 +205,43 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_original": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
-        "story_heat": 0.0
+        "recency": 0.9616,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-09-20T12:00:00Z",
-      "latest_at": "2026-09-20T12:00:00Z",
+      "latest_at": "2026-09-20T13:09:25Z",
       "primary_item": {
         "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
         "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
@@ -234,7 +264,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
+      }
+    },
+    {
+      "story_id": "story_e7fee7b1503f",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T13:52:24Z",
+      "latest_at": "2026-09-20T13:52:24Z",
+      "primary_item": {
+        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -282,15 +399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -319,7 +436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -367,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -406,94 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
-      }
-    },
-    {
-      "story_id": "story_d7d2979d88d1",
-      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-      "source": "公众号：阶跃星辰（Step）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "title_zh": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "title_en": null,
-          "title_original": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：阶跃星辰（Step）"
-      ],
-      "items": [
-        {
-          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "title_zh": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "title_en": null,
-          "title_original": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8523,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T02:00:00Z",
-      "latest_at": "2026-09-20T02:00:00Z",
-      "primary_item": {
-        "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-        "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-        "title_zh": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-        "title_en": null,
-        "title_original": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-        "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-        "source": "公众号：阶跃星辰（Step）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -541,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -626,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -665,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -713,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -752,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -829,15 +859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6094,
-      "importance": 0.6094,
-      "importance_score": 0.6094,
+      "score": 0.6061,
+      "importance": 0.6061,
+      "importance_score": 0.6061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7811,
+        "recency": 0.7628,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -865,7 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -913,15 +943,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,7 +980,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -998,15 +1028,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1035,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1112,15 +1142,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9966,
+        "recency": 0.9733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1148,7 +1178,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1196,15 +1226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,7 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1341,15 +1371,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 0.7639,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1377,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1425,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1464,7 +1494,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1512,15 +1542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1551,7 +1581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1599,15 +1629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1636,7 +1666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1684,15 +1714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1723,7 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1771,15 +1801,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1810,7 +1840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     },
     {
@@ -1858,15 +1888,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1898,7 +1928,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T13:04:52.582177Z"
+        "scored_at": "2026-09-20T14:43:24.939437Z"
       }
     }
   ]
