@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 20 Sep 2026 09:51:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 13:04:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用</title>
@@ -14,6 +14,14 @@
 <description>纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是"人类历史上最大规模的劳动力盗用"，OpenAI ChatGPT 负责人称其对出版商是"生存威胁"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Sat, 19 Sep 2026 23:58:19 +0000</pubDate>
+</item>
+<item>
+<title>Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation</title>
+<link>https://qwen.ai/blog?id=qwen-image-2.1</link>
+<guid isPermaLink="true">https://qwen.ai/blog?id=qwen-image-2.1</guid>
+<description>Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。（Qwen：Blog Retrieval（API））</description>
+<category>行业动态</category>
+<pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>一颗 260 克的"鸡蛋关节"：稚晖君发布启元 Q1、T1 人形机器人</title>
@@ -64,14 +72,6 @@
 <pubDate>Sun, 20 Sep 2026 09:51:03 +0000</pubDate>
 </item>
 <item>
-<title>特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先</title>
-<link>https://www.aibase.com/news/31203</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31203</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 20 Sep 2026 09:51:03 +0000</pubDate>
-</item>
-<item>
 <title>特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
 <link>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</guid>
@@ -80,12 +80,28 @@
 <pubDate>Sat, 19 Sep 2026 19:57:47 +0000</pubDate>
 </item>
 <item>
+<title>特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先</title>
+<link>https://www.aibase.com/news/31203</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31203</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 20 Sep 2026 09:51:03 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的"护身符"</title>
 <link>https://www.aibase.com/news/31199</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31199</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sun, 20 Sep 2026 07:46:28 +0000</pubDate>
+</item>
+<item>
+<title>人工智能与“知识共享”的瓦解</title>
+<link>https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons</link>
+<guid isPermaLink="true">https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons</guid>
+<description>www.chesterwisniewski.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 20 Sep 2026 12:50:12 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争</title>
@@ -147,22 +163,6 @@
 <title>MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下</title>
 <link>https://www.aibase.com/news/31189</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31189</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 20 Sep 2026 07:46:28 +0000</pubDate>
-</item>
-<item>
-<title>SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单</title>
-<link>https://www.aibase.com/news/31183</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31183</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 20 Sep 2026 07:46:28 +0000</pubDate>
-</item>
-<item>
-<title>Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎</title>
-<link>https://www.aibase.com/news/31188</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31188</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sun, 20 Sep 2026 07:46:28 +0000</pubDate>
