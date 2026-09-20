@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:46:28.932637Z",
+  "generated_at": "2026-09-20T09:51:03.414445Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -40,7 +40,7 @@
           "published_at": "2026-09-19T23:58:19.151000Z"
         },
         {
-          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
           "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
           "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
           "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
@@ -48,15 +48,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-19T18:21:30Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.tomshardware.com"
       ],
@@ -90,7 +90,7 @@
           "published_at": "2026-09-19T23:58:19.151000Z"
         },
         {
-          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
           "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
           "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
           "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
@@ -98,23 +98,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-19T18:21:30Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8934,
+        "recency": 0.8671,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -146,30 +146,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
-      "story_id": "story_768e87b81386",
-      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-      "url": "https://www.aibase.com/news/31199",
-      "primary_url": "https://www.aibase.com/news/31199",
+      "story_id": "story_0c9b9ccf9cc3",
+      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+      "url": "https://www.aibase.com/news/31205",
+      "primary_url": "https://www.aibase.com/news/31205",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
+          "url": "https://www.aibase.com/news/31205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
+          "published_at": "2026-09-20T09:51:03.414445Z"
         }
       ],
       "source_count": 1,
@@ -178,18 +178,18 @@
       ],
       "items": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
+          "url": "https://www.aibase.com/news/31205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
+          "published_at": "2026-09-20T09:51:03.414445Z"
         }
       ],
       "item_count": 1,
@@ -210,17 +210,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "earliest_at": "2026-09-20T09:51:03.414445Z",
+      "latest_at": "2026-09-20T09:51:03.414445Z",
       "primary_item": {
-        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
         "title_en": null,
-        "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31199",
+        "url": "https://www.aibase.com/news/31205",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -231,30 +231,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
-      "story_id": "story_d1c800dec247",
-      "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-      "url": "https://www.aibase.com/news/31180",
-      "primary_url": "https://www.aibase.com/news/31180",
+      "story_id": "story_1f54ce7e4b83",
+      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+      "url": "https://www.aibase.com/news/31204",
+      "primary_url": "https://www.aibase.com/news/31204",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
+          "url": "https://www.aibase.com/news/31204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
+          "published_at": "2026-09-20T09:51:03.414445Z"
         }
       ],
       "source_count": 1,
@@ -263,18 +263,18 @@
       ],
       "items": [
         {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
+          "url": "https://www.aibase.com/news/31204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
+          "published_at": "2026-09-20T09:51:03.414445Z"
         }
       ],
       "item_count": 1,
@@ -295,17 +295,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "earliest_at": "2026-09-20T09:51:03.414445Z",
+      "latest_at": "2026-09-20T09:51:03.414445Z",
       "primary_item": {
-        "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-        "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-        "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+        "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
         "title_en": null,
-        "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31180",
+        "url": "https://www.aibase.com/news/31204",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -318,7 +318,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
@@ -366,15 +366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.92,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -405,30 +405,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
-      "story_id": "story_ddac4dc50eac",
-      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-      "url": "https://www.aibase.com/news/31193",
-      "primary_url": "https://www.aibase.com/news/31193",
+      "story_id": "story_24e06ede9452",
+      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+      "url": "https://www.aibase.com/news/31206",
+      "primary_url": "https://www.aibase.com/news/31206",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
           "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
+          "url": "https://www.aibase.com/news/31206",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
+          "published_at": "2026-09-20T09:51:03.414445Z"
         }
       ],
       "source_count": 1,
@@ -437,18 +437,18 @@
       ],
       "items": [
         {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
           "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
+          "url": "https://www.aibase.com/news/31206",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
+          "published_at": "2026-09-20T09:51:03.414445Z"
         }
       ],
       "item_count": 1,
@@ -469,191 +469,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "earliest_at": "2026-09-20T09:51:03.414445Z",
+      "latest_at": "2026-09-20T09:51:03.414445Z",
       "primary_item": {
-        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
         "title_en": null,
-        "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31193",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_14c13d81a3a8",
-      "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-      "url": "https://www.aibase.com/news/31192",
-      "primary_url": "https://www.aibase.com/news/31192",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_en": null,
-          "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_en": null,
-          "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-        "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-        "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-        "title_en": null,
-        "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31192",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_2cfaa4801b8e",
-      "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-      "url": "https://www.aibase.com/news/31184",
-      "primary_url": "https://www.aibase.com/news/31184",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_en": null,
-          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_en": null,
-          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-        "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "title_en": null,
-        "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31184",
+        "url": "https://www.aibase.com/news/31206",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -664,7 +490,266 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_f7f3d62fb233",
+      "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+      "url": "https://www.aibase.com/news/31200",
+      "primary_url": "https://www.aibase.com/news/31200",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_en": null,
+          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:51:03.414445Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_en": null,
+          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:51:03.414445Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T09:51:03.414445Z",
+      "latest_at": "2026-09-20T09:51:03.414445Z",
+      "primary_item": {
+        "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+        "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+        "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+        "title_en": null,
+        "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31200",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_99589b68f290",
+      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+      "url": "https://www.aibase.com/news/31201",
+      "primary_url": "https://www.aibase.com/news/31201",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "title_en": null,
+          "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31201",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:51:03.414445Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "title_en": null,
+          "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31201",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:51:03.414445Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T09:51:03.414445Z",
+      "latest_at": "2026-09-20T09:51:03.414445Z",
+      "primary_item": {
+        "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+        "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+        "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+        "title_en": null,
+        "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31201",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_6bc1ec806a2b",
+      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+      "url": "https://www.aibase.com/news/31203",
+      "primary_url": "https://www.aibase.com/news/31203",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_en": null,
+          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:51:03.414445Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_en": null,
+          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:51:03.414445Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T09:51:03.414445Z",
+      "latest_at": "2026-09-20T09:51:03.414445Z",
+      "primary_item": {
+        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "title_en": null,
+        "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31203",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
@@ -741,15 +826,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6205,
-      "importance": 0.6205,
-      "importance_score": 0.6205,
+      "score": 0.6161,
+      "importance": 0.6161,
+      "importance_score": 0.6161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8432,
+        "recency": 0.8183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -777,26 +862,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
-      "story_id": "story_919e226efbae",
-      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-      "url": "https://www.aibase.com/news/31191",
-      "primary_url": "https://www.aibase.com/news/31191",
+      "story_id": "story_768e87b81386",
+      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+      "url": "https://www.aibase.com/news/31199",
+      "primary_url": "https://www.aibase.com/news/31199",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
           "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
+          "url": "https://www.aibase.com/news/31199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -809,14 +894,14 @@
       ],
       "items": [
         {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
           "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
+          "url": "https://www.aibase.com/news/31199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -825,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -844,46 +929,44 @@
       "earliest_at": "2026-09-20T07:46:28.932637Z",
       "latest_at": "2026-09-20T07:46:28.932637Z",
       "primary_item": {
-        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
         "title_en": null,
-        "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+        "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31191",
+        "url": "https://www.aibase.com/news/31199",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
-      "story_id": "story_c8c3263ec134",
-      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-      "url": "https://www.aibase.com/news/31195",
-      "primary_url": "https://www.aibase.com/news/31195",
+      "story_id": "story_d1c800dec247",
+      "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+      "url": "https://www.aibase.com/news/31180",
+      "primary_url": "https://www.aibase.com/news/31180",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
           "title_en": null,
-          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31195",
+          "url": "https://www.aibase.com/news/31180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -896,14 +979,14 @@
       ],
       "items": [
         {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
           "title_en": null,
-          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31195",
+          "url": "https://www.aibase.com/news/31180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -912,15 +995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,14 +1014,14 @@
       "earliest_at": "2026-09-20T07:46:28.932637Z",
       "latest_at": "2026-09-20T07:46:28.932637Z",
       "primary_item": {
-        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-        "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+        "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
         "title_en": null,
-        "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31195",
+        "url": "https://www.aibase.com/news/31180",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -951,95 +1034,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_e1fd0d999371",
-      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-      "url": "https://www.aibase.com/news/31189",
-      "primary_url": "https://www.aibase.com/news/31189",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_en": null,
-          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31189",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_en": null,
-          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31189",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "title_en": null,
-        "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31189",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
@@ -1145,15 +1140,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8444,
+        "recency": 0.8194,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1181,7 +1176,528 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_ddac4dc50eac",
+      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+      "url": "https://www.aibase.com/news/31193",
+      "primary_url": "https://www.aibase.com/news/31193",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_en": null,
+          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_en": null,
+          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:46:28.932637Z",
+      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "primary_item": {
+        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "title_en": null,
+        "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31193",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_14c13d81a3a8",
+      "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+      "url": "https://www.aibase.com/news/31192",
+      "primary_url": "https://www.aibase.com/news/31192",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
+          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "title_en": null,
+          "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31192",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
+          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "title_en": null,
+          "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31192",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:46:28.932637Z",
+      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "primary_item": {
+        "id": "82999d0580f5197438f19f75ca06160e51996b3c",
+        "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+        "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+        "title_en": null,
+        "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31192",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_2cfaa4801b8e",
+      "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+      "url": "https://www.aibase.com/news/31184",
+      "primary_url": "https://www.aibase.com/news/31184",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "title_en": null,
+          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "title_en": null,
+          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:46:28.932637Z",
+      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "primary_item": {
+        "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+        "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+        "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+        "title_en": null,
+        "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31184",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_919e226efbae",
+      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+      "url": "https://www.aibase.com/news/31191",
+      "primary_url": "https://www.aibase.com/news/31191",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_en": null,
+          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31191",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_en": null,
+          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31191",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:46:28.932637Z",
+      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "primary_item": {
+        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+        "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+        "title_en": null,
+        "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31191",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_c8c3263ec134",
+      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+      "url": "https://www.aibase.com/news/31195",
+      "primary_url": "https://www.aibase.com/news/31195",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:46:28.932637Z",
+      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "primary_item": {
+        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "title_en": null,
+        "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31195",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
+      }
+    },
+    {
+      "story_id": "story_e1fd0d999371",
+      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+      "url": "https://www.aibase.com/news/31189",
+      "primary_url": "https://www.aibase.com/news/31189",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "title_en": null,
+          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31189",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "title_en": null,
+          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31189",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:46:28.932637Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:46:28.932637Z",
+      "latest_at": "2026-09-20T07:46:28.932637Z",
+      "primary_item": {
+        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+        "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+        "title_en": null,
+        "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31189",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
@@ -1229,15 +1745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,120 +1784,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_77dcce9e2385",
-      "title": "AI生成的海报未必就难看",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "primary_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "source": "john.hartnup.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
-          "title": "AI生成的海报未必就难看",
-          "title_zh": "AI生成的海报未必就难看",
-          "title_en": null,
-          "title_original": "AI生成的海报未必就难看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "john.hartnup.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T10:53:16.305000Z"
-        },
-        {
-          "id": "320cfd86ae8ac1950a32cd25f4013bac09d3e818",
-          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
-          "title_zh": "AI生成的海报未必就难看",
-          "title_en": "AI-generated posters don’t have to be horrible",
-          "title_original": "AI-generated posters don’t have to be horrible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T09:20:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "john.hartnup.uk"
-      ],
-      "items": [
-        {
-          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
-          "title": "AI生成的海报未必就难看",
-          "title_zh": "AI生成的海报未必就难看",
-          "title_en": null,
-          "title_original": "AI生成的海报未必就难看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "john.hartnup.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T10:53:16.305000Z"
-        },
-        {
-          "id": "320cfd86ae8ac1950a32cd25f4013bac09d3e818",
-          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
-          "title_zh": "AI生成的海报未必就难看",
-          "title_en": "AI-generated posters don’t have to be horrible",
-          "title_original": "AI-generated posters don’t have to be horrible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T09:20:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7396,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T09:20:58Z",
-      "latest_at": "2026-09-19T10:53:16.305000Z",
-      "primary_item": {
-        "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
-        "title": "AI生成的海报未必就难看",
-        "title_zh": "AI生成的海报未必就难看",
-        "title_en": null,
-        "title_original": "AI生成的海报未必就难看",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "source": "john.hartnup.uk",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     },
     {
@@ -1429,15 +1832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1469,436 +1872,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_874b8a85f11d",
-      "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-      "url": "https://www.aibase.com/news/31181",
-      "primary_url": "https://www.aibase.com/news/31181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4b688ff41821d920cce657e199a68248e2d32044",
-          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_en": null,
-          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4b688ff41821d920cce657e199a68248e2d32044",
-          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_en": null,
-          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "4b688ff41821d920cce657e199a68248e2d32044",
-        "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "title_en": null,
-        "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31181",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_c096011f87e1",
-      "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-      "url": "https://www.aibase.com/news/31190",
-      "primary_url": "https://www.aibase.com/news/31190",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-        "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_en": null,
-        "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31190",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_2bc862ec5d7e",
-      "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-      "url": "https://www.aibase.com/news/31198",
-      "primary_url": "https://www.aibase.com/news/31198",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "e66d3223fe840139ba719b619af347339d276b71",
-        "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "title_en": null,
-        "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31198",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_cbc5606b5556",
-      "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-      "url": "https://www.aibase.com/news/31185",
-      "primary_url": "https://www.aibase.com/news/31185",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_en": null,
-          "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_en": null,
-          "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-        "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-        "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-        "title_en": null,
-        "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31185",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
-      }
-    },
-    {
-      "story_id": "story_1b17dd68341c",
-      "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-      "url": "https://www.aibase.com/news/31182",
-      "primary_url": "https://www.aibase.com/news/31182",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "title_en": null,
-          "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "title_en": null,
-          "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:46:28.932637Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:46:28.932637Z",
-      "latest_at": "2026-09-20T07:46:28.932637Z",
-      "primary_item": {
-        "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-        "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-        "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-        "title_en": null,
-        "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31182",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:47:06.955139Z"
+        "scored_at": "2026-09-20T09:51:41.639489Z"
       }
     }
   ]
