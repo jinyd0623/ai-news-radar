@@ -1,154 +1,8 @@
 {
-  "generated_at": "2026-09-21T01:10:18.788192Z",
+  "generated_at": "2026-09-21T06:23:23.069089Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_a682219ecb2e",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.buchodi.com"
-      ],
-      "items": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9028,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
-      "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_en": null,
-        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-        "recommend_reason_zh": null,
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
-      }
-    },
     {
       "story_id": "story_67bbb2f19d0e",
       "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
@@ -281,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8268,
+        "recency": 0.7668,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -322,7 +176,240 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
+      }
+    },
+    {
+      "story_id": "story_a682219ecb2e",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8373,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T15:18:44Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_en": null,
+        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+        "recommend_reason_zh": null,
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:29:38.278360Z"
+      }
+    },
+    {
+      "story_id": "story_924c1201d9fd",
+      "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+      "url": "https://www.aibase.com/news/31217",
+      "primary_url": "https://www.aibase.com/news/31217",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_en": null,
+          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31217",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:23:23.069089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_en": null,
+          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31217",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:23:23.069089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
+      "primary_item": {
+        "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+        "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "title_en": null,
+        "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31217",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
@@ -370,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9327,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -409,30 +496,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
-      "story_id": "story_37d000e5ebed",
-      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-      "url": "https://www.aibase.com/news/31211",
-      "primary_url": "https://www.aibase.com/news/31211",
+      "story_id": "story_1f933272e9f7",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9501,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
+      "primary_item": {
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:29:38.278360Z"
+      }
+    },
+    {
+      "story_id": "story_7b14ecd6d515",
+      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_en": null,
+          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_en": null,
+          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.937,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T01:52:57Z",
+      "primary_item": {
+        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "title_en": null,
+        "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:29:38.278360Z"
+      }
+    },
+    {
+      "story_id": "story_917990886c44",
+      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+      "url": "https://www.aibase.com/news/31220",
+      "primary_url": "https://www.aibase.com/news/31220",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31211",
+          "url": "https://www.aibase.com/news/31220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "source_count": 1,
@@ -441,18 +699,18 @@
       ],
       "items": [
         {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31211",
+          "url": "https://www.aibase.com/news/31220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "item_count": 1,
@@ -473,17 +731,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:10:18.788192Z",
-      "latest_at": "2026-09-21T01:10:18.788192Z",
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
       "primary_item": {
-        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-        "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+        "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+        "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
         "title_en": null,
-        "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31211",
+        "url": "https://www.aibase.com/news/31220",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -496,30 +754,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
-      "story_id": "story_91920f3fb92d",
-      "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-      "url": "https://www.aibase.com/news/31210",
-      "primary_url": "https://www.aibase.com/news/31210",
+      "story_id": "story_214d4d19f8d1",
+      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+      "url": "https://www.aibase.com/news/31228",
+      "primary_url": "https://www.aibase.com/news/31228",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "title_en": null,
-          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31210",
+          "url": "https://www.aibase.com/news/31228",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "source_count": 1,
@@ -528,18 +786,18 @@
       ],
       "items": [
         {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "title_en": null,
-          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31210",
+          "url": "https://www.aibase.com/news/31228",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "item_count": 1,
@@ -560,30 +818,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:10:18.788192Z",
-      "latest_at": "2026-09-21T01:10:18.788192Z",
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
       "primary_item": {
-        "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-        "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-        "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
         "title_en": null,
-        "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31210",
+        "url": "https://www.aibase.com/news/31228",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": [
-          "research"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
@@ -631,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.7878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -669,30 +925,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
-      "story_id": "story_49185780ee9f",
-      "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-      "url": "https://www.aibase.com/news/31207",
-      "primary_url": "https://www.aibase.com/news/31207",
+      "story_id": "story_10f34a357915",
+      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+      "url": "https://www.aibase.com/news/31215",
+      "primary_url": "https://www.aibase.com/news/31215",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-          "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "title_en": null,
-          "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31207",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "source_count": 1,
@@ -701,18 +957,18 @@
       ],
       "items": [
         {
-          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-          "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "title_en": null,
-          "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31207",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "item_count": 1,
@@ -733,17 +989,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:10:18.788192Z",
-      "latest_at": "2026-09-21T01:10:18.788192Z",
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
       "primary_item": {
-        "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-        "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-        "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+        "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
         "title_en": null,
-        "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+        "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31207",
+        "url": "https://www.aibase.com/news/31215",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
@@ -756,30 +1012,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
-      "story_id": "story_d808ad1bd79d",
-      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-      "url": "https://www.aibase.com/news/31213",
-      "primary_url": "https://www.aibase.com/news/31213",
+      "story_id": "story_c153834ea5e5",
+      "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+      "url": "https://www.aibase.com/news/31218",
+      "primary_url": "https://www.aibase.com/news/31218",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
+          "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+          "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31213",
+          "url": "https://www.aibase.com/news/31218",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "source_count": 1,
@@ -788,18 +1044,18 @@
       ],
       "items": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
+          "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+          "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31213",
+          "url": "https://www.aibase.com/news/31218",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "item_count": 1,
@@ -820,51 +1076,53 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:10:18.788192Z",
-      "latest_at": "2026-09-21T01:10:18.788192Z",
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
       "primary_item": {
-        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+        "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
+        "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+        "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
         "title_en": null,
-        "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+        "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31213",
+        "url": "https://www.aibase.com/news/31218",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": []
+        "topics": [
+          "open-source-models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
-      "story_id": "story_e98039ec20fa",
-      "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-      "url": "https://www.aibase.com/news/31208",
-      "primary_url": "https://www.aibase.com/news/31208",
+      "story_id": "story_594bd34ddeb4",
+      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+      "url": "https://www.aibase.com/news/31226",
+      "primary_url": "https://www.aibase.com/news/31226",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-          "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "title_en": null,
-          "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31208",
+          "url": "https://www.aibase.com/news/31226",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "source_count": 1,
@@ -873,18 +1131,18 @@
       ],
       "items": [
         {
-          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-          "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "title_en": null,
-          "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31208",
+          "url": "https://www.aibase.com/news/31226",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "item_count": 1,
@@ -905,113 +1163,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:10:18.788192Z",
-      "latest_at": "2026-09-21T01:10:18.788192Z",
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
       "primary_item": {
-        "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-        "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-        "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
         "title_en": null,
-        "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+        "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31208",
+        "url": "https://www.aibase.com/news/31226",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": []
+        "topics": [
+          "models"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
-      }
-    },
-    {
-      "story_id": "story_922c7198b406",
-      "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-      "url": "https://www.aibase.com/news/31209",
-      "primary_url": "https://www.aibase.com/news/31209",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_en": null,
-          "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31209",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_en": null,
-          "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31209",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T01:10:18.788192Z",
-      "latest_at": "2026-09-21T01:10:18.788192Z",
-      "primary_item": {
-        "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-        "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-        "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-        "title_en": null,
-        "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31209",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
@@ -1087,15 +1262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5997,
-      "importance": 0.5997,
-      "importance_score": 0.5997,
+      "score": 0.5878,
+      "importance": 0.5878,
+      "importance_score": 0.5878,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9126,
+        "recency": 0.8464,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1123,30 +1298,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
-      "story_id": "story_039fbdfe137a",
-      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-      "url": "https://www.aibase.com/news/31212",
-      "primary_url": "https://www.aibase.com/news/31212",
+      "story_id": "story_f66f3268b197",
+      "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+      "url": "https://www.aibase.com/news/31216",
+      "primary_url": "https://www.aibase.com/news/31216",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31212",
+          "url": "https://www.aibase.com/news/31216",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "source_count": 1,
@@ -1155,18 +1330,18 @@
       ],
       "items": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31212",
+          "url": "https://www.aibase.com/news/31216",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:10:18.788192Z"
+          "published_at": "2026-09-21T06:23:23.069089Z"
         }
       ],
       "item_count": 1,
@@ -1187,30 +1362,200 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:10:18.788192Z",
-      "latest_at": "2026-09-21T01:10:18.788192Z",
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
       "primary_item": {
-        "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-        "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+        "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+        "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+        "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
         "title_en": null,
-        "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+        "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31212",
+        "url": "https://www.aibase.com/news/31216",
         "source": "AIbase",
         "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
-          "open-source-models"
+          "ai-coding"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
+      }
+    },
+    {
+      "story_id": "story_98838815cda3",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224",
+      "primary_url": "https://www.aibase.com/news/31224",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_en": null,
+          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:23:23.069089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_en": null,
+          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:23:23.069089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
+      "primary_item": {
+        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "title_en": null,
+        "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31224",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:29:38.278360Z"
+      }
+    },
+    {
+      "story_id": "story_4cfa68fe6c38",
+      "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+      "url": "https://www.aibase.com/news/31222",
+      "primary_url": "https://www.aibase.com/news/31222",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_en": null,
+          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:23:23.069089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_en": null,
+          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:23:23.069089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T06:23:23.069089Z",
+      "latest_at": "2026-09-21T06:23:23.069089Z",
+      "primary_item": {
+        "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+        "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "title_en": null,
+        "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31222",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
@@ -1287,15 +1632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9246,
+        "recency": 0.8575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1325,7 +1670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
@@ -1402,15 +1747,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8894,
+        "recency": 0.8248,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1440,7 +1785,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
@@ -1517,15 +1862,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8693,
+        "recency": 0.8062,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1555,91 +1900,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
-      }
-    },
-    {
-      "story_id": "story_0c9b9ccf9cc3",
-      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-      "url": "https://www.aibase.com/news/31205",
-      "primary_url": "https://www.aibase.com/news/31205",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:51:03.414445Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:51:03.414445Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8015,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T09:51:03.414445Z",
-      "latest_at": "2026-09-20T09:51:03.414445Z",
-      "primary_item": {
-        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "title_en": null,
-        "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31205",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     },
     {
@@ -1716,15 +1977,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8368,
+        "recency": 0.7761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1752,290 +2013,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
-      }
-    },
-    {
-      "story_id": "story_8c6e00ff1c29",
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "primary_url": "https://evaluation.club",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8758,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:59:25Z",
-      "latest_at": "2026-09-20T15:59:25Z",
-      "primary_item": {
-        "id": "8c9907e389169edf39e60e8683d364dabc863112",
-        "title": "Prompts Aren't Real",
-        "title_zh": null,
-        "title_en": "Prompts Aren't Real",
-        "title_original": "Prompts Aren't Real",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://evaluation.club",
-        "source": "Hacker News",
-        "source_name": "TechURLs",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
-      }
-    },
-    {
-      "story_id": "story_1f54ce7e4b83",
-      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-      "url": "https://www.aibase.com/news/31204",
-      "primary_url": "https://www.aibase.com/news/31204",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_en": null,
-          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31204",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:51:03.414445Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_en": null,
-          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31204",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:51:03.414445Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8015,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T09:51:03.414445Z",
-      "latest_at": "2026-09-20T09:51:03.414445Z",
-      "primary_item": {
-        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "title_en": null,
-        "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31204",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
-      }
-    },
-    {
-      "story_id": "story_24e06ede9452",
-      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-      "url": "https://www.aibase.com/news/31206",
-      "primary_url": "https://www.aibase.com/news/31206",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:51:03.414445Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:51:03.414445Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8015,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T09:51:03.414445Z",
-      "latest_at": "2026-09-20T09:51:03.414445Z",
-      "primary_item": {
-        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "title_en": null,
-        "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31206",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:17:17.372459Z"
+        "scored_at": "2026-09-21T06:29:38.278360Z"
       }
     }
   ]
