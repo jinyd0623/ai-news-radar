@@ -5,23 +5,23 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 22 Sep 2026 10:02:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 11:49:34 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Deprecation notice: All-platform CodeQL bundle</title>
+<title>transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants</title>
+<link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
+<guid isPermaLink="true">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle</title>
 <link>https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</guid>
 <description>Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 09:21:03 +0000</pubDate>
-</item>
-<item>
-<title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-<link>https://huggingface.co/blog/omlx</link>
-<guid isPermaLink="true">https://huggingface.co/blog/omlx</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
@@ -32,20 +32,20 @@
 <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Refreshed repository pull requests page generally available</title>
+<title>oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
+<link>https://huggingface.co/blog/omlx</link>
+<guid isPermaLink="true">https://huggingface.co/blog/omlx</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available</title>
 <link>https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</guid>
 <description>The new repository pull requests page is now generally available to all GitHub users.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 01:25:53 +0000</pubDate>
-</item>
-<item>
-<title>像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
-<link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
-<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
 </item>
 <item>
 <title>数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence</title>
@@ -62,6 +62,22 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 10:02:43 +0000</pubDate>
+</item>
+<item>
+<title>像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
+<link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
+<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
+</item>
+<item>
+<title>Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来 / Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…</title>
+<link>https://x.com/Kimi_Moonshot/status/2102352211988865456</link>
+<guid isPermaLink="true">https://x.com/Kimi_Moonshot/status/2102352211988865456</guid>
+<description>Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。（X：Kimi.ai (@Kimi_Moonshot)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 11:00:01 +0000</pubDate>
 </item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W38</title>
@@ -104,20 +120,20 @@
 <pubDate>Mon, 21 Sep 2026 20:18:52 +0000</pubDate>
 </item>
 <item>
-<title>小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro &amp; Flash. Frontier intelligence， all the modalities， built in pub…</title>
-<link>https://x.com/XiaomiMiMo/status/2102138559952290106</link>
-<guid isPermaLink="true">https://x.com/XiaomiMiMo/status/2102138559952290106</guid>
-<description>小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。（X：小米 MiMo (@XiaomiMiMo)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 20:51:03 +0000</pubDate>
-</item>
-<item>
 <title>Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up</title>
 <link>https://linear.app/now/ci-bottleneck-reworked</link>
 <guid isPermaLink="true">https://linear.app/now/ci-bottleneck-reworked</guid>
 <description>Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。（Linear：Now（RSS））</description>
 <category>多源热议</category>
 <pubDate>Mon, 21 Sep 2026 23:17:19 +0000</pubDate>
+</item>
+<item>
+<title>小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro &amp; Flash. Frontier intelligence， all the modalities， built in pub…</title>
+<link>https://x.com/XiaomiMiMo/status/2102138559952290106</link>
+<guid isPermaLink="true">https://x.com/XiaomiMiMo/status/2102138559952290106</guid>
+<description>小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。（X：小米 MiMo (@XiaomiMiMo)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 21 Sep 2026 20:51:03 +0000</pubDate>
 </item>
 <item>
 <title>SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半</title>
@@ -150,22 +166,6 @@
 <description>Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 01:49:19 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Enterprise adds credential inventory exports</title>
-<link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
-<description>Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 21:13:18 +0000</pubDate>
-</item>
-<item>
-<title>办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元</title>
-<link>https://www.aibase.com/news/31276</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31276</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 10:02:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
