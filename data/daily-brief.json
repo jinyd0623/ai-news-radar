@@ -1,8 +1,270 @@
 {
-  "generated_at": "2026-09-22T06:16:33.898476Z",
+  "generated_at": "2026-09-22T10:02:43.710826Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a2908ae72b38",
+      "title": "Deprecation notice: All-platform CodeQL bundle",
+      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "primary_url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+          "title": "Deprecation notice: All-platform CodeQL bundle",
+          "title_zh": null,
+          "title_en": "Deprecation notice: All-platform CodeQL bundle",
+          "title_original": "Deprecation notice: All-platform CodeQL bundle",
+          "summary": "Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T09:21:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+          "title": "Deprecation notice: All-platform CodeQL bundle",
+          "title_zh": null,
+          "title_en": "Deprecation notice: All-platform CodeQL bundle",
+          "title_original": "Deprecation notice: All-platform CodeQL bundle",
+          "summary": "Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T09:21:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T09:21:03Z",
+      "latest_at": "2026-09-22T09:21:03Z",
+      "primary_item": {
+        "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+        "title": "Deprecation notice: All-platform CodeQL bundle",
+        "title_zh": null,
+        "title_en": "Deprecation notice: All-platform CodeQL bundle",
+        "title_original": "Deprecation notice: All-platform CodeQL bundle",
+        "summary": "Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:24.570647Z"
+      }
+    },
+    {
+      "story_id": "story_ac443b4e8681",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "primary_url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_zh": null,
+          "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_original": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_zh": null,
+          "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_original": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.865,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+        "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "title_zh": null,
+        "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "title_original": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/omlx",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:24.570647Z"
+      }
+    },
+    {
+      "story_id": "story_7507ddf4a875",
+      "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "primary_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+          "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_zh": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能",
+          "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+          "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_zh": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能",
+          "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7273,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:00:00Z",
+      "latest_at": "2026-09-21T12:00:00Z",
+      "primary_item": {
+        "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+        "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "title_zh": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能",
+        "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:24.570647Z"
+      }
+    },
     {
       "story_id": "story_c1fb35598aba",
       "title": "Refreshed repository pull requests page generally available",
@@ -48,15 +310,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9324,
+        "recency": 0.883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -86,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -134,15 +396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7876,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,26 +436,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
-      "story_id": "story_7507ddf4a875",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "primary_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "story_id": "story_5b9140e8250f",
+      "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "primary_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": "数学与人工智能顾问小组",
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -206,14 +468,14 @@
       ],
       "items": [
         {
-          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": "数学与人工智能顾问小组",
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -222,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.768,
+        "ai_relevance": 0.91,
+        "recency": 0.7273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -242,18 +504,103 @@
       "earliest_at": "2026-09-21T12:00:00Z",
       "latest_at": "2026-09-21T12:00:00Z",
       "primary_item": {
-        "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
-        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-        "title_zh": null,
-        "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-        "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+        "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+        "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+        "title_zh": "数学与人工智能顾问小组",
+        "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+        "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:24.570647Z"
+      }
+    },
+    {
+      "story_id": "story_53fa6be86a25",
+      "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+      "url": "https://www.aibase.com/news/31271",
+      "primary_url": "https://www.aibase.com/news/31271",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
+          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "title_en": null,
+          "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31271",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:02:43.710826Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
+          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "title_en": null,
+          "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31271",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:02:43.710826Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T10:02:43.710826Z",
+      "latest_at": "2026-09-22T10:02:43.710826Z",
+      "primary_item": {
+        "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
+        "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+        "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+        "title_en": null,
+        "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31271",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
         "topics": [
           "models"
         ]
@@ -262,7 +609,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
+      }
+    },
+    {
+      "story_id": "story_d28e7788d36a",
+      "title": "何夕2077 AI 深度信号周报 2026 W38",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+          "title": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W38",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-22T07:16:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+          "title": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W38",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-22T07:16:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9607,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T07:16:08Z",
+      "latest_at": "2026-09-22T07:16:08Z",
+      "primary_item": {
+        "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+        "title": "何夕2077 AI 深度信号周报 2026 W38",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W38",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -310,15 +742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8009,
+        "recency": 0.7585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -350,264 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
-      }
-    },
-    {
-      "story_id": "story_5b9140e8250f",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "primary_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "title_zh": null,
-          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
-          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
-          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "title_zh": null,
-          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
-          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
-          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.768,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T12:00:00Z",
-      "latest_at": "2026-09-21T12:00:00Z",
-      "primary_item": {
-        "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
-        "title": "Advisory Group on Mathematics and Artificial Intelligence",
-        "title_zh": null,
-        "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
-        "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
-        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
-      }
-    },
-    {
-      "story_id": "story_297f0b86dc9f",
-      "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-      "url": "https://www.aibase.com/news/31259",
-      "primary_url": "https://www.aibase.com/news/31259",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
-          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-          "title_en": null,
-          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31259",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T06:16:33.898476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
-          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-          "title_en": null,
-          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31259",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T06:16:33.898476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T06:16:33.898476Z",
-      "latest_at": "2026-09-22T06:16:33.898476Z",
-      "primary_item": {
-        "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
-        "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-        "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-        "title_en": null,
-        "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31259",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
-      }
-    },
-    {
-      "story_id": "story_b01d49929f03",
-      "title": "GitHub Enterprise adds credential inventory exports",
-      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise adds credential inventory exports",
-          "title_zh": null,
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise adds credential inventory exports",
-          "title_zh": null,
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8774,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T21:13:18Z",
-      "latest_at": "2026-09-21T21:13:18Z",
-      "primary_item": {
-        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-        "title": "GitHub Enterprise adds credential inventory exports",
-        "title_zh": null,
-        "title_en": "GitHub Enterprise adds credential inventory exports",
-        "title_original": "GitHub Enterprise adds credential inventory exports",
-        "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -655,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -740,21 +915,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.8908,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T02:02:03Z",
       "latest_at": "2026-09-22T02:02:03Z",
@@ -777,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -825,15 +999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.866,
+        "recency": 0.8201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -864,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -912,15 +1086,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8728,
+        "recency": 0.8265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,7 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -1058,15 +1232,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7729,
+        "recency": 0.7319,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1098,95 +1272,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
-      "story_id": "story_576291cb875d",
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "primary_url": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ec8391fd6c37",
+      "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+      "url": "https://www.aibase.com/news/31268",
+      "primary_url": "https://www.aibase.com/news/31268",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
-          "title": "Building standards for the next phase of AI",
-          "title_zh": null,
-          "title_en": "Building standards for the next phase of AI",
-          "title_original": "Building standards for the next phase of AI",
-          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
+          "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_zh": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_en": null,
+          "title_original": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-standards-next-phase-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T10:00:00Z"
+          "url": "https://www.aibase.com/news/31268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:02:43.710826Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
-          "title": "Building standards for the next phase of AI",
-          "title_zh": null,
-          "title_en": "Building standards for the next phase of AI",
-          "title_original": "Building standards for the next phase of AI",
-          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
+          "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_zh": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_en": null,
+          "title_original": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-standards-next-phase-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T10:00:00Z"
+          "url": "https://www.aibase.com/news/31268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:02:43.710826Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7462,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T10:00:00Z",
-      "latest_at": "2026-09-21T10:00:00Z",
+      "earliest_at": "2026-09-22T10:02:43.710826Z",
+      "latest_at": "2026-09-22T10:02:43.710826Z",
       "primary_item": {
-        "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
-        "title": "Building standards for the next phase of AI",
-        "title_zh": null,
-        "title_en": "Building standards for the next phase of AI",
-        "title_original": "Building standards for the next phase of AI",
-        "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+        "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
+        "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+        "title_zh": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+        "title_en": null,
+        "title_original": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/building-standards-next-phase-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
+        "url": "https://www.aibase.com/news/31268",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
         "topics": [
-          "evaluation"
+          "models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -1234,15 +1407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7667,
+        "recency": 0.7261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,92 +1445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
-      }
-    },
-    {
-      "story_id": "story_93ae6596d014",
-      "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-      "url": "https://www.aibase.com/news/31252",
-      "primary_url": "https://www.aibase.com/news/31252",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
-          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "title_en": null,
-          "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31252",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T06:16:33.898476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
-          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "title_en": null,
-          "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31252",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T06:16:33.898476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T06:16:33.898476Z",
-      "latest_at": "2026-09-22T06:16:33.898476Z",
-      "primary_item": {
-        "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
-        "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-        "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-        "title_en": null,
-        "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31252",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -1405,15 +1493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8754,
+        "recency": 0.8291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1444,7 +1532,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
@@ -1492,15 +1580,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9377,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1531,271 +1619,178 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
-      "story_id": "story_c9d6a68e7d5b",
-      "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-      "url": "https://x.com/arena/status/2102142912943489220",
-      "primary_url": "https://x.com/arena/status/2102142912943489220",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_b01d49929f03",
+      "title": "GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
+          "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g.",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102142912943489220",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T21:08:21Z"
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
+          "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g.",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102142912943489220",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T21:08:21Z"
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8764,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.831,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-21T21:08:21Z",
-      "latest_at": "2026-09-21T21:08:21Z",
+      "earliest_at": "2026-09-21T21:13:18Z",
+      "latest_at": "2026-09-21T21:13:18Z",
       "primary_item": {
-        "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-        "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-        "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-        "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-        "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-        "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+        "title": "GitHub Enterprise adds credential inventory exports",
+        "title_zh": null,
+        "title_en": "GitHub Enterprise adds credential inventory exports",
+        "title_original": "GitHub Enterprise adds credential inventory exports",
+        "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g.",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102142912943489220",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models",
-          "evaluation",
-          "models"
-        ]
+        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     },
     {
-      "story_id": "story_9500d7b13974",
-      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-      "url": "https://x.com/elonmusk/status/2102082011233931762",
-      "primary_url": "https://x.com/elonmusk/status/2102082011233931762",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_9dd455633b21",
+      "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+      "url": "https://www.aibase.com/news/31276",
+      "primary_url": "https://www.aibase.com/news/31276",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
-          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-          "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
+          "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
+          "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+          "title_zh": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+          "title_en": null,
+          "title_original": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2102082011233931762",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T17:06:20Z"
+          "url": "https://www.aibase.com/news/31276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:02:43.710826Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
-          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-          "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
+          "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
+          "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+          "title_zh": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+          "title_en": null,
+          "title_original": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2102082011233931762",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T17:06:20Z"
+          "url": "https://www.aibase.com/news/31276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:02:43.710826Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8268,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-21T17:06:20Z",
-      "latest_at": "2026-09-21T17:06:20Z",
+      "earliest_at": "2026-09-22T10:02:43.710826Z",
+      "latest_at": "2026-09-22T10:02:43.710826Z",
       "primary_item": {
-        "id": "6795ace021f7be53c5997a411c80eadae2e86061",
-        "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-        "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-        "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-        "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-        "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
+        "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
+        "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+        "title_zh": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+        "title_en": null,
+        "title_original": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2102082011233931762",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT",
+        "url": "https://www.aibase.com/news/31276",
+        "source": "AIbase",
+        "source_name": "AIbase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "ai-coding",
-          "evaluation"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
-      }
-    },
-    {
-      "story_id": "story_ae766cda486d",
-      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "title_en": "Benchmarking Grok 4.7",
-          "title_original": "Benchmarking Grok 4.7",
-          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "items": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "title_en": "Benchmarking Grok 4.7",
-          "title_original": "Benchmarking Grok 4.7",
-          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T19:41:25.079000Z",
-      "latest_at": "2026-09-21T19:41:25.079000Z",
-      "primary_item": {
-        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-        "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-        "title_en": "Benchmarking Grok 4.7",
-        "title_original": "Benchmarking Grok 4.7",
-        "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-        "source": "Artificial Analysis 完整文章（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "ai-coding",
-          "evaluation"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T06:34:26.911597Z"
+        "scored_at": "2026-09-22T10:12:24.570647Z"
       }
     }
   ]
