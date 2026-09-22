@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:12:41.569703Z",
+  "generated_at": "2026-09-22T23:36:30.528756Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.9043,
-      "importance": 0.9043,
-      "importance_score": 0.9043,
+      "score": 0.896,
+      "importance": 0.896,
+      "importance_score": 0.896,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9686,
+        "recency": 0.9222,
         "story_heat": 0.5
       },
       "category": "official",
@@ -147,7 +147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -253,15 +253,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8996,
-      "importance": 0.8996,
-      "importance_score": 0.8996,
+      "score": 0.8914,
+      "importance": 0.8914,
+      "importance_score": 0.8914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9076,
         "story_heat": 0.5
       },
       "category": "official",
@@ -293,7 +293,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
+      }
+    },
+    {
+      "story_id": "story_7725937fd90b",
+      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "primary_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "840d4f3401e4b09406d07030fb1332ef14b1c19e",
+          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+          "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+          "title_original": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+          "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:03:38Z"
+        },
+        {
+          "id": "ce374acfbe8c9d185837e69ec0eaf6a62b585516",
+          "title": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "title_zh": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "title_en": null,
+          "title_original": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T20:00:35.186000Z"
+        },
+        {
+          "id": "e47aefc3cbc3d482e36f116f201b4763eb73a4ff",
+          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+          "title_en": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+          "title_original": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T19:03:38Z"
+        },
+        {
+          "id": "60fb0b301f3b9ad523a4bfda55f6afd72b266ea3",
+          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+          "title_en": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "title_original": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-22T19:03:38Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "840d4f3401e4b09406d07030fb1332ef14b1c19e",
+          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+          "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+          "title_original": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+          "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:03:38Z"
+        },
+        {
+          "id": "ce374acfbe8c9d185837e69ec0eaf6a62b585516",
+          "title": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "title_zh": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "title_en": null,
+          "title_original": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T20:00:35.186000Z"
+        },
+        {
+          "id": "e47aefc3cbc3d482e36f116f201b4763eb73a4ff",
+          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+          "title_en": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+          "title_original": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T19:03:38Z"
+        },
+        {
+          "id": "60fb0b301f3b9ad523a4bfda55f6afd72b266ea3",
+          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+          "title_en": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "title_original": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-22T19:03:38Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8732,
+      "importance": 0.8732,
+      "importance_score": 0.8732,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9364,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T19:03:38Z",
+      "latest_at": "2026-09-22T20:00:35.186000Z",
+      "primary_item": {
+        "id": "840d4f3401e4b09406d07030fb1332ef14b1c19e",
+        "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+        "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+        "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+        "title_original": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+        "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+        "recommend_reason_zh": null,
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -341,15 +514,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9571,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,7 +555,273 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
+      }
+    },
+    {
+      "story_id": "story_a809a02e7e68",
+      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+          "title_en": "Better prompt caching for GPT-6",
+          "title_original": "Better prompt caching for GPT-6",
+          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+          "title_en": "Better prompt caching for GPT-6",
+          "title_original": "Better prompt caching for GPT-6",
+          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8613,
+      "importance": 0.8613,
+      "importance_score": 0.8613,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.963,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T21:00:00Z",
+      "latest_at": "2026-09-22T21:00:00Z",
+      "primary_item": {
+        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+        "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+        "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+        "title_en": "Better prompt caching for GPT-6",
+        "title_original": "Better prompt caching for GPT-6",
+        "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T23:55:10.591733Z"
+      }
+    },
+    {
+      "story_id": "story_3de84024ac7c",
+      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7111,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+        "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_zh": null,
+        "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T23:55:10.591733Z"
+      }
+    },
+    {
+      "story_id": "story_80632919d614",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "primary_url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_zh": null,
+          "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_zh": null,
+          "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7111,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+        "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+        "title_zh": null,
+        "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+        "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/evaleval-aisi",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "open-source-models",
+          "evaluation"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -459,15 +898,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9643,
+        "recency": 0.9181,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -500,185 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
-      }
-    },
-    {
-      "story_id": "story_3de84024ac7c",
-      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7469,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-        "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-        "title_zh": null,
-        "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-        "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
-      }
-    },
-    {
-      "story_id": "story_80632919d614",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "primary_url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
-          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "title_zh": null,
-          "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/evaleval-aisi",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
-          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "title_zh": null,
-          "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/evaleval-aisi",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7469,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
-        "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-        "title_zh": null,
-        "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-        "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/evaleval-aisi",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "open-source-models",
-          "evaluation"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -726,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9547,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -767,7 +1028,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -844,15 +1105,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "official",
@@ -885,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -962,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.9424,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1002,92 +1263,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
-      }
-    },
-    {
-      "story_id": "story_f9845f56532f",
-      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-      "primary_url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
-          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-          "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
-          "recommend_reason_zh": null,
-          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:03:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
-          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-          "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
-          "recommend_reason_zh": null,
-          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:03:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T19:03:38Z",
-      "latest_at": "2026-09-22T19:03:38Z",
-      "primary_item": {
-        "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
-        "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-        "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-        "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-        "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-        "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
-        "recommend_reason_zh": null,
-        "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -1135,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9826,
+        "recency": 0.9355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1174,7 +1350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -1222,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9733,
+        "recency": 0.9267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1262,7 +1438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -1310,15 +1486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7469,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1350,7 +1526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -1398,15 +1574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7469,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1438,7 +1614,272 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
+      }
+    },
+    {
+      "story_id": "story_5d947096dc73",
+      "title": "Faster C++ code intelligence with whole codebase indexing",
+      "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+      "primary_url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
+          "title": "Faster C++ code intelligence with whole codebase indexing",
+          "title_zh": null,
+          "title_en": "Faster C++ code intelligence with whole codebase indexing",
+          "title_original": "Faster C++ code intelligence with whole codebase indexing",
+          "summary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T22:24:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
+          "title": "Faster C++ code intelligence with whole codebase indexing",
+          "title_zh": null,
+          "title_en": "Faster C++ code intelligence with whole codebase indexing",
+          "title_original": "Faster C++ code intelligence with whole codebase indexing",
+          "summary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T22:24:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9829,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T22:24:48Z",
+      "latest_at": "2026-09-22T22:24:48Z",
+      "primary_item": {
+        "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
+        "title": "Faster C++ code intelligence with whole codebase indexing",
+        "title_zh": null,
+        "title_en": "Faster C++ code intelligence with whole codebase indexing",
+        "title_original": "Faster C++ code intelligence with whole codebase indexing",
+        "summary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T23:55:10.591733Z"
+      }
+    },
+    {
+      "story_id": "story_38599b55a428",
+      "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+      "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+          "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T20:12:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+          "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T20:12:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9521,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T20:12:31Z",
+      "latest_at": "2026-09-22T20:12:31Z",
+      "primary_item": {
+        "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+        "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+        "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+        "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+        "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+        "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T23:55:10.591733Z"
+      }
+    },
+    {
+      "story_id": "story_8242d9eaeeac",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "primary_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "title_zh": null,
+          "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "title_original": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "title_zh": null,
+          "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "title_original": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8457,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T12:00:00Z",
+      "latest_at": "2026-09-22T12:00:00Z",
+      "primary_item": {
+        "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
+        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "title_zh": null,
+        "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "title_original": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "agents",
+          "models",
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -1486,15 +1927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9275,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1525,7 +1966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     },
     {
@@ -1573,15 +2014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9731,
+        "recency": 0.9265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1612,355 +2053,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
-      }
-    },
-    {
-      "story_id": "story_a4d49cf0b546",
-      "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-      "url": "https://x.com/ChatGPT/status/2102462020339613966",
-      "primary_url": "https://x.com/ChatGPT/status/2102462020339613966",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c942be01e1874da3049cd300815d62f60121508f",
-          "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-          "title_zh": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
-          "title_en": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-          "title_original": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-          "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ChatGPT/status/2102462020339613966",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:16:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ChatGPT (@ChatGPT)"
-      ],
-      "items": [
-        {
-          "id": "c942be01e1874da3049cd300815d62f60121508f",
-          "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-          "title_zh": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
-          "title_en": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-          "title_original": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-          "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ChatGPT/status/2102462020339613966",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:16:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9724,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T18:16:22Z",
-      "latest_at": "2026-09-22T18:16:22Z",
-      "primary_item": {
-        "id": "c942be01e1874da3049cd300815d62f60121508f",
-        "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-        "title_zh": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
-        "title_en": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-        "title_original": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
-        "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ChatGPT/status/2102462020339613966",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
-      }
-    },
-    {
-      "story_id": "story_d73345def75c",
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "primary_url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
-          "title": "Priorities and principles for effective third party assessments",
-          "title_zh": null,
-          "title_en": "Priorities and principles for effective third party assessments",
-          "title_original": "Priorities and principles for effective third party assessments",
-          "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
-          "title": "Priorities and principles for effective third party assessments",
-          "title_zh": null,
-          "title_en": "Priorities and principles for effective third party assessments",
-          "title_original": "Priorities and principles for effective third party assessments",
-          "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7469,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
-        "title": "Priorities and principles for effective third party assessments",
-        "title_zh": null,
-        "title_en": "Priorities and principles for effective third party assessments",
-        "title_original": "Priorities and principles for effective third party assessments",
-        "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
-      }
-    },
-    {
-      "story_id": "story_3ff4f6d8ac89",
-      "title": "Security improvements for SSH",
-      "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
-      "primary_url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "809be2fbf633324b7cdb83caf57f5d3b90dbba63",
-          "title": "Security improvements for SSH",
-          "title_zh": null,
-          "title_en": "Security improvements for SSH",
-          "title_original": "Security improvements for SSH",
-          "summary": "We’re removing several SSH algorithms, adding a new algorithm, and requiring larger RSA SSH keys to improve security.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T14:11:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "809be2fbf633324b7cdb83caf57f5d3b90dbba63",
-          "title": "Security improvements for SSH",
-          "title_zh": null,
-          "title_en": "Security improvements for SSH",
-          "title_original": "Security improvements for SSH",
-          "summary": "We’re removing several SSH algorithms, adding a new algorithm, and requiring larger RSA SSH keys to improve security.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T14:11:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9168,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T14:11:47Z",
-      "latest_at": "2026-09-22T14:11:47Z",
-      "primary_item": {
-        "id": "809be2fbf633324b7cdb83caf57f5d3b90dbba63",
-        "title": "Security improvements for SSH",
-        "title_zh": null,
-        "title_en": "Security improvements for SSH",
-        "title_original": "Security improvements for SSH",
-        "summary": "We’re removing several SSH algorithms, adding a new algorithm, and requiring larger RSA SSH keys to improve security.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
-      }
-    },
-    {
-      "story_id": "story_ae0ae182296f",
-      "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-      "primary_url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:41:37.417000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "items": [
-        {
-          "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:41:37.417000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9926,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T19:41:37.417000Z",
-      "latest_at": "2026-09-22T19:41:37.417000Z",
-      "primary_item": {
-        "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-        "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-        "title_zh": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-        "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier",
-        "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier",
-        "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。",
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-        "source": "Artificial Analysis 完整文章（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "evaluation",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T20:27:10.710989Z"
+        "scored_at": "2026-09-22T23:55:10.591733Z"
       }
     }
   ]
