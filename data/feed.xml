@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 23 Sep 2026 06:00:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 10:02:55 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / Introducing GPT-6 Sol and Luna</title>
@@ -104,6 +104,14 @@
 <pubDate>Tue, 22 Sep 2026 19:29:49 +0000</pubDate>
 </item>
 <item>
+<title>AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元</title>
+<link>https://www.aibase.com/news/31310</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31310</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 10:02:55 +0000</pubDate>
+</item>
+<item>
 <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…</title>
 <link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102462962758033624</guid>
@@ -120,12 +128,20 @@
 <pubDate>Tue, 22 Sep 2026 17:10:23 +0000</pubDate>
 </item>
 <item>
-<title>AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活</title>
-<link>https://www.aibase.com/news/31298</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31298</guid>
-<description>AIbase</description>
+<title>使用 GPT-6 Astra 并行将研究时间和成本减少一半 / Parallel cut research time and cost in half with GPT‑6 Astra</title>
+<link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
+<guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
+<description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS &amp; Realtime are fully upgraded， joined by two new models： TTS-Next fo…</title>
+<link>https://x.com/Alibaba_Qwen/status/2102687258990026993</link>
+<guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2102687258990026993</guid>
+<description>Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。（X：通义千问 / Qwen (@Alibaba_Qwen)）</description>
 <category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 06:00:09 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 09:11:23 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…</title>
@@ -134,14 +150,6 @@
 <description>Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 20:12:31 +0000</pubDate>
-</item>
-<item>
-<title>使用 GPT-6 Astra 并行将研究时间和成本减少一半 / Parallel cut research time and cost in half with GPT‑6 Astra</title>
-<link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
-<description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…</title>
@@ -158,14 +166,6 @@
 <description>OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。（X：Sherwin Wu（@sherwinwu））</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 18:19:24 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …</title>
-<link>https://x.com/ChatGPT/status/2102462020339613966</link>
-<guid isPermaLink="true">https://x.com/ChatGPT/status/2102462020339613966</guid>
-<description>OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。（X：ChatGPT (@ChatGPT)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 18:16:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
