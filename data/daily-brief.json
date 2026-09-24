@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T23:44:03.666980Z",
+  "generated_at": "2026-09-24T01:27:39.063450Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.8574,
-      "importance_score": 0.8574,
+      "score": 0.8532,
+      "importance": 0.8532,
+      "importance_score": 0.8532,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "official",
@@ -88,7 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -194,15 +194,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9638,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -235,7 +235,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -312,15 +312,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "official",
@@ -354,7 +354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -402,15 +402,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9673,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -442,7 +442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -490,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9272,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "official",
@@ -530,7 +530,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -578,15 +578,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8441,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -618,7 +618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -666,15 +666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8869,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -706,7 +706,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -754,15 +754,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9205,
+        "recency": 0.8979,
         "story_heat": 0.0
       },
       "category": "official",
@@ -792,7 +792,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -898,15 +898,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9393,
+        "recency": 0.9161,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -938,95 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
-      }
-    },
-    {
-      "story_id": "story_bf530929af3e",
-      "title": "Codex CLI 0.156.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.156.1",
-          "title_original": "Codex CLI 0.156.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.156.1",
-          "title_original": "Codex CLI 0.156.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7098,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T00:00:00Z",
-      "latest_at": "2026-09-23T00:00:00Z",
-      "primary_item": {
-        "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-        "title": "Codex CLI 0.156.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.156.1",
-        "title_original": "Codex CLI 0.156.1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1074,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8817,
+        "recency": 0.86,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1114,7 +1026,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1162,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8599,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1202,7 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1250,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8943,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1288,7 +1200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1336,15 +1248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8945,
+        "recency": 0.8725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1374,7 +1286,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1422,15 +1334,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1462,7 +1374,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
+      }
+    },
+    {
+      "story_id": "story_c47cc5cebc25",
+      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+      "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "primary_url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9791,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T00:00:00Z",
+      "latest_at": "2026-09-24T00:00:00Z",
+      "primary_item": {
+        "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+        "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+        "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1510,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1550,7 +1550,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1598,15 +1598,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9673,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1637,7 +1637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1685,15 +1685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9581,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1723,7 +1723,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1771,15 +1771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9502,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1811,7 +1811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     },
     {
@@ -1859,15 +1859,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8441,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1899,7 +1899,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T23:58:05.417548Z"
+        "scored_at": "2026-09-24T01:44:55.683330Z"
       }
     }
   ]
