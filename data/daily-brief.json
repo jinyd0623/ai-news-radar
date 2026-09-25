@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T11:53:31.482051Z",
+  "generated_at": "2026-09-25T15:50:30.845399Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_c64a4fb7a68e",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.972,
+        "recency": 0.9181,
         "story_heat": 0.0
       },
       "category": "official",
@@ -86,7 +86,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -134,15 +134,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8422,
+        "recency": 0.7955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,95 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
-      }
-    },
-    {
-      "story_id": "story_9edda83740af",
-      "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-          "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_zh": "使用 LFM2.5-VL-DSpark 加速视觉语言模型",
-          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T14:08:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-          "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_zh": "使用 LFM2.5-VL-DSpark 加速视觉语言模型",
-          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T14:08:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7305,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T14:08:57Z",
-      "latest_at": "2026-09-24T14:08:57Z",
-      "primary_item": {
-        "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-        "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "title_zh": "使用 LFM2.5-VL-DSpark 加速视觉语言模型",
-        "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -310,15 +222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7541,
+        "recency": 0.7123,
         "story_heat": 0.0
       },
       "category": "official",
@@ -350,92 +262,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
-      }
-    },
-    {
-      "story_id": "story_f0b280c7fe21",
-      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-      "primary_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T11:00:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T11:00:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9873,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T11:00:28Z",
-      "latest_at": "2026-09-25T11:00:28Z",
-      "primary_item": {
-        "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-        "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -483,15 +310,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7949,
+        "recency": 0.7509,
         "story_heat": 0.0
       },
       "category": "official",
@@ -521,7 +348,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
+      }
+    },
+    {
+      "story_id": "story_f0b280c7fe21",
+      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "primary_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T11:00:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T11:00:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9326,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T11:00:28Z",
+      "latest_at": "2026-09-25T11:00:28Z",
+      "primary_item": {
+        "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+        "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -569,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8823,
+        "recency": 0.8334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,154 +521,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
-      "story_id": "story_aae1244e06d2",
-      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_ef0bb9e0a293",
+      "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+      "url": "https://cognition.com/blog/1b-run-rate",
+      "primary_url": "https://cognition.com/blog/1b-run-rate",
+      "source": "Cognition 模型 / Devin 博客（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
           "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://cognition.com/blog/1b-run-rate",
+          "source": "Cognition 模型 / Devin 博客（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
+          "published_at": "2026-09-25T15:42:15.643000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "medium.com"
+        "Cognition 模型 / Devin 博客（网页）"
       ],
       "items": [
         {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
           "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://cognition.com/blog/1b-run-rate",
+          "source": "Cognition 模型 / Devin 博客（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
+          "published_at": "2026-09-25T15:42:15.643000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7648,
-        "story_heat": 0.5
+        "recency": 0.998,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T11:54:38Z",
-      "latest_at": "2026-09-24T17:19:34.716000Z",
+      "earliest_at": "2026-09-25T15:42:15.643000Z",
+      "latest_at": "2026-09-25T15:42:15.643000Z",
       "primary_item": {
-        "id": "c74455d54f10d39149f3f83e221935d572452878",
-        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_en": null,
-        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+        "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+        "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+        "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
         "recommend_reason_zh": null,
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://cognition.com/blog/1b-run-rate",
+        "source": "Cognition 模型 / Devin 博客（网页）",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
-          "models",
-          "research"
+          "models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -804,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9323,
+        "recency": 0.8806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -844,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -892,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7772,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "official",
@@ -932,86 +784,204 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
-      "story_id": "story_072908c15f30",
-      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_e0fa10f7de75",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_en": null,
+          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "medium.com"
       ],
       "items": [
         {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_en": null,
+          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.89,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7175,
-        "story_heat": 0.0
+        "recency": 0.7224,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T12:54:19Z",
-      "latest_at": "2026-09-24T12:54:19Z",
+      "earliest_at": "2026-09-24T17:19:34.716000Z",
+      "latest_at": "2026-09-24T17:19:34.716000Z",
       "primary_item": {
-        "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+        "id": "c74455d54f10d39149f3f83e221935d572452878",
+        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_en": null,
+        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-        "source": "TechCrunch：AI（RSS）",
+        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
+          "models",
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T16:03:09.047661Z"
+      }
+    },
+    {
+      "story_id": "story_ff8c712f94de",
+      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+      "url": "https://x.com/satyanadella/status/2103455884366188544",
+      "primary_url": "https://x.com/satyanadella/status/2103455884366188544",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2103455884366188544",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T12:05:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2103455884366188544",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T12:05:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9473,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T12:05:37Z",
+      "latest_at": "2026-09-25T12:05:37Z",
+      "primary_item": {
+        "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+        "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/satyanadella/status/2103455884366188544",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding",
           "models"
         ]
       },
@@ -1019,95 +989,91 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
-      "story_id": "story_b82d1f01a1b3",
-      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-      "primary_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_790f3794cdaf",
+      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+      "primary_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+      "source": "GitHub Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
+          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
+          "title_zh": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+          "title_en": "Improving site performance by shipping more CSS",
+          "title_original": "Improving site performance by shipping more CSS",
+          "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T14:01:05Z"
+          "published_at": "2026-09-25T15:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
+          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
+          "title_zh": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+          "title_en": "Improving site performance by shipping more CSS",
+          "title_original": "Improving site performance by shipping more CSS",
+          "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T14:01:05Z"
+          "published_at": "2026-09-25T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.88,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7292,
+        "recency": 0.9879,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T14:01:05Z",
-      "latest_at": "2026-09-24T14:01:05Z",
+      "earliest_at": "2026-09-25T15:00:00Z",
+      "latest_at": "2026-09-25T15:00:00Z",
       "primary_item": {
-        "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-        "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-        "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+        "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
+        "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
+        "title_zh": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+        "title_en": "Improving site performance by shipping more CSS",
+        "title_original": "Improving site performance by shipping more CSS",
+        "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+        "source": "GitHub Blog",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "open-source-models"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -1155,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8004,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1193,94 +1159,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
-      "story_id": "story_3b19ec10c80b",
-      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "primary_url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_e9cf359005d6",
+      "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+      "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+      "primary_url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
-          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-          "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_original": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+          "id": "41f4214536296d34935804568add0a62edde6edf",
+          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_zh": null,
+          "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "summary": "Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API.",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T16:38:37.757000Z"
+          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T19:13:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
-          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-          "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "title_original": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-          "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+          "id": "41f4214536296d34935804568add0a62edde6edf",
+          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_zh": null,
+          "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "summary": "Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API.",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T16:38:37.757000Z"
+          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T19:13:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7573,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-24T16:38:37.757000Z",
-      "latest_at": "2026-09-24T16:38:37.757000Z",
+      "earliest_at": "2026-09-24T19:13:02Z",
+      "latest_at": "2026-09-24T19:13:02Z",
       "primary_item": {
-        "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
-        "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-        "title_zh": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-        "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-        "title_original": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-        "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+        "id": "41f4214536296d34935804568add0a62edde6edf",
+        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+        "title_zh": null,
+        "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
+        "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
+        "summary": "Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API.",
         "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "models"
-        ]
+        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -1356,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.591,
-      "importance": 0.591,
-      "importance_score": 0.591,
+      "score": 0.5831,
+      "importance": 0.5831,
+      "importance_score": 0.5831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7948,
+        "recency": 0.7508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,120 +1359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
-      }
-    },
-    {
-      "story_id": "story_cf4aa0603431",
-      "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "primary_url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "source": "www.afr.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "af92767eca0d03851b8acea3aaabf33a298151bf",
-          "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "title_zh": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "title_en": null,
-          "title_original": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-          "source": "www.afr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T05:45:21.151000Z"
-        },
-        {
-          "id": "9c04c5e549b43f4d25a9c9c626a6cc06bd053910",
-          "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能” / Tutoring company tells parents to save their money and 'use AI instead'",
-          "title_zh": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "title_en": "Tutoring company tells parents to save their money and 'use AI instead'",
-          "title_original": "Tutoring company tells parents to save their money and 'use AI instead'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T15:09:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.afr.com"
-      ],
-      "items": [
-        {
-          "id": "af92767eca0d03851b8acea3aaabf33a298151bf",
-          "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "title_zh": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "title_en": null,
-          "title_original": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-          "source": "www.afr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T05:45:21.151000Z"
-        },
-        {
-          "id": "9c04c5e549b43f4d25a9c9c626a6cc06bd053910",
-          "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能” / Tutoring company tells parents to save their money and 'use AI instead'",
-          "title_zh": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-          "title_en": "Tutoring company tells parents to save their money and 'use AI instead'",
-          "title_original": "Tutoring company tells parents to save their money and 'use AI instead'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T15:09:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9152,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T15:09:38Z",
-      "latest_at": "2026-09-25T05:45:21.151000Z",
-      "primary_item": {
-        "id": "af92767eca0d03851b8acea3aaabf33a298151bf",
-        "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-        "title_zh": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-        "title_en": null,
-        "title_original": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-        "source": "www.afr.com",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     },
     {
@@ -1584,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8978,
+        "recency": 0.8481,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1622,348 +1474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
-      }
-    },
-    {
-      "story_id": "story_060d23a8bef1",
-      "title": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-      "primary_url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-      "source": "www.verysane.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d61dcffdc0b85517a0d5e7b3f221a366231a4dd3",
-          "title": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "title_zh": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "title_en": null,
-          "title_original": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-          "source": "www.verysane.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T02:34:35.119000Z"
-        },
-        {
-          "id": "7eb606764ee12ff206c473eb715cadb73bc44a58",
-          "title": "在伯克利，人工智能安全基本上是一个性 cult 组织 / AI safety is mostly a sex cult in Berkeley",
-          "title_zh": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "title_en": "AI safety is mostly a sex cult in Berkeley",
-          "title_original": "AI safety is mostly a sex cult in Berkeley",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T14:38:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.verysane.ai"
-      ],
-      "items": [
-        {
-          "id": "d61dcffdc0b85517a0d5e7b3f221a366231a4dd3",
-          "title": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "title_zh": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "title_en": null,
-          "title_original": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-          "source": "www.verysane.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T02:34:35.119000Z"
-        },
-        {
-          "id": "7eb606764ee12ff206c473eb715cadb73bc44a58",
-          "title": "在伯克利，人工智能安全基本上是一个性 cult 组织 / AI safety is mostly a sex cult in Berkeley",
-          "title_zh": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-          "title_en": "AI safety is mostly a sex cult in Berkeley",
-          "title_original": "AI safety is mostly a sex cult in Berkeley",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T14:38:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8741,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T14:38:31Z",
-      "latest_at": "2026-09-25T02:34:35.119000Z",
-      "primary_item": {
-        "id": "d61dcffdc0b85517a0d5e7b3f221a366231a4dd3",
-        "title": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-        "title_zh": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-        "title_en": null,
-        "title_original": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-        "source": "www.verysane.ai",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
-      }
-    },
-    {
-      "story_id": "story_1a51bf4375c4",
-      "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "primary_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "778ae0e2a65505fe7ee48f8d0d79ed0ae9e1748c",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": null,
-          "title_original": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T22:20:31.390000Z"
-        },
-        {
-          "id": "3c744db9823fe980e204728710352632c794e084",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么 / 'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_original": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T12:23:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "778ae0e2a65505fe7ee48f8d0d79ed0ae9e1748c",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": null,
-          "title_original": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T22:20:31.390000Z"
-        },
-        {
-          "id": "3c744db9823fe980e204728710352632c794e084",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么 / 'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_original": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T12:23:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8223,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T12:23:41Z",
-      "latest_at": "2026-09-24T22:20:31.390000Z",
-      "primary_item": {
-        "id": "778ae0e2a65505fe7ee48f8d0d79ed0ae9e1748c",
-        "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-        "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-        "title_en": null,
-        "title_original": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
-      }
-    },
-    {
-      "story_id": "story_6ce8de14e3be",
-      "title": "适合各种预算的最佳LLM，每日更新",
-      "url": "https://bestmodelforyourbudget.terrydjony.com",
-      "primary_url": "https://bestmodelforyourbudget.terrydjony.com",
-      "source": "bestmodelforyourbudget.terrydjony.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "81cdbdd3542e8f4d994c4caa29aa69eab8b7b89f",
-          "title": "适合各种预算的最佳LLM，每日更新",
-          "title_zh": "适合各种预算的最佳LLM，每日更新",
-          "title_en": null,
-          "title_original": "适合各种预算的最佳LLM，每日更新",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://bestmodelforyourbudget.terrydjony.com",
-          "source": "bestmodelforyourbudget.terrydjony.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T15:59:39.321000Z"
-        },
-        {
-          "id": "335e4ce332fa84627f690109f360931a4463d9ac",
-          "title": "适合各种预算的最佳LLM，每日更新 / Best LLM for every budget, updated daily",
-          "title_zh": "适合各种预算的最佳LLM，每日更新",
-          "title_en": "Best LLM for every budget, updated daily",
-          "title_original": "Best LLM for every budget, updated daily",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://bestmodelforyourbudget.terrydjony.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T14:09:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "bestmodelforyourbudget.terrydjony.com"
-      ],
-      "items": [
-        {
-          "id": "81cdbdd3542e8f4d994c4caa29aa69eab8b7b89f",
-          "title": "适合各种预算的最佳LLM，每日更新",
-          "title_zh": "适合各种预算的最佳LLM，每日更新",
-          "title_en": null,
-          "title_original": "适合各种预算的最佳LLM，每日更新",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://bestmodelforyourbudget.terrydjony.com",
-          "source": "bestmodelforyourbudget.terrydjony.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T15:59:39.321000Z"
-        },
-        {
-          "id": "335e4ce332fa84627f690109f360931a4463d9ac",
-          "title": "适合各种预算的最佳LLM，每日更新 / Best LLM for every budget, updated daily",
-          "title_zh": "适合各种预算的最佳LLM，每日更新",
-          "title_en": "Best LLM for every budget, updated daily",
-          "title_original": "Best LLM for every budget, updated daily",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://bestmodelforyourbudget.terrydjony.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T14:09:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7503,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T14:09:57Z",
-      "latest_at": "2026-09-24T15:59:39.321000Z",
-      "primary_item": {
-        "id": "81cdbdd3542e8f4d994c4caa29aa69eab8b7b89f",
-        "title": "适合各种预算的最佳LLM，每日更新",
-        "title_zh": "适合各种预算的最佳LLM，每日更新",
-        "title_en": null,
-        "title_original": "适合各种预算的最佳LLM，每日更新",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://bestmodelforyourbudget.terrydjony.com",
-        "source": "bestmodelforyourbudget.terrydjony.com",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:54:12.023301Z"
+        "scored_at": "2026-09-25T16:03:09.047661Z"
       }
     }
   ]
