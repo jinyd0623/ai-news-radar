@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:55:54.441885Z",
+  "generated_at": "2026-09-26T13:09:52.163878Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8664,
+        "recency": 0.8269,
         "story_heat": 0.0
       },
       "category": "official",
@@ -88,7 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -165,15 +165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7945,
+        "recency": 0.7582,
         "story_heat": 0.25
       },
       "category": "official",
@@ -207,7 +207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -255,15 +255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.806,
+        "recency": 0.7693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -296,7 +296,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -402,15 +402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8663,
+        "recency": 0.8268,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -443,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -491,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8591,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -531,7 +531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -579,15 +579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.9431,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,7 +620,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -726,15 +726,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7944,
+        "recency": 0.7581,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -767,7 +767,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -815,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.788,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -856,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -933,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7697,
+        "recency": 0.7346,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -974,7 +974,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1022,15 +1022,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9299,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1062,7 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1139,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7313,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1179,7 +1179,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1227,15 +1227,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,7 +1268,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1316,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7971,
+        "recency": 0.7607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1356,92 +1356,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
-      }
-    },
-    {
-      "story_id": "story_f0b280c7fe21",
-      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-      "primary_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T11:00:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T11:00:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7182,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T11:00:28Z",
-      "latest_at": "2026-09-25T11:00:28Z",
-      "primary_item": {
-        "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-        "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1489,15 +1404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8316,
+        "recency": 0.7937,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1529,7 +1444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1606,15 +1521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8115,
+        "recency": 0.7745,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1646,7 +1561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1694,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.827,
+        "recency": 0.7893,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1734,7 +1649,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1811,15 +1726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7682,
+        "recency": 0.7331,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1849,93 +1764,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
-      }
-    },
-    {
-      "story_id": "story_ef0bb9e0a293",
-      "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-      "url": "https://cognition.com/blog/1b-run-rate",
-      "primary_url": "https://cognition.com/blog/1b-run-rate",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-          "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cognition 模型 / Devin 博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-          "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7686,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T15:42:15.643000Z",
-      "latest_at": "2026-09-25T15:42:15.643000Z",
-      "primary_item": {
-        "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-        "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-        "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-        "recommend_reason_zh": null,
-        "url": "https://cognition.com/blog/1b-run-rate",
-        "source": "Cognition 模型 / Devin 博客（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     },
     {
@@ -1983,15 +1812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7799,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2023,7 +1852,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T10:21:34.507975Z"
+        "scored_at": "2026-09-26T13:35:35.971184Z"
+      }
+    },
+    {
+      "story_id": "story_42a4c6c0a2d7",
+      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": null,
+          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "summary": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": null,
+          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "summary": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7427,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T16:33:42Z",
+      "latest_at": "2026-09-25T16:33:42Z",
+      "primary_item": {
+        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_zh": null,
+        "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "summary": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T13:35:35.971184Z"
+      }
+    },
+    {
+      "story_id": "story_8129dd850da5",
+      "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "primary_url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
+          "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+          "title_zh": null,
+          "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+          "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+          "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of yo…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T19:05:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
+          "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+          "title_zh": null,
+          "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+          "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+          "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of yo…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T19:05:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7702,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T19:05:03Z",
+      "latest_at": "2026-09-25T19:05:03Z",
+      "primary_item": {
+        "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
+        "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+        "title_zh": null,
+        "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+        "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+        "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of yo…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T13:35:35.971184Z"
       }
     }
   ]
