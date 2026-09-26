@@ -5,8 +5,16 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 25 Sep 2026 23:57:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 01:38:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Codex CLI 0.157.1</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
 <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</link>
@@ -24,20 +32,20 @@
 <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
+<link>https://swarmtraces.org</link>
+<guid isPermaLink="true">https://swarmtraces.org</guid>
+<description>一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
+</item>
+<item>
 <title>Enterprise managed settings in-product validator</title>
 <link>https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</guid>
 <description>You can now use an in-product validator for enterprise managed settings for GitHub Copilot.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 23:24:57 +0000</pubDate>
-</item>
-<item>
-<title>Codex CLI 0.157.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops</title>
@@ -64,20 +72,20 @@
 <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
 </item>
 <item>
-<title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： "We're attacking third-party HF using le…</title>
-<link>https://x.com/Yuchenj_UW/status/2103589198427193593</link>
-<guid isPermaLink="true">https://x.com/Yuchenj_UW/status/2103589198427193593</guid>
-<description>OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。（X：Yuchen Jin (@Yuchenj_UW)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 20:55:22 +0000</pubDate>
-</item>
-<item>
 <title>美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk</title>
 <link>https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</link>
 <guid isPermaLink="true">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</guid>
 <description>华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。（Hacker News：AI 热帖）</description>
 <category>行业动态</category>
 <pubDate>Fri, 25 Sep 2026 18:36:52 +0000</pubDate>
+</item>
+<item>
+<title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： "We're attacking third-party HF using le…</title>
+<link>https://x.com/Yuchenj_UW/status/2103589198427193593</link>
+<guid isPermaLink="true">https://x.com/Yuchenj_UW/status/2103589198427193593</guid>
+<description>OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。（X：Yuchen Jin (@Yuchenj_UW)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 25 Sep 2026 20:55:22 +0000</pubDate>
 </item>
 <item>
 <title>Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…</title>
@@ -158,14 +166,6 @@
 <description>Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 25 Sep 2026 19:48:56 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…</title>
-<link>https://x.com/AnthropicAI/status/2103541577083719888</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2103541577083719888</guid>
-<description>Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。（X：Anthropic (@AnthropicAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
 </item>
 </channel>
 </rss>

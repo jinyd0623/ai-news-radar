@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-25T23:57:34.764176Z",
+  "generated_at": "2026-09-26T01:38:26.493409Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_1b2804dac47a",
+      "title": "Codex CLI 0.157.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+          "title": "Codex CLI 0.157.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.157.1",
+          "title_original": "Codex CLI 0.157.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-26T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+          "title": "Codex CLI 0.157.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.157.1",
+          "title_original": "Codex CLI 0.157.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-26T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8618,
+      "importance": 0.8618,
+      "importance_score": 0.8618,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9766,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T00:00:00Z",
+      "latest_at": "2026-09-26T00:00:00Z",
+      "primary_item": {
+        "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+        "title": "Codex CLI 0.157.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.157.1",
+        "title_original": "Codex CLI 0.157.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T02:00:38.409671Z"
+      }
+    },
     {
       "story_id": "story_a304aaf0894c",
       "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
@@ -77,15 +165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8622,
-      "importance": 0.8622,
-      "importance_score": 0.8622,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9175,
+        "recency": 0.8955,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,7 +207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -167,15 +255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9309,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,7 +296,154 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
+      }
+    },
+    {
+      "story_id": "story_5b20c5b40350",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "f8d507f3855e7e0870d99643a34316fc5b9e3ff1",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T21:09:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "swarmtraces.org"
+      ],
+      "items": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "f8d507f3855e7e0870d99643a34316fc5b9e3ff1",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T21:09:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9765,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T21:09:27Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "primary_item": {
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_en": null,
+        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "recommend_reason_zh": null,
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -256,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9922,
+        "recency": 0.9684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -296,95 +531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
-      }
-    },
-    {
-      "story_id": "story_7625d6ca7283",
-      "title": "Codex CLI 0.157.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "Codex CLI 0.157.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.0",
-          "title_original": "Codex CLI 0.157.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "Codex CLI 0.157.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.0",
-          "title_original": "Codex CLI 0.157.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7075,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T00:00:00Z",
-      "latest_at": "2026-09-25T00:00:00Z",
-      "primary_item": {
-        "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-        "title": "Codex CLI 0.157.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.157.0",
-        "title_original": "Codex CLI 0.157.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -490,15 +637,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9174,
+        "recency": 0.8954,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -531,7 +678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -579,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9604,
+        "recency": 0.9374,
         "story_heat": 0.0
       },
       "category": "official",
@@ -619,7 +766,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -696,15 +843,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -737,96 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
-      }
-    },
-    {
-      "story_id": "story_5bff6ef02926",
-      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Yuchen Jin (@Yuchenj_UW)"
-      ],
-      "items": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9571,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T20:55:22Z",
-      "latest_at": "2026-09-25T20:55:22Z",
-      "primary_item": {
-        "id": "b2755019347db8d310898ae0261ef557c5468804",
-        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-        "source": "X：Yuchen Jin (@Yuchenj_UW)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -903,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.8637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -943,7 +1001,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
+      }
+    },
+    {
+      "story_id": "story_5bff6ef02926",
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "items": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9341,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T20:55:22Z",
+      "latest_at": "2026-09-25T20:55:22Z",
+      "primary_item": {
+        "id": "b2755019347db8d310898ae0261ef557c5468804",
+        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "open-source-models",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -991,15 +1138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.8985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1031,7 +1178,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1079,15 +1226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1116,7 +1263,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1164,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.91,
+        "recency": 0.8882,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1205,7 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1253,15 +1400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,7 +1441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1371,15 +1518,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8659,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1409,7 +1556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1457,15 +1604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7832,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1496,7 +1643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1544,15 +1691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8663,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1582,7 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1630,15 +1777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.9147,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1669,7 +1816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1717,15 +1864,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9006,
+        "recency": 0.879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1757,7 +1904,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     },
     {
@@ -1805,15 +1952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9419,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1845,93 +1992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
-      }
-    },
-    {
-      "story_id": "story_26f22a2693b5",
-      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-      "primary_url": "https://x.com/AnthropicAI/status/2103541577083719888",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
-          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-          "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
-          "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-          "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-          "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:46:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
-          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-          "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
-          "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-          "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-          "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:46:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9145,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T17:46:08Z",
-      "latest_at": "2026-09-25T17:46:08Z",
-      "primary_item": {
-        "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
-        "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-        "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
-        "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-        "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-        "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:20:38.893505Z"
+        "scored_at": "2026-09-26T02:00:38.409671Z"
       }
     }
   ]
