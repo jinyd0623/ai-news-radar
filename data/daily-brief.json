@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T19:53:45.160703Z",
+  "generated_at": "2026-09-26T23:38:28.550407Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_1b2804dac47a",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7503,
+        "recency": 0.7108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -88,242 +88,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
-      "story_id": "story_5b20c5b40350",
-      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_29d461ab8b07",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "primary_url": "https://www.ithome.com/1/007/447.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
           "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
           "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "1d339aca9b713968b78b6ac0c0de4dc62a362f7d",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "swarmtraces.org"
-      ],
-      "items": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "1d339aca9b713968b78b6ac0c0de4dc62a362f7d",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7502,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:27Z",
-      "latest_at": "2026-09-25T23:59:47.248000Z",
-      "primary_item": {
-        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_en": null,
-        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-        "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
-      }
-    },
-    {
-      "story_id": "story_07c3181c791a",
-      "title": "Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "primary_url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "title_zh": null,
-          "title_en": "Enterprise managed settings in-product validator",
-          "title_original": "Enterprise managed settings in-product validator",
-          "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T23:24:57Z"
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "title_zh": null,
-          "title_en": "Enterprise managed settings in-product validator",
-          "title_original": "Enterprise managed settings in-product validator",
-          "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot.",
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_en": null,
+          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T23:24:57Z"
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
-      "importance_label": "官方更新",
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.744,
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T23:24:57Z",
-      "latest_at": "2026-09-25T23:24:57Z",
+      "earliest_at": "2026-09-26T23:12:53Z",
+      "latest_at": "2026-09-26T23:12:53Z",
       "primary_item": {
-        "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-        "title": "Enterprise managed settings in-product validator",
-        "title_zh": null,
-        "title_en": "Enterprise managed settings in-product validator",
-        "title_original": "Enterprise managed settings in-product validator",
-        "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot.",
+        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "title_en": null,
+        "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
+        "url": "https://www.ithome.com/1/007/447.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
         "topics": [
-          "ai-coding"
+          "models",
+          "research"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
@@ -371,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,94 +264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
-      }
-    },
-    {
-      "story_id": "story_0c49918f9a48",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "primary_url": "https://www.ithome.com/1/007/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9417,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
-      "primary_item": {
-        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_en": null,
-        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/007/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
@@ -546,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8558,
+        "recency": 0.8107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -587,7 +353,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
+      }
+    },
+    {
+      "story_id": "story_21d746909977",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "swarmtraces.org"
+      ],
+      "items": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7107,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T23:59:47.248000Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "primary_item": {
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_en": null,
+        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "recommend_reason_zh": null,
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
@@ -635,15 +519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9596,
+        "recency": 0.9091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,95 +559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
-      }
-    },
-    {
-      "story_id": "story_d32b9e9d97fb",
-      "title": "Usage metrics API adds pull request review stages",
-      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
-          "title_zh": null,
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
-          "title_zh": null,
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7201,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:40Z",
-      "latest_at": "2026-09-25T21:09:40Z",
-      "primary_item": {
-        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-        "title": "Usage metrics API adds pull request review stages",
-        "title_zh": null,
-        "title_en": "Usage metrics API adds pull request review stages",
-        "title_original": "Usage metrics API adds pull request review stages",
-        "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
@@ -811,21 +607,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8053,
+        "recency": 0.7629,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-26T04:54:05Z",
       "latest_at": "2026-09-26T04:54:05Z",
@@ -851,87 +646,86 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
-      "story_id": "story_5bff6ef02926",
-      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "story_id": "story_0c49918f9a48",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "primary_url": "https://www.ithome.com/1/007/444.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_en": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
+          "published_at": "2026-09-26T15:44:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Yuchen Jin (@Yuchenj_UW)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_en": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
+          "published_at": "2026-09-26T15:44:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7177,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-25T20:55:22Z",
-      "latest_at": "2026-09-25T20:55:22Z",
+      "earliest_at": "2026-09-26T15:44:10Z",
+      "latest_at": "2026-09-26T15:44:10Z",
       "primary_item": {
-        "id": "b2755019347db8d310898ae0261ef557c5468804",
-        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_en": null,
+        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "url": "https://www.ithome.com/1/007/444.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
-          "agents",
-          "open-source-models",
           "models"
         ]
       },
@@ -939,7 +733,354 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
+      }
+    },
+    {
+      "story_id": "story_20112bdf4907",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": null,
+          "title_original": "DeepSeek 弹性计算 (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": null,
+          "title_original": "DeepSeek 弹性计算 (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9904,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T22:58:22.682000Z",
+      "primary_item": {
+        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+        "title": "DeepSeek 弹性计算 (DSec)",
+        "title_zh": "DeepSeek 弹性计算 (DSec)",
+        "title_en": null,
+        "title_original": "DeepSeek 弹性计算 (DSec)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2609.22978",
+        "source": "arxiv.org",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "open-source-models",
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T23:51:00.697080Z"
+      }
+    },
+    {
+      "story_id": "story_100d2be86f26",
+      "title": "Copilot 电脑品牌已不复存在",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "www.windowscentral.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": null,
+          "title_original": "Copilot 电脑品牌已不复存在",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.windowscentral.com"
+      ],
+      "items": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": null,
+          "title_original": "Copilot 电脑品牌已不复存在",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9754,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T21:55:10.332000Z",
+      "primary_item": {
+        "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+        "title": "Copilot 电脑品牌已不复存在",
+        "title_zh": "Copilot 电脑品牌已不复存在",
+        "title_en": null,
+        "title_original": "Copilot 电脑品牌已不复存在",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "source": "www.windowscentral.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T23:51:00.697080Z"
+      }
+    },
+    {
+      "story_id": "story_16720037ed48",
+      "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "discourse.haskell.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": null,
+          "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "discourse.haskell.org"
+      ],
+      "items": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": null,
+          "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9538,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:41:58Z",
+      "latest_at": "2026-09-26T20:22:03.489000Z",
+      "primary_item": {
+        "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+        "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "title_en": null,
+        "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "source": "discourse.haskell.org",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
@@ -965,7 +1106,7 @@
           "published_at": "2026-09-26T13:48:03.398000Z"
         },
         {
-          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
           "title": "没有AI的一个月 / One Month Without AI",
           "title_zh": "没有AI的一个月",
           "title_en": "One Month Without AI",
@@ -973,15 +1114,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T10:08:21Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "blog.bustikiller.com"
       ],
       "items": [
@@ -1000,7 +1141,7 @@
           "published_at": "2026-09-26T13:48:03.398000Z"
         },
         {
-          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
           "title": "没有AI的一个月 / One Month Without AI",
           "title_zh": "没有AI的一个月",
           "title_en": "One Month Without AI",
@@ -1008,23 +1149,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T10:08:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9157,
+        "recency": 0.8675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,7 +1193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     },
     {
@@ -1129,15 +1270,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9055,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1167,233 +1308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
-      }
-    },
-    {
-      "story_id": "story_bb0c28549e24",
-      "title": "太AI了；没看",
-      "url": "https://www.tai-dr.com",
-      "primary_url": "https://www.tai-dr.com",
-      "source": "www.tai-dr.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "727ddd64d5b5919fd2651a1a1c3472aa64cb5905",
-          "title": "太AI了；没看",
-          "title_zh": "太AI了；没看",
-          "title_en": null,
-          "title_original": "太AI了；没看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "www.tai-dr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.250000Z"
-        },
-        {
-          "id": "418dd1d6a8d3082ab8bee43846977dd355e9db07",
-          "title": "太AI了；没看 / Too AI; Didn't Read",
-          "title_zh": "太AI了；没看",
-          "title_en": "Too AI; Didn't Read",
-          "title_original": "Too AI; Didn't Read",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T20:37:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.tai-dr.com"
-      ],
-      "items": [
-        {
-          "id": "727ddd64d5b5919fd2651a1a1c3472aa64cb5905",
-          "title": "太AI了；没看",
-          "title_zh": "太AI了；没看",
-          "title_en": null,
-          "title_original": "太AI了；没看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "www.tai-dr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.250000Z"
-        },
-        {
-          "id": "418dd1d6a8d3082ab8bee43846977dd355e9db07",
-          "title": "太AI了；没看 / Too AI; Didn't Read",
-          "title_zh": "太AI了；没看",
-          "title_en": "Too AI; Didn't Read",
-          "title_original": "Too AI; Didn't Read",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T20:37:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7475,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T20:37:56Z",
-      "latest_at": "2026-09-25T23:44:26.250000Z",
-      "primary_item": {
-        "id": "727ddd64d5b5919fd2651a1a1c3472aa64cb5905",
-        "title": "太AI了；没看",
-        "title_zh": "太AI了；没看",
-        "title_en": null,
-        "title_original": "太AI了；没看",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tai-dr.com",
-        "source": "www.tai-dr.com",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
-      }
-    },
-    {
-      "story_id": "story_6d7e1a8ea416",
-      "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "primary_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
-          "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-          "title_zh": null,
-          "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-          "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T23:22:18Z"
-        },
-        {
-          "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
-          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "title_zh": null,
-          "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T23:16:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times"
-      ],
-      "items": [
-        {
-          "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
-          "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-          "title_zh": null,
-          "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-          "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T23:22:18Z"
-        },
-        {
-          "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
-          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "title_zh": null,
-          "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T23:16:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4996,
-      "importance": 0.4996,
-      "importance_score": 0.4996,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7435,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T23:16:40Z",
-      "latest_at": "2026-09-25T23:22:18Z",
-      "primary_item": {
-        "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
-        "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-        "title_zh": null,
-        "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-        "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:13:25.004363Z"
+        "scored_at": "2026-09-26T23:51:00.697080Z"
       }
     }
   ]
