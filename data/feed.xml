@@ -5,13 +5,13 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 02:35:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 06:56:55 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia</title>
 <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
 <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-<description>OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.（OpenAI News）</description>
+<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 01:00:00 +0000</pubDate>
 </item>
@@ -96,6 +96,14 @@
 <pubDate>Mon, 28 Sep 2026 21:31:35 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
+<description>Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
+</item>
+<item>
 <title>Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门</title>
 <link>https://www.ithome.com/1/008/099.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/008/099.htm</guid>
@@ -104,12 +112,12 @@
 <pubDate>Tue, 29 Sep 2026 00:58:38 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5</title>
-<link>https://www.anthropic.com/claude-sonnet-5-5</link>
-<guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
+<title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+<link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+<guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
+<description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering sup…（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...</title>
@@ -120,12 +128,12 @@
 <pubDate>Mon, 28 Sep 2026 18:31:30 +0000</pubDate>
 </item>
 <item>
-<title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-<link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-<guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
-<description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering sup…（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+<title>Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦</title>
+<link>https://www.aibase.com/news/31403</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31403</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 06:56:55 +0000</pubDate>
 </item>
 <item>
 <title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
@@ -144,28 +152,20 @@
 <pubDate>Mon, 28 Sep 2026 18:02:10 +0000</pubDate>
 </item>
 <item>
+<title>Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...</title>
+<link>https://x.com/trq212/status/2104660926373023830</link>
+<guid isPermaLink="true">https://x.com/trq212/status/2104660926373023830</guid>
+<description>Anthropic 推出 Claude Sonnet 5.5，为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 运行速度快 30% 以上，且多数工作成本降低至多 30%。Claude Code 相关开发者 Thariq 表示，Sonnet 与 Opus 5.5 让更高层级的抽象如 projects、claude tag 和 dynamic workflows 在 token 成本上更可用，并建议构建工作流时优先尝试 Sonnet 5.5。（X：Thariq (@trq212)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 19:54:02 +0000</pubDate>
+</item>
+<item>
 <title>GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent</title>
 <link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent</link>
 <guid isPermaLink="true">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent</guid>
 <description>GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。（GitHub Blog）</description>
 <category>行业动态</category>
 <pubDate>Tue, 29 Sep 2026 00:55:47 +0000</pubDate>
-</item>
-<item>
-<title>Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05 / GPT-6 Luna (Max) by @OpenAI is #23 in Agent Arena with +1.6% net improvement across 8K real-world agentic sessions from our global commun...</title>
-<link>https://x.com/arena/status/2104673568776990762</link>
-<guid isPermaLink="true">https://x.com/arena/status/2104673568776990762</guid>
-<description>Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 20:44:16 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
-<link>https://x.com/AnthropicAI/status/2104633259925630995</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2104633259925630995</guid>
-<description>Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。（X：Anthropic (@AnthropicAI)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:04:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
