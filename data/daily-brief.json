@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-09-29T11:24:13.268330Z",
+  "generated_at": "2026-09-29T14:05:37.621663Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a2df1f649cab",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_zh": null,
+          "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_zh": null,
+          "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8655,
+      "importance": 0.8655,
+      "importance_score": 0.8655,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T13:07:00Z",
+      "latest_at": "2026-09-29T13:07:00Z",
+      "primary_item": {
+        "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+        "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "title_zh": null,
+        "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "agents",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T14:37:05.630318Z"
+      }
+    },
     {
       "story_id": "story_c49bc1306894",
       "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
@@ -48,15 +137,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8605,
+        "recency": 0.8277,
         "story_heat": 0.0
       },
       "category": "official",
@@ -86,7 +175,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -134,15 +223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7785,
+        "recency": 0.7489,
         "story_heat": 0.0
       },
       "category": "official",
@@ -175,7 +264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -223,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7891,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -309,15 +398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8202,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -349,92 +438,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
-      "story_id": "story_7009e35a2340",
-      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "primary_url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "story_id": "story_295d80b95c35",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-          "title_zh": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-          "title_en": "World Labs Is Joining AMD",
-          "title_original": "World Labs Is Joining AMD",
-          "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "title_en": "AI companies leak data to advertisers [pdf]",
+          "title_original": "AI companies leak data to advertisers [pdf]",
+          "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
           "recommend_reason_zh": null,
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
           "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:18:05Z"
+          "published_at": "2026-09-29T09:03:41Z"
         },
         {
-          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
-          "title": "World Labs 将加入 AMD",
-          "title_zh": "World Labs 将加入 AMD",
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
           "title_en": null,
-          "title_original": "World Labs 将加入 AMD",
+          "title_original": "人工智能公司向广告商泄露数据 [pdf]",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "www.worldlabs.ai",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-28T22:08:12.115000Z"
+          "published_at": "2026-09-29T11:32:02.125000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News：AI 热帖",
-        "www.worldlabs.ai"
+        "jorgegarciaherrero.com"
       ],
       "items": [
         {
-          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-          "title_zh": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-          "title_en": "World Labs Is Joining AMD",
-          "title_original": "World Labs Is Joining AMD",
-          "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "title_en": "AI companies leak data to advertisers [pdf]",
+          "title_original": "AI companies leak data to advertisers [pdf]",
+          "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
           "recommend_reason_zh": null,
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
           "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:18:05Z"
+          "published_at": "2026-09-29T09:03:41Z"
         },
         {
-          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
-          "title": "World Labs 将加入 AMD",
-          "title_zh": "World Labs 将加入 AMD",
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
           "title_en": null,
-          "title_original": "World Labs 将加入 AMD",
+          "title_original": "人工智能公司向广告商泄露数据 [pdf]",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "www.worldlabs.ai",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-28T22:08:12.115000Z"
+          "published_at": "2026-09-29T11:32:02.125000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.9299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,30 +532,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T20:18:05Z",
-      "latest_at": "2026-09-28T22:08:12.115000Z",
+      "earliest_at": "2026-09-29T09:03:41Z",
+      "latest_at": "2026-09-29T11:32:02.125000Z",
       "primary_item": {
-        "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-        "title_zh": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-        "title_en": "World Labs Is Joining AMD",
-        "title_original": "World Labs Is Joining AMD",
-        "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+        "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+        "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+        "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+        "title_en": "AI companies leak data to advertisers [pdf]",
+        "title_original": "AI companies leak data to advertisers [pdf]",
+        "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
         "recommend_reason_zh": null,
-        "url": "https://www.worldlabs.ai/blog/amd-announcement",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
-          "research"
+          "ai-coding",
+          "open-source-models",
+          "models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -514,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.8441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -551,7 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -657,15 +748,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7683,
+        "recency": 0.739,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -698,7 +789,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -746,15 +837,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7891,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -784,7 +875,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -832,15 +923,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9582,
+        "recency": 0.9217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -920,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7934,
+        "recency": 0.7632,
         "story_heat": 0.0
       },
       "category": "official",
@@ -958,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1006,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7846,
+        "recency": 0.7547,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1046,7 +1137,124 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
+      }
+    },
+    {
+      "story_id": "story_7009e35a2340",
+      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "primary_url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
+          "title_zh": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+          "title_en": "World Labs Is Joining AMD",
+          "title_original": "World Labs Is Joining AMD",
+          "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+          "recommend_reason_zh": null,
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:18:05Z"
+        },
+        {
+          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
+          "title": "World Labs 将加入 AMD",
+          "title_zh": "World Labs 将加入 AMD",
+          "title_en": null,
+          "title_original": "World Labs 将加入 AMD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "www.worldlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:12.115000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "www.worldlabs.ai"
+      ],
+      "items": [
+        {
+          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
+          "title_zh": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+          "title_en": "World Labs Is Joining AMD",
+          "title_original": "World Labs Is Joining AMD",
+          "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+          "recommend_reason_zh": null,
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:18:05Z"
+        },
+        {
+          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
+          "title": "World Labs 将加入 AMD",
+          "title_zh": "World Labs 将加入 AMD",
+          "title_en": null,
+          "title_original": "World Labs 将加入 AMD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "www.worldlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:12.115000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7734,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:18:05Z",
+      "latest_at": "2026-09-28T22:08:12.115000Z",
+      "primary_item": {
+        "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
+        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
+        "title_zh": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+        "title_en": "World Labs Is Joining AMD",
+        "title_original": "World Labs Is Joining AMD",
+        "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+        "recommend_reason_zh": null,
+        "url": "https://www.worldlabs.ai/blog/amd-announcement",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "research"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1094,15 +1302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9619,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,7 +1339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1179,15 +1387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8184,
+        "recency": 0.7872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1218,124 +1426,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
-      }
-    },
-    {
-      "story_id": "story_9c7e3615c5ec",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "primary_url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f1e1b180faf0063d850eaff5efae4507ba79a46",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-          "title_en": "Sonnet 5.5",
-          "title_original": "Sonnet 5.5",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
-          "title": "克劳德·索内特 5.5",
-          "title_zh": "克劳德·索内特 5.5",
-          "title_en": null,
-          "title_original": "克劳德·索内特 5.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T18:28:19.833000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "2f1e1b180faf0063d850eaff5efae4507ba79a46",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-          "title_en": "Sonnet 5.5",
-          "title_original": "Sonnet 5.5",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
-          "title": "克劳德·索内特 5.5",
-          "title_zh": "克劳德·索内特 5.5",
-          "title_en": null,
-          "title_original": "克劳德·索内特 5.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T18:28:19.833000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7774,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:58:11Z",
-      "latest_at": "2026-09-28T18:28:19.833000Z",
-      "primary_item": {
-        "id": "2f1e1b180faf0063d850eaff5efae4507ba79a46",
-        "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
-        "title_zh": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-        "title_en": "Sonnet 5.5",
-        "title_original": "Sonnet 5.5",
-        "summary": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/claude-sonnet-5-5",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1383,15 +1474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1422,7 +1513,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1470,15 +1561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7837,
+        "recency": 0.7538,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1509,7 +1600,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1586,22 +1677,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.769,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-28T19:54:02Z",
       "latest_at": "2026-09-28T19:54:02Z",
@@ -1627,7 +1717,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1704,22 +1794,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7891,
+        "recency": 0.759,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-28T19:00:00Z",
       "latest_at": "2026-09-29T00:55:47Z",
@@ -1746,7 +1835,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     },
     {
@@ -1823,22 +1912,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7826,
+        "recency": 0.7528,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-28T18:25:49Z",
       "latest_at": "2026-09-28T18:25:49Z",
@@ -1864,93 +1952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
-      }
-    },
-    {
-      "story_id": "story_d99a15db3657",
-      "title": "Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:",
-      "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-      "primary_url": "https://x.com/AnthropicAI/status/2104633259925630995",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6cfb77c33d0aea6990e3cbde3dc0275b772c2316",
-          "title": "Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5",
-          "title_en": "Claude Sonnet 5.5 is now available:",
-          "title_original": "Claude Sonnet 5.5 is now available:",
-          "summary": "Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "6cfb77c33d0aea6990e3cbde3dc0275b772c2316",
-          "title": "Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5",
-          "title_en": "Claude Sonnet 5.5 is now available:",
-          "title_original": "Claude Sonnet 5.5 is now available:",
-          "summary": "Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7785,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T18:04:06Z",
-      "latest_at": "2026-09-28T18:04:06Z",
-      "primary_item": {
-        "id": "6cfb77c33d0aea6990e3cbde3dc0275b772c2316",
-        "title": "Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:",
-        "title_zh": "Anthropic 发布 Claude Sonnet 5.5",
-        "title_en": "Claude Sonnet 5.5 is now available:",
-        "title_original": "Claude Sonnet 5.5 is now available:",
-        "summary": "Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T11:50:48.646802Z"
+        "scored_at": "2026-09-29T14:37:05.630318Z"
       }
     }
   ]

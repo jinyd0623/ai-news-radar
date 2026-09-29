@@ -5,8 +5,16 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 11:24:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 14:05:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
+<link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
+<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia</title>
 <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
@@ -40,12 +48,12 @@
 <pubDate>Mon, 28 Sep 2026 21:40:50 +0000</pubDate>
 </item>
 <item>
-<title>World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD</title>
-<link>https://www.worldlabs.ai/blog/amd-announcement</link>
-<guid isPermaLink="true">https://www.worldlabs.ai/blog/amd-announcement</guid>
-<description>World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。（Hacker News：AI 热帖）</description>
+<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
+<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
+<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
+<description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。（Hacker News：AI 热帖）</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 22:08:12 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 11:32:02 +0000</pubDate>
 </item>
 <item>
 <title>路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.</title>
@@ -96,6 +104,14 @@
 <pubDate>Mon, 28 Sep 2026 18:36:07 +0000</pubDate>
 </item>
 <item>
+<title>World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD</title>
+<link>https://www.worldlabs.ai/blog/amd-announcement</link>
+<guid isPermaLink="true">https://www.worldlabs.ai/blog/amd-announcement</guid>
+<description>World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 22:08:12 +0000</pubDate>
+</item>
+<item>
 <title>AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁</title>
 <link>https://www.aibase.com/news/31415</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31415</guid>
@@ -110,14 +126,6 @@
 <description>AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 21:31:35 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5</title>
-<link>https://www.anthropic.com/claude-sonnet-5-5</link>
-<guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
 </item>
 <item>
 <title>Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门</title>
@@ -158,14 +166,6 @@
 <description>Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。（X：Boris Cherny (@bcherny)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 18:25:49 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
-<link>https://x.com/AnthropicAI/status/2104633259925630995</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2104633259925630995</guid>
-<description>Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。（X：Anthropic (@AnthropicAI)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:04:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
