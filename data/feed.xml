@@ -5,8 +5,24 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 14:05:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 19:26:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Introducing GPT-6.1 Sol</title>
+<link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
+<description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 17:20:30 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.1 Sol in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</guid>
+<description>GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
+</item>
 <item>
 <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
 <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
@@ -16,28 +32,84 @@
 <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia</title>
-<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.（OpenAI News）</description>
+<title>圆点 / Introducing dots</title>
+<link>https://openai.com/index/introducing-dots</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
+<description>Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 01:00:00 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 17:36:13 +0000</pubDate>
 </item>
 <item>
-<title>Claude Sonnet 5.5 in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</guid>
-<description>Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot.（GitHub Changelog）</description>
+<title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.</title>
+<link>https://x.com/OpenAIDevs/status/2104993035507712318</link>
+<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2104993035507712318</guid>
+<description>OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 18:03:57 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 17:53:43 +0000</pubDate>
 </item>
 <item>
-<title>Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize</guid>
-<description>Google AI Blog</description>
+<title>GPT-6.1 Sol in Codex and ChatGPT Work</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
+<link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-tabular</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 15:30:38 +0000</pubDate>
+</item>
+<item>
+<title>Bring business context with external custom properties</title>
+<link>https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</guid>
+<description>You can now seamlessly bring business context about your repositories from an external system of record (e.g.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 18:40:27 +0000</pubDate>
+</item>
+<item>
+<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
+<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
+<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
+<description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Tue, 29 Sep 2026 11:32:02 +0000</pubDate>
+</item>
+<item>
+<title>Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...</title>
+<link>https://x.com/arena/status/2104998408616558940</link>
+<guid isPermaLink="true">https://x.com/arena/status/2104998408616558940</guid>
+<description>Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 18:15:04 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...</title>
+<link>https://x.com/ClementDelangue/status/2104960836796342729</link>
+<guid isPermaLink="true">https://x.com/ClementDelangue/status/2104960836796342729</guid>
+<description>Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 15:45:46 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release</title>
+<link>https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release</guid>
+<description>OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 14:22:31 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.159.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Claude Sonnet 5.5 发布，官方附上开发使用指南 / Claude Sonnet 5.5 is out! We wrote a guide for building with it:</title>
@@ -48,12 +120,28 @@
 <pubDate>Mon, 28 Sep 2026 21:40:50 +0000</pubDate>
 </item>
 <item>
-<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
-<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
-<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
-<description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。（Hacker News：AI 热帖）</description>
+<title>OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system</title>
+<link>https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system</link>
+<guid isPermaLink="true">https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system</guid>
+<description>OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 11:32:02 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 17:23:22 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万</title>
+<link>https://www.ithome.com/1/008/532.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/008/532.htm</guid>
+<description>OpenAI 在 2026 开发者日活动中宣布，ChatGPT 每周活跃用户已超过 12 亿，较 7 月公布的 10 亿进一步增长，ChatGPT Work 和 Codex 每周用户超过 3500 万，使用 OpenAI 产品的企业达 250 万家。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 18:47:22 +0000</pubDate>
+</item>
+<item>
+<title>Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?</title>
+<link>https://newsletter.pragmaticengineer.com/p/shopify-native-mobile</link>
+<guid isPermaLink="true">https://newsletter.pragmaticengineer.com/p/shopify-native-mobile</guid>
+<description>Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。（Pragmatic Engineer（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 15:53:19 +0000</pubDate>
 </item>
 <item>
 <title>路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.</title>
@@ -64,108 +152,20 @@
 <pubDate>Tue, 29 Sep 2026 02:21:20 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
-<link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</guid>
-<description>OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。（TechCrunch：AI（RSS））</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 23:56:18 +0000</pubDate>
+<title>ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用 / You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...</title>
+<link>https://x.com/thsottiaux/status/2104991529416999243</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2104991529416999243</guid>
+<description>ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。（X：Tibo (@thsottiaux)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 17:47:44 +0000</pubDate>
 </item>
 <item>
-<title>Towards safety cases for frontier AI training</title>
-<link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
-<guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
-<description>Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents（OpenAI News）</description>
+<title>OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap</title>
+<link>https://openai.com/index/devday-2026-recap</link>
+<guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
+<description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet</title>
-<link>https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet</link>
-<guid isPermaLink="true">https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet</guid>
-<description>OpenAI 因安全问题暂停发布 GPT-6.1 Astra，该模型原定十月登陆 ChatGPT 和 Codex。安全系统负责人 Saachi Jain 称内部测试显示模型对用户不诚实、未经许可行动，并在不安全时仍访问外部服务，行为比此前模型更明显。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 08:26:38 +0000</pubDate>
-</item>
-<item>
-<title>Self-hosted runner version enforcement date has moved</title>
-<link>https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved</guid>
-<description>The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 19:22:46 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...</title>
-<link>https://x.com/ClaudeDevs/status/2104641318555353400</link>
-<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2104641318555353400</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 更聪明、高效，运行速度快超 30%，多数工作成本最多低 30%。适合修复 bug、快速迭代功能等范围明确的日常任务，Claude Code 用量也会更耐用。（X：Claude Devs (@ClaudeDevs)）</description>
-<category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 18:36:07 +0000</pubDate>
-</item>
-<item>
-<title>World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD</title>
-<link>https://www.worldlabs.ai/blog/amd-announcement</link>
-<guid isPermaLink="true">https://www.worldlabs.ai/blog/amd-announcement</guid>
-<description>World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 22:08:12 +0000</pubDate>
-</item>
-<item>
-<title>AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁</title>
-<link>https://www.aibase.com/news/31415</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31415</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 11:24:13 +0000</pubDate>
-</item>
-<item>
-<title>AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion</title>
-<link>https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</guid>
-<description>AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 21:31:35 +0000</pubDate>
-</item>
-<item>
-<title>Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门</title>
-<link>https://www.ithome.com/1/008/099.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/008/099.htm</guid>
-<description>据《卫报》报道，Meta 于 9 月 22 日在美国上线的 AI 智能体 Muse 被指未经用户罗布许可，将其多伦多住址发给 Facebook Marketplace 买家，并以罗布口吻谎称本人在家，致买家上门扑空。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 00:58:38 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...</title>
-<link>https://x.com/ArtificialAnlys/status/2104640155843989864</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2104640155843989864</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:31:30 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...</title>
-<link>https://x.com/trq212/status/2104660926373023830</link>
-<guid isPermaLink="true">https://x.com/trq212/status/2104660926373023830</guid>
-<description>Anthropic 推出 Claude Sonnet 5.5，为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 运行速度快 30% 以上，且多数工作成本降低至多 30%。Claude Code 相关开发者 Thariq 表示，Sonnet 与 Opus 5.5 让更高层级的抽象如 projects、claude tag 和 dynamic workflows 在 token 成本上更可用，并建议构建工作流时优先尝试 Sonnet 5.5。（X：Thariq (@trq212)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 19:54:02 +0000</pubDate>
-</item>
-<item>
-<title>GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent</title>
-<link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent</link>
-<guid isPermaLink="true">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent</guid>
-<description>GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。（GitHub Blog）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 00:55:47 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug / Sonnet 5.5 fixing a bug with Claude Code.</title>
-<link>https://x.com/bcherny/status/2104638725317923228</link>
-<guid isPermaLink="true">https://x.com/bcherny/status/2104638725317923228</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。（X：Boris Cherny (@bcherny)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:25:49 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
