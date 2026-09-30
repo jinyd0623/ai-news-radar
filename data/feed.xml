@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 30 Sep 2026 02:09:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 06:45:20 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol</title>
@@ -40,20 +40,20 @@
 <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
 </item>
 <item>
-<title>纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视</title>
-<link>https://www.ithome.com/1/008/592.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/008/592.htm</guid>
-<description>《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 01:48:21 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.</title>
 <link>https://x.com/OpenAIDevs/status/2104993035507712318</link>
 <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2104993035507712318</guid>
 <description>OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 17:53:43 +0000</pubDate>
+</item>
+<item>
+<title>纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视</title>
+<link>https://www.ithome.com/1/008/592.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/008/592.htm</guid>
+<description>《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 01:48:21 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
@@ -88,28 +88,12 @@
 <pubDate>Wed, 30 Sep 2026 01:40:59 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation</title>
-<link>https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation</guid>
-<description>据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 19:52:37 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap</title>
 <link>https://openai.com/index/devday-2026-recap</link>
 <guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...</title>
-<link>https://x.com/ClementDelangue/status/2104960836796342729</link>
-<guid isPermaLink="true">https://x.com/ClementDelangue/status/2104960836796342729</guid>
-<description>Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 15:45:46 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release</title>
@@ -120,12 +104,36 @@
 <pubDate>Tue, 29 Sep 2026 14:22:31 +0000</pubDate>
 </item>
 <item>
+<title>Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...</title>
+<link>https://x.com/ClementDelangue/status/2104960836796342729</link>
+<guid isPermaLink="true">https://x.com/ClementDelangue/status/2104960836796342729</guid>
+<description>Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 15:45:46 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation</title>
+<link>https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation</guid>
+<description>据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 19:52:37 +0000</pubDate>
+</item>
+<item>
 <title>Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...</title>
 <link>https://x.com/arena/status/2104998408616558940</link>
 <guid isPermaLink="true">https://x.com/arena/status/2104998408616558940</guid>
 <description>Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 29 Sep 2026 18:15:04 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力</title>
+<link>https://www.aibase.com/news/31432</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31432</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 06:45:20 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新</title>
@@ -150,14 +158,6 @@
 <description>OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 23:13:56 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐</title>
-<link>https://www.aibase.com/news/31427</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31427</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 02:09:49 +0000</pubDate>
 </item>
 <item>
 <title>Repository custom runner settings for Dependabot</title>
