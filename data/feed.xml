@@ -5,15 +5,15 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 30 Sep 2026 06:45:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 11:12:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
-<description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.（OpenAI News）</description>
+<description>OpenAI 发布 GPT-6.1 Sol，在 agentic 编码、computer use 和专业工作等任务上接近 GPT-6 Astra，标准 API 价格为每百万输入 token $2、缓存输入 $0.10、输出 $10，约为 Astra 五分之一。（OpenAI：官网动态（RSS · 排除企业/客户案例））</description>
 <category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 17:20:30 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 18:27:48 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots</title>
@@ -24,20 +24,20 @@
 <pubDate>Tue, 29 Sep 2026 17:36:13 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.1 Sol in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</guid>
-<description>GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot.（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
-</item>
-<item>
 <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
 <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
 <guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.1 Sol in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</guid>
+<description>GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot.（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.</title>
@@ -64,20 +64,12 @@
 <pubDate>Tue, 29 Sep 2026 15:30:38 +0000</pubDate>
 </item>
 <item>
-<title>Bring business context with external custom properties</title>
+<title>通过外部自定义属性引入业务上下文 / Bring business context with external custom properties</title>
 <link>https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</guid>
 <description>You can now seamlessly bring business context about your repositories from an external system of record (e.g.（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 18:40:27 +0000</pubDate>
-</item>
-<item>
-<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
-<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
-<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
-<description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Tue, 29 Sep 2026 11:32:02 +0000</pubDate>
 </item>
 <item>
 <title>GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨</title>
@@ -88,12 +80,12 @@
 <pubDate>Wed, 30 Sep 2026 01:40:59 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap</title>
-<link>https://openai.com/index/devday-2026-recap</link>
-<guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
-<description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
+<title>LG 联手微软秀智能家居语音助手：可中途"插话"，年内登陆 ThinQ ON</title>
+<link>https://www.aibase.com/news/31442</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31442</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 11:12:06 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release</title>
@@ -128,14 +120,6 @@
 <pubDate>Tue, 29 Sep 2026 18:15:04 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力</title>
-<link>https://www.aibase.com/news/31432</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31432</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 06:45:20 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a&amp;chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&amp;scene=126&amp;sessionid=1790722837</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a&amp;chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&amp;scene=126&amp;sessionid=1790722837</guid>
@@ -152,6 +136,14 @@
 <pubDate>Tue, 29 Sep 2026 19:24:12 +0000</pubDate>
 </item>
 <item>
+<title>PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞 / Hijacking Copilot Cowork's AI Gateway to Bypass Sandboxing and Exfiltrate Files</title>
+<link>https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files</link>
+<guid isPermaLink="true">https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files</guid>
+<description>PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。（PromptArmor：Threat Intelligence）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.</title>
 <link>https://x.com/OpenAIDevs/status/2105073621144338660</link>
 <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2105073621144338660</guid>
@@ -160,12 +152,20 @@
 <pubDate>Tue, 29 Sep 2026 23:13:56 +0000</pubDate>
 </item>
 <item>
-<title>Repository custom runner settings for Dependabot</title>
+<title>Dependabot 的代码仓库自定义运行器设置 / Repository custom runner settings for Dependabot</title>
 <link>https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot</guid>
 <description>As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security upda…（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 19:10:00 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 开源面向华为昇腾平台的基础设施组件</title>
+<link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485843&amp;idx=1&amp;sn=565102c3642d88e814331390bf62d276&amp;chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&amp;scene=126&amp;sessionid=1790739034</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485843&amp;idx=1&amp;sn=565102c3642d88e814331390bf62d276&amp;chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&amp;scene=126&amp;sessionid=1790739034</guid>
+<description>DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。（公众号：DeepSeek（深度求索））</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 02:01:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
