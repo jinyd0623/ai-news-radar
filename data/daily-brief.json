@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-01T14:29:27.103896Z",
+  "generated_at": "2026-10-01T19:35:19.487250Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_e79047166a33",
-      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "story_id": "story_a8a59d3ec43f",
+      "title": "GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-          "title_zh": "Actions Runner 控制器版本 0.15.0",
-          "title_en": "Actions Runner Controller release 0.15.0",
-          "title_original": "Actions Runner Controller release 0.15.0",
-          "summary": "GitHub Actions Runner Controller 0.15.0 includes reliability, scalability, and observability improvements for runner scale sets.",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": null,
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T13:01:31Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-          "title_zh": "Actions Runner 控制器版本 0.15.0",
-          "title_en": "Actions Runner Controller release 0.15.0",
-          "title_original": "Actions Runner Controller release 0.15.0",
-          "summary": "GitHub Actions Runner Controller 0.15.0 includes reliability, scalability, and observability improvements for runner scale sets.",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": null,
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T13:01:31Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9791,
+        "ai_relevance": 0.91,
+        "recency": 0.9943,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +65,365 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T13:01:31Z",
-      "latest_at": "2026-10-01T13:01:31Z",
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
       "primary_item": {
-        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-        "title_zh": "Actions Runner 控制器版本 0.15.0",
-        "title_en": "Actions Runner Controller release 0.15.0",
-        "title_original": "Actions Runner Controller release 0.15.0",
-        "summary": "GitHub Actions Runner Controller 0.15.0 includes reliability, scalability, and observability improvements for runner scale sets.",
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_zh": null,
+        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+        "summary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows.",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_a97a1140e735",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": null,
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": null,
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9363,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_zh": null,
+        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_25299d1ec50f",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "primary_url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
+          "title": "The eternal complement",
+          "title_zh": null,
+          "title_en": "The eternal complement",
+          "title_original": "The eternal complement",
+          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-eternal-complement",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
+          "title": "The eternal complement",
+          "title_zh": null,
+          "title_en": "The eternal complement",
+          "title_original": "The eternal complement",
+          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-eternal-complement",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9633,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T17:00:00Z",
+      "latest_at": "2026-10-01T17:00:00Z",
+      "primary_item": {
+        "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
+        "title": "The eternal complement",
+        "title_zh": null,
+        "title_en": "The eternal complement",
+        "title_original": "The eternal complement",
+        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-eternal-complement",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_8116becccb3e",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "primary_url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": null,
+          "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": null,
+          "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9495,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T16:00:00Z",
+      "latest_at": "2026-10-01T16:00:00Z",
+      "primary_item": {
+        "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+        "title": "How Albertsons Companies is reimagining retail from the inside out",
+        "title_zh": null,
+        "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+        "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+        "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/albertsons-reimagining-retail",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_d6a6f0dfce45",
+      "title": "Actions retention now covers checks, runs, and statuses",
+      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+      "primary_url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd680e642074865eae97e27770212465ae6180e3",
+          "title": "Actions retention now covers checks, runs, and statuses",
+          "title_zh": null,
+          "title_en": "Actions retention now covers checks, runs, and statuses",
+          "title_original": "Actions retention now covers checks, runs, and statuses",
+          "summary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:59:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bd680e642074865eae97e27770212465ae6180e3",
+          "title": "Actions retention now covers checks, runs, and statuses",
+          "title_zh": null,
+          "title_en": "Actions retention now covers checks, runs, and statuses",
+          "title_original": "Actions retention now covers checks, runs, and statuses",
+          "summary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:59:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9773,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T17:59:54Z",
+      "latest_at": "2026-10-01T17:59:54Z",
+      "primary_item": {
+        "id": "bd680e642074865eae97e27770212465ae6180e3",
+        "title": "Actions retention now covers checks, runs, and statuses",
+        "title_zh": null,
+        "title_en": "Actions retention now covers checks, runs, and statuses",
+        "title_original": "Actions retention now covers checks, runs, and statuses",
+        "summary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
@@ -86,7 +434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
@@ -134,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.766,
+        "recency": 0.7116,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +522,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_a804da4308ce",
+      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
+      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "primary_url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
+          "title_zh": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+          "title_en": "You can now mod Claude Code:",
+          "title_original": "You can now mod Claude Code:",
+          "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:08:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
+          "title_zh": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+          "title_en": "You can now mod Claude Code:",
+          "title_original": "You can now mod Claude Code:",
+          "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:08:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9792,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T18:08:07Z",
+      "latest_at": "2026-10-01T18:08:07Z",
+      "primary_item": {
+        "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+        "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
+        "title_zh": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+        "title_en": "You can now mod Claude Code:",
+        "title_original": "You can now mod Claude Code:",
+        "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_e4ed42a08a07",
+      "title": "Code coverage uploads no longer fail CI for new branches",
+      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "primary_url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+          "title": "Code coverage uploads no longer fail CI for new branches",
+          "title_zh": null,
+          "title_en": "Code coverage uploads no longer fail CI for new branches",
+          "title_original": "Code coverage uploads no longer fail CI for new branches",
+          "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull requ…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+          "title": "Code coverage uploads no longer fail CI for new branches",
+          "title_zh": null,
+          "title_en": "Code coverage uploads no longer fail CI for new branches",
+          "title_original": "Code coverage uploads no longer fail CI for new branches",
+          "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull requ…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9608,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T16:49:05Z",
+      "latest_at": "2026-10-01T16:49:05Z",
+      "primary_item": {
+        "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+        "title": "Code coverage uploads no longer fail CI for new branches",
+        "title_zh": null,
+        "title_en": "Code coverage uploads no longer fail CI for new branches",
+        "title_original": "Code coverage uploads no longer fail CI for new branches",
+        "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull requ…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
@@ -222,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.966,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -262,30 +784,207 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
-      "story_id": "story_3dc27c9fc0cd",
-      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "story_id": "story_6b623c4d0459",
+      "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+      "url": "https://x.com/arena/status/2105702037849841954",
+      "primary_url": "https://x.com/arena/status/2105702037849841954",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_zh": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_original": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105702037849841954",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T16:51:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_zh": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_original": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105702037849841954",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T16:51:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9612,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T16:51:02Z",
+      "latest_at": "2026-10-01T16:51:02Z",
+      "primary_item": {
+        "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+        "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+        "title_zh": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+        "title_en": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+        "title_original": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+        "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2105702037849841954",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "evaluation",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_efca02b8eca0",
+      "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness",
+      "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+      "primary_url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+      "source": "LangChain：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3f7bac22c6aec30c016f6ac716501b8580b0cd88",
+          "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness",
+          "title_zh": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+          "title_en": "How to Build a Model Router in the Harness",
+          "title_original": "How to Build a Model Router in the Harness",
+          "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
+          "recommend_reason_zh": null,
+          "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T17:01:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3f7bac22c6aec30c016f6ac716501b8580b0cd88",
+          "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness",
+          "title_zh": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+          "title_en": "How to Build a Model Router in the Harness",
+          "title_original": "How to Build a Model Router in the Harness",
+          "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
+          "recommend_reason_zh": null,
+          "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T17:01:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9637,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T17:01:32Z",
+      "latest_at": "2026-10-01T17:01:32Z",
+      "primary_item": {
+        "id": "3f7bac22c6aec30c016f6ac716501b8580b0cd88",
+        "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness",
+        "title_zh": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+        "title_en": "How to Build a Model Router in the Harness",
+        "title_original": "How to Build a Model Router in the Harness",
+        "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
+        "recommend_reason_zh": null,
+        "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+        "source": "LangChain：Blog（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "ai-coding",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_ca15d7ba627d",
+      "title": "Scheduled code scanning skips inactive repositories",
+      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g.",
+          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+          "title": "Scheduled code scanning skips inactive repositories",
+          "title_zh": null,
+          "title_en": "Scheduled code scanning skips inactive repositories",
+          "title_original": "Scheduled code scanning skips inactive repositories",
+          "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than co…",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
+          "published_at": "2026-10-01T16:49:15Z"
         }
       ],
       "source_count": 1,
@@ -294,31 +993,31 @@
       ],
       "items": [
         {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g.",
+          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+          "title": "Scheduled code scanning skips inactive repositories",
+          "title_zh": null,
+          "title_en": "Scheduled code scanning skips inactive repositories",
+          "title_original": "Scheduled code scanning skips inactive repositories",
+          "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than co…",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
+          "published_at": "2026-10-01T16:49:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7774,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "official",
@@ -327,114 +1026,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T21:03:09Z",
-      "latest_at": "2026-09-30T21:03:09Z",
+      "earliest_at": "2026-10-01T16:49:15Z",
+      "latest_at": "2026-10-01T16:49:15Z",
       "primary_item": {
-        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-        "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-        "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-        "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-        "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g.",
+        "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+        "title": "Scheduled code scanning skips inactive repositories",
+        "title_zh": null,
+        "title_en": "Scheduled code scanning skips inactive repositories",
+        "title_original": "Scheduled code scanning skips inactive repositories",
+        "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than co…",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+        "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
-        "topics": []
+        "topics": [
+          "ai-coding"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_0d7ed6e47e0a",
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7129,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T15:03:07Z",
-      "latest_at": "2026-09-30T15:03:07Z",
-      "primary_item": {
-        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-        "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-        "title_en": "Introducing SynthID Bio",
-        "title_original": "Introducing SynthID Bio",
-        "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-synthid-bio",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
@@ -511,22 +1126,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8687,
+        "recency": 0.807,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T04:44:34Z",
       "latest_at": "2026-10-01T04:44:34Z",
@@ -551,95 +1165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_543034a71340",
-      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-      "url": "https://x.com/arena/status/2105411271525052418",
-      "primary_url": "https://x.com/arena/status/2105411271525052418",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T21:35:38Z",
-      "latest_at": "2026-09-30T21:35:38Z",
-      "primary_item": {
-        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-        "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2105411271525052418",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "evaluation",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
@@ -687,15 +1213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7786,
+        "recency": 0.7233,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,7 +1252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
@@ -774,15 +1300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7696,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,7 +1339,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
+      }
+    },
+    {
+      "story_id": "story_5548434c147f",
+      "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
+      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
+      "primary_url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c7ec9dce9a21dbd241c0fd74bfe26b174b11d1da",
+          "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
+          "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+          "title_en": "Getting started with Claude Code mods",
+          "title_original": "Getting started with Claude Code mods",
+          "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Claude.dev 开发者博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c7ec9dce9a21dbd241c0fd74bfe26b174b11d1da",
+          "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
+          "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+          "title_en": "Getting started with Claude Code mods",
+          "title_original": "Getting started with Claude Code mods",
+          "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8962,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T12:00:00Z",
+      "latest_at": "2026-10-01T12:00:00Z",
+      "primary_item": {
+        "id": "c7ec9dce9a21dbd241c0fd74bfe26b174b11d1da",
+        "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
+        "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+        "title_en": "Getting started with Claude Code mods",
+        "title_original": "Getting started with Claude Code mods",
+        "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
+        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
@@ -861,15 +1474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9599,
+        "recency": 0.8918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -897,183 +1510,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
-      "story_id": "story_f6fd9117b396",
-      "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-      "source": "Ars Technica：AI（RSS）",
+      "story_id": "story_708891e813ee",
+      "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9 / MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+      "url": "https://x.com/arena/status/2105733983250301224",
+      "primary_url": "https://x.com/arena/status/2105733983250301224",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
-          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-          "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+          "id": "39b203bef17eae3f8d7f26f6b089fd3a9dc2439f",
+          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9 / MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+          "title_zh": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+          "title_en": "MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+          "title_original": "MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+          "summary": "Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://x.com/arena/status/2105733983250301224",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T18:47:01Z"
+          "published_at": "2026-10-01T18:57:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ars Technica：AI（RSS）"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
-          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-          "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+          "id": "39b203bef17eae3f8d7f26f6b089fd3a9dc2439f",
+          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9 / MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+          "title_zh": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+          "title_en": "MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+          "title_original": "MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+          "summary": "Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://x.com/arena/status/2105733983250301224",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T18:47:01Z"
+          "published_at": "2026-10-01T18:57:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7523,
+        "recency": 0.991,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-30T18:47:01Z",
-      "latest_at": "2026-09-30T18:47:01Z",
+      "earliest_at": "2026-10-01T18:57:58Z",
+      "latest_at": "2026-10-01T18:57:58Z",
       "primary_item": {
-        "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
-        "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-        "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-        "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-        "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-        "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+        "id": "39b203bef17eae3f8d7f26f6b089fd3a9dc2439f",
+        "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9 / MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+        "title_zh": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+        "title_en": "MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+        "title_original": "MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+        "summary": "Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。",
         "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-        "source": "Ars Technica：AI（RSS）",
+        "url": "https://x.com/arena/status/2105733983250301224",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
         "topics": [
           "agents",
-          "models"
+          "open-source-models",
+          "evaluation"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_a67dcb1766e6",
-      "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-          "title_zh": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-          "title_zh": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T14:31:19Z",
-      "latest_at": "2026-09-30T14:31:19Z",
-      "primary_item": {
-        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-        "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-        "title_zh": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
-        "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-        "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-        "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding",
-          "research"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
@@ -1121,15 +1647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,200 +1685,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     },
     {
-      "story_id": "story_964372c367be",
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "title_en": "Confidence Thresholds for Model Escalation Routing",
-          "title_original": "Confidence Thresholds for Model Escalation Routing",
-          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "title_en": "Confidence Thresholds for Model Escalation Routing",
-          "title_original": "Confidence Thresholds for Model Escalation Routing",
-          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8112,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
-      "primary_item": {
-        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-        "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-        "title_en": "Confidence Thresholds for Model Escalation Routing",
-        "title_original": "Confidence Thresholds for Model Escalation Routing",
-        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_68bad53a3f25",
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T16:20:04Z",
-      "latest_at": "2026-09-30T16:20:04Z",
-      "primary_item": {
-        "id": "642e8da577619291348e2e74443467b30fe57f10",
-        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-        "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_0cb3c1ba901d",
-      "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "story_id": "story_714f9dbcfc64",
+      "title": "New dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+      "primary_url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
-          "title_en": "GitHub Advanced Security trials for GitHub Team",
-          "title_original": "GitHub Advanced Security trials for GitHub Team",
-          "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection.",
+          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
+          "title": "New dashboard experience now the default",
+          "title_zh": null,
+          "title_en": "New dashboard experience now the default",
+          "title_original": "New dashboard experience now the default",
+          "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-10-01T16:14:56Z"
         }
       ],
       "source_count": 1,
@@ -1361,31 +1717,31 @@
       ],
       "items": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
-          "title_en": "GitHub Advanced Security trials for GitHub Team",
-          "title_original": "GitHub Advanced Security trials for GitHub Team",
-          "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection.",
+          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
+          "title": "New dashboard experience now the default",
+          "title_zh": null,
+          "title_en": "New dashboard experience now the default",
+          "title_original": "New dashboard experience now the default",
+          "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-10-01T16:14:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7312,
+        "recency": 0.9529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1394,17 +1750,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T16:48:24Z",
-      "latest_at": "2026-09-30T16:48:24Z",
+      "earliest_at": "2026-10-01T16:14:56Z",
+      "latest_at": "2026-10-01T16:14:56Z",
       "primary_item": {
-        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-        "title_zh": "GitHub 团队的 GitHub 高级安全试用",
-        "title_en": "GitHub Advanced Security trials for GitHub Team",
-        "title_original": "GitHub Advanced Security trials for GitHub Team",
-        "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection.",
+        "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
+        "title": "New dashboard experience now the default",
+        "title_zh": null,
+        "title_en": "New dashboard experience now the default",
+        "title_original": "New dashboard experience now the default",
+        "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone.",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
@@ -1415,463 +1771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_cd6e0cb477c0",
-      "title": "据报道，谷歌测试向出版商支付人工智能搜索结果 / Google reportedly tests paying publishers for AI search results",
-      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "primary_url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "7e9bb78397d9a041c5e85b2a7062bea4d7206c0b",
-          "title": "据报道，谷歌测试向出版商支付人工智能搜索结果 / Google reportedly tests paying publishers for AI search results",
-          "title_zh": "据报道，谷歌测试向出版商支付人工智能搜索结果",
-          "title_en": "Google reportedly tests paying publishers for AI search results",
-          "title_original": "Google reportedly tests paying publishers for AI search results",
-          "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information.",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T14:51:49Z"
-        },
-        {
-          "id": "b73e41acda34a4ccca96bc1bef28ac33bfdcd46f",
-          "title": "据报道，谷歌正在测试付费出版商的人工智能搜索结果 / Google Reportedly Tests Paying Publishers For AI Search Results",
-          "title_zh": "据报道，谷歌正在测试付费出版商的人工智能搜索结果",
-          "title_en": "Google Reportedly Tests Paying Publishers For AI Search Results",
-          "title_original": "Google Reportedly Tests Paying Publishers For AI Search Results",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tech.slashdot.org/story/26/09/30/1851246/google-reportedly-tests-paying-publishers-for-ai-search-results",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T20:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot",
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "7e9bb78397d9a041c5e85b2a7062bea4d7206c0b",
-          "title": "据报道，谷歌测试向出版商支付人工智能搜索结果 / Google reportedly tests paying publishers for AI search results",
-          "title_zh": "据报道，谷歌测试向出版商支付人工智能搜索结果",
-          "title_en": "Google reportedly tests paying publishers for AI search results",
-          "title_original": "Google reportedly tests paying publishers for AI search results",
-          "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information.",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T14:51:49Z"
-        },
-        {
-          "id": "b73e41acda34a4ccca96bc1bef28ac33bfdcd46f",
-          "title": "据报道，谷歌正在测试付费出版商的人工智能搜索结果 / Google Reportedly Tests Paying Publishers For AI Search Results",
-          "title_zh": "据报道，谷歌正在测试付费出版商的人工智能搜索结果",
-          "title_en": "Google Reportedly Tests Paying Publishers For AI Search Results",
-          "title_original": "Google Reportedly Tests Paying Publishers For AI Search Results",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tech.slashdot.org/story/26/09/30/1851246/google-reportedly-tests-paying-publishers-for-ai-search-results",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T20:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T14:51:49Z",
-      "latest_at": "2026-09-30T20:00:00Z",
-      "primary_item": {
-        "id": "7e9bb78397d9a041c5e85b2a7062bea4d7206c0b",
-        "title": "据报道，谷歌测试向出版商支付人工智能搜索结果 / Google reportedly tests paying publishers for AI search results",
-        "title_zh": "据报道，谷歌测试向出版商支付人工智能搜索结果",
-        "title_en": "Google reportedly tests paying publishers for AI search results",
-        "title_original": "Google reportedly tests paying publishers for AI search results",
-        "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information.",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-        "source": "The Verge",
-        "source_name": "Curated Media",
-        "source_tier": "ai_media",
-        "source_tier_label": "精选AI媒体",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_bee292fea2f8",
-      "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-      "primary_url": "https://artificialanalysis.ai/models/gemini-4-argon",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T09:56:37.532000Z"
-        },
-        {
-          "id": "41e67b622a3d0b616dab870275c9e4c56122bd4c",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_original": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T20:50:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T09:56:37.532000Z"
-        },
-        {
-          "id": "41e67b622a3d0b616dab870275c9e4c56122bd4c",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_original": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T20:50:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9364,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T20:50:28Z",
-      "latest_at": "2026-10-01T09:56:37.532000Z",
-      "primary_item": {
-        "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
-        "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-        "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-        "title_en": null,
-        "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_32097c696fea",
-      "title": "CS240 人工智能作弊事件回顾",
-      "url": "https://turkeyland.net/thoughts/ai.php",
-      "primary_url": "https://turkeyland.net/thoughts/ai.php",
-      "source": "turkeyland.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c7c1f12a5de472ab2e68468becda124888f7cad6",
-          "title": "CS240 人工智能作弊事件回顾",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": null,
-          "title_original": "CS240 人工智能作弊事件回顾",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "turkeyland.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T02:53:17.701000Z"
-        },
-        {
-          "id": "4a6f4a457394ed07b7f52d8387644e29bd2387b1",
-          "title": "CS240 人工智能作弊事件回顾 / CS240 AI Cheating Retrospective",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": "CS240 AI Cheating Retrospective",
-          "title_original": "CS240 AI Cheating Retrospective",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T19:54:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "turkeyland.net"
-      ],
-      "items": [
-        {
-          "id": "c7c1f12a5de472ab2e68468becda124888f7cad6",
-          "title": "CS240 人工智能作弊事件回顾",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": null,
-          "title_original": "CS240 人工智能作弊事件回顾",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "turkeyland.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T02:53:17.701000Z"
-        },
-        {
-          "id": "4a6f4a457394ed07b7f52d8387644e29bd2387b1",
-          "title": "CS240 人工智能作弊事件回顾 / CS240 AI Cheating Retrospective",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": "CS240 AI Cheating Retrospective",
-          "title_original": "CS240 AI Cheating Retrospective",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T19:54:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.518,
-      "importance": 0.518,
-      "importance_score": 0.518,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8457,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T19:54:29Z",
-      "latest_at": "2026-10-01T02:53:17.701000Z",
-      "primary_item": {
-        "id": "c7c1f12a5de472ab2e68468becda124888f7cad6",
-        "title": "CS240 人工智能作弊事件回顾",
-        "title_zh": "CS240 人工智能作弊事件回顾",
-        "title_en": null,
-        "title_original": "CS240 人工智能作弊事件回顾",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://turkeyland.net/thoughts/ai.php",
-        "source": "turkeyland.net",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
-      }
-    },
-    {
-      "story_id": "story_923586ffcb36",
-      "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "primary_url": "https://github.com/magnitudedev/magnitude",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cfb12d644d816d0f5105e19b39800db6b6f2be37",
-          "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_en": null,
-          "title_original": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/magnitudedev/magnitude",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T22:11:06.205000Z"
-        },
-        {
-          "id": "815d255cede2247f0db24811d0af1799e8e7dfbb",
-          "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/magnitudedev/magnitude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T17:37:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "cfb12d644d816d0f5105e19b39800db6b6f2be37",
-          "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_en": null,
-          "title_original": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/magnitudedev/magnitude",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T22:11:06.205000Z"
-        },
-        {
-          "id": "815d255cede2247f0db24811d0af1799e8e7dfbb",
-          "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/magnitudedev/magnitude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T17:37:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7902,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T17:37:40Z",
-      "latest_at": "2026-09-30T22:11:06.205000Z",
-      "primary_item": {
-        "id": "cfb12d644d816d0f5105e19b39800db6b6f2be37",
-        "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-        "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-        "title_en": null,
-        "title_original": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/magnitudedev/magnitude",
-        "source": "github.com",
-        "source_name": "Buzzing",
-        "source_tier": "discussion",
-        "source_tier_label": "热议参考",
-        "topics": [
-          "agents"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:30:12.465073Z"
+        "scored_at": "2026-10-01T19:52:42.327616Z"
       }
     }
   ]
