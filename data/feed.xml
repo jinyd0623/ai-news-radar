@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 02:11:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 07:11:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -16,7 +16,7 @@
 <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
 </item>
 <item>
-<title>Opt-in dist-tag permissions for npm trusted publishing</title>
+<title>选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing</title>
 <link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
 <description>Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g.（GitHub Changelog）</description>
@@ -32,7 +32,7 @@
 <pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
 </item>
 <item>
-<title>HydraFusion in VS Code and the GitHub Copilot app</title>
+<title>VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app</title>
 <link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
 <description>The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.（GitHub Changelog）</description>
@@ -56,6 +56,14 @@
 <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
+<title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
+<link>https://x.com/thsottiaux/status/2105519215092584786</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2105519215092584786</guid>
+<description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。（X：Tibo (@thsottiaux)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
+</item>
+<item>
 <title>Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...</title>
 <link>https://x.com/arena/status/2105411271525052418</link>
 <guid isPermaLink="true">https://x.com/arena/status/2105411271525052418</guid>
@@ -72,20 +80,20 @@
 <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
 </item>
 <item>
-<title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
-<link>https://x.com/ArtificialAnlys/status/2105392625788637299</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105392625788637299</guid>
-<description>Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 20:21:32 +0000</pubDate>
-</item>
-<item>
 <title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
 <link>https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</link>
 <guid isPermaLink="true">https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</guid>
 <description>FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
+<link>https://x.com/ArtificialAnlys/status/2105392625788637299</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105392625788637299</guid>
+<description>Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 20:21:32 +0000</pubDate>
 </item>
 <item>
 <title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves</title>
@@ -96,7 +104,7 @@
 <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Advanced Security trials for GitHub Team</title>
+<title>GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team</title>
 <link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
 <description>GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection.（GitHub Changelog）</description>
@@ -144,20 +152,12 @@
 <pubDate>Wed, 30 Sep 2026 17:25:30 +0000</pubDate>
 </item>
 <item>
-<title>X25519-only TLS ends for GHE.com on October 7</title>
+<title>GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束 / X25519-only TLS ends for GHE.com on October 7</title>
 <link>https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15</guid>
 <description>Beginning October 7, 2026, GitHub Enterprise Cloud with data residency will no longer accept TLS connections from clients that offer only X25519 for key agreem…（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 13:30:24 +0000</pubDate>
-</item>
-<item>
-<title>蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500</guid>
-<description>蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。（公众号：蚂蚁百灵（Ling））</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 12:30:49 +0000</pubDate>
 </item>
 <item>
 <title>OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models</title>
