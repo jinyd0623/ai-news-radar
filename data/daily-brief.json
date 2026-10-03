@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T02:02:37.770397Z",
+  "generated_at": "2026-10-03T08:12:10.038167Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8681,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -88,7 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -136,15 +136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9063,
+        "recency": 0.8292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -176,7 +176,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -224,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8567,
+        "recency": 0.7838,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,7 +264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -312,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8526,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "official",
@@ -350,7 +350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -398,15 +398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8526,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "official",
@@ -436,7 +436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -484,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9475,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
+      }
+    },
+    {
+      "story_id": "story_97d81b2ddd17",
+      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "url": "https://www.ithome.com/1/009/444.htm",
+      "primary_url": "https://www.ithome.com/1/009/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.973,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T06:18:38Z",
+      "latest_at": "2026-10-03T06:18:38Z",
+      "primary_item": {
+        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_en": null,
+        "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/009/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -570,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8526,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "official",
@@ -610,96 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
-      }
-    },
-    {
-      "story_id": "story_7d80f29039e4",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_zh": null,
-          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_zh": null,
-          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7276,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T04:01:31Z",
-      "latest_at": "2026-10-02T04:01:31Z",
-      "primary_item": {
-        "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "title_zh": null,
-        "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents",
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -747,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9058,
+        "recency": 0.8287,
         "story_heat": 0.0
       },
       "category": "official",
@@ -786,7 +785,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -834,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8956,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -874,7 +873,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -922,21 +921,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8734,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T16:40:10.672736Z",
       "latest_at": "2026-10-02T16:40:10.672736Z",
@@ -963,7 +961,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -1011,21 +1009,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8361,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T19:48:16Z",
       "latest_at": "2026-10-02T19:48:16Z",
@@ -1052,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -1100,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1136,263 +1133,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
-      }
-    },
-    {
-      "story_id": "story_ba641315d711",
-      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7638,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T07:23:13Z",
-      "latest_at": "2026-10-02T07:23:13Z",
-      "primary_item": {
-        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
-      }
-    },
-    {
-      "story_id": "story_2987cb363021",
-      "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-      "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "primary_url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "source": "Baseten 工程博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "title_en": "Agentic inference optimization: 50-90% faster engines",
-          "title_original": "Agentic inference optimization: 50-90% faster engines",
-          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
-          "recommend_reason_zh": null,
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Baseten 工程博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "title_en": "Agentic inference optimization: 50-90% faster engines",
-          "title_original": "Agentic inference optimization: 50-90% faster engines",
-          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
-          "recommend_reason_zh": null,
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9319,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T21:09:34Z",
-      "latest_at": "2026-10-02T21:09:34Z",
-      "primary_item": {
-        "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-        "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-        "title_en": "Agentic inference optimization: 50-90% faster engines",
-        "title_original": "Agentic inference optimization: 50-90% faster engines",
-        "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
-        "recommend_reason_zh": null,
-        "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-        "source": "Baseten 工程博客（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "ai-coding",
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
-      }
-    },
-    {
-      "story_id": "story_fb1107e372ac",
-      "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "primary_url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8637,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T15:53:39Z",
-      "latest_at": "2026-10-02T15:53:39Z",
-      "primary_item": {
-        "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-        "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-        "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-        "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-        "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-        "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GoogleAI/status/2106049984164463069",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -1440,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8319,
+        "recency": 0.7611,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1478,180 +1219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
-      }
-    },
-    {
-      "story_id": "story_3a793ac15e27",
-      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-      "url": "https://www.primeintellect.ai/blog/prime-inference",
-      "primary_url": "https://www.primeintellect.ai/blog/prime-inference",
-      "source": "Prime Intellect（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-          "recommend_reason_zh": null,
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Prime Intellect（网页）"
-      ],
-      "items": [
-        {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-          "recommend_reason_zh": null,
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9343,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T21:20:08.794682Z",
-      "latest_at": "2026-10-02T21:20:08.794682Z",
-      "primary_item": {
-        "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-        "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-        "recommend_reason_zh": null,
-        "url": "https://www.primeintellect.ai/blog/prime-inference",
-        "source": "Prime Intellect（网页）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
-      }
-    },
-    {
-      "story_id": "story_d023c4690eff",
-      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8284,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T13:00:39Z",
-      "latest_at": "2026-10-02T13:00:39Z",
-      "primary_item": {
-        "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-        "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     },
     {
@@ -1699,15 +1267,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9107,
+        "recency": 0.8332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,7 +1307,522 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T02:03:26.085737Z"
+        "scored_at": "2026-10-03T08:12:53.713335Z"
+      }
+    },
+    {
+      "story_id": "story_8251eed32ade",
+      "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7606,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
+      "primary_item": {
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+        "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+        "title_en": "Repository security advisory comments API in public preview",
+        "title_original": "Repository security advisory comments API in public preview",
+        "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T08:12:53.713335Z"
+      }
+    },
+    {
+      "story_id": "story_7ba973037a20",
+      "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
+          "title_en": "Confidential comments on repository security advisories",
+          "title_original": "Confidential comments on repository security advisories",
+          "summary": "You can now post confidential comments on repository security advisories.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
+          "title_en": "Confidential comments on repository security advisories",
+          "title_original": "Confidential comments on repository security advisories",
+          "summary": "You can now post confidential comments on repository security advisories.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7607,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:40Z",
+      "latest_at": "2026-10-02T13:15:40Z",
+      "primary_item": {
+        "id": "75d3ae652733e012708727418c039e9c82d67827",
+        "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+        "title_zh": "关于代码仓库安全建议的机密评论",
+        "title_en": "Confidential comments on repository security advisories",
+        "title_original": "Confidential comments on repository security advisories",
+        "summary": "You can now post confidential comments on repository security advisories.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T08:12:53.713335Z"
+      }
+    },
+    {
+      "story_id": "story_2b013d60b571",
+      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files,…",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files,…",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6158,
+      "importance": 0.6158,
+      "importance_score": 0.6158,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8168,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T18:11:27Z",
+      "latest_at": "2026-10-02T19:03:03Z",
+      "primary_item": {
+        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+        "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files,…",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media",
+        "source_tier": "ai_media",
+        "source_tier_label": "精选AI媒体",
+        "topics": [
+          "agents"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T08:12:53.713335Z"
+      }
+    },
+    {
+      "story_id": "story_3ddeafd1667e",
+      "title": "Show HN: 开发了一个开源的乐高AI生成器",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "primary_url": "https://github.com/anteloc/ldraw-nova",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器",
+          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
+          "title_en": null,
+          "title_original": "Show HN: 开发了一个开源的乐高AI生成器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T06:39:44.372000Z"
+        },
+        {
+          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
+          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
+          "title_en": "Show HN: Made an open-source Lego AI generator",
+          "title_original": "Show HN: Made an open-source Lego AI generator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T20:00:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器",
+          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
+          "title_en": null,
+          "title_original": "Show HN: 开发了一个开源的乐高AI生成器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T06:39:44.372000Z"
+        },
+        {
+          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
+          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
+          "title_en": "Show HN: Made an open-source Lego AI generator",
+          "title_original": "Show HN: Made an open-source Lego AI generator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T20:00:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.978,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T20:00:15Z",
+      "latest_at": "2026-10-03T06:39:44.372000Z",
+      "primary_item": {
+        "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+        "title": "Show HN: 开发了一个开源的乐高AI生成器",
+        "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
+        "title_en": null,
+        "title_original": "Show HN: 开发了一个开源的乐高AI生成器",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T08:12:53.713335Z"
+      }
+    },
+    {
+      "story_id": "story_71cae9cfd0ac",
+      "title": "Muse 智能设备",
+      "url": "https://gadgets.muse.ai",
+      "primary_url": "https://gadgets.muse.ai",
+      "source": "gadgets.muse.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
+          "title": "Muse 智能设备",
+          "title_zh": "Muse 智能设备",
+          "title_en": null,
+          "title_original": "Muse 智能设备",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gadgets.muse.ai",
+          "source": "gadgets.muse.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T00:08:54.342000Z"
+        },
+        {
+          "id": "3a02e275df0561b880a8616ca526012e10f24a23",
+          "title": "Muse 智能设备 / Muse Gadgets",
+          "title_zh": "Muse 智能设备",
+          "title_en": "Muse Gadgets",
+          "title_original": "Muse Gadgets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gadgets.muse.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:26:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "gadgets.muse.ai"
+      ],
+      "items": [
+        {
+          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
+          "title": "Muse 智能设备",
+          "title_zh": "Muse 智能设备",
+          "title_en": null,
+          "title_original": "Muse 智能设备",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gadgets.muse.ai",
+          "source": "gadgets.muse.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T00:08:54.342000Z"
+        },
+        {
+          "id": "3a02e275df0561b880a8616ca526012e10f24a23",
+          "title": "Muse 智能设备 / Muse Gadgets",
+          "title_zh": "Muse 智能设备",
+          "title_en": "Muse Gadgets",
+          "title_original": "Muse Gadgets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gadgets.muse.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:26:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8902,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T19:26:54Z",
+      "latest_at": "2026-10-03T00:08:54.342000Z",
+      "primary_item": {
+        "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
+        "title": "Muse 智能设备",
+        "title_zh": "Muse 智能设备",
+        "title_en": null,
+        "title_original": "Muse 智能设备",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://gadgets.muse.ai",
+        "source": "gadgets.muse.ai",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T08:12:53.713335Z"
       }
     }
   ]
