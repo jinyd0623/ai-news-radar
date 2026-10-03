@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:12:10.038167Z",
+  "generated_at": "2026-10-03T10:27:05.489382Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7942,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -88,95 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
-      }
-    },
-    {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8292,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
-      "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-        "title_en": "Copilot code review: API support and new default effort level",
-        "title_original": "Copilot code review: API support and new default effort level",
-        "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "ai-coding"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -224,15 +136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7838,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,7 +176,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
+      }
+    },
+    {
+      "story_id": "story_cc4a44476dc4",
+      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8027,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:13:50Z",
+      "latest_at": "2026-10-02T19:13:50Z",
+      "primary_item": {
+        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
+        "title_en": "Copilot code review: API support and new default effort level",
+        "title_original": "Copilot code review: API support and new default effort level",
+        "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -312,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.78,
+        "recency": 0.7551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -350,7 +350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -398,15 +398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.78,
+        "recency": 0.7551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -436,7 +436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -484,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8668,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -570,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.78,
+        "recency": 0.7551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -698,7 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -746,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "official",
@@ -785,7 +785,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -833,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8194,
+        "recency": 0.7932,
         "story_heat": 0.0
       },
       "category": "official",
@@ -873,7 +873,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -921,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -961,7 +961,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1009,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.8094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1049,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1097,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.7899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1133,7 +1133,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1181,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7611,
+        "recency": 0.7368,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1219,7 +1219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1267,15 +1267,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8332,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1307,7 +1307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1355,15 +1355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7606,
+        "recency": 0.7363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1393,7 +1393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1441,15 +1441,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7607,
+        "recency": 0.7364,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1479,7 +1479,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1556,15 +1556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
+      "score": 0.6111,
+      "importance": 0.6111,
+      "importance_score": 0.6111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8168,
+        "recency": 0.7907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1594,7 +1594,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1671,15 +1671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.978,
+        "recency": 0.9468,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1709,7 +1709,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     },
     {
@@ -1786,15 +1786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1822,7 +1822,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T08:12:53.713335Z"
+        "scored_at": "2026-10-03T10:27:47.215491Z"
       }
     }
   ]
