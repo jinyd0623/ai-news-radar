@@ -5,15 +5,15 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 19:56:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 23:47:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out</title>
-<link>https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</guid>
-<description>The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete.（GitHub Changelog）</description>
+<title>Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.</title>
+<link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
+<pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
 </item>
 <item>
 <title>LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023</title>
@@ -22,6 +22,14 @@
 <description>LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。（LMSYS：Blog（Chatbot Arena 团队））</description>
 <category>行业动态</category>
 <pubDate>Sat, 03 Oct 2026 19:56:50 +0000</pubDate>
+</item>
+<item>
+<title>Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.</title>
+<link>https://x.com/rohanpaul_ai/status/2106502600703222202</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2106502600703222202</guid>
+<description>Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 21:52:11 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布闭源模型 GPT-6.1 Sol，定价为输入 $2 / 输出 $10 每 1M tokens / GPT-6.1 Sol</title>
@@ -88,6 +96,22 @@
 <pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
 </item>
 <item>
+<title>在 Claude 和 Claude Code 中充分利用 Opus 5.5</title>
+<link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5</link>
+<guid isPermaLink="true">https://claude.dev/blog/getting-the-most-out-of-opus-5-5</guid>
+<description>claude.dev</description>
+<category>值得关注</category>
+<pubDate>Sat, 03 Oct 2026 22:31:58 +0000</pubDate>
+</item>
+<item>
+<title>我离开OpenAI，因为它的企业文化已经崩坏</title>
+<link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881</link>
+<guid isPermaLink="true">https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881</guid>
+<description>www.theatlantic.com</description>
+<category>值得关注</category>
+<pubDate>Sat, 03 Oct 2026 21:45:54 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 发布 Claude Opus 5.5，ECI 得分 167 排名第一 / Claude Opus 5.5</title>
 <link>https://epoch.ai/models/claude-opus-5-5</link>
 <guid isPermaLink="true">https://epoch.ai/models/claude-opus-5-5</guid>
@@ -102,14 +126,6 @@
 <description>tej.as</description>
 <category>值得关注</category>
 <pubDate>Sat, 03 Oct 2026 14:44:01 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: 开发了一个开源的乐高AI生成器</title>
-<link>https://github.com/anteloc/ldraw-nova</link>
-<guid isPermaLink="true">https://github.com/anteloc/ldraw-nova</guid>
-<description>github.com</description>
-<category>值得关注</category>
-<pubDate>Sat, 03 Oct 2026 06:39:44 +0000</pubDate>
 </item>
 <item>
 <title>Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价 / Claude Sonnet 4.5</title>
@@ -148,22 +164,6 @@
 <link>https://epoch.ai/models/qwen3-coder-480b-a35b</link>
 <guid isPermaLink="true">https://epoch.ai/models/qwen3-coder-480b-a35b</guid>
 <description>阿里巴巴于 2025 年 7 月 31 日发布开源权重模型 Qwen3-Coder-480B-A35B。（Epoch AI：研究、数据与评测）</description>
-<category>行业动态</category>
-<pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4 Flash 0731 开源发布，ECI 得分 155 / DeepSeek V4 Flash 0731</title>
-<link>https://epoch.ai/models/deepseek-v4-flash-0731</link>
-<guid isPermaLink="true">https://epoch.ai/models/deepseek-v4-flash-0731</guid>
-<description>DeepSeek 于 2026 年 7 月 31 日发布开源权重模型 DeepSeek V4 Flash 0731，ECI 得分 155，在 253 个追踪模型中排名第 32，发布时在 237 个模型中排第 18。（Epoch AI：研究、数据与评测）</description>
-<category>行业动态</category>
-<pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
-</item>
-<item>
-<title>xAI 发布闭源模型 Grok 4.5，Epoch AI 评测 ECI 得分 154</title>
-<link>https://epoch.ai/models/grok-4-5</link>
-<guid isPermaLink="true">https://epoch.ai/models/grok-4-5</guid>
-<description>xAI 于 2026 年 7 月 8 日发布闭源模型 Grok 4.5，Epoch AI 追踪显示其 ECI 得分 154，发布时在 225 个追踪模型中排名第 14，当前在 253 个模型中排第 36。（Epoch AI：研究、数据与评测）</description>
 <category>行业动态</category>
 <pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
 </item>
