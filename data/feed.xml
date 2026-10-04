@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 04 Oct 2026 02:42:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 08:29:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.</title>
@@ -38,14 +38,6 @@
 <description>Epoch AI 收录 OpenAI 于 2026 年 9 月 29 日发布的闭源模型 GPT-6.1 Sol。（Epoch AI：研究、数据与评测）</description>
 <category>行业动态</category>
 <pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
-<link>https://www.ithome.com/1/009/444.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/009/444.htm</guid>
-<description>据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
 </item>
 <item>
 <title>ARC Prize Foundation 推出第二代抽象推理基准 ARC-AGI-2 / ARC-AGI-2</title>
@@ -148,22 +140,6 @@
 <link>https://epoch.ai/models/glm-4-6</link>
 <guid isPermaLink="true">https://epoch.ai/models/glm-4-6</guid>
 <description>Z.ai（智谱 AI）与清华大学于 9 月 30 日发布开源权重模型 GLM-4.6。Epoch AI 数据显示其训练参数量 3.6e11、训练算力 4.4e24 FLOP、训练时长 120 天；在 SciCode 得分 67%，Terminal-Bench 2.0 得分 85%，部分基准高于 GPT-5、Claude Sonnet 4.5 和 Grok 4 等闭源模型的对比成绩。（Epoch AI：研究、数据与评测）</description>
-<category>行业动态</category>
-<pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
-</item>
-<item>
-<title>Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分 / Qwen 3.8 Max</title>
-<link>https://epoch.ai/models/qwen-3-8-max</link>
-<guid isPermaLink="true">https://epoch.ai/models/qwen-3-8-max</guid>
-<description>Alibaba 于 8 月 2 日发布闭源模型 Qwen 3.8 Max，ECI 得分 157，发布时在 238 个追踪模型中排第 12，目前在 253 个模型中排第 20。（Epoch AI：研究、数据与评测）</description>
-<category>行业动态</category>
-<pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
-</item>
-<item>
-<title>Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148 / Qwen 3.6 Plus</title>
-<link>https://epoch.ai/models/qwen-3-6-plus</link>
-<guid isPermaLink="true">https://epoch.ai/models/qwen-3-6-plus</guid>
-<description>Alibaba 于 3 月 31 日发布闭源模型 Qwen 3.6 Plus，ECI 得分 148，发布时在 197 个被追踪模型中排名第 18。（Epoch AI：研究、数据与评测）</description>
 <category>行业动态</category>
 <pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
 </item>
