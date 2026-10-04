@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 23:47:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 02:42:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.</title>
@@ -96,6 +96,14 @@
 <pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI安全负责人辞职，警告称该公司文化“已然失控”</title>
+<link>https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</link>
+<guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</guid>
+<description>www.theguardian.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 04 Oct 2026 01:08:53 +0000</pubDate>
+</item>
+<item>
 <title>在 Claude 和 Claude Code 中充分利用 Opus 5.5</title>
 <link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5</link>
 <guid isPermaLink="true">https://claude.dev/blog/getting-the-most-out-of-opus-5-5</guid>
@@ -156,14 +164,6 @@
 <link>https://epoch.ai/models/qwen-3-6-plus</link>
 <guid isPermaLink="true">https://epoch.ai/models/qwen-3-6-plus</guid>
 <description>Alibaba 于 3 月 31 日发布闭源模型 Qwen 3.6 Plus，ECI 得分 148，发布时在 197 个被追踪模型中排名第 18。（Epoch AI：研究、数据与评测）</description>
-<category>行业动态</category>
-<pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
-</item>
-<item>
-<title>Qwen3-Coder-480B-A35B：阿里于 2025 年 7 月 31 日发布的开源权重编码模型 / Qwen3-Coder-480B-A35B</title>
-<link>https://epoch.ai/models/qwen3-coder-480b-a35b</link>
-<guid isPermaLink="true">https://epoch.ai/models/qwen3-coder-480b-a35b</guid>
-<description>阿里巴巴于 2025 年 7 月 31 日发布开源权重模型 Qwen3-Coder-480B-A35B。（Epoch AI：研究、数据与评测）</description>
 <category>行业动态</category>
 <pubDate>Sat, 03 Oct 2026 15:09:18 +0000</pubDate>
 </item>
