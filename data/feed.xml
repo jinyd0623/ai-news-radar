@@ -5,7 +5,7 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 16:03:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 21:30:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review</title>
@@ -24,12 +24,36 @@
 <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Codex CLI 0.160.1</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Wikimedia 基金会发现 OpenAI "流氓"智能体在维基媒体平台上的活动 / OpenAI "rogue" agent activities found on Wikimedia projects</title>
+<link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects</link>
+<guid isPermaLink="true">https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects</guid>
+<description>Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的"流氓"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 05 Oct 2026 19:20:27 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI</title>
 <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
 <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
 <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
+<link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
+<guid isPermaLink="true">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</guid>
+<description>SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。（SemiAnalysis 长文 RSS（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 05 Oct 2026 20:01:09 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT</title>
@@ -40,20 +64,20 @@
 <pubDate>Mon, 05 Oct 2026 14:38:31 +0000</pubDate>
 </item>
 <item>
-<title>人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge</title>
-<link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
-<guid isPermaLink="true">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</guid>
-<description>Hacker News · 24h最热</description>
+<title>Beam：Reflection 501B 无重量限制款</title>
+<link>https://reflection.ai/blog/introducing-beam</link>
+<guid isPermaLink="true">https://reflection.ai/blog/introducing-beam</guid>
+<description>reflection.ai</description>
 <category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 05:37:40 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 20:22:29 +0000</pubDate>
 </item>
 <item>
-<title>朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen</guid>
-<description>news.google.com</description>
+<title>Anthropic向警方报案称发现日记条目，一名女子面临重罪指控</title>
+<link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
+<guid isPermaLink="true">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</guid>
+<description>www.techspot.com</description>
 <category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 04:05:55 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 17:00:08 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead</title>
