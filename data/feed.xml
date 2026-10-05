@@ -5,8 +5,16 @@
 <link>https://jinyd0623.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 07:05:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 12:20:08 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://jinyd0623.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>为人们使用人工智能的方式制作广告 / Building advertising for the way people use AI</title>
+<link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+<guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
+<description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+</item>
 <item>
 <title>PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills</title>
 <link>https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills</link>
@@ -24,12 +32,12 @@
 <pubDate>Mon, 05 Oct 2026 04:05:55 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索</title>
-<link>https://github.com/allenv0/SCM</link>
-<guid isPermaLink="true">https://github.com/allenv0/SCM</guid>
-<description>github.com</description>
+<title>OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead</title>
+<link>https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead</link>
+<guid isPermaLink="true">https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead</guid>
+<description>Slashdot</description>
 <category>值得关注</category>
-<pubDate>Sun, 04 Oct 2026 19:42:50 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 00:51:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
