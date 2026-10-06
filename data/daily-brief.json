@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:36:04.055437Z",
+  "generated_at": "2026-10-06T12:04:08.038371Z",
   "window_hours": 24,
   "total_items": 18,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8658,
-      "importance": 0.8658,
-      "importance_score": 0.8658,
+      "score": 0.8547,
+      "importance": 0.8547,
+      "importance_score": 0.8547,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9877,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -89,30 +89,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
-      "story_id": "story_45464a737294",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "story_id": "story_ae3c4f5c0420",
+      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.",
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "published_at": "2026-10-06T10:23:38Z"
         }
       ],
       "source_count": 1,
@@ -121,31 +121,31 @@
       ],
       "items": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.",
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view.",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "published_at": "2026-10-06T10:23:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8794,
+        "recency": 0.9761,
         "story_heat": 0.0
       },
       "category": "official",
@@ -154,17 +154,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
       "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.",
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+        "title_en": "Code scanning AI Scan enablement status in security overview",
+        "title_original": "Code scanning AI Scan enablement status in security overview",
+        "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view.",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
@@ -175,97 +175,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
-      }
-    },
-    {
-      "story_id": "story_b4c0a1b83afc",
-      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-          "title_en": "ReviewBench: An open benchmark for AI code review",
-          "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation,…",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-          "title_en": "ReviewBench: An open benchmark for AI code review",
-          "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation,…",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.7982,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T15:59:40Z",
-      "latest_at": "2026-10-05T15:59:40Z",
-      "primary_item": {
-        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-        "title_en": "ReviewBench: An open benchmark for AI code review",
-        "title_original": "ReviewBench: An open benchmark for AI code review",
-        "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation,…",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents",
-          "ai-coding",
-          "evaluation"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -313,15 +223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7868,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "official",
@@ -351,7 +261,183 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
+      }
+    },
+    {
+      "story_id": "story_b4c0a1b83afc",
+      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation,…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation,…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.7483,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+        "title_en": "ReviewBench: An open benchmark for AI code review",
+        "title_original": "ReviewBench: An open benchmark for AI code review",
+        "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation,…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "agents",
+          "ai-coding",
+          "evaluation"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:04:54.631992Z"
+      }
+    },
+    {
+      "story_id": "story_45464a737294",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8245,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -399,15 +485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -438,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -515,15 +601,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8204,
+        "recency": 0.7691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -555,7 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -603,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9132,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -640,93 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
-      }
-    },
-    {
-      "story_id": "story_aec85adef32a",
-      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "primary_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "title_en": "Building advertising for the way people use AI",
-          "title_original": "Building advertising for the way people use AI",
-          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "title_en": "Building advertising for the way people use AI",
-          "title_original": "Building advertising for the way people use AI",
-          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.732,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T10:00:00Z",
-      "latest_at": "2026-10-05T10:00:00Z",
-      "primary_item": {
-        "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-        "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-        "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-        "title_en": "Building advertising for the way people use AI",
-        "title_original": "Building advertising for the way people use AI",
-        "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -774,21 +774,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.8713,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T02:31:56Z",
       "latest_at": "2026-10-06T02:31:56Z",
@@ -813,95 +812,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
-      }
-    },
-    {
-      "story_id": "story_6d96ce488e8a",
-      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "primary_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "source": "Latent Space（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
-          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:28:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Latent Space（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
-          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:28:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9839,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T06:28:43Z",
-      "latest_at": "2026-10-06T06:28:43Z",
-      "primary_item": {
-        "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
-        "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-        "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-        "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-        "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-        "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
-        "recommend_reason_zh": null,
-        "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-        "source": "Latent Space（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents",
-          "ai-coding",
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -949,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
+        "recency": 0.8437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -987,7 +898,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
+      }
+    },
+    {
+      "story_id": "story_6d96ce488e8a",
+      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "primary_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "source": "Latent Space（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+          "recommend_reason_zh": null,
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Latent Space（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+          "recommend_reason_zh": null,
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9224,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T06:28:43Z",
+      "latest_at": "2026-10-06T06:28:43Z",
+      "primary_item": {
+        "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+        "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+        "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+        "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+        "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+        "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+        "recommend_reason_zh": null,
+        "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+        "source": "Latent Space（RSS）",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "agents",
+          "ai-coding",
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -1035,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -1149,15 +1148,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6073,
-      "importance": 0.6073,
-      "importance_score": 0.6073,
+      "score": 0.5974,
+      "importance": 0.5974,
+      "importance_score": 0.5974,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8853,
+        "recency": 0.83,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1187,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -1264,15 +1263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5984,
-      "importance": 0.5984,
-      "importance_score": 0.5984,
+      "score": 0.5897,
+      "importance": 0.5897,
+      "importance_score": 0.5897,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.7662,
+        "recency": 0.7184,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1300,7 +1299,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -1377,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9241,
+        "recency": 0.8663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1413,7 +1412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -1490,15 +1489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9003,
+        "recency": 0.844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1526,7 +1525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -1603,15 +1602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8731,
+        "recency": 0.8185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1641,7 +1640,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     },
     {
@@ -1718,15 +1717,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8503,
+        "recency": 0.7972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1754,7 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:36:56.663518Z"
+        "scored_at": "2026-10-06T12:04:54.631992Z"
       }
     }
   ]
