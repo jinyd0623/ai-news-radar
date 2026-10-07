@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-10-07T07:16:10.788643Z",
+  "generated_at": "2026-10-07T11:49:35.335981Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9e4b08095253",
-      "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "source": "GitHub Changelog",
+      "story_id": "story_b297de01ee31",
+      "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
-          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is ro…",
+          "id": "970507defeb4fc629819eea2649547e925fc190b",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+          "title_en": "ChatGPT for iOS 1.2026.272",
+          "title_original": "ChatGPT for iOS 1.2026.272",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
+          "published_at": "2026-10-07T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
-          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is ro…",
+          "id": "970507defeb4fc629819eea2649547e925fc190b",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+          "title_en": "ChatGPT for iOS 1.2026.272",
+          "title_original": "ChatGPT for iOS 1.2026.272",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
+          "published_at": "2026-10-07T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8967,
+        "ai_relevance": 1.0,
+        "recency": 0.843,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,23 +65,22 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T23:43:00Z",
-      "latest_at": "2026-10-06T23:43:00Z",
+      "earliest_at": "2026-10-07T00:00:00Z",
+      "latest_at": "2026-10-07T00:00:00Z",
       "primary_item": {
-        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-        "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-        "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
-        "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-        "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-        "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is ro…",
+        "id": "970507defeb4fc629819eea2649547e925fc190b",
+        "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+        "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+        "title_en": "ChatGPT for iOS 1.2026.272",
+        "title_original": "ChatGPT for iOS 1.2026.272",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-        "source": "GitHub Changelog",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
         "topics": [
-          "agents",
           "ai-coding"
         ]
       },
@@ -89,7 +88,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -166,15 +165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7571,
+        "recency": 0.7089,
         "story_heat": 0.25
       },
       "category": "official",
@@ -207,7 +206,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
+      }
+    },
+    {
+      "story_id": "story_9e4b08095253",
+      "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is ro…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is ro…",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8396,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T23:43:00Z",
+      "latest_at": "2026-10-06T23:43:00Z",
+      "primary_item": {
+        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+        "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
+        "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is ro…",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源",
+        "topics": [
+          "agents",
+          "ai-coding"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -255,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8492,
+        "recency": 0.7951,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,7 +383,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -343,15 +431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8532,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,30 +469,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
-      "story_id": "story_dbe192624685",
-      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "primary_url": "https://openai.com/index/atlassian-partnership",
+      "story_id": "story_d4a8437d985e",
+      "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "primary_url": "https://openai.com/index/jump-trading",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atlassian-partnership",
+          "url": "https://openai.com/index/jump-trading",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
+          "published_at": "2026-10-06T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -413,31 +501,31 @@
       ],
       "items": [
         {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atlassian-partnership",
+          "url": "https://openai.com/index/jump-trading",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
+          "published_at": "2026-10-06T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8021,
+        "ai_relevance": 0.95,
+        "recency": 0.7089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -446,28 +534,30 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T16:00:00Z",
-      "latest_at": "2026-10-06T16:00:00Z",
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T12:00:00Z",
       "primary_item": {
-        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
-        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+        "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+        "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
+        "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+        "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+        "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/atlassian-partnership",
+        "url": "https://openai.com/index/jump-trading",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
-        "topics": []
+        "topics": [
+          "research"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -515,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8429,
+        "recency": 0.7892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,7 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -629,15 +719,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7729,
+        "recency": 0.7237,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -670,7 +760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -718,15 +808,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8201,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -757,30 +847,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
-      "story_id": "story_d4a8437d985e",
-      "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "primary_url": "https://openai.com/index/jump-trading",
+      "story_id": "story_dbe192624685",
+      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "primary_url": "https://openai.com/index/atlassian-partnership",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
-          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
-          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jump-trading",
+          "url": "https://openai.com/index/atlassian-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
+          "published_at": "2026-10-06T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -789,31 +879,31 @@
       ],
       "items": [
         {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
-          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
-          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jump-trading",
+          "url": "https://openai.com/index/atlassian-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
+          "published_at": "2026-10-06T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7571,
+        "ai_relevance": 0.91,
+        "recency": 0.751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -822,30 +912,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T12:00:00Z",
+      "earliest_at": "2026-10-06T16:00:00Z",
+      "latest_at": "2026-10-06T16:00:00Z",
       "primary_item": {
-        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-        "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-        "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
-        "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-        "title_original": "How Jump Trading is scaling quant research with ChatGPT",
-        "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/jump-trading",
+        "url": "https://openai.com/index/atlassian-partnership",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "source_tier": "official",
         "source_tier_label": "官方一手源",
-        "topics": [
-          "research"
-        ]
+        "topics": []
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -893,21 +981,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7571,
+        "recency": 0.7089,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T12:00:00Z",
       "latest_at": "2026-10-06T12:00:00Z",
@@ -933,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -981,21 +1068,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-07T06:18:23Z",
       "latest_at": "2026-10-07T06:18:23Z",
@@ -1021,440 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
-      }
-    },
-    {
-      "story_id": "story_ae3c4f5c0420",
-      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view.",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7397,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:23:38Z",
-      "latest_at": "2026-10-06T10:23:38Z",
-      "primary_item": {
-        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-        "title_en": "Code scanning AI Scan enablement status in security overview",
-        "title_original": "Code scanning AI Scan enablement status in security overview",
-        "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view.",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": []
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
-      }
-    },
-    {
-      "story_id": "story_5951f365282f",
-      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-      "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-      "primary_url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-      "source": "Claude：YouTube（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-          "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-          "title_en": "Claude for Google Workspace™",
-          "title_original": "Claude for Google Workspace™",
-          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:02:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：YouTube（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-          "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-          "title_en": "Claude for Google Workspace™",
-          "title_original": "Claude for Google Workspace™",
-          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:02:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8143,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T17:02:37Z",
-      "latest_at": "2026-10-06T17:02:37Z",
-      "primary_item": {
-        "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-        "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-        "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-        "title_en": "Claude for Google Workspace™",
-        "title_original": "Claude for Google Workspace™",
-        "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-        "source": "Claude：YouTube（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
-      }
-    },
-    {
-      "story_id": "story_d8dfa4809dc9",
-      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8617,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T20:57:56Z",
-      "latest_at": "2026-10-06T20:57:56Z",
-      "primary_item": {
-        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-        "title_en": "Building Git infrastructure for agent-scale development",
-        "title_original": "Building Git infrastructure for agent-scale development",
-        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
-      }
-    },
-    {
-      "story_id": "story_34879e2db3e2",
-      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-      "url": "https://x.com/OpenRouter/status/2107471559040635360",
-      "primary_url": "https://x.com/OpenRouter/status/2107471559040635360",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-          "title_en": "Le Chonk has arrived 🐈",
-          "title_original": "Le Chonk has arrived 🐈",
-          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107471559040635360",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:02:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-          "title_en": "Le Chonk has arrived 🐈",
-          "title_original": "Le Chonk has arrived 🐈",
-          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107471559040635360",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:02:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T14:02:29Z",
-      "latest_at": "2026-10-06T14:02:29Z",
-      "primary_item": {
-        "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-        "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-        "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-        "title_en": "Le Chonk has arrived 🐈",
-        "title_original": "Le Chonk has arrived 🐈",
-        "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2107471559040635360",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
-      }
-    },
-    {
-      "story_id": "story_17625524f250",
-      "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "primary_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7355,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:00:00Z",
-      "latest_at": "2026-10-06T10:00:00Z",
-      "primary_item": {
-        "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-        "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-        "title_zh": "通过 Ironclad 促进计算机的使用",
-        "title_en": "Advancing computer use with Ironclad",
-        "title_original": "Advancing computer use with Ironclad",
-        "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "agents"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -1531,15 +1184,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6119,
-      "importance": 0.6119,
-      "importance_score": 0.6119,
+      "score": 0.6028,
+      "importance": 0.6028,
+      "importance_score": 0.6028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7954,
+        "recency": 0.7447,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1569,7 +1222,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
+      }
+    },
+    {
+      "story_id": "story_dc2cc145bf8f",
+      "title": "Erdosproblems.com 难敌人工智能的猛攻",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "primary_url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "source": "www.erdosproblems.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
+          "title": "Erdosproblems.com 难敌人工智能的猛攻",
+          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
+          "title_en": null,
+          "title_original": "Erdosproblems.com 难敌人工智能的猛攻",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+          "source": "www.erdosproblems.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T07:26:00.436000Z"
+        },
+        {
+          "id": "b4583ae5ea2f87b762ed259d4873e4e3faf186ed",
+          "title": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught",
+          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
+          "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
+          "title_original": "Erdosproblems.com Succumbs to the AI Onslaught",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T12:53:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.erdosproblems.com"
+      ],
+      "items": [
+        {
+          "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
+          "title": "Erdosproblems.com 难敌人工智能的猛攻",
+          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
+          "title_en": null,
+          "title_original": "Erdosproblems.com 难敌人工智能的猛攻",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+          "source": "www.erdosproblems.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T07:26:00.436000Z"
+        },
+        {
+          "id": "b4583ae5ea2f87b762ed259d4873e4e3faf186ed",
+          "title": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught",
+          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
+          "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
+          "title_original": "Erdosproblems.com Succumbs to the AI Onslaught",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T12:53:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9385,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T12:53:58Z",
+      "latest_at": "2026-10-07T07:26:00.436000Z",
+      "primary_item": {
+        "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
+        "title": "Erdosproblems.com 难敌人工智能的猛攻",
+        "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
+        "title_en": null,
+        "title_original": "Erdosproblems.com 难敌人工智能的猛攻",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+        "source": "www.erdosproblems.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -1646,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9614,
+        "recency": 0.9002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1682,7 +1448,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -1759,15 +1525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9539,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1797,7 +1563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     },
     {
@@ -1874,15 +1640,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.947,
+        "recency": 0.8867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1912,7 +1678,349 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T07:16:53.881237Z"
+        "scored_at": "2026-10-07T11:50:21.207203Z"
+      }
+    },
+    {
+      "story_id": "story_20180e64f056",
+      "title": "Decisions API 已进入公开测试阶段",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "primary_url": "https://developers.openai.com/api/docs/guides/decisions",
+      "source": "developers.openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+          "title": "Decisions API 已进入公开测试阶段",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": null,
+          "title_original": "Decisions API 已进入公开测试阶段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "developers.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T00:03:31.762000Z"
+        },
+        {
+          "id": "5245d1df10641e432e30a36eb4f7abb07515b378",
+          "title": "Decisions API 已进入公开测试阶段 / Decisions API is in public beta",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": "Decisions API is in public beta",
+          "title_original": "Decisions API is in public beta",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T20:57:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "developers.openai.com"
+      ],
+      "items": [
+        {
+          "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+          "title": "Decisions API 已进入公开测试阶段",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": null,
+          "title_original": "Decisions API 已进入公开测试阶段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "developers.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T00:03:31.762000Z"
+        },
+        {
+          "id": "5245d1df10641e432e30a36eb4f7abb07515b378",
+          "title": "Decisions API 已进入公开测试阶段 / Decisions API is in public beta",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": "Decisions API is in public beta",
+          "title_original": "Decisions API is in public beta",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T20:57:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8437,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T20:57:25Z",
+      "latest_at": "2026-10-07T00:03:31.762000Z",
+      "primary_item": {
+        "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+        "title": "Decisions API 已进入公开测试阶段",
+        "title_zh": "Decisions API 已进入公开测试阶段",
+        "title_en": null,
+        "title_original": "Decisions API 已进入公开测试阶段",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/api/docs/guides/decisions",
+        "source": "developers.openai.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T11:50:21.207203Z"
+      }
+    },
+    {
+      "story_id": "story_cdbecf18ec2b",
+      "title": "Claude·科德提出的消息功能：我认为真正的客户是模型 / Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "primary_url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "356d2bc0de45e818df061483fbcd512688008dac",
+          "title": "Claude·科德提出的消息功能：我认为真正的客户是模型 / Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_zh": "Claude·科德提出的消息功能：我认为真正的客户是模型",
+          "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T18:00:34Z"
+        },
+        {
+          "id": "54479e8656247ecd7146864e708001641e817cec",
+          "title": "Claude·科德提出的消息功能：我认为真正的客户是模型 / The smartest Claude Code feature is not for its users",
+          "title_zh": "Claude·科德提出的消息功能：我认为真正的客户是模型",
+          "title_en": "The smartest Claude Code feature is not for its users",
+          "title_original": "The smartest Claude Code feature is not for its users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-06T18:00:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "356d2bc0de45e818df061483fbcd512688008dac",
+          "title": "Claude·科德提出的消息功能：我认为真正的客户是模型 / Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_zh": "Claude·科德提出的消息功能：我认为真正的客户是模型",
+          "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T18:00:34Z"
+        },
+        {
+          "id": "54479e8656247ecd7146864e708001641e817cec",
+          "title": "Claude·科德提出的消息功能：我认为真正的客户是模型 / The smartest Claude Code feature is not for its users",
+          "title_zh": "Claude·科德提出的消息功能：我认为真正的客户是模型",
+          "title_en": "The smartest Claude Code feature is not for its users",
+          "title_original": "The smartest Claude Code feature is not for its users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-06T18:00:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7731,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T18:00:34Z",
+      "latest_at": "2026-10-06T18:00:34Z",
+      "primary_item": {
+        "id": "356d2bc0de45e818df061483fbcd512688008dac",
+        "title": "Claude·科德提出的消息功能：我认为真正的客户是模型 / Claude Code’s suggested message feature: I think the real customer is the model",
+        "title_zh": "Claude·科德提出的消息功能：我认为真正的客户是模型",
+        "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "ai-coding",
+          "models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T11:50:21.207203Z"
+      }
+    },
+    {
+      "story_id": "story_ce783e742a30",
+      "title": "人工智能现已具备自主开发推理硬件的能力",
+      "url": "https://github.com/FeSens/openTPU",
+      "primary_url": "https://github.com/FeSens/openTPU",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
+          "title": "人工智能现已具备自主开发推理硬件的能力",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": null,
+          "title_original": "人工智能现已具备自主开发推理硬件的能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T18:01:39.389000Z"
+        },
+        {
+          "id": "1f643356d4cdebecfdd70f7418de8d91b15f02d2",
+          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": "AI is now capable of developing its own inference hardware",
+          "title_original": "AI is now capable of developing its own inference hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:23:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
+          "title": "人工智能现已具备自主开发推理硬件的能力",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": null,
+          "title_original": "人工智能现已具备自主开发推理硬件的能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T18:01:39.389000Z"
+        },
+        {
+          "id": "1f643356d4cdebecfdd70f7418de8d91b15f02d2",
+          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": "AI is now capable of developing its own inference hardware",
+          "title_original": "AI is now capable of developing its own inference hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:23:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7733,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T16:23:25Z",
+      "latest_at": "2026-10-06T18:01:39.389000Z",
+      "primary_item": {
+        "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
+        "title": "人工智能现已具备自主开发推理硬件的能力",
+        "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+        "title_en": null,
+        "title_original": "人工智能现已具备自主开发推理硬件的能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/FeSens/openTPU",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T11:50:21.207203Z"
       }
     }
   ]
