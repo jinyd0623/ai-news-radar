@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:26:37.118627Z",
+  "generated_at": "2026-10-07T07:16:10.788643Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.845,
-      "importance_score": 0.845,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9614,
+        "recency": 0.8967,
         "story_heat": 0.0
       },
       "category": "official",
@@ -89,7 +89,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -166,15 +166,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8117,
+        "recency": 0.7571,
         "story_heat": 0.25
       },
       "category": "official",
@@ -207,7 +207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -255,15 +255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9105,
+        "recency": 0.8492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,96 +295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
-      }
-    },
-    {
-      "story_id": "story_2f21e7c25d8c",
-      "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "primary_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7524,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T06:44:39Z",
-      "latest_at": "2026-10-06T06:44:39Z",
-      "primary_item": {
-        "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-        "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-        "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源",
-        "topics": [
-          "open-source-models",
-          "models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -432,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9148,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -470,7 +381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -518,15 +429,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.86,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -604,15 +515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,7 +552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -718,15 +629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7729,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -759,7 +670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -807,15 +718,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8793,
+        "recency": 0.8201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,7 +757,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -894,15 +805,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8117,
+        "recency": 0.7571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -934,7 +845,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -982,15 +893,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8117,
+        "recency": 0.7571,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1022,7 +933,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
+      }
+    },
+    {
+      "story_id": "story_0f2de19abf40",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+      "url": "https://x.com/arena/status/2107717155374727602",
+      "primary_url": "https://x.com/arena/status/2107717155374727602",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T06:18:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T06:18:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9862,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T06:18:23Z",
+      "latest_at": "2026-10-07T06:18:23Z",
+      "primary_item": {
+        "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+        "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+        "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2107717155374727602",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源",
+        "topics": [
+          "open-source-models",
+          "evaluation"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -1070,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7931,
+        "recency": 0.7397,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1108,179 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
-      }
-    },
-    {
-      "story_id": "story_ddb0edeec9f2",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "primary_url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7489,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T06:25:15Z",
-      "latest_at": "2026-10-06T06:25:15Z",
-      "primary_item": {
-        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_en": null,
-        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
-      }
-    },
-    {
-      "story_id": "story_d8dfa4809dc9",
-      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9239,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T20:57:56Z",
-      "latest_at": "2026-10-06T20:57:56Z",
-      "primary_item": {
-        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-        "title_en": "Building Git infrastructure for agent-scale development",
-        "title_original": "Building Git infrastructure for agent-scale development",
-        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "agents"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -1328,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8731,
+        "recency": 0.8143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1366,91 +1193,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
-      "story_id": "story_e50a0152bcff",
-      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_d8dfa4809dc9",
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "source": "GitHub Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
+          "published_at": "2026-10-06T20:57:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
+          "published_at": "2026-10-06T20:57:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7421,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T05:47:05Z",
-      "latest_at": "2026-10-06T05:47:05Z",
+      "earliest_at": "2026-10-06T20:57:56Z",
+      "latest_at": "2026-10-06T20:57:56Z",
       "primary_item": {
-        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-        "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+        "title_en": "Building Git infrastructure for agent-scale development",
+        "title_original": "Building Git infrastructure for agent-scale development",
+        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+        "source": "GitHub Blog",
         "source_name": "AI HOT",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源",
-        "topics": []
+        "topics": [
+          "agents"
+        ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -1498,15 +1327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.836,
+        "recency": 0.7797,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1537,94 +1366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
-      }
-    },
-    {
-      "story_id": "story_8250f00047d3",
-      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-      "url": "https://x.com/arcprize/status/2107491194007585239",
-      "primary_url": "https://x.com/arcprize/status/2107491194007585239",
-      "source": "X：ARC Prize (@arcprize)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2107491194007585239",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T15:20:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ARC Prize (@arcprize)"
-      ],
-      "items": [
-        {
-          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2107491194007585239",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T15:20:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8519,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T15:20:30Z",
-      "latest_at": "2026-10-06T15:20:30Z",
-      "primary_item": {
-        "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-        "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-        "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arcprize/status/2107491194007585239",
-        "source": "X：ARC Prize (@arcprize)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
-        "topics": [
-          "open-source-models",
-          "evaluation"
-        ]
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
@@ -1672,15 +1414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7886,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1712,95 +1454,465 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     },
     {
-      "story_id": "story_9019cb276f9d",
-      "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-      "url": "https://x.com/arena/status/2107476436223504484",
-      "primary_url": "https://x.com/arena/status/2107476436223504484",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_806d4d2fd204",
+      "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "primary_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
-          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+          "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2107476436223504484",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:21:52Z"
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T15:25:00Z"
+        },
+        {
+          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says 'no AI' is now a software feature",
+          "title_original": "LibreOffice says 'no AI' is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:40:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Arena (@arena)"
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
-          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+          "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2107476436223504484",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:21:52Z"
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T15:25:00Z"
+        },
+        {
+          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says 'no AI' is now a software feature",
+          "title_original": "LibreOffice says 'no AI' is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:40:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6119,
+      "importance": 0.6119,
+      "importance_score": 0.6119,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8399,
-        "story_heat": 0.0
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7954,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-06T14:21:52Z",
-      "latest_at": "2026-10-06T14:21:52Z",
+      "earliest_at": "2026-10-06T15:25:00Z",
+      "latest_at": "2026-10-06T16:40:58Z",
       "primary_item": {
-        "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
-        "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-        "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-        "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
-        "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
-        "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+        "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+        "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+        "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+        "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+        "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+        "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2107476436223504484",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源",
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media",
+        "source_tier": "ai_media",
+        "source_tier_label": "精选AI媒体",
         "topics": [
-          "agents",
-          "open-source-models",
-          "evaluation"
+          "open-source-models"
         ]
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T02:27:14.936868Z"
+        "scored_at": "2026-10-07T07:16:53.881237Z"
+      }
+    },
+    {
+      "story_id": "story_174ae4583e10",
+      "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "primary_url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "source": "www.techspot.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": null,
+          "title_original": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T04:32:45.585000Z"
+        },
+        {
+          "id": "f5e61414f93e1de3c2ac654b9a30b9e298370985",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_original": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T17:01:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.techspot.com"
+      ],
+      "items": [
+        {
+          "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": null,
+          "title_original": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T04:32:45.585000Z"
+        },
+        {
+          "id": "f5e61414f93e1de3c2ac654b9a30b9e298370985",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_original": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T17:01:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9614,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T17:01:52Z",
+      "latest_at": "2026-10-07T04:32:45.585000Z",
+      "primary_item": {
+        "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
+        "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+        "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+        "title_en": null,
+        "title_original": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+        "source": "www.techspot.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": []
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T07:16:53.881237Z"
+      }
+    },
+    {
+      "story_id": "story_405812cab170",
+      "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+      "url": "https://penguin-mail.com",
+      "primary_url": "https://penguin-mail.com",
+      "source": "penguin-mail.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_en": null,
+          "title_original": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "penguin-mail.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T03:59:52.382000Z"
+        },
+        {
+          "id": "7c02a171a8ae2ef7adb0a24cbbf5940c2f8295c6",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_original": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T21:59:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "penguin-mail.com"
+      ],
+      "items": [
+        {
+          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_en": null,
+          "title_original": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "penguin-mail.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T03:59:52.382000Z"
+        },
+        {
+          "id": "7c02a171a8ae2ef7adb0a24cbbf5940c2f8295c6",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_original": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T21:59:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9539,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T21:59:43Z",
+      "latest_at": "2026-10-07T03:59:52.382000Z",
+      "primary_item": {
+        "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
+        "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+        "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+        "title_en": null,
+        "title_original": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://penguin-mail.com",
+        "source": "penguin-mail.com",
+        "source_name": "Buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "open-source-models"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T07:16:53.881237Z"
+      }
+    },
+    {
+      "story_id": "story_435877e0fd74",
+      "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+      "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+      "primary_url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "b942215bd8502406b82b22d8bfa167bad9f62361",
+          "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_zh": "韩国称人工智能代理可能已被用来入侵该国的银行",
+          "title_en": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_original": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-07T03:30:00Z"
+        },
+        {
+          "id": "3b47af8d5d83dfa8b17212e8261aa980bf869dfd",
+          "title": "韩国称人工智能代理似乎已被用来入侵该国的银行 / South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_zh": "韩国称人工智能代理似乎已被用来入侵该国的银行",
+          "title_en": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_original": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T23:50:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "b942215bd8502406b82b22d8bfa167bad9f62361",
+          "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_zh": "韩国称人工智能代理可能已被用来入侵该国的银行",
+          "title_en": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_original": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-07T03:30:00Z"
+        },
+        {
+          "id": "3b47af8d5d83dfa8b17212e8261aa980bf869dfd",
+          "title": "韩国称人工智能代理似乎已被用来入侵该国的银行 / South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_zh": "韩国称人工智能代理似乎已被用来入侵该国的银行",
+          "title_en": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_original": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T23:50:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.947,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T23:50:33Z",
+      "latest_at": "2026-10-07T03:30:00Z",
+      "primary_item": {
+        "id": "b942215bd8502406b82b22d8bfa167bad9f62361",
+        "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+        "title_zh": "韩国称人工智能代理可能已被用来入侵该国的银行",
+        "title_en": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+        "title_original": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+        "source": "Slashdot",
+        "source_name": "TechURLs",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考",
+        "topics": [
+          "agents"
+        ]
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T07:16:53.881237Z"
       }
     }
   ]
